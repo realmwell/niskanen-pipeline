@@ -1,0 +1,242 @@
+FORMAT: brief
+SOURCE: https://www.niskanencenter.org/home-field-advantage-leveraging-hud-dollars-to-build-more-housing/
+
+Key takeaways
+Restrictive local land use and zoning rules sharply limit the effectiveness of federal housing dollars, driving up costs and preventing affordable housing projects from moving forward.
+The single most impactful action HUD could take to expand supply would be to allow states to preempt local density restrictions for projects funded by the HOME and the Housing Trust Fund (HTF) programs.
+This approach would preserve federalism by letting states decide whether to override local barriers, giving governors project-level discretion to waive preemption when appropriate.
+By equipping states with a powerful tool to accelerate affordable housing construction, the proposal would help unlock stalled projects, increase the impact of federal housing investments, and complement broader state-level zoning reforms.
+Download the full PDF here
+Introduction
+To date, federal policies designed to boost housing supply have focused on providing state and local governments with incentives to build more housing. These incentives include giving state and local governments preferential treatment when they apply for competitive grants, and directly providing them with grants for the purpose of addressing certain barriers to development. While these “carrots” are well-intentioned and helpful, incentives do not do enough to expand housing supply in the areas that need it most.
+We present another, more muscular option: HUD should revise its HOME Investment Partnerships (HOME) and National Housing Trust Fund (HTF) program regulations to let states opt in to federal preemption of state and local land use restrictions on housing density that would otherwise apply to affordable housing that these programs fund. This proposal represents the single biggest action HUD could take on its own to increase housing supply, enabling the HOME and HTF programs to create much more housing than they do now, opening the possibility to substantially address the U.S. housing affordability crisis.
+The housing shortage: Causes and consequences
+The evidence on the causes and consequences of the insufficient supply of housing is
+clear
+.
+1
+HUD itself has
+found
+that “restrictive land use and zoning laws are major drivers of the national housing shortage.
+2
+These policies can drive up housing prices, limit economic growth, exacerbate climate change, and maintain residential segregation.”
+Land use and zoning policies typically prescribe limits on what can be built and where. These policies put an artificial cap on how much housing can be produced, and costs and delays associated with the approval process make what housing is allowed to be built more expensive to construct. The result is that fewer homes (single- or multi-family) are built, creating more competition for less housing and higher prices for everyone. For federal subsidy programs that support housing construction for lower-income households, these constraints can make the difference between a project moving forward or getting scrapped.
+As a result, restrictive land use and zoning policies reduce the effectiveness of funds that the federal government allocates toward the construction of affordable housing. It’s a vicious cycle: the more dire the need for housing, the more that restrictive land use and zoning policies render federal financing less effective.
+The economic consequences are severe. Insufficient supply of housing depresses labor mobility and reduces the incentive for human capital investment, both of which lead to immediate reductions in incomes and ongoing reductions in productivity growth. A
+2023 Econometrica study
+estimated that relaxing land use restrictions in just seven large U.S. cities would immediately increase gross domestic product (GDP) by 8 percent, and increase the growth rate of GDP by 0.7 percentage points annually.
+3
+This estimate is broadly consistent with
+other
+estimates
+in the economic literature.
+4
+Despite these stakes, local governments often oppose development, especially subsidized housing. Current residents have disproportionate influence and tend to favor the status quo. Local leaders, including city council members, are often elected by narrow constituencies that can block reform. States
+are better positioned
+to implement reforms because governors and legislators represent broader geographies and have incentives to increase overall state economic growth rather than hew to local interests.
+5
+In recent years, federal policymakers on both sides of the aisle have shown interest in supply-side housing solutions. The Biden administration prioritized grants that support local land use reform and
+rewarded pro-housing jurisdictions
+.
+6
+President Trump
+issued an executive order
+calling for action to reduce the cost of living.
+7
+Yet, local regulations designed to obstruct or constrain affordable housing development continue to undermine federal programs like HOME.
+Overview of HOME and HTF
+The
+HOME program
+is the largest federal block grant dedicated exclusively to affordable housing for low-income households.
+8
+Funds can be used for construction, rehabilitation, acquisition, homebuyer assistance, and tenant-based rental assistance. Over $1 billion is distributed annually across roughly 650 jurisdictions, with 60 percent to local governments and 40 percent to states. At least 90 percent of rental units that the program funds serve households earning no more than 60 percent of area median income (AMI), and all HOME beneficiaries must fall below 80 percent of AMI. Historically, just under
+half
+of HOME funds have gone to rental construction.
+9
+HOME is also widely used alongside the Low Income Housing Tax Credit (LIHTC), filling financing gaps in
+roughly one-third
+of all tax credit deals.
+10
+The
+HTF
+supports extremely low-income households through the construction, rehabilitation, and operation of rental housing.
+11
+At least 75 percent of HTF dollars must benefit households earning 30 percent of AMI or less. Funds come from a dedicated revenue stream tied to new business at Fannie Mae and Freddie Mac, with roughly $740 million allocated annually. HTF funds go to states, typically to a state’s department of housing and community development, based on affordable housing needs, and are often layered with HOME and LIHTC funds.
+Policy proposal: Voluntary preemption
+HUD could address the housing shortage by modifying the regulations governing the HOME and HTF programs to allow (but not require) any state to exempt a HOME- or HTF-funded affordable housing project from density restrictions. Once a state opts in, this preemption would be automatic but the state could waive it (in whole or in part) on a project-by-project basis, while ensuring that states — not the federal government — retain control.
+Unlike pure preemption, this waiver provision would protect federalism interests by ensuring that any state that wishes to maintain the applicability of some or all of its state and local density restrictions may do so. Crucially, we propose that states not be penalized for choosing to waive preemption in specific cases, and that HUD would not evaluate or condition future HOME or HTF funding based on those decisions. This would ease states’ concerns that such federal evaluations or funding conditions would, in effect, be coercive.
+The preemption should target a wide range of regulatory restrictions on residential construction. More specifically, HUD could identify both explicit density restrictions (for example, single-family zoning) as well as “bulk” or “massing” regulations. Such measures often serve as proxies for density restrictions by placing physical constraints on the size of a building within a property (e.g., minimum lot size, floor-area ratio, etc.). To ensure that health- and safety-based building code requirements are not preempted, we propose that HUD retain its rule that HOME- or HTF-funded new construction is otherwise compliant with the local building code.
+This policy would apply to all HTF funding, which all goes to states, and to the 40 percent of HOME funds that are allocated to states. That means that a state could not preempt local zoning policies for projects that receive local governments’ allocations of HOME funding. But states could opt in to preemption when its funds are spent in jurisdictions that separately receive their own allotment of HOME funding.
+When we say “states” and “state government,” we generally mean governors or the heads of state executive agencies who allocate HTF funds and the state portions of HOME funds to specific construction projects, subject to the procedures prescribed by state legislation.
+12
+HUD has the legal authority to implement this policy
+HUD would have strong legal arguments in support of its authority to issue such a rule, particularly given the voluntary structure of preemption in the proposal.
+HUD has authority to make HOME program funds “
+available to participating jurisdictions for investment to increase the number of families served with decent, safe, sanitary, and affordable housing and expand the long-term supply of affordable housing in accordance with
+” the HOME program statute.
+13
+HUD, moreover, has general authority to “
+issue regulations to implement theprovisions
+” of the HOME Investment Partnerships Act “
+after notice and opportunity for comment
+.” Under these provisions, HUD would have strong arguments in support of statutory authority to issue new regulations allowing, but not requiring, preemption of certain state and local laws from HOME-funded projects. As explored previously, preemption of state and local laws under these circumstances is likely necessary to comply with the statutory directive to “
+expand the long-term supply of affordable housing
+.”
+Similarly, HUD is directed to provide HTF grants to states “
+to increase and preserve the supply of rental housing for extremely low- and very low-income families, including homeless families
+,” as well as “
+to increase homeownership for extremely low- and very low-income families.
+”
+14
+HUD also has general authority to “
+issue regulations to carry out
+” the HTF program. While HTF funds must be used in compliance with “
+laws relating to tenant protections and tenant rights to participate in decision making regarding their residences
+” as well as “
+laws requiring public participation
+” and “
+fair housing laws and laws regarding accessibility in federally assisted housing
+,” the statute does not specify that there must be compliance with laws imposing density restrictions. The clear statement that some laws must be complied with implies that others are not subject to the same limitation. In fact, doing so would likely undermine the statute’s directive that funds be focused on the “
+the production, preservation, and rehabilitation
+” of housing for “
+extremely low-income families or families with incomes at or below the poverty line
+,” who would benefit most from federal dollars unlocking more housing.
+HUD can justify its action as having strong evidentiary support by pointing to findings about the inadequate supply of affordable housing under its current regulations, and how state and local laws have hindered the operation of the HOME program. Absent HUD action, states generally limit their own ability to override local zoning; a rulemaking of this type would empower state leadership to address this problem. To further justify allowing states to waive preemption, in addition to protecting federalism, HUD could structure the waiver to apply only when the state determines and informs HUD that, for any given project, such preemption is not necessary to expand the supply of affordable housing.
+Alternatively, HUD could determine which areas in states are eligible for this presumption up front, on the basis of HUD’s determination that these areas have sufficiently large and important constraints on the supply of affordable housing. For the reasons identified in the literature discussed above, in this approach, HUD would identify a set of eligible central city neighborhoods of large cities that have particularly dire and important affordable housing shortages. For example, this could take the form of HUD-identified census tracts in big cities. This approach would be more prescriptive, but would ensure that preemption is more targeted. In addition, such a proposal could generate political support, as a much larger population could be certain that preemption would not apply to projects in its area (e.g., suburban areas).
+The proposal would also satisfy
+constitutional requirements for preemption through federal spending
+: States would be knowingly and unambiguously agreeing to preempt their own laws (while retaining authority to waive that preemption), the conditions would not be coercive, and preemption would be related to an important federal interest and promote the general welfare.
+15
+Of course, state law would govern how the state exercises its waiver, including by specifying the role of the governor, state housing director, and other officials.
+Challengers to this regulation could object that the preemption is not explicit in the statutory text (as is sometimes the case). But the point of the proposal is that a housing supply shortage is not a natural condition but rather the result of state and local policies. Should conditions sufficiently change and housing supply increase in the most supply-constrained areas, as we hope they will, the need for such a regulation — and its legal justification — would lapse. In the meantime, state and local government action cannot be allowed to radically encumber federal-state partnership efforts to build sufficient amounts of affordable housing.
+Challengers to this regulation may also object to giving states the ability to waive preemption on a project-by-project basis. But showing deference for the appropriate role of states in our federal system is more than well-justified: It reflects the benefits of cooperative federalism over an all-encompassing alternative. States may have better information about their housing needs than the federal government does, and may be able to improve on a one-size-fits-all approach. Further, HUD can point to the important role of officials elected statewide, like governors, who often have different incentives than those elected by narrower constituencies, such as members of city councils.
+Advocates of bolder federal action might ask why we do not advocate the broadest possible intervention, modeled on existing direct federal preemptions of state and local land use laws that do not give states any discretion to waive preemption — for example, preemptions on land use regulations concerning airports, cellular towers, postal facilities, home satellites, and TV antennas. But unlike the existing nonwaivable federal preemptions of state and local land use law, HOME and HTF funds are structured in statute as federal-state partnerships in which total federal preemption would be administratively infeasible: HUD does not and cannot select individual HOME and HTF projects. HUD only provides block grants to states, whose executive branch officials then select HOME and HTF projects in the manner prescribed by state law.
+Even the broadest possible total federal preemption language stating that no local laws shall apply to federally assisted projects — going beyond our proposed rule — would still
+implicitly
+be subject to state discretion, because governors and state legislatures prescribe how HOME and HTF projects are selected and funded. HUD would be giving the states a tool to further the housing purposes of HOME and HTF notwithstanding local law; of course, a state legislature could enact a law instructing the governor to select only those HOME and HTF projects that
+would
+comply with local zoning, or any other lawful criteria the legislature may prescribe.
+Policy analysis and implementation considerations
+This policy of voluntary preemption would overcome one of the most cumbersome parts of the housing development process: getting proposed housing developments the necessary zoning entitlement and building permits. For states to take HUD up on its offer it would likely require executive action from the governor (or, depending on the state, the head of the state’s housing agency) as described in detail above. Some may object that state legislatures — and, more directly, the local governments that they have empowered to enact housing density restrictions — would be cut out of this federal preemption process. As we have noted, state law can be modified to require the state legislature, or local government, to condition preemption on its approval of any project for which preemption is not waived. But this would likely vitiate the effectiveness of the rule: As discussed above, state legislatures and local governments
+created
+the affordable housing shortage by limiting the construction of dense housing. Because local officials and state legislators are elected in small districts that do not capture many of the benefits of housing reform, they do not allow an adequate supply to be built.
+16
+By contrast, governors are generally better positioned than localities to make land use decisions that reflect regional housing needs. By shifting key zoning authority to the state level for HOME- and HTF-funded projects, this proposal would allow decision-makers who consider the broader economic and housing impacts, rather than only local pressures, to approve more housing. In practice, this step would remove a key chokepoint that often delays or blocks affordable housing. And for that reason, governors would likely veto efforts to change state law in order to strip them of authority to determine when waiver of federal preemption would apply. It is possible that states that take this option would be thwarted by local governments or NIMBY groups that weaponize other federal requirements, like the National Environmental Policy Act or historic preservation, or by relying on other policies outside the scope of the preemption. Other states may simply not participate. Even so, our proposal is a clear and potent new lever for states that are ready to act.
+Of course, governors who have made housing a political priority are likely to make the most use of this rule. Uptake may be more limited in states in which housing is not high on the agenda. But even selective use could unlock significant new supply in high-need areas. By giving states a clear process to override density restrictions for qualifying projects, our proposal would equip pro-housing leaders with a powerful option to accelerate affordable housing production without enacting legislation. Successful governors would use this tool to complement and build momentum for state-level zoning reform, not as a substitute for broad-spectrum by-right permitting reforms.
+Because this is the first modern reform that would optionally elevate land use decision-making to the state level while retaining executive project-level discretion, there is no body of directly comparable reforms against which to benchmark a forecast of the likely intensity of this tool’s use. But as a complement to other state reforms — including as a powerful tool to enforce project-level compliance with other state housing laws — it has undeniable potential.
+Because federal preemption does not require that a project be funded solely by HOME or HTF funds and doesn’t require a minimum amount of HOME or HTF spend per project, states with more ambitious housing supply goals are unlikely to be constrained by the amount of HOME or HTF program funding available for construction. HUD could also tailor our proposal to limit preemption to certain metro areas with especially scarce affordable housing, potentially using such metrics as median home-sales price to median-household income ratio. Even though their municipalities’ zoning laws would be preempted, pro-housing mayors and council members may welcome this policy lever as a way to get much-needed housing approved and built more quickly.
+Some states could use this regulation to achieve quicker approval for projects already in queue, including LIHTC deals. These approvals would appeal to both YIMBYs and NIMBYs who only support new development if it’s affordable. Other states may apply the preemption to a broader swath of projects. For example, HUD regulations for both HOME and HTF require a
+minimum contribution
+of $1,000 per unit to a project.
+17
+Taken to its maximum, a state could contribute $1,000 for one affordable unit in dozens, hundreds, or even thousands of projects, which would preempt density restrictions and allow a surge in new construction and rehabilitation. However, the application of even a small amount of HOME or HTF funds would federalize the entirety of these projects, requiring them to comply with other federal requirements like NEPA, Davis-Bacon, and Buy America. To minimize these costs and delays, HUD could pair the policy with
+NEPA streamlining
+and make use of exemptions from Davis-Bacon wage rules for developments with fewer than
+12 HOME-funded units
+.
+18
+In essence, our proposal would turn housing development from an arduous calculation entangled in a labyrinth of land use and zoning approvals to a simpler “penciling” math problem. If regulatory barriers such as zoning and floor-area ratios are preempted, developers could add as much density as land prices and construction costs justify. That said, state governors would still have power to negotiate the details of each assisted project in our proposal, and governors subject to project-level lobbying would have regulatory discretion to withhold preemptive assistance to individual projects whose design decisions they disagree with.
+This option could also increase the attractiveness of putting relatively more HOME dollars toward supply, instead of spending on other needs that are also critical, including short-term rental assistance and repairs. HUD does not prescribe an allocation mix to its grantees, but because these dollars are fungible, reallocation could limit funding that goes to other important uses. However, any significant shift in allocations would need to be documented in participating jurisdictions’
+consolidated plans and annual action plans
+.
+19
+Participating state jurisdictions currently submit three- to five-year consolidated plans, which outline how they intend to spend their HOME and HTF funds. Significant deviation from that plan, as what might result from this regulatory change, would require a public comment period and resubmission to HUD. We recommend that HUD pair this proposal with streamlining of the Consolidated Plan amendment process for states that take advantage of this voluntary preemption.
+Conclusion
+The voluntary opt-in preemption of land use and zoning restrictions for HOME- and HTF-funded projects represents a potentially powerful tool for addressing America’s housing affordability crisis. While implementation challenges exist, including the political economy of project-level regulatory discretion, this approach offers states a meaningful opportunity to overcome one of the most significant barriers to affordable housing development. As a complement to other state reforms — it could be used to enforce project-level compliance with other state housing laws, for instance — this proposal offers undeniable possibilities. By maintaining state flexibility through the opt-out structure, this proposal also balances federal housing goals with the important principles of federalism. Given the bipartisan interest in housing supply solutions and the severe economic costs of housing shortages, this regulatory change deserves serious consideration as part of a comprehensive approach to expanding America’s stock of affordable housing.
+Footnotes
+Nathaniel Baum-Snow, “
+Constraints on City and Neighborhood Growth: The Central Role of Housing Supply
+,”
+Journal of Economic Perspectives
+37, no. 2 (Spring 2023): 53-74.
+↩︎
+U.S. Department of Housing and Urban Development, “
+Policy and Practice: The National Housing Act of 1968 at 55
+,” April 2023.
+↩︎
+Chang-Tai Hsieh and Enrico Moretti, “
+Housing Constraints and Spatial Misallocation
+,”
+American Economic Journal: Macroeconomics
+11, no. 2 (April 2019): 1-39.
+↩︎
+See, e.g., Edward L. Glaeser and Joseph Gyourko, “
+The Economic Implications of Housing Supply
+,”
+Journal of Economic Perspectives
+32, no. 1 (Winter 2018); Kyle Herkenhoff, Lee Ohanian, and Edward Prescott, “
+Tarnishing the Golden and Empire States: Land-use Restrictions and the U.S. Economic Slowdown
+,”
+Journal of Monetary Economics
+93 (January 2018).
+↩︎
+U.S. Department of Housing and Urban Development,
+Pro-Housing Land Use and Zoning Reforms
+,
+Policy & Practice
+, April 2023 (Washington, DC: Office of Policy Development and Research, 2023), 1–12.
+↩︎
+U.S. Department of Housing and Urban Development,
+FY 24 PRO Housing Summary Sheet
+(Washington, DC: HUD, Community Planning and Development), pp. 1–2.
+↩︎
+The White House,
+Delivering Emergency Price Relief for American Families and Defeating the Cost‑of‑Living Crisis
+, January 20, 2025.
+↩︎
+U.S. Department of Housing and Urban Development,
+HOME Investment Partnerships Program
+, HUD Exchange.
+↩︎
+U.S. Department of Housing and Urban Development, Office of Community Planning and Development,
+PR20 HOME – Production Report: National (as of December 31, 2024)
+, Integrated Disbursement and Information System, accessed September 2, 2025, 9 pp.
+↩︎
+Terner Center for Housing Innovation,
+The Complexity of Financing Low‑Income Housing Tax Credit Housing in the United States
+, A Terner Center Report, April 2021, 29 pp.
+↩︎
+U.S. Department of Housing and Urban Development,
+Housing Trust Fund (HTF) Program
+, HUD Exchange.
+↩︎
+The allocation of HTF and state HOME funds is prescribed by state law. Some state statutes assign project selection and administration to state Housing Finance Agencies, state Departments of Housing & Community Development, or other similar executive agencies. For a full list of state and local grant administrators, see: “
+Grantee Contact Lis
+t.”
+HUD Exchange.
+US Dept. of Housing and Urban Development. Accessed September 11, 2025.
+↩︎
+United States Code,
+42 U.S.C. § 12741 (Authority)
+, Title 42, Chapter 130, Subchapter II, Part A.
+↩︎
+United States Code,
+12 U.S.C. § 4568 (Housing Trust Fund)
+, Title 12, Chapter 46, Subchapter I, Part B, Subpart 2.
+↩︎
+South Dakota v. Dole
+,
+483 U.S. 203 (1987)
+.
+↩︎
+David Schleicher, “
+City Unplanning
+,”
+Yale Law Journal
+122, no. 7 (2013).
+↩︎
+U.S. Department of Housing and Urban Development,
+Building HOME, Chapter 2
+, page 2-4.
+↩︎
+Center for Public Enterprise,
+Infill Nation: Reforming NEPA to Build More Housing
+, by Aaron Shroyer (Brooklyn, NY: Center for Public Enterprise, July 8, 2025).
+On the number of units that trigger labor standards, see: U.S. Department of Housing and Urban Development,
+Factors of Labor Standards Applicability
+, HUD.
+↩︎
+U.S. Department of Housing and Urban Development,
+Consolidated Planning
+, HUD Partners.
+↩︎

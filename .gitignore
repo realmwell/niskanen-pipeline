@@ -1,0 +1,41 @@
+# Environment
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Data (large files)
+data/chroma_db/
+data/test_papers/*.pdf
+traces/*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (frontend)
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.next/
+
+# Presentation build artifacts
+presentation/node_modules/
+presentation/*.pdf
+presentation/slide-*.jpg
+
+# Outputs
+outputs/*.json

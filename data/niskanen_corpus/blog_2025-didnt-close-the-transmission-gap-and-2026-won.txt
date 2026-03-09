@@ -1,0 +1,89 @@
+FORMAT: blog
+SOURCE: https://www.niskanencenter.org/2025-didnt-close-the-transmission-gap-and-2026-wont-either-without-change/
+
+A new era of load growth will require a far more abundant supply of electricity. Yet on its current trajectory, the U.S. risks falling short of meeting rising demand. While policymakers acknowledged the scale of the challenge, last year offered little concrete progress that the gap is closing fast enough.
+Federal and state leaders are grappling with this issue in markedly different ways. At the federal level, the Trump Administration has pursued a top-down strategy to shape regulatory processes and influence energy markets. Meanwhile, states and regional authorities are tailoring responses to their own resource mixes, regulatory frameworks, and political dynamics.
+Bridging the mismatch between supply and demand will define energy policy in 2026, as policymakers weigh long-term reliability and affordability against politically salient short-term pressures. Transmission policy will continue to shape any solution to affordable energy and
+grid dominance
+.
+Transmission projects on the horizon
+This year will be marked by grid capacity expansion, with several
+high voltage direct current
+(HVDC) transmission projects already energized or expected to energize:
+The New England Clean Energy Connect, which will bring Canadian hydropower into Massachusetts through Maine, has begun
+delivering
+electricity.
+The Champlain Hudson Power Express, which will bring Canadian hydropower into New York, is expected to begin electricity
+delivery
+this year. The 300-mile-plus project is completely underground and underwater, a design choice that is often more expensive but was essential for project approval. Despite the cost of construction, Champlain Hudson is expected to save consumers billions of dollars over its lifetime.
+The SunZia transmission line, which will allow New Mexico to export wind energy, is expected to begin
+electricity
+delivery this year. The project is notorious for having taken
+17 years
+to permit, underscoring the need for permitting reform to accelerate transmission.
+Yet overall, progress has been uneven. While some projects are enjoying renewed permitting momentum, others have stalled.
+Greenlink North, a planned HVDC transmission line in Nevada, has been stalled for nearly a year due to siting challenges. To address litigation by environmental groups and move the project forward, the Bureau of Land Management will prepare a
+supplemental
+environmental analysis
+this year
+.
+At the same time, the Department of Energy’s (DOE) politically motivated actions have complicated the outlook for other projects. Last June, the agency took the unprecedented step of cancelling conditional loan guarantees for the
+Grain Belt Express
+HVDC transmission line, which would have brought energy into Midwestern load centers, claiming the project was “rushed out the door” at the end of the Biden Administration. And in October, the DOE announced it would also terminate a grant for the interregional
+Joint Targeted Interconnection Queue
+, a collection of transmission lines throughout the Midwest designed to make it easier to add generators to the grid system, with one administration official celebrating the cancellation as a rebuke of the Biden Administration’s climate policies. Despite these public statements, the project developers in both cases have stated that the work is still moving forward, and the funds
+may still be in play
+.
+Addressing load growth and affordability
+Federal actions
+Debates over affordability, reliability, and load growth will continue driving transmission policy at the Federal Energy Regulatory Commission (FERC) and DOE. Emerging tensions about jurisdiction and the appropriate pace and scope of federal intervention will likely continue.
+Last May, the DOE issued the first of what has become 16
+Section 202(c) emergency orders
+suspending coal plant retirements throughout the country, citing grid stress and reliability concerns as justification to keep them open. In an
+amicus brief
+filed with the U.S. Court of Appeals for the D.C. Circuit, the Niskanen Center argued that such intervention undermines the operation of electricity markets to address reliability and affordability through price signals and competition.
+Bringing new generation and transmission online is a key component to solving the bottlenecks in the grid without favoring particular energy sources. In September, DOE launched a “Speed to Power” Initiative to identify where federal involvement and funding could go furthest in building out the grid. The initiative reflects a growing recognition that the central constraint facing the power system and transmission expansion is no longer technology or capital, but time — and that accelerating delivery will be just as important as expanding capacity.
+In recommendations
+submitted
+to the department, Niskanen focused on getting the most out of the existing transmission system amid long lead times for new greenfield projects. These
+near-term, deployable options
+offer the fastest path toward relieving congestion and integrating new supply, accommodating load growth while longer-term infrastructure works its way through siting and permitting processes.
+The Trump administration is also exerting influence over FERC to further its agenda. In October, Energy Secretary Chris Wright took a rare step in issuing a
+letter
+under Section 403 of the Department of Energy Organization Act, directing FERC to develop a standardized process for connecting “large electrical loads” to the U.S. transmission system. This marks a new administration effort to comprehensively address how data centers and other significant loads will connect to the grid, who will pay for necessary upgrades, and how risks will be allocated.
+This effort, which received
+hundreds of responses
+in FERC’s invitation for initial comments, has raised controversy over the regulatory responsibilities of states and the federal government. FERC is poised to take final action on the rules governing large load interconnection this spring.
+Regional actions
+In the midst of significant policy shifts at the federal level, states and regions are pressing ahead with their efforts to expand the grid in 2026, including several multiline high voltage
+transmission portfolios
+meant to ease grid congestion and improve reliability.
+But not all transmission buildout plans are settled. In July 2025, five state public utility commissions (PUCs)
+filed a complaint
+to invalidate the approved but not constructed Midcontinent Independent System Operator (MISO)
+Tranche 2.1
+set of transmission projects to address transmission needs in MISO’s Midwest subregion as part of its long-term transmission planning. The PUCs’ complaint claims that the grid operator overstated the benefits of the transmission expansion package; the matter is currently before FERC. Tranche 2.1 also drew criticism from a merchant transmission developer over
+which lines were included
+in the set of projects. FERC has ruled that MISO must clarify its decision-making.
+Additionally, several regions are experiencing growing pains as they move toward a more coordinated grid.
+Many states in the West are joining
+one of two
+emerging day-ahead markets for power procurement: Southern Power Pool’s Markets+ and California’s Extended Day Ahead Market. Both markets let states procure power in advance of when it’s needed, leading to more predictable power costs. It is
+expected
+that participation in these day-ahead markets will eventually result in many Western states joining a regional transmission operator, which could lead to more coordinated grid buildout efforts.
+On the opposite side of the country, FERC recently
+established guardrails
+on the co-location of large generators with power plants in the mid-Atlantic PJM Interconnection. FERC’s guidance is expected to serve as a model for other grid regions as they navigate methods to bring large loads onto the grid. This comes on the heels of an unprecedented
+call to action
+by PJM member governors and the National Energy Dominance Council for the grid operator to hold an auction for data centers to procure and fully pay for their own electricity supply.
+Transmission in 2026
+Load growth and affordability will continue to shape the context and conversation for transmission in 2026.
+Voter anxiety about rising electricity costs helped propel Governors Mikie Sherrill in New Jersey and Abigail Spanberger in Virginia to victory with affordability as a winning campaign theme. Affordability is also shaping this year’s midterms, particularly as states look to attract new investment from AI. Nine states will also elect new public utility commissioners this year, giving voters a choice in who regulates their rates and which investments are worth making. This election year may also revive conversations around permitting reform on
+both sides of the aisle
+in Congress, one of the most consequential but long-stalled levers for accelerating transmission buildout.
+While the Trump administration has signaled support for investments that
+maximize the capacity
+of the existing grid and
+market competition
+, other actions have injected significant uncertainty into regional planning processes and the trajectory for major projects. Taken together, this makes federal transmission policy far less predictable going forward. The federal government is most effective when it provides the coordination and resources no state or region can deliver on its own, not when it displaces institutions or market forces already positioned to plan and build efficiently.
+So while the projects coming online this year are notable and the conversations continuing across states, FERC, and Congress are serious, 2025 did not close the gap, and 2026 won’t either if we stay the course. As grid pressures intensify, the temptation will be to treat symptoms rather than causes. The real test for 2026 is whether we can align near-term affordability measures with clear, consistent, and sustained support for regional and interregional transmission buildout to keep energy costs low and the grid reliable over the long term. Getting the balance right will be essential.
