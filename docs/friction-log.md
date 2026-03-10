@@ -128,4 +128,46 @@ Claude 3.5 Haiku and Claude 3.5 Sonnet each require their own Marketplace accept
 
 ---
 
-*Total friction time: roughly 3 hours across all frameworks. Most of it was the fan-out topology issue (45 min) and Bedrock model access (45 min). Everything else was 5-20 minute papercuts.*
+---
+
+## AWS deployment (serverless web pipeline)
+
+### 12. Bedrock IAM inference profiles
+
+The `us.anthropic.claude-*` model IDs use inference profile ARNs (`arn:aws:bedrock:*:*:inference-profile/*`), not foundation model ARNs. My initial IAM policy only allowed `arn:aws:bedrock:*:*:foundation-model/*`, which worked for the Python SDK but failed silently when the Lambda tried to invoke the model. Had to add a second IAM statement for inference-profile resources.
+
+**Impact**: 20 minutes debugging a 403 that showed up as a generic "Internal Server Error" from API Gateway. Only found the real error in CloudWatch logs.
+
+**Suggestion**: The Bedrock IAM docs should list inference profile ARN patterns alongside foundation model ARNs in the same example policy.
+
+### 13. Lambda ES module packaging
+
+The Lambda handler uses ES module `import` syntax (`import express from "express"`). Node.js requires `"type": "module"` in package.json for this, but when I built the deployment zip with a minimal package.json, I forgot to include it. The Lambda failed with `SyntaxError: Cannot use import statement outside a module` -- a clear error, but only visible in CloudWatch, not in the API Gateway response.
+
+**Impact**: 10 minutes. Quick fix once I saw the logs, but I had to redeploy.
+
+**Suggestion**: Use `.mjs` file extensions to avoid the package.json dependency entirely, or add a pre-deploy check.
+
+### 14. React crash on nested object rendering
+
+The pipeline returns nested JSON objects (audience_map, fact_check_report, etc.). React throws "Objects are not valid as a React child" when you try to render them as `{value}`. Had to write a `formatForDisplay()` function that recursively flattens objects and arrays into readable strings. This is one of those React gotchas that wastes time every time.
+
+**Impact**: 15 minutes writing and testing the recursive flattener.
+
+### 15. Niskanen URL instability
+
+Multiple Niskanen Center article URLs returned 404 during testing. The site appears to have restructured its URL slugs (e.g., `/cost-disease-socialism/` redirects to `/cost-disease-socialism-how-subsidizing-costs-while-restricting-supply-drives-americas-fiscal-imbalance/`). The evaluation dataset needed manual URL verification for every entry.
+
+**Impact**: 20 minutes checking URLs with curl. 7 out of 10 initial URL guesses were wrong.
+
+**Suggestion**: Add URL validation as the first step in the pipeline, before any Bedrock calls. Return a clear error early instead of wasting API credits on a broken URL.
+
+### 16. CloudFront cache invalidation latency
+
+After deploying a new frontend build to S3, the CloudFront distribution served the old version for several minutes despite creating an invalidation. The `index.html` needed `Cache-Control: no-cache` headers at upload time, separate from the hashed asset files which can be cached indefinitely.
+
+**Impact**: 5 minutes of confusion wondering why the deploy didn't take effect. Solved by using different cache headers for `index.html` vs `assets/*`.
+
+---
+
+*Total friction time: roughly 4.5 hours across all frameworks and deployment. The fan-out topology issue (45 min) and Bedrock model access (45 min) were the biggest. Deployment added about 1.5 hours of additional friction, mostly from IAM/permissions issues and URL instability.*

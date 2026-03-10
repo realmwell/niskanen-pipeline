@@ -55,7 +55,15 @@ def citation_checker_node(state: PipelineState) -> dict:
     research_summary = state.get("research_summary")
 
     if not research_summary:
-        return {"errors": ["Citation Checker: No research summary available."]}
+        # Fallback: return empty report when research_summary is None.
+        # This happens during fan-out when the research analyst hasn't
+        # finished before the citation checker starts.
+        report = FactCheckReport(
+            verified_claims=[],
+            unverified_claims=[],
+            overall_confidence_score=0.0,
+        )
+        return {"fact_check_report": report.model_dump()}
 
     key_evidence = research_summary.get("key_evidence", [])
 

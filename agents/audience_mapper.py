@@ -50,7 +50,22 @@ def audience_mapper_node(state: PipelineState) -> dict:
     research_summary = state.get("research_summary")
 
     if not research_summary:
-        return {"errors": ["Audience Mapper: No research summary available."]}
+        # Fallback: return sensible defaults when research_summary is None.
+        # This happens during fan-out when the research analyst hasn't
+        # finished before the audience mapper starts.
+        defaults = AudienceMap(
+            audiences=["general_public", "policy_wonks", "journalists"],
+            tone_by_format={
+                "twitter": "punchy and concrete",
+                "linkedin": "professional and substantive",
+                "bluesky": "concise and direct",
+                "newsletter": "collegial and informative",
+                "one_pager": "plain bureaucratic",
+                "oped": "persuasive and accessible",
+            },
+            complexity_level="accessible",
+        )
+        return {"audience_map": defaults.model_dump()}
 
     llm = get_llm()
     structured_llm = llm.with_structured_output(AudienceMap)

@@ -1,0 +1,35 @@
+graph LR
+    subgraph Write["Write Path (Trace Ingestion)"]
+        SDK["SDK Client"] --> ALB1["ALB"]
+        ALB1 --> Backend1["Backend Service"]
+        Backend1 --> |"trace metadata"| CK1["ClickHouse"]
+        Backend1 --> |"trace payloads<br/>presigned URLs"| S31["S3"]
+        Backend1 --> |"project/run<br/>metadata"| PG1["PostgreSQL"]
+        Backend1 --> |"cache<br/>invalidation"| RD1["Redis"]
+    end
+
+    subgraph Read["Read Path (Dashboard/Query)"]
+        Browser["Browser"] --> ALB2["ALB"]
+        ALB2 --> FE["Frontend"]
+        FE --> Backend2["Backend API"]
+        Backend2 --> |"cache hit"| RD2["Redis"]
+        Backend2 --> |"aggregation<br/>queries"| CK2["ClickHouse"]
+        Backend2 --> |"metadata<br/>lookups"| PG2["PostgreSQL"]
+        Backend2 --> |"payload<br/>retrieval"| S32["S3"]
+    end
+
+    subgraph Async["Async Path (Evaluations/Exports)"]
+        Backend3["Backend"] --> |"dispatch job"| RD3["Redis Queue"]
+        RD3 --> Queue["Queue Service"]
+        Queue --> |"read traces"| CK3["ClickHouse"]
+        Queue --> |"read/write<br/>artifacts"| S33["S3"]
+        Queue --> |"results<br/>callback"| Backend3
+    end
+
+    classDef client fill:#4a90d9,stroke:#2c5f8a,color:#fff
+    classDef service fill:#5ba85b,stroke:#3d7a3d,color:#fff
+    classDef storage fill:#d97b4a,stroke:#a85b2c,color:#fff
+
+    class SDK,Browser client
+    class ALB1,ALB2,Backend1,Backend2,Backend3,FE,Queue service
+    class CK1,CK2,CK3,S31,S32,S33,PG1,PG2,RD1,RD2,RD3 storage

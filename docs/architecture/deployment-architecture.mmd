@@ -1,0 +1,53 @@
+graph TB
+    subgraph VPC["VPC 10.0.0.0/16"]
+        subgraph Public["Public Subnets (3 AZs)"]
+            R53["Route 53<br/>langsmith.innovatecorp.com"]
+            WAF["AWS WAF"]
+            ALB["Application Load Balancer"]
+        end
+
+        subgraph Private["Private Subnets (3 AZs)"]
+            subgraph EKS["EKS Cluster (3x m6i.xlarge)"]
+                FE["Frontend x2"]
+                BE["Backend x3"]
+                PB["Platform Backend x2"]
+                QU["Queue x2"]
+                PG["Playground x1"]
+                ACE["ACE Backend x2"]
+            end
+            subgraph CH["ClickHouse Cluster"]
+                CH1["r6i.2xlarge<br/>Primary"]
+                CH2["r6i.2xlarge<br/>Replica"]
+                CH3["r6i.2xlarge<br/>Replica"]
+            end
+        end
+
+        subgraph Isolated["Isolated Subnets (3 AZs)"]
+            RDS["RDS PostgreSQL<br/>db.r6g.xlarge Multi-AZ"]
+            Redis["ElastiCache Redis<br/>cache.r6g.large + Replica"]
+        end
+
+        S3["S3 Bucket<br/>VPC Gateway Endpoint"]
+    end
+
+    R53 --> WAF --> ALB
+    ALB --> FE
+    ALB --> BE
+    BE --> CH1
+    BE --> RDS
+    BE --> Redis
+    BE --> S3
+    QU --> Redis
+    QU --> CH1
+    CH1 --> CH2
+    CH1 --> CH3
+
+    classDef public fill:#4a90d9,stroke:#2c5f8a,color:#fff
+    classDef private fill:#5ba85b,stroke:#3d7a3d,color:#fff
+    classDef isolated fill:#d97b4a,stroke:#a85b2c,color:#fff
+    classDef storage fill:#7b68ae,stroke:#5a4d8a,color:#fff
+
+    class R53,WAF,ALB public
+    class FE,BE,PB,QU,PG,ACE,CH1,CH2,CH3 private
+    class RDS,Redis isolated
+    class S3 storage

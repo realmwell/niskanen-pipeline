@@ -130,21 +130,69 @@ Four evaluators, two LLM-as-judge and two deterministic:
 | `tone_calibration` | LLM-as-judge | Is the one-pager jargon-free enough for congressional staff? |
 | `format_compliance` | Deterministic | Do character counts, word counts, and bullet counts meet spec? |
 
-The test dataset includes 5 real Niskanen papers across immigration, fiscal policy, healthcare, and regulation domains.
+The test dataset includes 10 Niskanen papers across immigration, fiscal policy, healthcare, regulation, climate/energy, housing, and trade domains.
 
-## Traces and why they matter
+## Frontend (web pipeline)
 
-Every pipeline run is traced in LangSmith (project: `takehome`). Each trace shows:
+A React SPA that submits article URLs to a serverless backend, which runs the same 5-agent pipeline and displays intermediate outputs alongside the final content package.
 
-- The full graph execution with timing per node
+### Local development
+
+```bash
+cd frontend
+npm install
+
+# Start Vite dev server (port 5173)
+npm run dev
+
+# Start Express backend (port 3002)
+npm run backend
+```
+
+The dev server proxies `/api/*` requests to the Express backend, which uses the same pipeline code as the Lambda.
+
+### Production deployment
+
+The production stack is entirely serverless (zero idle cost):
+
+| Component | Service | URL/ID |
+|-----------|---------|--------|
+| Frontend | S3 + CloudFront | `d18sl4hk20kzb6.cloudfront.net` |
+| API | API Gateway + Lambda | `v1tofkjpy6.execute-api.us-east-1.amazonaws.com` |
+| Model inference | Bedrock (Claude 3.5 Haiku) | `us-east-1` |
+| Citation search | Tavily API | configured via `TAVILY_API_KEY` |
+
+The Lambda runs 5 sequential Bedrock calls (Research Analyst, then Audience Mapper + Citation Checker + Style Analyst in parallel, then Content Writer) plus Tavily web searches for citation verification. Total latency: 15-30 seconds per article.
+
+### Deploying updates
+
+```bash
+# Frontend
+cd frontend && npm run build
+aws s3 sync dist/ s3://niskanen-pipeline-demo/ --delete
+aws cloudfront create-invalidation --distribution-id E1ZA7YS04KUUB5 --paths "/*"
+
+# Lambda
+cd frontend/backend
+# Package index.js + pipeline.js + node_modules into zip
+aws lambda update-function-code --function-name niskanen-pipeline --zip-file fileb://lambda.zip
+```
+
+## LangSmith traces
+
+Every pipeline run is traced in LangSmith (project: `takehome`). Traces show:
+
+- Full graph execution with timing per node
 - Which agents ran in parallel vs. sequentially
 - Token counts and latency per LLM call
-- The exact prompts and responses for each agent
+- Exact prompts and responses for each agent
 - Error propagation through the pipeline
 
-This is not just debugging. It is how you improve the system over time. If the Content Writer consistently produces tweets that are too long, you can see exactly what prompt it received and what it generated. If fact-checking is slow, you can see which Tavily queries are taking the longest.
+**Viewing traces**: Go to [smith.langchain.com](https://smith.langchain.com), select the `takehome` project. Each trace corresponds to one pipeline run. Click into a trace to see the span tree -- the root span is the graph execution, child spans are individual agent nodes.
 
-## Cost model
+**Span structure**: `graph` (root) -> `supervisor` -> `research_analyst` -> [`audience_mapper`, `citation_checker`, `style_agent`] (parallel) -> `content_writer` -> `human_review`.
+
+## Cost validation
 
 Per-paper estimates (Claude 3.5 Haiku at $0.25/M input, $1.25/M output):
 
@@ -157,7 +205,7 @@ Per-paper estimates (Claude 3.5 Haiku at $0.25/M input, $1.25/M output):
 | Content Writer | ~4,000 | ~3,000 | ~$0.005 |
 | **Total** | ~17,600 | ~5,000 | **~$0.011** |
 
-Tavily search adds ~$0.01 per paper (5-10 searches at free tier). Total cost per paper: roughly 2 cents.
+Tavily search adds ~$0.01 per paper (5-10 searches). Total cost per paper: roughly 2 cents. Validate against actual LangSmith trace token counts in the `takehome` project.
 
 ## Known limitations
 

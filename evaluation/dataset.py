@@ -22,7 +22,12 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from dotenv import load_dotenv
 
 
-# Test papers spanning multiple policy domains
+# Test papers spanning multiple policy domains.
+# Uses web page URLs (not PDFs) for compatibility with the article
+# fetching pipeline, which extracts text from HTML pages.
+#
+# Coverage: healthcare, fiscal_policy, regulation, immigration,
+# climate_energy, trade, governance, housing
 TEST_PAPERS = [
     {
         "input_path": "https://www.niskanencenter.org/wp-content/uploads/2024/12/care-spectrum-paper.pdf",
@@ -53,6 +58,37 @@ TEST_PAPERS = [
         "expected_domain": "immigration",
         "thesis_keywords": ["skill", "partnership", "visa", "Central America", "workforce"],
         "selection_notes": "International workforce policy. Tests niche domain handling.",
+    },
+    # ---- New papers (web page URLs) ---- #
+    {
+        "input_path": "https://www.niskanencenter.org/where-u-s-carbon-policy-is-being-decided-in-2026/",
+        "expected_domain": "climate_energy",
+        "thesis_keywords": ["carbon", "emissions", "climate", "policy", "energy"],
+        "selection_notes": "Climate/energy domain. Short opinion-style piece tests concise input handling.",
+    },
+    {
+        "input_path": "https://www.niskanencenter.org/the-green-new-deal-for-public-housing-act-expensive-solutions-for-a-small-part-of-the-climate-problem-2/",
+        "expected_domain": "housing",
+        "thesis_keywords": ["housing", "green", "climate", "cost", "public"],
+        "selection_notes": "Housing/climate intersection. Tests cost-benefit analysis extraction.",
+    },
+    {
+        "input_path": "https://www.niskanencenter.org/trade-not-war-a-new-approach-to-counternarcotics-supply-side-policy/",
+        "expected_domain": "trade",
+        "thesis_keywords": ["trade", "narcotics", "supply", "policy", "counternarcotics"],
+        "selection_notes": "Trade/drug policy crossover. Tests novel policy domain classification.",
+    },
+    {
+        "input_path": "https://www.niskanencenter.org/cost-disease-socialism-how-subsidizing-costs-while-restricting-supply-drives-americas-fiscal-imbalance/",
+        "expected_domain": "fiscal_policy",
+        "thesis_keywords": ["cost", "subsidy", "supply", "fiscal", "spending"],
+        "selection_notes": "Long-form fiscal analysis. Tests handling of extended arguments.",
+    },
+    {
+        "input_path": "https://www.niskanencenter.org/immigration-beyond-the-extremes-a-blueprint-that-actually-works/",
+        "expected_domain": "immigration",
+        "thesis_keywords": ["immigration", "reform", "blueprint", "bipartisan"],
+        "selection_notes": "Comprehensive immigration reform piece. Tests multi-faceted policy extraction.",
     },
 ]
 
