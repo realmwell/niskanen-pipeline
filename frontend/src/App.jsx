@@ -155,27 +155,41 @@ const API_BASE = import.meta.env.PROD
 async function runPipeline(url, onStep, onDone, onError) {
   try {
     onStep(1); // Fetch Article
-    await pause(400);
+
+    // Generate a client-side job ID so we can poll if the gateway times out
+    const jobId = crypto.randomUUID();
 
     // Fire the real API call (multi-agent pipeline runs on backend)
     const apiPromise = fetch(`${API_BASE}/api/generate`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ url }),
+      body: JSON.stringify({ url, jobId }),
     });
 
+    await pause(400);
     onStep(2); // Research Analyst
     await pause(1200);
     onStep(3); // Audience Mapper
     await pause(600);
     onStep(4); // Citation Checker
 
-    // Wait for the actual API response
-    const res = await apiPromise;
-    const data = await res.json();
-
-    if (!res.ok || !data.success) {
-      throw new Error(data.error || "Pipeline failed");
+    let data;
+    try {
+      // Try to get the direct response (works if pipeline < 30s)
+      const res = await apiPromise;
+      data = await res.json();
+      if (!res.ok || !data.success) {
+        // If the direct call errored, check if it's a gateway timeout
+        if (res.status === 503 || res.status === 504) {
+          data = await pollForResult(jobId, onStep);
+        } else {
+          throw new Error(data.error || "Pipeline failed");
+        }
+      }
+    } catch (fetchErr) {
+      // Network error or gateway timeout — poll S3 for result
+      if (fetchErr.message?.includes("Pipeline failed")) throw fetchErr;
+      data = await pollForResult(jobId, onStep);
     }
 
     onStep(5); // Style Analyst
@@ -188,6 +202,29 @@ async function runPipeline(url, onStep, onDone, onError) {
   } catch (err) {
     onError(err.message);
   }
+}
+
+async function pollForResult(jobId, onStep) {
+  const maxAttempts = 30; // ~90 seconds max
+  for (let i = 0; i < maxAttempts; i++) {
+    await pause(3000);
+    // Advance progress steps while waiting
+    if (i === 2) onStep(5);
+    if (i === 5) onStep(6);
+
+    try {
+      const res = await fetch(`${API_BASE}/api/status/${jobId}`);
+      if (res.status === 404) continue; // Job not written yet
+      const data = await res.json();
+      if (data.status === "running") continue;
+      if (data.status === "error") throw new Error(data.error || "Pipeline failed");
+      if (data.success) return data;
+    } catch (pollErr) {
+      if (pollErr.message?.includes("Pipeline failed")) throw pollErr;
+      // Network error on poll — retry
+    }
+  }
+  throw new Error("Pipeline timed out after 90 seconds");
 }
 
 function pause(ms) {

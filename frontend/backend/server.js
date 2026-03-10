@@ -28,24 +28,27 @@ const TAVILY_API_KEY = process.env.TAVILY_API_KEY || "";
    API endpoint: Generate content package via multi-agent pipeline
    ------------------------------------------------------------------ */
 
+// In-memory job store for local dev (Lambda uses S3)
+const jobs = new Map();
+
 app.post("/api/generate", async (req, res) => {
-  const { url } = req.body;
+  const { url, jobId } = req.body;
   if (!url) {
     return res.status(400).json({ error: "URL is required" });
   }
+
+  if (jobId) jobs.set(jobId, { status: "running" });
 
   console.log(`[pipeline] Processing: ${url}`);
   const startTime = Date.now();
 
   try {
-    // Step 1: Fetch article
     console.log("[pipeline] Fetching article...");
     const article = await fetchArticleText(url);
     console.log(
       `[pipeline] Extracted ${article.wordCount} words: "${article.title}"`
     );
 
-    // Step 2: Run multi-agent pipeline
     console.log("[pipeline] Running 5-agent pipeline...");
     console.log(`[pipeline] Model: ${BEDROCK_MODEL}`);
     console.log(`[pipeline] Tavily: ${TAVILY_API_KEY ? "configured" : "not configured"}`);
@@ -56,13 +59,9 @@ app.post("/api/generate", async (req, res) => {
     console.log(`[pipeline] Done in ${elapsed}s`);
     console.log(`[pipeline] Agent timings:`, result.agent_timings);
 
-    res.json({
+    const responseData = {
       success: true,
-      article: {
-        title: article.title,
-        author: article.author,
-        wordCount: article.wordCount,
-      },
+      article: { title: article.title, author: article.author, wordCount: article.wordCount },
       research_summary: result.research_summary,
       audience_map: result.audience_map,
       fact_check_report: result.fact_check_report,
@@ -70,16 +69,27 @@ app.post("/api/generate", async (req, res) => {
       content: result.content,
       agent_timings: result.agent_timings,
       elapsed: parseFloat(elapsed),
-    });
+    };
+
+    if (jobId) jobs.set(jobId, { status: "done", ...responseData });
+    res.json(responseData);
   } catch (err) {
     console.error(`[pipeline] Error: ${err.message}`);
-    res.status(500).json({
+    const errorData = {
       error: err.message,
       suggestion: err.message.includes("PDF_UNSUPPORTED")
         ? "Paste the article's web page URL instead of a direct PDF link."
         : "Check that the URL is accessible and AWS credentials are configured.",
-    });
+    };
+    if (jobId) jobs.set(jobId, { status: "error", ...errorData });
+    res.status(500).json(errorData);
   }
+});
+
+app.get("/api/status/:id", (req, res) => {
+  const job = jobs.get(req.params.id);
+  if (!job) return res.status(404).json({ error: "Job not found" });
+  res.json(job);
 });
 
 /* ------------------------------------------------------------------

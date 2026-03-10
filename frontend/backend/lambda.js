@@ -9,13 +9,49 @@
  */
 
 import AnthropicBedrock from "@anthropic-ai/bedrock-sdk";
+import { S3Client, PutObjectCommand, GetObjectCommand } from "@aws-sdk/client-s3";
 import { fetchArticleText, runAgentPipeline } from "./pipeline.js";
+
+/* ------------------------------------------------------------------
+   Async job pattern via S3.
+   API Gateway HTTP APIs have a 30 s hard timeout, but the 5-agent
+   pipeline takes ~40 s.  The generate endpoint runs the pipeline
+   synchronously (Lambda continues even after gateway times out) and
+   writes the result to S3.  The frontend sends a client-generated
+   jobId; if the POST times out, it polls GET /api/status/:id which
+   reads from S3.
+   ------------------------------------------------------------------ */
+const JOBS_BUCKET = process.env.JOBS_BUCKET || "niskanen-pipeline-demo";
+const s3 = new S3Client({ region: process.env.AWS_DEFAULT_REGION || "us-east-1" });
+
+async function writeJob(jobId, data) {
+  await s3.send(new PutObjectCommand({
+    Bucket: JOBS_BUCKET,
+    Key: `jobs/${jobId}.json`,
+    Body: JSON.stringify(data),
+    ContentType: "application/json",
+  }));
+}
+
+async function readJob(jobId) {
+  try {
+    const resp = await s3.send(new GetObjectCommand({
+      Bucket: JOBS_BUCKET,
+      Key: `jobs/${jobId}.json`,
+    }));
+    const body = await resp.Body.transformToString();
+    return JSON.parse(body);
+  } catch {
+    return null;
+  }
+}
 
 const client = new AnthropicBedrock({
   awsRegion: process.env.AWS_DEFAULT_REGION || "us-east-1",
 });
 
 const BEDROCK_MODEL =
+  process.env.BEDROCK_MODEL_ID ||
   process.env.SONNET_MODEL_ID ||
   "us.anthropic.claude-3-5-haiku-20241022-v1:0";
 
@@ -68,7 +104,8 @@ export async function handler(event) {
     };
   }
 
-  // Generate endpoint
+  // Generate endpoint — runs pipeline, writes result to S3
+  // Frontend sends a jobId so it can poll /api/status/:id if gateway times out.
   if (path.endsWith("/generate") || path === "/api/generate") {
     if (method !== "POST") {
       return {
@@ -89,7 +126,7 @@ export async function handler(event) {
       };
     }
 
-    const { url } = body || {};
+    const { url, jobId } = body || {};
     if (!url) {
       return {
         statusCode: 400,
@@ -98,43 +135,76 @@ export async function handler(event) {
       };
     }
 
+    // Write "running" status so the frontend can poll immediately
+    if (jobId) {
+      await writeJob(jobId, { status: "running" });
+    }
+
     const startTime = Date.now();
     try {
       const article = await fetchArticleText(url);
       const result = await runAgentPipeline(client, BEDROCK_MODEL, TAVILY_API_KEY, article);
       const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
 
+      const responseData = {
+        success: true,
+        article: { title: article.title, author: article.author, wordCount: article.wordCount },
+        research_summary: result.research_summary,
+        audience_map: result.audience_map,
+        fact_check_report: result.fact_check_report,
+        style_patterns: result.style_patterns,
+        content: result.content,
+        agent_timings: result.agent_timings,
+        elapsed: parseFloat(elapsed),
+      };
+
+      // Persist result to S3 (even if gateway already timed out, Lambda keeps running)
+      if (jobId) {
+        await writeJob(jobId, { status: "done", ...responseData });
+      }
+
       return {
         statusCode: 200,
         headers: { ...corsHeaders(origin), "Content-Type": "application/json" },
-        body: JSON.stringify({
-          success: true,
-          article: {
-            title: article.title,
-            author: article.author,
-            wordCount: article.wordCount,
-          },
-          research_summary: result.research_summary,
-          audience_map: result.audience_map,
-          fact_check_report: result.fact_check_report,
-          style_patterns: result.style_patterns,
-          content: result.content,
-          agent_timings: result.agent_timings,
-          elapsed: parseFloat(elapsed),
-        }),
+        body: JSON.stringify(responseData),
       };
     } catch (err) {
+      const errorData = {
+        error: err.message,
+        suggestion: err.message.includes("PDF_UNSUPPORTED")
+          ? "Paste the article's web page URL instead of a direct PDF link."
+          : "Check that the URL is accessible and AWS credentials are configured.",
+      };
+
+      if (jobId) {
+        await writeJob(jobId, { status: "error", ...errorData });
+      }
+
       return {
         statusCode: 500,
         headers: { ...corsHeaders(origin), "Content-Type": "application/json" },
-        body: JSON.stringify({
-          error: err.message,
-          suggestion: err.message.includes("PDF_UNSUPPORTED")
-            ? "Paste the article's web page URL instead of a direct PDF link."
-            : "Check that the URL is accessible and AWS credentials are configured.",
-        }),
+        body: JSON.stringify(errorData),
       };
     }
+  }
+
+  // Status endpoint — poll for pipeline results from S3
+  const statusMatch = path.match(/\/api\/status\/([^/]+)$/);
+  if (statusMatch && method === "GET") {
+    const jobId = statusMatch[1];
+    const job = await readJob(jobId);
+    if (!job) {
+      return {
+        statusCode: 404,
+        headers: { ...corsHeaders(origin), "Content-Type": "application/json" },
+        body: JSON.stringify({ error: "Job not found" }),
+      };
+    }
+    return {
+      statusCode: job.status === "error" ? 500 : 200,
+      headers: { ...corsHeaders(origin), "Content-Type": "application/json" },
+      body: JSON.stringify(job),
+    };
   }
 
   // ---- Evals endpoints: LangSmith proxy + AI assessment ----

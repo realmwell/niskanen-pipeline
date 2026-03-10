@@ -435,7 +435,7 @@ export async function fetchArticleText(url) {
   const words = text.split(/\s+/);
   if (words.length > 8000) {
     text =
-      words.slice(0, 8000).join(" ") + "\n\n[Article truncated for processing]";
+      words.slice(0, 4000).join(" ") + "\n\n[Article truncated for processing]";
   }
 
   return { title, author, text, wordCount: words.length };
