@@ -1,0 +1,72 @@
+TITLE: ICE rewrites international student data without explanation
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/ice-rewrites-international-student-data-without-explanation/
+WORDS: 1003
+
+Author’s note: Shortly after the publication of this piece, an ICE spokesperson reached out to provide the following comment:
+“ICE’s Student and Exchange Visitor Program personnel identified a data error in a dataset published in the Study in the States SEVIS Data Mapping Tool, with discrepancies traced back to 2023 under the previous administration. As soon as the discrepancy was discovered, ICE initiated a thorough review of SEVP data systems and quickly uncovered the inaccuracies.
+Corrective actions were immediately taken to validate and update the dataset. The revised and accurate data is now available, and additional safeguards have been implemented to prevent similar issues in the future.”
+We appreciate the agency’s acknowledgement of this change. In future data releases, regarding international students and all legal immigration matters, we look forward to seeing more timely and accurate data along with adequate explanations of methodology changes or corrections.
+On
+April 25, 2025
+,
+27 months’
+worth of international student visa data disappeared from a
+Department of Homeland Security (DHS) website
+. Though DHS offered no public explanation for the deletion, it
+coincided with
+the Trump administration’s announcement in court that it would restore the Student and Exchange Visitor Information System (SEVIS) records it had previously terminated.
+By that time, the Trump administration had already terminated the SEVIS records of
+over 4,700
+international students, threatening their legal status in the U.S. These terminations garnered significant media attention and
+dozens of lawsuits
+. As students’ records were reinstated, the attention began to die down, but the data remained unavailable for months. DHS restored the data at the beginning of July, but it
+is notably
+different from the data available just months ago.
+The Trump administration has
+prided itself on its transparency
+, but such drastic and unexplained changes to public statistics threaten to undermine its credibility.
+SEVIS record discrepancies
+SEVIS records are unique identifiers given to international students and exchange visitors enrolled in programs in the U.S. Therefore, the total number of active SEVIS records should provide a fairly accurate count of the international student and exchange visitor population at any given time.
+However, when republishing the aforementioned data, DHS made retroactive changes to the number of active SEVIS records for each month from August 2024 to March 2025, the last available data before the deletion. For August 2024, the difference between the previous data and the current data amounted to around 53,000 previously unreported international student records, or a five percent increase. For September 2024, the difference exceeded 200,000, representing a nearly 19% increase over the previously reported data.
+Inconsistencies in STEM data
+Along with the overall SEVIS record numbers, DHS publishes a dataset specifically containing information about
+international students designated as STEM students
+. DHS also deleted these in April and restored altered versions in July. While changes to the overall student statistics consistently suggest that the earlier data undercounted the international student population, the changes to the STEM data include both increases and decreases.
+As of April 21, 2025, DHS data indicated that there were
+838,567
+active SEVIS records enrolled in STEM in September 2024. By the time the data was republished in July 2025, the data suggested that only
+775,284
+SEVIS records were enrolled in STEM in September 2024. Again, DHS made these changes without announcement or explanation.
+Major discrepancies between original and restored data
+While these changes are not insignificant, all discrepancies in the STEM data fall within 10 percent of the previously reported figures, making them less concerning. In contrast, some of the other changes are drastically different from the earlier data.
+For example, before the data changes, overall SEVIS records for August 2024 to March 2025 included a consistent
+447 Algerian nationals
+each month. When the data was re-released in July, monthly totals for Algerian SEVIS records varied from
+787 to 969
+during the same period, representing a
+76% to 117% difference,
+depending on the month.
+For records based in New Hampshire, the previous publication included a steady
+5,644 SEVIS records
+each month from August 2024 to March 2025. However, by the time the data was re-released, those monthly counts ranged from
+7,568 to 8,500
+, representing a 34% to 51% difference.
+Even for the overall enrollment numbers, some discrepancies are particularly noteworthy. The previously published data indicated that from August 2024 to March 2025, there were between
+410,664 and 411,246
+SEVIS records for students at the master’s level. In contrast, the latest data suggest that during the same period, SEVIS records for master’s students numbered between
+504,323 and 567,681
+.
+Open questions remain
+Data corrections or changes in methodology are not uncommon in government reporting, especially with a change of administration. The Department of State paused updates to its global visa appointment wait times page for several months after President Trump’s inauguration. When the updates resumed and the data took on a new format, it was accompanied by
+additional information
+regarding how the public could interpret the new data.
+In contrast, the SEVIS data remained unchanged between January 19, 2025 and April 21, 2025. When the changes did occur, they were unannounced and unexplained.
+The U.S. government is capable of reporting this data accurately. The sponsoring university or organization reports all information needed to generate accurate records, including nationality, location of enrollment, and level of study. This information also appears on the
+form I-20
+that students must carry to enter the United States.
+Therefore, the following questions remain:
+Why are there such large discrepancies between the previously reported data and the currently available data?
+If the previous data was an undercount, has the methodology that resulted in that undercount been corrected?
+The previous data was not published with a disclaimer indicating that it was preliminary data, so at what point should the current and forthcoming data be considered final?
+The Trump administration has proudly branded itself the most transparent administration in American history. While the restoration of previously deleted data is a welcome step in that direction, explanations of the differences described herein must be part of that transparency.

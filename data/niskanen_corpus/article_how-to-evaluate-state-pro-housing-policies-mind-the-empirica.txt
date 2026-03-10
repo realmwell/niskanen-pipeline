@@ -1,0 +1,137 @@
+TITLE: How to evaluate state pro-housing policies: Mind the empirical pitfalls
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/how-to-evaluate-state-pro-housing-policies-mind-the-empirical-pitfalls/
+WORDS: 2733
+
+Jenny Schuetz is the Vice President of Infrastructure and Housing at Arnold Ventures.
+Affordability emerged as 2025’s campaign
+buzzword
+, reflecting American voters’ dissatisfaction with the
+high cost
+of housing, groceries, energy, and child care. Forward-looking state legislatures have already been experimenting with new policies intended to bring down housing costs, the
+largest expenditure
+in most families’ monthly budget. Between 2017 and 2025,
+more than half
+of
+U.S. states
+adopted policies to boost housing production, especially of smaller, lower-cost homes. The format, scope, and details of these policies
+vary widely
+, from legalizing accessory dwelling units (ADUs) in residential neighborhoods to encouraging large apartment buildings in commercial corridors and streamlining development processes.
+This unprecedented wave of policy experimentation creates opportunities for researchers to evaluate how state-level policies can affect housing markets, but it will require thoughtful study design to measure outcomes accurately.
+State and local policymakers urgently need to know how well pro-housing policies are achieving their underlying goals. Have they resulted in higher quantities of new construction, especially in targeted locations and structure types? Have development timelines been shortened, yielding cost savings for new homes? Are there spillover effects on the rents and prices of existing homes, or other changes in key housing market outcomes, such as vacancy rates?
+Elected officials who have spent political capital adopting new policies — or fighting them — face the potential for backlash (or reward, depending on the case) if those policies don’t deliver tangible benefits by the next election.
+This brief outlines six key challenges researchers should consider when evaluating state housing production policies. The classical program evaluation framework attempts to determine the impact of a policy or program by comparing changes in an outcome of interest before and after the policy or program goes into effect for entities assigned to treatment and control groups. In this case, researchers could compare housing production or prices over time in cities whose states have legalized middle housing with those that haven’t. While in theory this framework could be used to evaluate state housing production policies, some distinctive features of statewide housing policies do not fit neatly into traditional program evaluation frameworks.
+The issues described in this brief include measurement challenges: What are the outcomes that will be directly affected by the policy changes? How should we measure the strength and timing of new policies and data gaps on key outcomes? The two remaining challenges address threats to causal inference: What additional factors could influence housing outcomes beyond the state policy changes?
+What housing outcomes or market segments will be directly affected by complex policy bundles?
+Many states have enacted bundles of production-oriented policies in a single legislative session, often targeting a range of housing market segments (Figure 1). For example,
+Montana
+and
+Washington
+both passed complex legislative packages containing more than five separate housing components, first in 2023 and again in 2025. Some of the components target specific structure types (ADUs, townhouses, duplexes) or locations (transit corridors, commercial zones), which might allow evaluations to focus on those areas. But others, including procedural reforms, will interact with one another, so the effects can only be assessed collectively.
+In 2018,
+Oregon
+adopted both a housing production bill to legalize middle housing and encourage supply, and statewide rent regulation, which may decrease developers’ interest in expanding rental housing. (The details and stringency of rent regulation also vary considerably and are outside the scope of this essay.)
+Table 1: States are experimenting with a wide range of housing production laws
+Selection of statewide housing legislation, 2020–2025
+Sources:
+Furth, Hamilton, and Gardner (2025)
+;
+Kahn and Furth 2024
+;
+Kahn and Furth 2025
+;
+Munteanu, Schuetz & Zelinka 2025
+,
+Schuetz et al 2023
+.
+Note: This list is not a comprehensive inventory of statewide policy changes. Bills are grouped by general category, but details of policies vary widely. ADU = accessory dwelling unit. Housing on land owned by faith-based organizations is sometimes referred to as “Yes In God’s Backyard” (YIGBY).
+Assessing a policy bundle requires researchers to use a framework other than the traditional program evaluation approach, which seeks to isolate the impact of a single change while holding other factors constant. Carefully enumerating the new policy components and matching them to targeted outcomes is the first stage — an upfront investment in learning the institutional details before diving into quantitative analysis.
+Distinguishing ‘strong’ from ‘weak’ housing production policies
+Program evaluation sometimes assumes a binary treatment effect, akin to a patient receiving a standardized dose of a trial medication versus a placebo, or a household receiving or not receiving a housing voucher. By contrast, statewide production policies, even in the same category or intended outcome, are more accurately thought of as falling along a continuum of design from weak to strong.
+California’s experience with ADU legalization illustrates how a given policy can be tweaked in specific ways to be stronger and less susceptible to evasion by recalcitrant localities. The state’s
+earliest attempts
+to encourage local governments to legalize ADUs — reaching back to 1982 and revised in 2002 — included plenty of loopholes that localities exploited to make ADUs financially or physically infeasible to build. These included owner-occupant residency requirements, multiple off-street parking spaces, wide setbacks, and high permitting fees. Any of these provisions can act as a poison pill that discourages ADU construction. Not until the state passed multiple additional reforms between 2016 and 2023 were California lawmakers able to close enough of these loopholes to create consistently strong ADU laws across the state.
+Complicating matters for both researchers and policymakers, the specific policy design features that unlock housing production may vary across places, based on interactions with housing market conditions and other policies. Staying with the ADU example, the dimensional requirements that matter most for feasible development vary by structure type. In California, most ADUs are built as detached structures on the same lot as the primary residence (backyard cottages, for example), so imposing large setbacks on ADUs from the lot lines will have a big impact on whether a given lot can add an ADU. By contrast, in Washington, D.C., most ADUs are basement apartments in rowhouses. Because the external structure already exists prior to creating the ADU, setbacks are less relevant to ADU feasibility than in California, but
+minimum ceiling height
+is often a binding constraint; a shallow basement cannot be legally used as a separate residence. For researchers to accurately classify state housing policies along the strong-to-weak continuum requires paying attention to local market context.
+Beyond policy design, the rigor of implementation and enforcement from state agencies also varies widely. Strong enforcement — making sure that localities comply with mandates in spirit as well as in letter — requires financial resources, staff capacity, and political will. Figure 1 shows the policy tools that state agencies have deployed, including proactive investments to support localities acting in good faith (offering training, technical assistance, and model codes) and reactive efforts when localities intentionally defy state laws.
+Figure 1: States have a range of mechanisms to enforce housing policies
+Source:
+Lincoln Institute & Brookings Institution 2025
+.
+We would expect that strong policy designs with clear guidelines and few loopholes backed up by strong enforcement are more likely to generate increased housing production than laws that exist mainly on paper but lack teeth. In program evaluation terms, weak policy design and/or weak enforcement are better interpreted as “intent to treat” by the state agency, while strong design and enforcement are necessary for “compliance with treatment.”
+When do new pro-housing policies actually go into effect?
+Many statewide housing policy changes don’t fit neatly into a pre- and post-treatment framework. Policies typically do not go into effect immediately after they are signed into law; most preemption bills — state legislation that overrides local laws — create new requirements for local governments, essentially setting off a
+second legislative process
+at the city or county level. The time allotted for localities to revise their zoning or building codes to comply with new state guidelines, can take several years, during which the old rules are still in effect. Massachusetts’ landmark housing reform, the MBTA Communities Act requiring municipalities to permit multifamily housing near their transit stops, was signed into law in January 2021 but only hit its first set of
+compliance deadlines
+for localities in December 2024. A few policies, like Florida’s Live Local Act, have bypassed these lengthy compliance periods by allowing developers to override local zoning and build designated projects almost immediately after the bill is signed.
+The length of time between enactment of state-level legislation and local compliance may unexpectedly change because of legal challenges or subsequent legislative action. State and local governments often sue each other; litigation has delayed implementation of
+Massachusetts’ MBTA Communities Act
+,
+Colorado’s
+transit-oriented development, and
+Montana’s middle housing policies
+. And initial versions of policies not infrequently include loopholes or ambiguous language that legislatures adjust in subsequent
+“clean-up” bills
+.
+Do we even know how many homes get built every year?
+Policymakers and researchers are struggling to accurately evaluate the effectiveness of new policies because of
+gaps in the data
+on housing production. Evaluating policy changes requires counting how many housing units are being created in specific structure types and locations — metrics that are not currently available in public data sources.
+The Census Bureau’s
+Residential Building Permit Survey (BPS
+)  illustrates current data limitations. The BPS is the most widely used measure of annual housing production with estimates for most U.S. cities and counties extending back several decades. However, these estimates
+intentionally exclude
+homes created through alteration, addition, or conversion of existing structures — such as homes built through commercial-to-residential conversions, ADUs created by adapting existing basements or garages, and units added through subdivision of existing homes. In some communities, especially central cities or inner-ring suburbs, homes created through such methods can account for a substantial share of overall production. Researchers or policymakers who use BPS data to monitor annual housing permitting may therefore underestimate total units built and inaccurately calculate the composition of new homes by structure type.
+Other Census data sources, such as the
+American Housing Survey
+and
+American Community Survey
+, have more complete coverage of existing housing stock but have other limitations for estimating production: They are reported with substantial time lags or don’t map well onto geographic areas and structure types relevant for policy changes.
+Some state agencies, notably
+California’s Department of Housing & Community Development
+, are trying to fill data gaps by requiring localities to submit annual reporting of key outcomes such as permits issued by structure type. But they run into limitations of local staff capacity and the ability to quality-check self-reported data.
+How does political will affect states’ adoption of pro-housing policies  — and housing outcomes?
+Determining whether new policies affect housing production requires researchers to grapple with the classic endogeneity problem: Because statewide housing laws require the approval of elected officials, they will reflect the underlying political will of legislators and their constituents. Empirical literature on local land use regulations has generated extensive evidence that localities in which voters are more hostile to new development, especially
+rental housing
+and
+affordable housing
+, tend to adopt stricter regulations, such as apartment bans and large minimum lot sizes. Political science
+research
+has found that NIMBY-leaning places also use the discretionary development process to make their preferences known to elected officials. All of these realities — the political process, local sentiment, advocacy, and opposition — raise the question: How much do the details of zoning and other land use policies really matter for housing production?
+At the local level, the prevalence of discretionary, ad hoc approval processes implies that pro-housing legislators may be able to use multiple channels, such as granting variances or spot rezonings, to allow projects they favor, while antihousing legislators can find ways to kill even those projects that comply with written rules. Recent lawsuits in
+Arlington
+and
+Charlottesville
+, Virginia, show that even when local elected officials pass pro-housing zoning reforms through the democratic legislative process, a small group of highly organized, well-resourced residents can overturn these reforms, or at least delay implementation indefinitely.
+Whether statewide pro-housing policies can  unlock housing production in localities where a majority of voters are hostile to these policies is an open question — and one that is critical for policymakers to understand.
+Can we disentangle complex interactions between policies and market conditions?
+Recent pro-housing policies have gotten layered onto existing policy ecosystems, which vary widely across states. Legalizing ADUs in California, where housing policy already resembles an infinite series of
+nesting dolls
+, may produce different responses from homeowners and builders than ostensibly similar policies in states such as Montana and Texas, which have much simpler policy environments.
+Existing land use patterns and local housing market conditions will also influence uptake of new statewide policies. State-level changes to zoning and building codes to legalize apartments in commercial corridors may be more attractive to developers in cities with high office or retail vacancy rates, where properties can be purchased for redevelopment or adaptive reuse.
+Moving from local to macroeconomic factors, this period of rapid housing policy experimentation overlaps with several significant national global events that also affect housing markets. These include the COVID pandemic and the expansion of work-from-home practices, which
+increased the demand
+for larger homes; fluctuation in
+interest rates
+;
+supply chain snags
+for construction materials; Trump administration
+tariffs on construction materials
+; and immigration crackdowns that have reduced the
+construction workforce
+. Researchers might consider whether some of these factors could be used as exogenous shocks to evaluate policy changes, perhaps based on the intensity of their impact on local housing and labor markets.
+It is also important for policymakers currently championing legislation to have realistic expectations about when developers will act on the new rules to expand production; even substantial pro-housing policy reforms are unlikely to outweigh macroeconomic forces in the short run.
+Chipping away at critical knowledge gaps, one piece at a time
+Policymakers will benefit from simple, timely, thoughtfully designed descriptive analysis — well-measured outcomes at the appropriate time and geographic scale, not just gold standard evaluations 10 years from now. The breadth and depth of state housing policy experimentation over the past several years has created a wealth of opportunities for researchers to investigate from multiple angles. There is a need for multiple types of analysis, both descriptive and causal, and qualitative and quantitative.
+Some examples of research projects that could create a shared foundation of basic information include:
+creating and updating an inventory of statewide housing supply-oriented policies, with links to underlying legislative text
+descriptive analysis of the policy design (intended goals and targeted outcomes, geographic coverage) and intended implementation (milestones for taking effect)
+descriptive analysis of geographic and time trends in policy adoption, including changes in the popularity of certain policy types (e.g., ADU legalization, parking reform) and probability of legislative success/failure by policy type
+Detailed case studies at the state level would help document the legislative and political history of a policy change: Did it pass on the first attempt? Which committees had jurisdiction? Who were the bill’s sponsors? What were the roles of legislators versus governors?
+As more time elapses from legislative adoption, it will also be important to understand challenges and successes in implementation, including the role of oversight from executive agencies, political pushback from localities or advocacy groups, and litigation.
+Interviews
+with developers and commercial real estate brokers could help track early interest (or lack thereof) from the development industry; for instance, whether large-scale, single-family homebuilders plan to include ADUs in new subdivisions once they are legal statewide. A mixture of qualitative studies that document intended forward-looking actions from key stakeholders would be highly valuable as early indicators of policy effectiveness, before “hard” metrics like building permit applications become available.
+Harness good research for the public good
+As more state legislatures become laboratories of housing policy experimentation, social science researchers have once-in-a-generation opportunities to evaluate how pro-housing policies are working in real time. The importance of understanding policy details and seeking feedback on empirical findings with stakeholders on the ground highlights the benefits of researchers developing relationships with local and state policymakers and real estate industry participants. Researchers who are willing to share early updates on their results, presented in accessible language, can expect a coveted reward: an audience that’s truly eager to read their papers.

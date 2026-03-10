@@ -1,0 +1,187 @@
+TITLE: The days to come: Modeling refugee flows from Venezuela after U.S. intervention
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/the-days-to-come-modeling-refugee-flows-from-venezuela-after-u-s-intervention/
+WORDS: 3596
+
+The U.S. has built up its largest military presence in Latin America since it launched an intervention in Panama in 1989. At the time of writing, there are 6,000 sailors and Marines and nine warships in the region. The world’s largest warship, the USS Gerald Ford, has recently
+joined
+this military buildup. While President Trump has said that the U.S. is not going to war with Venezuela, he has also
+stated
+that he believes Venezuelan President Nicolás Maduro’s days in power are “numbered.”
+The Venezuelan refugee and migrant crisis has become a key pillar in the administration’s justification for military action. President Trump has accused the Venezuelan government of
+sending
+criminal migrants to the U.S.-Mexico border, and stemming the flow of Venezuelan migrants appears to be one of the
+major motivations
+guiding current policy. Migration should therefore also be one of the key considerations that policymakers weighing intervention should take into account.
+Our report attempts to model what new outflows from Venezuela might look like based on different U.S. actions. While forecasting displacement depends on a wide range of complex variables, we provide policymakers and the public with empirically based estimates of the potential migration impact of different scenarios. Each scenario builds on the established baseline of
+7.7 million Venezuelans
+already displaced and considers the capacity constraints on host countries that are already managing 85 percent of this population within Latin America.
+The forecasting methodology draws on three primary analytical approaches:
+First, historical displacement rates from Venezuela’s own crises, particularly the 2018-2020 period following political unrest sparked in 2017. For example, from 2018-2020, data from the United Nations High Commissioner for Refugees (
+UNHCR)
+shows an increase of 1.8 million Venezuelans
+1
+classified as refugees, asylum seekers, or other persons in need of international protection, or 6.1 percent of the pre-existing 2018 population.
+Second, comparative analysis with Iraq’s postintervention displacement patterns, given Iraq’s similar preintervention population of 26.8 million
+2
+and the documented displacement of more than 3 million people
+3
+within three years of the 2003 U.S. invasion.
+Third, geographic risk assessment identifying high-probability conflict zones based on cartel presence, smuggling routes, guerrilla group activity, political control centers, and border proximity to primary displacement destinations.
+Each scenario considers not only the number of potential displaced persons but also their geographic origins, likely routes, primary destinations, timeline of displacement waves, and the absorption capacity of regional hosts already strained by the existing crisis.
+As a final note, our estimates are not meant to endorse any particular U.S. policy. The policymakers ultimately responsible for making these decisions require objective, reliable estimates on the potential refugee outflows of different scenarios to inform their decisions.
+Establishing a baseline
+Venezuela faces one of the world’s largest and most underfunded humanitarian crises. From a total population of roughly
+28.4 million people
+, more than
+7.7 million Venezuelans
+have fled since 2014 due to repression and persecution, economic collapse, and the breakdown of essential services. This is the largest displacement crisis in the world today
+in the absence of active warfare
+, leaving Venezuelans highly exposed if conflict intensifies.
+Approximately
+6.84 million displaced Venezuelans
+remain in Latin America, placing sustained pressure on host countries with limited capacity and varying migration policies. Colombia and Peru alone host
+59 percent of those who have left
+. While Colombia initially achieved a
+70 percent regularization rate
+of Venezuelans by mid-2024, public sentiment has soured, with
+65 percent of Colombians
+expressing unfavorable views toward Venezuelans in a poll that same summer. Despite collaboration through the Inter-Agency Coordination Platform for Refugees and Migrants (R4V) to support Venezuelan refugees and migrants, renewed outflows continue to strain political and humanitarian systems across the region.
+Inside Venezuela,
+14.2 million people
+need humanitarian aid, including
+5.1 million
+facing acute food insecurity. The minimum wage is just $3.60 per month, and 90 percent of the population experiences water shortages. The country has lost 18 percent of its working-age population and over
+611,000 people are internally displaced from ongoing violence or stateless due to being in legal limbo
+based on birth location.
+Despite its scale, the Venezuelan crisis has been critically underfunded, both historically and at present. Compared with
+$20.8 billion
+provided by the international community to address the Syrian refugee crisis in its first eight years, Venezuela received only $1.4 billion over a five-year time period. In other terms, funding for the Venezuelans was
+one-tenth
+that of Syrian refugees on a per capita basis. The 2025 UNHCR budget for Venezuela faces more than a
+$50 million
+gap, while R4V’s Regional Response Plan, which has budgeted for $1.4 billion, is
+only 4.6 percent funded
+. Faced with funding cuts to critical programs, the UN has
+reduced its operations
+in Colombia, the primary host country for Venezuelans who have fled their homeland.
+These indicators underscore the urgency of planning to mitigate the risk of further humanitarian deterioration in the context of potential U.S. policy shifts or intervention.
+Forecasting displacement
+Our analysis revolves around five baseline scenarios that are likely to unfold, ranging from a maintenance of the status quo to a full-scale invasion.
+Scenario 1: Limited U.S. land strike
+In this scenario, the U.S. executes a limited military operation following its October 2025 maritime strikes on Venezuelan drug trafficking vessels. Rather than continuing solely with naval interdiction, the U.S. launches targeted strikes against cartel infrastructure in Venezuela’s border regions, focusing on the drug trafficking
+networks
+operating in Apure and Zulia states.
+The Trump administration would likely frame these operations as surgical strikes against terrorist organizations and narcotrafficking networks rather than strikes targeted at regime figures. The strikes would likely use long-range missiles from offshore naval vessels, similar to the precision-strike capability demonstrated in the maritime interdiction operations, avoiding the need for deployment of ground troops for military action or subsequent occupation.
+The Maduro regime would respond with strong diplomatic condemnation, declaring the strikes an act of aggression and invoking an even greater state of emergency. However, internal security forces would remain largely intact, and the regime would maintain control over major population centers including Caracas, Maracaibo, Valencia, and other urban areas. The military would not fracture, and opposition forces would be unlikely to attempt a power shift given that the U.S. strikes would be limited in scope rather than an invasion or regime-change operation.
+The strikes would likely primarily affect sparsely populated rural border zones where state control has been historically weak and where illegal armed groups already operate with relative impunity. Drawing on the 2021-2022 Apure clashes as the closest historical precedent, when rural border conflicts between FARC dissidents and Venezuelan armed forces displaced approximately
+6,000 people
+, a similar scale of displacement can be anticipated.
+Residents in targeted border zones, specifically
+Apure State
+and
+Zulia State
+would be the most likely to be displaced. Taken together, in 2011 the rural populations of these states combined was 421,361. If
+estimates
+that 22.5% of the country has left since 2011 are accurate and we also assume that internal migration
+away from rural areas
+has kept growth in these regions at most neutral, then the current population is likely closer to 326,000.
+Thus, if strikes affect 1 percent to 5 percent of the rural population in these hypothetical conflict zones (a range taken from the earlier clashes in Apure mentioned above), approximately 3,000-16,300 Venezuelans would be displaced from immediate areas depending on the extent of the strikes.
+The displacement pattern would mirror existing refugee routes, with affected populations primarily crossing into Colombia through established informal crossings along the Táchira River and through Paraguachón/Maicao. The displaced would join existing Venezuelan migration flows rather than create a distinct crisis wave, making them largely invisible in aggregate statistics.
+The psychological impact would be limited given that the broader Venezuelan population has already normalized the idea of leaving — in surveys before the 2024 election,
+as many as 40 percent
+of Venezuelans indicated that they were considering emigration. Those already planning departure might accelerate timelines, but the strikes alone would not create new migration intent among populations not already considering it.
+Total forecasted displacement: 3,000-16,300 additional Venezuelan migrants over 1–2 months
+.
+Scenario 2: U.S. strikes trigger brief internal conflict
+In this scenario, U.S. land strikes intensify preexisting political, economic, and social fault lines within Venezuela, sparking a short but intense internal conflict. The Trump administration would continue to frame U.S. operations as a counternarcoterrorism mission, targeting the alleged activities of the
+Cartel of the Suns
+and Maduro as its
+reputed leader
+,
+maintaining a reward
+for his capture. Although official U.S. communications would emphasize
+counterterrorism and counternarcotics objectives
+, perceptions of a potential regime-change agenda quickly emerge. The conflict escalates beyond the rural smuggling corridors of Zulia State and Apure State to include political and paramilitary actors operating in Caracas and other major urban centres.
+Maduro would capitalize on the attacks to reinforce his narrative of defending national sovereignty against U.S. imperialism. He would order the deployment of military forces and
+colectivos
+–
+pro-government armed groups that operate in support of the ruling party and have a history of using violent intimidation against civilians
+–
+to deepen political repression and increase the persecution of alleged conspirators and perceived U.S. sympathizers. Concurrently, opposition factions would perceive U.S. strikes as Washington’s implicit backing for a power shift, and would mobilize to attempt a regime change. Pro- and anti-Maduro forces engage in territorial and political struggle, further eroding the internal security environment. Rogue armed groups might sense opportunity and could exploit the vacuum of control; as clashes spread in both urban and rural areas, mass displacement becomes a major effect.
+Using historical migration data during peak political unrest as an analogue, Venezuela’s 2018–2020 crisis offers a benchmark. In 2017, opposition-led demonstrations such as the “
+Mother of All Marches
+” exposed the collision of urban mobilization, state repression, and
+colectivo
+activity. Maduro’s 2018 reelection, widely condemned as illegitimate, and Juan Guaidó’s self-declaration as interim president deepened turmoil and contributed to a mass exodus.
+Between 2018 and 2020, some sources estimate
+3.52 million Venezuelans
+fled the country, or about 11.8 percent of the 2018 population. Data from the UNHCR during the 2018-2020 time period reveals increases of approximately 1.8 million
+4
+Venezuelans classified as refugees, asylum seekers, or other persons in need of international protection, equal to 6.1 percent of the 2018 population. If a comparable acute conflict erupted today with a population of 28.4 million, a 6 percent–11 percent displacement rate would equal 1.7 to 3.1 million people forcibly displaced within three years. Given this scenario’s heightened intensity involving foreign strikes, urban and rural spread, and a regime–opposition joust, actual displacement could occur faster and at even higher levels.
+Iraq’s experience following the 2003 U.S. invasion, a country with a population comparable to Venezuela’s, offers a useful parallel. Within three years of the intervention and the fall of Saddam Hussein’s regime, UNHCR recorded an increase of 2.9 million Iraqis displaced internally and abroad — about 10.9 percent of its pre-war population — due to regime collapse, foreign intervention, and sectarian violence. While Venezuela’s context differs, Iraq’s displacement trajectory provides a comparative benchmark. In Iraq, about half of those displaced remained internal, whereas most Venezuelans historically have fled abroad, meaning neighboring states would likely absorb the brunt of any new exodus.
+The areas most affected would likely include Zulia, Apure, and major urban and port centers such as Caracas, Maracaibo, and Valencia. Should the conflict widen, displacements could extend to other states, such as Amazonas, Bolivar, and Delta Amacuro, where Indigenous communities are often trapped between guerilla groups, traffickers, and state forces.
+Displacement flows would likely follow established routes: the Táchira–Norte de Santander corridor into Colombia, the Apure–Arauca crossings, and movements south into Brazil’s Roraima region. Smaller maritime routes to Trinidad and Tobago or Guyana would likely be avoided given recent U.S. strikes. Such flows would constitute a distinct surge in displacement and strain Colombia’s already burdened reception systems and pressure regional partners like Brazil.
+Total forecasted displacement: 1.7 million to upward of 3 million additional Venezuelans over 1–3 years.
+Scenario 3: U.S. strikes trigger protracted internal conflict
+In this scenario, U.S. intervention triggers a protracted internal conflict centered on regime change. Even if the government falls, resistance from Maduro loyalists, cartels, and paramilitary groups sustains prolonged violence inside Venezuela. The result is a severe escalation of humanitarian needs and displacement pressures.
+The collapse of governance, security institutions, and basic infrastructure, combined with economic isolation and fragmented territorial control, could transform the current crisis into a chronic regional refugee emergency. Continued clashes among regime, opposition, and armed nonstate actors would deepen social divisions, entrench food insecurity, and prolong economic paralysis, amplifying the regional humanitarian burden.
+As such a protracted conflict lacks precedence in Venezuela, using Iraq as a rough proxy can help determine the potential trajectory of displacement. Iraq’s displacement after 2003, illustrates the compounding effect of regime change, sectarian fragmentation, and sustained insurgency. Five years following the U.S.-led invasion,
+roughly 3.7 million Iraqis
+, about 14 percent of the pre-invasion population, had been displaced internally and externally, with large-scale internal movements gradually transforming into cross-border refugee flows toward Syria, Jordan, and Iran.
+The Iraq context demonstrates how foreign military action, when layered onto preexisting political fissures, can rapidly evolve into complex, multi-party conflicts with escalating humanitarian repercussions. Applying this analogue to Venezuela suggests that a protracted conflict, lasting 3-5 years, could displace more than the 1.7 million to 3 million people projected in the previous scenario.
+A wider, more sustained conflict marked by prolonged combat in urban centers, widespread insecurity along transport corridors, and the continuous erosion of basic services could, conservatively, generate more than 4 million additional Venezuelan refugees, equating to roughly 14 percent of Venezuela’s current population.
+Established migration routes, aforementioned surveys showing up to 40 percent of Venezuelans considering migration around the 2024 elections, and worsening conditions with over four million needing aid could drive actual displacement far higher.
+Such displacement would likely center on conflict-affected urban corridors — Caracas, Maracaibo, Valencia, Barquisimeto — and border states like Táchira, Zulia, and Apure, where state authority may collapse entirely. The emergence of ungoverned zones would facilitate illicit economies, further entrenching nonstate actors and impeding humanitarian access.
+Geographically, displacement patterns in a protracted conflict would likely evolve in phases. Initial outflows would remain concentrated along existing humanitarian corridors into Colombia and Brazil. However, over time, continued instability and border saturation would push movements deeper into South America, particularly toward Ecuador, Peru, Chile, and Argentina. The reemergence of maritime routes to the Caribbean, coupled with irregular crossings through the
+Guiana Shield
+, would further complicate protection and registration efforts. Urban areas such as Bogotá, Lima, and São Paulo, already hosting large Venezuelan communities, could see population increases of several hundred thousand refugees each, straining municipal systems, labor markets, and public health infrastructure.
+In sum, while a short-lived conflict could produce displacement on the order of 1.7 million–3 million people, a protracted, fragmented confrontation among regime, opposition, and armed groups could more than double those figures in five years. The burden on neighboring states and regional institutions would be profound, necessitating coordinated international protection frameworks, expanded humanitarian funding, and long-term stabilization strategies to mitigate a crisis of continental scope.
+Total forecasted displacement: 4 + million additional Venezuelans displaced over 3-5 years. Protracted conflict may last longer, extending to 5–8 years and beyond, increasing these numbers.
+Scenario 4: U.S. strikes precede invasion
+In this scenario, the United States launches a full-scale military invasion aimed at forcibly removing the Maduro regime and establishing a new government. Unlike limited strikes or actions that trigger internal conflict, this involves sustained U.S. ground operations, aerial bombardment, and extended military occupation.
+Direct invasion would produce quick regime collapse but could create a prolonged power vacuum. The Venezuelan military, significantly weaker than Iraq’s 2003 forces and degraded by years of economic crisis, would likely offer limited resistance to U.S. conventional operations. However, the post-invasion trajectory remains highly uncertain.
+In an optimistic scenario where the U.S. quickly establishes stable governance, displacement could be contained and reconstruction could begin within a few months to 2 years. In a pessimistic scenario resembling Iraq’s experience, post-invasion insurgency from militias loyal to the Maduro regime, ELN and FARC dissidents in border regions, Cartel of the Suns remnants, and Cuban-trained operatives could persist for 5 years or longer.
+Venezuela presents factors suggesting both higher and lower displacement than Iraq. On one hand, Venezuela’s 7.7 million existing displaced population has created established migration networks, and regional borders with Colombia and Brazil are more permeable than Iraq’s were with its neighbors.
+On the other hand, Venezuela lacks Iraq’s deep sectarian divisions that drove systematic ethnic cleansing, and Venezuelan military capacity for sustained insurgency is even weaker than Iraq’s professional armed forces proved to be. The Cartel of the Suns and allied groups (ELN, FARC dissidents) operate primarily for narcotrafficking profit rather than ideological commitment, making them potentially negotiable with a post-Maduro government rather than dedicated to protracted resistance.
+The estimates under this scenario differ from that of scenario 3 depending on whether we assume the presence of the U.S. military would serve as a stabilizing force. Scenarios 2 and 3 envision U.S. strikes that destabilize the Maduro regime without establishing control, potentially fracturing Venezuela into competing armed factions with no unified authority to prevent widespread violence. This uncontrolled fragmentation would likely generate sustained displacement as multiple parties vie for power across years of conflict.
+In contrast, the most optimistic outcome in this scenario assumes rapid regime decapitation followed by immediate U.S. security presence that prevents descent into multi-party civil war. This would more closely resemble the U.S. invasion of Panama than the invasion of Iraq. In 1989, the U.S. removed Panamanian strongman Manuel Noriega, established security, and transferred power to a functioning civilian government within weeks, producing minimal displacement. In total, an estimated
+18,000
+–
+20,000
+Panamanians were displaced during U.S. operations, equivalent to roughly 0.83% of Panama’s
+population
+that year.
+Applied to Venezuela’s 28.4 million population, this suggests that approximately 232,000 Venezuelans would be temporarily (and largely internally) displaced in the best case scenario following on-the-ground U.S. intervention.
+There are plenty of reasons why this optimistic outcome may not materialize. Venezuela is in a far graver state of economic collapse than Panama was, the population and terrain are several times larger and more difficult to effectively control, and the country’s vast Amazon interior provides sanctuary for insurgent groups in ways Panama’s compact geography did not. Most critically, the optimistic scenario depends entirely on competent U.S. post-invasion planning—an aspect that the administration is allegedly
+neglecting
+.
+The pessimistic scenario, resembling Iraq’s prolonged occupation, would see post-invasion insurgency persist for five years or longer, generating the same 4 million displaced as in Scenario 3’s protracted internal conflict. The ratio of internal to external displacement would progressively favor international flight as continued instability convinces Venezuelans that return is impossible, with Colombia and Brazil bearing the primary burden.
+Thus the 232,000 to 4 million range captures fundamental uncertainty about post-invasion dynamics. Venezuela’s structural differences from Iraq—particularly the absence of sectarian fault lines and weaker military capacity for sustained resistance—suggest outcomes would likely fall between these bounds.
+Total forecasted displacement: 232,000 temporarily displaced in an optimistic scenario, 4 million plus displaced over the course of five years under a prolonged and unsuccessful occupation.
+Scenario 5: U.S. maintains status quo
+In this scenario, the United States does not escalate beyond the maritime interdiction operations launched in October 2025. After initial strikes on putative Venezuelan drug trafficking vessels in Caribbean waters, the U.S. settles into a sustained but limited counternarcotics campaign focused on interdiction, sanctions, and diplomatic pressure rather than expanding to land strikes or attempting regime change.
+The U.S. would maintain robust sanctions targeting the Maduro regime, cartel leadership, and financial networks. The administration would continue supporting opposition figures diplomatically but stop short of military support for regime change. Maduro would survive with his power structure intact, though weakened by maritime interdiction that reduces cartel revenues that flow to regime-connected military officials. Russia and China would maintain economic and diplomatic support sufficient to prevent collapse but insufficient to restore economic growth.
+The Venezuelan economy would remain in depression, with no prospect of recovery while sanctions remain in place and oil infrastructure continues degrading from lack of investment and maintenance. The humanitarian crisis would persist at current levels or gradually worsen, with the
+14.2 million Venezuelans
+requiring assistance growing to 15 million–16 million as elderly populations increase, working-age emigration continues, and basic services further deteriorate.
+International attention would gradually shift to other crises, with the Venezuelan situation normalized as a chronic emergency receiving inadequate funding and generating annual displacement flows rather than acute crisis response.
+As with the scenarios above, predicting the future flow of Venezuelan refugees relies on informed approximations. According to archived data from R4V, the Venezuelan refugee population grew by 170,000 from
+2023
+to
+2024
+. Under an optimistic estimate, if outward flows are reduced by 50%, then roughly 425,000 additional Venezuelans would leave in the next five years. If outflows stay the same, this number grows to 850,000. If they increase on average by 20% over the course of five years, the total would come to 1.02 million.
+Total forecasted displacement: 425,000 to 1.02 million additional Venezuelan refugees over the course of five years.
+Footnotes:
+Calculated using data from the UNHCR’s Refugee Data Finder:
+https://www.unhcr.org/refugee-statistics
+↩︎
+Calculated using data from the United Nations Population Division:
+https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Population
+↩︎
+Calculated using data from the UNHCR’s Refugee Data Finder:
+https://www.unhcr.org/refugee-statistics
+↩︎
+Calculated using data from the UNHCR’s Refugee Data Finder:
+https://www.unhcr.org/refugee-statistics
+↩︎

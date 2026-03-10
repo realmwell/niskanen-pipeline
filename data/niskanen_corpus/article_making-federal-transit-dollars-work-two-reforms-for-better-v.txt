@@ -1,0 +1,91 @@
+TITLE: Making federal transit dollars work: Two reforms for better value
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/making-federal-transit-dollars-work-two-reforms-for-better-value/
+WORDS: 1810
+
+The federal government invests tens of billions of dollars in transit each year—
+$23 billion in 2023 alone
+—expecting this investment to deliver quicker, safer, and more reliable access to jobs, family, and other destinations. Instead, American transit investments regularly underdeliver compared to the potential of the infrastructure built and the amount of money invested. From the
+$1.7 billion per-kilometer price tag
+of the Second Avenue Subway to an average of
+$626 million per-kilometer nationwide
+, American transit projects are the most expensive of our international peers. Meanwhile, the systems we build often underperform their potential due to low population densities near stations that
+do not generate large ridership
+. Inflated construction costs and idle infrastructure make it hard to dismiss accusations of waste in federal transit spending.
+Congress can fix both problems—and save taxpayers money—by pairing cost control with pro‑housing incentives in the next five‑year surface transportation bill. Lawmakers should consider two targeted reforms:
+Create a federal transit delivery system to help agencies cut project costs and schedules.
+Update transit grant programs to reward states and localities that allow housing growth near transit.
+Together, these reforms would help ensure that the billions in federal transit spending deliver enough mobility and development benefits to be worthy investments.
+Create a federal team to streamline transit project delivery
+There’s no single culprit behind America’s sky‑high transit costs, but a top driver is the shortage of in‑house expertise at most agencies. Transit agencies consistently face the same dilemma: major capital projects are too rare to justify permanent specialist teams—this is especially true for small systems, but even many large ones lack a steady project pipeline.
+So agencies lean heavily on consultants for everything: from niche technical work to, increasingly, design and project management.
+Consultants do serve an important function
+for some expertise that genuinely requires temporary deployment. With thin internal capacity, agencies become “bad clients”—unclear on goals, slow at making decisions, and weak at contracting. Consultants, meanwhile, face incentives to expand project scope and complexity (not trim it), but also don’t own the hard tradeoffs needed to keep budgets in check. The result: bloated costs, frustrated agencies, and consultants who can’t deliver what they are best at.
+The federal government already has several successful models for addressing this challenge. For example, the U.S. Digital Service (USDS) was established with the goal of combining the benefits of in-house capacity and mission alignment with the flexibility of consultants.The USDS will deploy temporary surges of technical capacity to major software projects in the federal government. The federal government even operates a major civil engineering consultancy: the U.S. Army Corps of Engineers. The Army Corps has provided specialized technical construction and management expertise to many federal, state, and local clients through the
+Interagency and International Services program
+for decades.
+An equivalent federal transit public consultant should follow this general model. Larger local agencies with enough in-house project delivery expertise could receive a surge of technical capacity from the public consultant as needed. Smaller agencies would benefit from the public consultant providing a larger management role, much as the Army Corps does for some of its projects. Ideally, this consultant team should be embedded within the Department of Transportation (DOT) or Federal Transit Administration (FTA) funding offices, aligning its delivery support with the agencies’ existing oversight roles.
+This agency would deploy experts to transit agencies to support five critical functions:
+Support Project Initiation & Definition:
+Assist agencies in developing clear scopes, goals, and risk assessments for major capital projects (e.g., rail expansions, bus rapid transit, fleet procurements).
+Strengthen Procurement:
+Advise on “best value” request for proposals (RFPs) and complex procurement navigation.
+Provide Specialized Technical Expertise:
+Offer short-term deployments for areas like system planning or tunnel engineering.
+Augment Project Management:
+Temporarily embed experienced managers to oversee critical phases.
+Survey data
+shows that change orders and administrative process concerns are significantly correlated with cost overruns, suggesting that stronger project management and contract-writing capabilities could deliver substantial savings while ensuring accountability and institutional knowledge transfer.
+Conduct “
+Red Team
+” Reviews:
+Offer independent, adversarial, assessments of project plans—where outside experts deliberately try to find flaws and weaknesses before construction begins.
+This approach leverages existing federal investment more efficiently. Since federal grants already fund major portions of transit projects, the federal government already bears the cost of poor transit agency capacity. This poor capacity manifests as costly project management failures—from unclear scopes, to ineffective contract management, to poor planning—that trigger change orders and delays. A federal public consultant lending project management expertise would immediately cut costs by preventing these problems to begin with, while building institutional knowledge that will bolster long-term savings.
+When agencies without steady project pipelines complete a project, their specialists leave—and take their hard-won lessons learned about federal requirements, technical challenges, and effective project management practices with them.The next team, at the same agency or elsewhere, often pays to relearn the same lessons.
+A permanent federal delivery team could capture and reuse that knowledge across projects, shrinking learning curves and avoiding repeat mistakes. It would also offer clear career paths for ambitious specialists, helping government compete for specialized talent, and deepening the expertise available for federally-funded projects.
+While the program would likely face the same
+federal hiring and salary challenges
+that affect USDS, broad civil service reform aimed toward competitive compensation could offer some relief. While this might be a tall order in the short-term, some existing special hiring authorities let agencies bypass standard federal hiring procedures—including lengthy job postings and
+rigid qualification requirements
+—for specialized technical positions.
+Expand the proposed Build More Housing Near Transit Act
+High construction costs aren’t the only way federally funded transit falls short. Too many projects miss their ridership potential because pricey infrastructure is built where too few people can actually use it. The point of transit investment is to improve mobility—the ability to access as many jobs, services, and other destinations as possible within a reasonable time—for as many people as possible. Yet restrictive zoning around both rail stations and regular bus stops, combined with poor feeder bus connections to major transit lines, sharply cap how many people actually benefit. Put another way, local policies undermine federal investments.
+Federal transit funding should incentivize better local policy that maximizes access and ridership, ensuring that taxpayers see meaningful benefits from their infrastructure investments The payoff of better local policy can be substantial—theNoMa neighborhood in D.C. is a model for how
+supportive housing policy
+can
+buck national post-COVID declines in transit usage
+.
+The Build More Housing Near Transit Act (BMHNT), provides a solid federal template for boosting access and ridership through
+smarter
+housing policy
+. The
+latest draft
+is strong: it spells out concrete land use reforms, improves coordination between the Department of Housing and Urban Development (HUD) and FTA, and encourages state and local reforms. Its main shortcoming is scope. By zeroing in on the Capital Investment Grant (CIG) program—which funds “fixed guideway” transit such as rail or bus rapid transit (BRT) along individual corridors—it largely ignores regular bus services, a backbone of most systems that also draws substantial federal capital funding.
+Moreover, the potential ridership for these projects can include more than just those who walk to stations. A new rail or BRT line’s effective ridership area—its “transit-shed”—may extend well beyond the half-mile walking radius of the station to include neighborhoods served by connecting transit routes.
+For example, Seattle’s Sound Transit extended federally-funded light rail service
+to the University of Washington in 2016
+. The terminal station served the stadium, medical center, and a corner of campus—but few nearby homes. King County Metro responded by
+overhauling the northeast Seattle bus network
+to feed the station with frequent service to outlying neighborhoods, including the
+recently upzoned
+University District. The Seattle Department of Transportation then added
+new bus-only lanes
+, speeding up the connecting buses and further expanding the station’s transit-shed. These local policies helped Seattle notch some of the
+fastest transit-ridership growth of the 2010s
+.
+Federal policy should reward other jurisdictions that replicate this approach, including supporting housing development in the transit-shed of the federal investment and expanding said transit-shed with frequent and fast transit connections. This would allow far more people to access the benefits of federal rail investments.
+Two tweaks to Build More Housing Near Transit could close these gaps.
+First, federal policy should encourage better zoning around regular bus stops to maximize ridership on the broader transit network. Urbanized areas with populations greater than 200,000 receive a large portion of their capital and maintenance budgets for non-fixed-guideway buses from
+Section 5307 Urbanized Area Formula Grants
+. This formula should be modified to include a competitive Transit Oriented Development set-aside that rewards agencies whose local partners have increased returns on investment by enacting pro-housing reforms.
+Eligibility could hinge on adopting “pro‑housing policies” (as
+defined by BMHNT
+) within a quarter mile of high‑frequency bus stops (service every 15 minutes or better at the time the policy launches). It would essentially operate as a transit “prize”—a carrot for states and localities weighing broader transit-oriented development bills.
+Second, federal policy should incentivize expanded feeder services to reach more areas, combined with supportive housing policies in those newly accessible areas, to maximize access to fixed guideway investments. CIG projects should receive higher scores when they encompass more developable land covered by pro‑housing policies within the project’s “transit‑shed”.
+The transit-shed should be defined as the area for which riders can reasonably reach to or from any corridor station—on foot or via a transfer. Practically, this means all places reachable by transit plus walking within, say, 20 minutes at typical (non-rush hour) frequencies.
+This would complement existing BMHNT requirements by recognizing that successful rail and BRT systems depend on riders who begin their journeys throughout the broader transit network. Because more frequent feeder service enlarges the effective transit-shed, this scoring framework would incentivize local agencies to improve transit connections to stay competitive for federal grants.
+To ensure accountability, grant agreements should include enforcement mechanisms. If jurisdictions fail to implement promised pro-housing policies within the transit-shed, developers should have a federal pathway to seek relief from local restrictions that prevent the housing development that justified the federal investment. This would ensure that communities follow through on commitments prompted by federal funding decisions.
+Conclusions
+Using the federal government’s existing policy levers, these proposals tackle two of the biggest drivers of waste in federal transit investments.
+Of course, better project delivery and land use coordination, while essential, aren’t enough on their own. Even with well-managed construction and transit-oriented development, we must pair federal capital dollars with sustained operating commitments so new infrastructure actually moves people quickly and reliably.
+Still, these ideas are realistic first steps that Congress can take now. By tightening how we build transit and maximizing who can use it, federal policy can finally deliver the mobility and development returns our investments promise—and our cities need.

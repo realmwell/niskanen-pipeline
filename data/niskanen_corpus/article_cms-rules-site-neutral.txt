@@ -1,0 +1,116 @@
+TITLE: Shifting the balance: How CMS’s 2026 rules target higher-value care
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/cms-rules-site-neutral/
+WORDS: 2250
+
+Each year, few developments in healthcare policy are more consequential than the Centers for Medicare & Medicaid Services (CMS) payment updates. These rules determine how much doctors and hospitals are paid by Medicare—decisions that ripple across the entire healthcare system, shaping the supply of medical care and influencing the rates private insurers pay. This summer, CMS released the new administration’s first proposal for adjusting Medicare payments to
+doctors
+and
+hospitals
+.
+The proposed 2026 rule begins to rebalance reimbursements by shifting spending away from hospital-owned settings for care and toward primary care and other freestanding outpatient clinics. Because these non-hospital settings for care often deliver the same or better quality of care at lower cost, the change would improve the overall value of Medicare spending and direct resources toward more needed care models. Although both rules are statutorily required to be budget neutral, spending more on higher-value services makes the healthcare system more efficient by getting more out of the same resources.
+The proposal also takes an important step toward revisiting
+how
+Medicare determines the value of specific services, questioning the outsized role of organized medicine in that process. While CMS missed some opportunities to better safeguard the financial sustainability of primary care practices, the agency’s reforms represent a meaningful improvement. We have submitted public comments on the
+PFS
+and
+OPPS
+rules urging CMS to preserve these changes.
+How Medicare payment policy impacts care supply
+Healthcare supply is deeply shaped by how Medicare reimburses services across different settings. Payment rates can determine the financial viability of certain care models, rendering it critical that Medicare provides reimbursement that accurately reflects the cost of a specific service. But Medicare has long reimbursed hospital-owned clinics significantly more than freestanding clinics for the exact same services. Similarly, Medicare’s reimbursement for procedural services (like surgeries and imaging) have long out-paced critical time-based specialties like primary care.
+Outpatient settings like Ambulatory Surgical Centers (ASCs) and physician offices typically deliver many services at lower cost and equal quality compared to hospital outpatient departments (HOPDs). Over time, these reimbursement rates have distorted the healthcare market and disconnected the value of healthcare services from their cost. When that happens, that triggers a series of consequences currently plaguing the American healthcare system.
+Paying hospital-owned clinics higher rates than independent practices for the same services has long encouraged hospitals to acquire physician practices and expand care into costlier settings. The result has been
+greater market consolidation
+,
+disrupted competition
+, and higher overall costs – without corresponding gains in quality.
+Paying procedural specialties at higher rates than time-based fields such as primary care has helped fuel the nation’s shortage of primary care physicians. Because reimbursement rates are higher in other specialties, neither medical students nor residency programs have strong financial incentives to choose primary care. Inadequate payment also pushes existing primary care providers to sell their practices to larger systems that can command higher reimbursements and offer better salaries. In the worst case, Medicare’s devaluing of primary care services has resulted in primary care doctors
+leaving the field altogether
+or
+leaving Medicare
+, further exacerbating patient access issues.
+Changes to physician reimbursement: Curbing the RUC and improving primary care payments
+The Physician Fee Schedule (PFS) determines the Medicare reimbursement rates for physicians who perform services in hospitals, outpatient departments, and other sites of care. Each year, CMS proposes changes to these reimbursement rates and the rules that govern them. While the 2026 proposed rule covers a wide span of topics, a key theme emerges: CMS wants to direct more funding to primary care services—and in so doing, curb the influence of organized medicine.
+The efficiency adjustment
+The rates that Medicare sets for physician services are heavily influenced by the American Medical Association’s (AMA) Specialty Society Relative Value Scale Update Committee (RUC). This 32-member committee is made up of physicians from 22 different specialties who annually review procedural codes and recommend to Medicare the relative value of each service, based on the time and intensity required. In 2025,
+91 percent
+of rates were at or above the RUC’s recommendations. Historically, Medicare has accepted about 87 percent of the group’s proposals.
+While the proposed 2026 rule also follows the trend and accepts approximately 90 percent of the RUC’s recommendations, CMS is directly challenging organized medicine’s influence over reimbursement by introducing a new “efficiency adjustment” to address what it calls historically “
+overinflated
+” valuations. This adjustment will reduce reimbursement for the physician portion of non-time-based services by 2.5 percent, affecting procedures like imaging and surgeries. Time-based specialties like psychiatry and primary care will see an increase as a result, likely between
+1 and 4 percent
+. Redistribution is required due to statutory budget neutrality rules.
+Medicare’s rate-setting has long incentivized the overuse of costly specialty procedures while undervaluing time-based services like primary care visits. Many
+health
+policy
+experts
+, the
+Government Accountability Office (GAO)
+, and
+the current administration
+have all argued that CMS’s reliance on the RUC to determine the value of physician services has contributed to this distortion in the PFS. For example, while a skin lesion removal code is listed by the RUC as taking 29 minutes to perform, experts found that the service instead takes
+only seconds
+.
+Inflated time valuations chronically undervalue primary care, which is less procedure-based and more cognitive in nature. The result is a stark earnings gap: primary care physicians earn roughly
+half as much
+as specialists. Faced with this disparity, more new doctors choose higher-paying specialties, reducing the pipeline of primary care providers. This shortfall limits access to the kind of continuous, relationship-based care patients need to manage their chronic conditions.
+We commend CMS for taking meaningful steps to rebalance reimbursement rates between primary care and procedural specialties through the new efficiency adjustment.
+New practice expense methodology
+CMS has proposed an additional change that moves the agency away from using the AMA’s data reporting and calculations. Rather than adopting the AMA’s survey data—typically used by CMS to measure the practice expenses which help determine reimbursements—CMS has offered its own changes to practice expense methodology. In the 2026 rule, CMS proposes to redistribute payments by lowering the share of indirect costs allocated to facility-based services (such as those provided in hospitals) and increasing the share for non-facility, primarily office-based, services. Reimbursement for facility-based care could drop as much as
+7 percent
+, while office-based care would likely experience a proportional increase.
+This change reflects longstanding concerns about the survey data the AMA collects to help determine practice expenses. CMS notes that the surveys suffer from small sample sizes, lower-than-expected response rates, measurement errors, and incomplete submissions, among other flaws. A 2015 GAO investigation
+found
+that the RUC’s low response rates could produce inaccurate payment recommendations.
+This methodology change will ensure that physician reimbursement rates better reflect the growing share of doctors employed by large hospital systems. By shifting more of the indirect payment value to office-based care, where physicians bear all operational expenses directly, Medicare can more accurately align payments with the actual costs of delivering care in each setting.
+In the long run, these kinds of payment shifts toward office-based and primary care are helpful to stem the tide of rising hospital consolidation, which Medicare reimbursement rates have
+long incentivized
+. By making office-based and primary care more financially viable, Medicare can help reduce the market distortions that plague the healthcare system and add more competition.
+Missed opportunity: Expand the primary care exception for residents
+In the
+2025 MPFS rule
+, CMS included a Request for Information about expanding the codes included in the “Primary Care Exception (PCE)” for residency programs. The PCE allows residents in primary care specialties who have completed more than six months of their residency program to provide certain services with indirect supervision, rather than the physical presence of a teaching physician. The PCE, established by rule in 1996, was designed in part to help ensure the financial viability of family medicine residency programs.
+Since 1996, CMS has permanently added only three new service codes to what residents may provide under the PCE—despite major advances in technology and monitoring capabilities as well as the introduction of competency-based residency program requirements.
+Currently, the PCE restricts residents mainly to lower- and mid-level complexity codes (level 1-3 evaluation and management (E/M) services). But during the public health emergency in 2020, CMS
+expanded
+to include level 4 and 5 outpatient E/M services, preventive services, and patient continuity and integration of care codes. In May of 2023, with the expiration of the public health emergency, these services were again removed from the PCE.
+Expanding the PCE to include higher level services would make primary care residency slots more attractive by reducing the opportunity costs tied to added supervision.This change is critical to sustaining the long-term financial viability of primary care residency programs. Many nurse practitioners across the country can perform level 4 and 5 outpatient E/M services without direct supervision.
+Evidence
+also suggests that primary care residents are frequently delivering services that qualify as a Level 4 or 5 E/M visit, but are forced to either bill under a lower code rather than stop a visit to call in a supervising physician.
+CMS should reconsider
+expanding the PCE
+to ensure that, amidst the primary care shortage, residency programs and prospective medical students have stronger incentives to pursue primary care residency slots.
+Changes to hospital outpatient reimbursement
+The Outpatient Prospective Payment System (OPPS) sets predetermined Medicare payment rates for hospital outpatient services. CMS updates these payment rates annually to reflect the resources required to provide outpatient services. CMS has proposed two changes that will improve the value of Medicare spending by directing spending towards lower-cost models for care in independent clinics and ambulatory surgery centers (ASCs).
+Site-neutral payments for drug administration
+CMS’s 2026 OPPS proposed rule expands
+site-neutral payment policy
+to drug administration services provided in excepted off-campus provider-based departments, aligning payments to the Medicare Physician Fee Schedule rates instead of higher hospital outpatient rates. This type of reform is needed because Medicare typically pays hospitals significantly more than independent physician offices for the same service. For example, routine X-rays are reimbursed at rates up to four times higher in hospital outpatient departments (HOPDs) than in physician offices. This is also the case for drug administration services like IV infusions and chemotherapy, which are reimbursed at
+2.5x higher rates
+in HOPDs than they are at freestanding clinics despite the service being functionally identical.
+This proposal echoes an earlier version of the
+Lower Costs, More Transparency Act
+(2023), which would have introduced site-neutral payments for drug administration and was projected to save
+$4 billion over 10 years
+. CMS estimates that this version in the 2026 rule would save $280 million in 2026, likely reaching a few billion spending in savings when stretched over 10 years.
+This reform is especially important for Medicare beneficiaries who rely heavily on outpatient treatments—particularly cancer patients, for whom chemotherapy infusions at HOPDs can carry a significant financial burden. Of the $280 million in savings next year, beneficiaries would see
+$70 million saved
+through reduced coinsurance. This represents a meaningful reduction in out-of-pocket costs for Medicare patients. Some estimates suggest that a broader site-neutral policy would save certain cancer patients
+more than $1,500
+. CMS should build on this proposal and advance comprehensive site-neutral payment reform to curb unnecessary spending and ease financial pressures on patients.
+More procedures in lower-cost settings
+In another step to shift Medicare spending toward lower-cost, non-hospital models, CMS is proposing two changes that would allow more surgeries to potentially move from inpatient hospital stays to outpatient settings including Ambulatory Surgical Centers (ASCs). The 2026 proposed rule would do this by phasing out the Inpatient-Only List, a classification of procedures that Medicare will not reimburse in an outpatient setting. The IPO list has long prevented certain surgeries from being performed at Ambulatory Surgery Centers (ASCs), who offer
+better or similar quality care at lower costs than hospitals
+.
+The proposed rule also adds 547 codes to the ASC covered procedures list, expanding the range of services Medicare will reimburse in these lower-cost settings. By enabling beneficiaries to receive coverage for hundreds of additional procedures outside hospitals, CMS could help shift some care from high-cost inpatient settings to more affordable outpatient facilities—generating savings for both Medicare and its patients over time. For example, shifting joint replacements from predominantly inpatient to a 50/50 inpatient/outpatient split could reduce spending by about
+$1.2 billion annually
+. While it is unclear how many hospital-based procedures will be
+replaced
+by outpatient procedures, this reform pushes Medicare spending in the right direction, towards lower-cost treatment without compromising patient quality.
+Looking ahead
+Medicare reimbursement policy has long contributed to the market distortions in healthcare by undervaluing critical services like primary care and reimbursing hospital-owned clinics higher than freestanding ones for the exact same services. CMS is proposing to directly confront these distortions by shifting payments toward primary care and freestanding clinics while also removing unnecessary restrictions on outpatient surgeries.
+This week marks the close of the public comment period for both the proposed PFS and OPPS, with a final rule expected in the fall (you can view our full public comments on both the
+PFS
+and
+OPPS
+rules). While some industry stakeholders are likely to continue pushing back, CMS should preserve these proposals in their current form and build on them by expanding the Primary Care Exception for residents. Though incremental, these reforms represent an important step toward rebalancing Medicare spending in favor of higher-value care.

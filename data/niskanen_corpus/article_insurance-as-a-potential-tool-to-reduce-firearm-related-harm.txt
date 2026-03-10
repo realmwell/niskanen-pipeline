@@ -1,0 +1,234 @@
+TITLE: Insurance as a potential tool to reduce firearm-related harms
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/insurance-as-a-potential-tool-to-reduce-firearm-related-harms/
+WORDS: 5570
+
+Executive summary
+Insurance companies may be in a unique position to mitigate firearm-related deaths, injuries, and other harms in the United States. Insurers have played a prominent role in helping reduce injury and death in at least two other significant areas: automotive accidents and swimming pool drownings. In those cases, insurance firms were able to make meaningful societal change simply by compelling their customers to wear seatbelts and put fences around their pools. Firearms may be more difficult for insurance companies to detect than automobiles or swimming pools. For example, firearm owners are not required to declare their firearms (nor are we advocating for this), and so an insurer may not have accurate information regarding the presence of firearms. However, insurance companies face similar knowledge gaps with other behaviors, too (e.g., smoking or past drug-use behaviors). Insurance companies have a history of innovating with regard to risky behaviors to limit risk, and in many ways, firearms are no different.
+The National Institute for Health Care Management Foundation estimates gun injury had an economic cost of $557 billion in 2022.
+1
+Meanwhile, there is mounting evidence that measures like secure storage and safety counseling significantly improve firearm safety in a cost-effective manner. So, why have insurance firms declined to act? It appears the insurance markets do not believe the proper incentives exist to bring about voluntary, preventive action. Yet if they did act, the societal benefits would likely outweigh the costs. Given this potential cost-benefit calculation, legislators, regulators, and insurance industry leaders should explore interventions to spur safety innovation. The range of actions could include:
+• Conducting research to better understand how firearms relate to insurer damages and the potential to mitigate those risks
+• Voluntarily encouraging policyholders to consider options such as secure storage or safety counseling
+• Taking legislative and regulatory steps to encourage or subsidize voluntary innovations and improve incentive structures
+• Potentially imposing mandates
+This paper explores the different types of firearm-related harms in America and the various opportunities and mechanisms by which insurance markets could potentially work to reduce those harms.
+Download the full PDF here
+Understanding firearm-related harms in America
+To lay the groundwork for considering insurance as a tool to reduce firearm-related injury and death, we must first define and describe gun violence in the United States.
+Although the terms “gun” and “firearm” are often used interchangeably, we use “firearm” to refer specifically to barreled weapons, such as rifles, shotguns, revolvers, and pistols. Air- and gas-powered weapons like BB and pellet guns, which do not use a powder charge to fire a projectile, are excluded.
+2
+“Firearm injury” and “gun violence” are also often used interchangeably. We use the term “firearm-related harms” to encompass both fatal and nonfatal firearm injuries, including through homicide, community violence, domestic violence, intimate-partner violence, mass shootings, suicide, law enforcement-involved shootings, and unintentional injuries. The term also captures the use of firearms to threaten or assault others without firing.
+3
+We use several broad categories to understand firearm-based lethality. Each category of lethal firearm use also includes instances of nonlethal use, all of which could be affected by insurance-based policies or interventions:
+• Firearm homicide
+This category includes several subtypes:
+Urban or community violence.
+This refers to firearm violence occurring in public spaces within cities or other population centers and typically involves individuals without close personal ties.
+Domestic and intimate-partner violence (DV/IPV).
+Firearms intensify the lethality of domestic violence. Abusers are five times more likely to kill their female partners when a firearm is present, and more than half of all intimate-partner homicides involve a firearm.
+4
+Firearms are also frequently used to intimidate or injure DV/IPV survivors.
+5
+Firearm violence in schools
+. Firearm violence in schools has long-term consequences for students’ mental health, academic achievement, and future opportunities. More than 394,000 students have survived school shootings in the United States.
+6
+These include mass shootings, which are becoming increasingly common.
+Mass shootings outside of schools.
+While school shootings attract significant attention, mass shootings also occur in workplaces, houses of worship, entertainment venues, and other public settings.
+• Defensive firearm use
+Many firearm owners cite self-defense as the primary reason for owning or carrying weapons, but most report never having used a firearm defensively. Defensive firearm deaths account for a small fraction of firearm fatalities, though many owners reporting self-defense as a reason for ownership also report experiencing or being exposed to firearm violence.
+7
+• Suicide by firearm
+The intentional use of a firearm to end one’s life accounts for nearly six in 10 firearm-related deaths in the United States.
+8
+Despite its prevalence, firearm suicide receives less public and policy attention than homicide.
+• Law enforcement-related shootings
+Firearm injuries inflicted by or on law enforcement personnel in the line of duty can occur during arrests, public-order maintenance operations, or threat-response missions.
+• Unintentional firearm injuries
+These occur when a firearm discharges unintentionally, often during cleaning, handling, or play. Unlike other forms of firearm-related harms, these result from accidents rather than intent to harm.
+9
+Insurance as a mechanism to reduce firearm-related harms
+The range of insurance products is vast, and they can be used to insure individuals (e.g., health or life insur ance), underlying assets (e.g., car or homeowner’s insurance), harm to persons whom others might have a duty to protect (e.g., liability insurance), or risks faced by businesses (e.g., commercial liability or workers’ compensation insurance). Firearms can be linked to insured individuals in several ways. If a claim is covered by an insurance company, the result is classified as a loss or damage.
+Firearm-related harms, both to people and insured assets, impose varying costs on insurance companies. The companies have an incentive to reduce the risk of harm, as doing so can reduce the amount they are required to pay in damages per a given insurance policy. However, insurers’ incentives vary depending on the financial risk the company faces.
+In other words, if something is especially costly to an insurance company, its incentive to reduce risky behavior is larger than it is when the risk is less costly.
+Insurance companies engage in various risk reduction strategies. For example, the “attractive nuisance doctrine” holds property owners liable for injuries to children who trespass on their property if the injury is caused by a hazardous condition attractive to children. Examples of attractive nuisances include swimming pools, construction sites, and abandoned vehicles. Peterson et al. of the Centers for Disease Control and Prevention observe that securing swimming pools with fencing prevents drowning and that improved fencing could prevent more drownings.
+10
+Therefore, insurance companies often require swimming pool fencing to reduce their risk exposure.
+In the case of life insurance, policies are priced higher if policyholders engage in behaviors increasing their risk of premature death. For example, policies may increase in price if the policyholder scuba dives or smokes. The mechanism serves both to reduce the incidence of risky behavior and price the risk into the policy to cover future claims.
+Conversely, an insurance policy might incentivize behaviors that reduce risk. For example, health insurance companies incentivize vaccine uptake by making vaccinations available at no cost or reducing premiums for those using them. Auto insurers similarly incentivize overall responsible behavior among young drivers by offering discounts in exchange for proof of good grades. Homeowners policies also offer incentives to encourage risk-reducing behaviors, such as discounts or lower premiums if homeowners purchase alarm systems or reside in fire-safe communities. They also often provide information to policyholders about how to protect their property from damage; the information might include tips before a destructive weather event or fire-protection and theft-reduction strategies.
+What is harder to pinpoint is why insurance companies are currently not involved (or at least underinvolved) in preventing firearm-related harms. Though the harms carry significant societal costs and insurance companies could implement harm-reduction strategies as they do in other policy domains, individual insurers appear not to perceive the strategies specific to firearms as being cost-effective. If insurance companies believed that firearm-related harm-reduction strategies decreased their financial exposure, we would expect to see examples of voluntary implementation.
+Because insurance companies do not implement harm-reduction strategies related to firearms, they fail to implement an approach that would benefit their policyholders, those around their policyholders, and society. The result is an apparent market failure. In other words, strategies known to be effective are underutilized because free-market forces are not bringing them about. Therefore, the insurance industry, though well-positioned to act on firearm-related harms, lacks the financial incentives to do so.
+Insurance products and firearm injury: potential interactions
+To explore how insurance can help reduce firearm-related harms, it is useful to map how existing products intersect with them. Table 1 highlights how several harm classifications relate to major insurance policy types. Insurance products respond to firearm risks in different ways — some through direct claims, others through pricing, risk pooling, or behavior incentives. The prevention opportunities we describe below remain largely untapped, though some insurers may engage in a few of them.
+Homeowners and renters insurance
+are relevant in cases of unintentional firearm injuries, domestic and intimate-partner violence, and theft of unsecured firearms. The policies often carry personal liability coverage that may be triggered if a guest — for example, a child — accesses a firearm and is injured. Despite this exposure, few policies directly encourage or require safe firearm storage. Insurers have historically required swimming pool fencing and smoke alarms; similar logic could support firearm storage incentives. For example, if an improperly stored firearm were used in an unintentional incident, insurance coverage could be denied.
+Life insurance
+policies carry financial risk when policyholders die due to firearm homicide, suicide, or encounters with law enforcement. Suicide alone accounts for nearly 60 percent of firearm deaths in the United States, a statistic with direct actuarial implications.
+11
+While many life insurers exclude suicide during the first policy year, most offer little ongoing intervention or outreach related to firearms — despite clear correlations between firearm access and suicide completion.
+Health insurance
+covers the cost of both acute and long-term treatment for nonfatal firearm injuries. It is also responsible for behavioral health services related to firearm violence exposure — whether experienced directly (e.g., surviving a shooting) or vicariously (e.g., through community trauma or school lockdowns).
+12
+Insurers should have an incentive to reduce these high-cost events, just as they do for smoking-related diseases, obesity, and vehicular injury. Research has documented the efficacy of firearm-harm reduction measures such as firearm-lock distribution or lethal means counseling, which seeks to reduce access to weapons for potentially suicidal individuals. In spite of this evidence, few health plans have pursued firearm-specific interventions.
+13
+Commercial general liability insurance
+, carried by schools, entertainment venues, workplaces, and faith-based institutions, faces increasing exposure due to mass shootings and negligent-security claims.
+14
+Some insurers now offer specialized “active shooter” coverage or security audits. But as mass shootings increase in both frequency and visibility, pressure is mounting for the industry to take a more active role in prevention.
+15
+Product liability insurance
+, while limited by federal protections like the Protection of Lawful Commerce in Arms Act (PLCAA), may be relevant when injuries are caused by defective firearm components or unauthorized modifications. Several recent lawsuits challenge the scope of PLCAA and may expand this area of risk. Were these protections weakened, liability insurers could exert influence on the design and marketing of firearms and accessories.
+Workers’ compensation
+provides wage replacement and medical coverage when employees are injured by firearms on the job. Law enforcement officers, security guards, teachers, and retail workers are increasingly vulnerable to workplace shootings or violence during routine duties. Still, insurers have scarcely been involved in proactive risk reduction beyond standard employee safety training.
+Firearm-specific liability
+is a novel and underdeveloped insurance category. A few states have proposed or enacted laws requiring firearm owners to carry liability coverage, similar to auto insurance. The policies could be designed to cover unintentional harm, misuse by children, or negligence in storage. Structured properly, they could create market-driven incentives for safe behavior and could be priced to reflect risk factors, such as criminal histories or household composition. The approach could also create a moral hazard whereby firearm owners might be less careful with their firearms, knowing they are covered in the event of an incident. Political and industry resistance has so far limited adoption and innovation.
+Public insurance programs
+, including Medicare, Medicaid, the Children’s Health Insurance Program, Department of Veterans Affairs benefits packages, and Indian Health Service programs, cover approximately 136 million people in the United States, many of whom are disproportionately impacted by firearm-related harms.
+16
+Children, Indigenous peoples, elderly white men, and men of color face elevated firearm-related risks, from suicide to homicide. Beyond fatalities, firearm violence causes lasting physical and mental health consequences for survivors and families. Public insurers are well-positioned to lead in prevention by supporting physician-initiated firearm-safety counseling. Yet uptake remains low due to gaps in screening tools, provider training, and visit-time allocation. Because many private insurers and electronic medical records follow Medicare and Medicaid protocols, these public programs have a powerful influence over whether clinicians address firearm safety, including measures such as secure storage and temporary out-of-home storage.
+Automobile
+insurance is often overlooked in discussions of firearm-injury prevention based on the assumption that auto insurers do not bear firearm-related costs. Yet each year, 200,000 to 380,000 firearms are stolen in the United States, with more than half taken from cars.
+17
+From 2013 to 2022, the rate of firearm thefts from vehicles tripled.
+18
+While homeowners’ insurance may cover a stolen firearm, auto policies typically cover vehicle damage caused during the theft. Fleet insurers — such as those covering rental cars, trucking companies, or businesses using non-owned vehicles — face growing exposure to these losses.
+Disability insurance
+is relevant when individuals survive firearm injuries but suffer long-term impairments. Like other providers, disability insurers may have reason to identify and mitigate upstream risk factors, but they generally do not intervene unless legally mandated.
+Public policy can create opportunities for insurers to leverage their position
+Firearm injury and death intersect with insurance in many ways, both visible and invisible. Despite bearing much of the financial burden, insurers have not systematically leveraged their position to contribute to or lead efforts to reduce firearm-related harms.
+The absence of coordinated industry action is not due to a lack of exposure or capacity, but rather a lack of clear incentives. The incentive gap presents a public policy opportunity. Just as insurers once helped reduce drownings by requiring pool fencing, they could play a meaningful role in reducing firearm-related harms. Changing this would require realignment of the legal and economic logic — whether through public mandates, tax incentives, or other statutory reforms that reward insurers who promote evidence-based prevention.
+A fragmented industry
+The costs of firearm-related harms fall differentially on various forms of insurance. For example, health insurance bears the brunt of medical care costs, disability insurance responds to firearm injury claims, and life insurance bears the costs of firearm-related suicides.
+The U.S. insurance industry is fragmented. An insurance company cannot offer both health and homeowners insurance due to industry regulations. While the regulations offer consumers protection in some areas, they unintentionally create a system that fails to incentivize prevention. For example, homeowners insurance providers might be well positioned to offer secure firearm storage incentives, but the cost savings would be enjoyed by providers of other insurance policies, such as health or life. Better policy alignment could support both individual safety and broad public health.
+Insurance and firearm-related harms prevention: Current and future industry actions
+Throughout U.S. history, insurance has advanced public safety — most notably in automobile regulation — through mandates, pricing mechanisms, and incentives that reduce harm. A similar framework could be applied to firearm injury, aligning insurance products with firearm safety through mandates, voluntary action, and incentives.
+Voluntary action: Working with industry to lead change
+In the absence of mandates, some insurers and affiliated industries are beginning to voluntarily engage in firearm-risk reduction strategies. For example, several healthcare systems now include firearm-access screening in patient care and electronic health records.
+19
+In states where Medicaid covers safety counseling, these practices blend public incentives with voluntary uptake, creating scalable models for other providers.
+Some property insurers have begun incorporating firearm-related questions into underwriting applications.
+20
+By asking applicants about firearm ownership and storage practices, insurers can assess household risk and encourage safe behavior without compulsion. The application questions would function similarly to those about trampoline use or dog breeds known or thought to pose liability risks. The question would help insurers price risk and make an informed coverage decision.
+If firearm-related questions are not incorporated into the underwriting and pricing of insurance policies, providers might still share information about risk reduction strategies. For example, they might highlight the prevalence of secure storage or inform policyholders of firearm safety classes available in their vicinity.
+Safety messaging is consistent with other forms of messaging insurers use to minimize potential claims. For example, during hurricane season, insurance companies offering homeowners policies often distribute information about ways to protect homes from storm damage. Similar information campaigns about firearms would inform policyholders about ways to protect their families and property and normalize safe behavior at low cost (such notices are often simply emailed to policyholders).
+Meanwhile, commercial insurers are adapting to the growing threat of mass shootings. Businesses, schools, and faith-based institutions increasingly purchase specialized “active shooter” coverage. Though active shooter incidents remain rare, they are the type of low-probability but high-cost event that is ideally suited to insurance. Policies around active-shooter or mass-tragedy events often come bundled with security assessments and safety recommendations. By recognizing that some measures might reduce losses, they represent a private-sector shift toward recognizing firearm-related harms as a preventable risk rather than a random and expensive tragedy.
+Voluntary firearm-harm reduction initiatives currently function as proof-of-concept programs. They may precede broader regulation and signal emerging norms within the insurance industry. Of course, we would also encourage (and be open to facilitating) targeted research on any and all initiatives to understand the impact of any intervention and its cost-effectiveness.
+Policyholder incentives: Aligning safety and financial rewards
+Policyholder incentives offer a flexible, scalable means of promoting risk-reduction behaviors. Just as homeowners receive premium discounts for installing alarm systems, insurers could explore offering policyholders lower premiums for documented secure firearm storage. To be effective, the discount would need to be large enough to encourage firearm owners to both disclose their firearm ownership and secure their firearms, and the insurance provider would need to price premiums such that they remain competitive with other policies in the industry. Insurers could also subsidize safety devices, such as locks, for individuals at elevated risk, mirroring harm-reduction approaches already used in opioid-misuse prevention and childproofing. Health insurers could extend benefits to individuals who complete certified firearm safety training or receive firearm safety counseling — like wellness programs that reward smoking cessation or weight loss.
+Public-private partnerships could also incentivize and promote evidence-based behaviors. Given that the U.S. surgeon general declared gun violence a public health crisis in 2024, one kind of partnership could involve allowing individuals to use their Flexible Spending and Health Savings Accounts to purchase approved secure firearm storage devices or take safety classes. Insurance companies could promote the safety measures as they do other covered expenses, while the federal government would expand its list of eligible items without increasing the pre-tax contributions threshold, potentially making the policy fiscally neutral.
+Working toward unifying insurance strategies
+While each insurance-driven mechanism for reducing firearm-related harms — mandates, voluntary action, and incentives — holds potential, all three can be deployed together. Insurance companies already absorb much of the cost associated with firearm injury through medical claims, disability payments, liability settlements, and death benefits, yet rarely participate in prevention.
+Mandates: Reducing injury by requiring risk reduction
+Government mandates offer a direct route to embed firearm risk reduction within the insurance system. Drawing on the auto insurance model, the city of San Jose, California, now requires firearm owners to carry liability insurance to cover negligent or accidental firearm use.
+21
+While politically contentious, requirements assigning financial responsibility to firearm owners have withstood court challenges and compel the insurance sector to take a proactive role. In addition to San Jose, legislators in states across the political spectrum have proposed mandates. While none has been adopted to our knowledge, the effort signals an interest by some state lawmakers to use insurance as a mechanism to reduce firearm-related harms. California, Massachusetts, Minnesota, New Jersey, New York, North Carolina, South Carolina, Tennessee, and Vermont have considered bills mandating firearm liability insurance; some of the proposals would also require training. In addition, Illinois has explored legislation that would require a task force to study existing and potential firearm insurance coverage.
+Another area of regulatory potential lies in health insurance coverage. In 2024, President Biden directed the Centers for Medicare & Medicaid Services to clarify that states may use Medicaid to reimburse individuals for firearm safety counseling and hospital-based violence intervention programs. At least seven states, including California, Illinois, and Maryland, now use Medicaid funds to cover at least some of these services as part of preventive care.
+An emerging area of statutory law is aimed at incentivizing safer behaviors from the firearm industry, which includes both manufacturers and retailers. Specifically, the federal Protection of Lawful Commerce in Arms Act (PLCAA), enacted in 2005, gave broad immunity to the firearms industry against being sued when their products are used in crimes.
+Between 2021 and 2025, 10 states — California, Colorado, Connecticut, Delaware, Hawaii, Illinois, Maryland, New Jersey, New York, and Washington — enacted Firearm Industry Responsibility Legislation. While the bills vary by state, they share the goal of using liability to incentivize responsible and law-abiding behaviors at all levels of the firearm industry, from manufacturing through retail.
+If the industry faces a higher probability of civil damages from irresponsible (and in these 10 states) illegal practices, then the industry may adopt practices that improve community safety by ensuring that its products are not defective; have enhanced safety features; and are not sold to those who intend to do harm. From an insurance perspective, the firearm industry’s liability insurers could reward or even require firearms dealers to implement best practices in secure storage and age verification and provide supplemental liability coverage. Doing so would limit the insurer’s potential liability in the 10 states with firearm industry responsibility statutes but could also serve as a model for states regulated by PLCAA.
+Finally, insurers could create incentives based on the broader legal environment in their state. For example, 26 states have some kind of secure storage law, which requires a firearm to be securely stored when it is not in use to prevent child access (and sometimes access by any unauthorized person). At the same time, homeowners and renters policies already establish the circumstances under which they would cover liability when unsecured firearms result in unintentional harm, but few currently condition coverage on storage practices or the secure storage laws of the homeowner’s state.
+Policy reform could mandate that insurers inform policyholders of the laws in their state and also require proof of locked storage — safes, lockboxes, or trigger locks — as a prerequisite for coverage, much like policies requiring fenced pools. The laws around pool fencing also vary by state, but when state law requires insurance companies to educate policyholders about fencing laws and to condition coverage on compliance, firms are much more active about ensuring policyholders follow the rules.
+Beyond mandates
+The lack of formal involvement by the insurance market suggests that the costs the private companies absorb are lower than the cost of prevention (through voluntary change or other means). Consider the two types of costs incurred: 1) the actual price of carrying out the policy changes; and 2) the perceived cost of policyholder discontent. Insurance companies may perceive that any of the above strategies would upset policyholders, especially those who possess firearms. If the real and perceived costs are greater than their anticipated savings, insurance companies will be reluctant to implement any reform voluntarily.
+Given the lack of internal incentives for insurance companies to voluntarily engage in reducing firearm related harms and the comparatively large societal benefit to doing so, government has a clear opportunity for intervention to achieve optimal insurance sector involvement. Mandates, however, may not be politically feasible or cost-efficient. Other approaches include reducing the costs of insurance sector involvement and improving estimation of the costs and savings of insurance sector involvement.
+Pilot programs via randomized controlled trial offer one effective way to estimate the costs and savings the insurance industry is likely to bear under certain programs. For example, auto insurers could pilot a program subsidizing secure firearm storage in covered automobiles and use the results to estimate short- and long-term savings or losses. A public-private partnership could offset the cost of the storage devices and the risk to insurance companies.
+By incentivizing through tax credits; reducing cost barriers through direct subsidies; and stabilizing markets and offering protection from extreme-risk-related costs through reinsurance, governments can create an ecosystem that encourages firearm owners, retailers, and insurers to invest in safety. These approaches mirror successful strategies used in auto safety and disaster preparedness, demonstrating that fiscal and insurance levers can complement regulation to reduce firearm-related harms. Depending on the methods employed, government intervention could ensure optimal insurance industry participation and address the current state of underprovision.
+Insurance in the broader regulatory environment
+The insurance industry protects individuals within a larger regulatory environment. And while some insurance professionals may agree that the industry has a role to play in reducing firearm-related harms, many others continue to believe gun safety is an area where the government must lead.
+The cost, risk, reward, and range of tools available to insurance firms going forward will likely be shaped by the rate of firearm-related harms and the overall regulatory environment. According to John Gramlich of the Pew Research Center, the overall firearm death rate in 2023 was 13.7 per 100,000; however, the rate varies significantly by state.
+22
+The Massachusetts rate was 3.7 per 100,000 persons, the lowest in the nation, while
+Mississippi’s was the nation’s highest at 29.4 per 100,00 persons. States also experience varying types of firearm-related harms: Mississippi and Wyoming have similar firearm death rates, for example, but homicides comprise 63 percent of Mississippi’s firearm-related deaths and suicides comprise 86 percent of Wyoming’s. Variations in the number and type of firearm deaths imply different roles and costs for the various types of insurance in a given state. For example, insurers in states with a high firearm-related suicide burden might expect elevated life insurance costs, while insurers in states with a high homicide burden might expect a high burden of liability or health care costs for survivors of homicide attempts. Of course, while the insurance industry faces relatively high costs in some states and low costs in others, the societal benefits of firearm reforms would disproportionately accrue in states with elevated firearm-related harms.
+Insurance companies could influence firearm-related harm rates by seeking to understand how the broader regulatory environment shapes their state’s firearm-related risk. Based on the evidence compiled in RAND’s “Gun Policy in America” systemic review,
+23
+other policies likely to influence insurance providers’ costs and the range of tools available to them include:
+• Permitless carry laws.
+RAND concludes that the available research indicates permitless carry policies are linked to increased violent crime. Other research supports the conclusion that these laws were associated with heightened rates of fatal shootings of police officers or by police officers.
+• Child-Access Prevention (CAP) laws.
+RAND concludes that the available research indicates CAP laws, which require a firearm be securely stored if a child could gain access to it, reduce suicide, violent crime, and unintentional injuries and death. CAP laws might also decrease firearm theft rates. According to research from Everytown, the theft rate from cars is 18 times higher in cities with weaker firearm safety laws than it is in those with stronger laws.
+24
+• Extreme Risk Protective Orders (ERPO).
+RAND concludes that the research indicates that ERPO laws, which allow for the temporary removal of firearms from those deemed by a court to be an immediate danger to themselves or others, have a limited impact on firearm suicide. The evidence on whether they avert mass shootings is inconclusive, and there is scant research on their effect on homicides. ERPOs are a relatively new policy tool that has faced implementation challenges, so research in this area should be considered “emerging.”
+Conclusion
+Insurance companies are slowly taking notice of the evidence that simple steps on the part of consumers — using firearm storage devices, taking classes, undergoing counseling — can have a significant impact on firearm safety. But in the presence of an apparent market failure to respond to the evidence quickly, the government should consider accelerating firearm-related harm-mitigation efforts. Through tax credits, direct subsidies, or market stabilization, policymakers could make the insurance industry a critical part of the nation’s ongoing effort to reduce firearm-related harms.
+In the auto safety and public health arenas, aligning insurance structures with harm reduction goals has influenced individual behavior, shifted market norms, and saved lives. But, given the firearm industry’s unique position and relationship with American consumers, realigning the insurance sector to support firearm safety will require creativity and coordination.
+Footnotes
+National Institute for Health Care Management Foundation, “Gun Violence: The Impact on Society,” accessed June 30, 2025, https://nihcm.org/ publications/gun-violence-the-impact-on-society.
+↩︎
+D. Grasso et al., “Harms and Benefits Inventory (HBI): Initial Validation of a Novel Assessment of Perceived Harms and Benefits of Firearm Poli cies and Practices,”
+Injury Prevention
+30, no. 6 (2024): 474-80, https://injuryprevention.bmj.com/content/30/6/474.
+↩︎
+Office of Juvenile Justice and Delinquency Prevention, “Model Programs Guide Literature Review: Gun Violence and Youth/Young Adults,” U.S. Department of Justice, accessed June 9, 2025, https://ojjdp.ojp.gov/model-programs-guide/literature-reviews/gun-violence-and-youth-young adults.
+↩︎
+J. C. Campbell et al., “Risk Factors for Femicide in Abusive Relationships: Results from a Multisite Case Control Study,”
+American Journal of Pub lic Health
+93, no. 7 (2003): 1089-97, https://ajph.aphapublications.org/doi/full/10.2105/AJPH.93.7.1089.
+↩︎
+E. Tobin-Tyler, “intimate-partner violence, Firearm Injuries and Homicides: A Health Justice Approach to Two Intersecting Public Health Crises,”
+Journal of Law, Medicine & Ethics
+51, no. 1 (2023): 64-76, https://doi.org/10.1017/jme.2023.41.
+↩︎
+J. W. Cox et al.,
+School Shootings Database, The Washington Post
+, accessed June 9, 2025, https://www.washingtonpost.com/education/interac tive/school-shootings-database/.
+↩︎
+M. D. Anestis et al., “Lifetime and Past-Year Defensive Gun Use,” J
+AMA Network Open
+8, no. 3 (2025): e250807, https://doi.org/10.1001/jamanet workopen.2025.0807.
+↩︎
+Everytown, “Gun Violence in America,” accessed June 10, 2025, https://everytownresearch.org/report/gun-violence-in-america/.
+↩︎
+Everytown, “Gun Violence in America,” accessed June 10, 2025, https://everytownresearch.org/report/gun-violence-in-america/; A. Rutherford et al., “Violence: A Glossary,”
+Journal of Epidemiology and Community Health
+61, no. 8 (2007): 676-80, https://doi.org/10.1136/jech.2005.043711.
+↩︎
+C. Peterson et al., “Unrealised Potential of Pool Fencing and Life Jackets to Prevent US Drownings,”
+Injury Prevention
+, published online first (2025), https://doi.org/10.1136/ip-2024-045597.
+↩︎
+Everytown, “Gun Violence in America.”
+↩︎
+Z. Song et al., “Firearm Injuries in Children and Adolescents: Health and Economic Consequences among Survivors and Family Members,”
+Health Affairs
+42, no. 11 (2023): 1541-50, https://doi.org/10.1377/hlthaff.2023.00587.
+↩︎
+J. Richards et al., “Reducing Firearm Access for Suicide Prevention: Implementation Evaluation of the Web-Based ‘Lock to Live’ Decision Aid in Routine Health Care Encounters,”
+JMIR Medical Informatics
+12, no. 1 (2024), https://doi.org/10.2196/48007.
+↩︎
+E. Kandal, “Insurance Issues Arising After Mass Shootings Occurrences,” Bailey Cavalieri, accessed June 28, 2025, https://baileycav.com/ insight/elan-kandel-analyzes-insurance-issues-arising-after-mass-shooting-occurrences/.
+↩︎
+M. J. Steinlage, “Liability for Mass Shootings: Are We at a Turning Point?”
+American Bar Association
+, accessed June 30, 2025, https://baileycav. com/insight/elan-kandel-analyzes-insurance-issues-arising-after-mass-shooting-occurrences/.
+↩︎
+Centers for Medicare & Medicaid Services, “Medicaid/CHIP Enrollment Data” [Dashboard], accessed June 11, 2025, https://www.medicaid.gov/ medicaid/national-medicaid-chip-program-information/medicaid-chip-enrollment-data; Centers for Medicare & Medicaid Services, “Medicare Enrollment Dashboard,” accessed June 11, 2025, https://data.cms.gov/tools/medicare-enrollment-dashboard; Centers for Medicare & Medicaid Services, “Medicare Dual Eligible Data,” accessed June 11, 2025, https://www.medicaid.gov/medicaid/eligibility/seniors-medicare-and-medicaid enrollees; Indian Health Service, “IHS Profile and Population Served,” accessed June 11, 2025, https://www.ihs.gov/sites/newsroom/themes/ responsive2017/display_objects/documents/factsheets/IHSProfile.pdf; U.S. Department of Veterans Affairs, “Veterans Health Administration Over view,” accessed June 11, 2025, https://www.va.gov/health/aboutvha.asp.
+↩︎
+Bureau of Alcohol, Tobacco, Firearms and Explosives,
+Federal Firearms Licensee Theft/Loss Report
+(2023); David Hemenway, Deborah Azrael, and Matthew Miller, “Whose guns are stolen? The epidemiology of gun theft victims,”
+Injury Epidemiology
+4, no. 1 (2017): 11, https://doi. org/10.1186/s40621-017-0109-8.
+↩︎
+Everytown Research, “Gun Thefts from Cars: The Largest Source of Stolen Guns,” accessed June 30, 2025, https://everytownresearch.org/ report/gun-thefts-from-cars-the-largest-source-of-stolen-guns-2/.
+↩︎
+C. Sathya et al., “A Mixed Methods Protocol to Implement Universal Firearm Injury Risk Screening and Intervention among Youth and Adults in Emergency Departments across a Large US Health System,”
+Implementation Science Communications
+3, no. 1 (2022): 124, https://doi.org/10.1186/ s43058-022-00371-6; National Academies of Sciences, Engineering, and Medicine,
+Health Systems Interventions to Prevent Firearm Injuries and Death: Proceedings of a Workshop
+(Washington, DC: The National Academies Press, 2019), https://doi.org/10.17226/25354.
+↩︎
+K. Moore and C. Reynolds, “Firearm Risk: An Insurance Perspective,”
+The Actuary Magazine
+, accessed June 10, 2025, https://www.theactuary magazine.org/firearm-risk/.
+↩︎
+San José Police Department, “Gun Harm Reduction Ordinance,” accessed June 10, 2025, https://www.sjpd.org/records/documents-policies/ gun-harm-reduction-ordinance.
+↩︎
+J. Gramlich, “What the Data Says about Gun Deaths in the U.S.,” Pew Research Center, accessed June 11, 2025, https://www.pewresearch.org/ short-reads/2025/03/05/what-the-data-says-about-gun-deaths-in-the-us/.
+↩︎
+RAND, “Gun Policy in America,” accessed June 11, 2025, https://www.rand.org/research/gun-policy/analysis.html.
+↩︎
+J. Szkola, M. J. O’Toole, and S. Burd-Sharps, “Gun Thefts from Cars: The Largest Source of Stolen Guns,” Everytown Research & Policy, May 9, 2024, accessed June 30, 2025, https://everytownresearch.org/report/gun-thefts-from-cars-the-largest-source-of-stolen-guns-2/.
+↩︎

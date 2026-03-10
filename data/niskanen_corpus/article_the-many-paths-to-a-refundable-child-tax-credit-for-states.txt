@@ -1,0 +1,67 @@
+TITLE: The many paths to a refundable child tax credit for states
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/the-many-paths-to-a-refundable-child-tax-credit-for-states/
+WORDS: 1467
+
+State policymakers have powerful tools at their disposal to support families with the cost of raising children and caring for disabled or elderly relatives. The key is knowing how to maximize their impact through fiscally responsible reforms that expand the scope, generosity, and simplicity of family tax benefits in their states.
+As
+we noted in a previous report
+, there is broad interest among policymakers in rethinking their approaches to supporting families through state tax codes. Here, we focus on the use of
+refundable child tax credits
+(CTCs).
+Currently, 11 states use refundable CTCs this way. Although the details differ from state to state, they all have one feature in common: Families with little or no earnings in a given year still receive a refund to help them with the cost of raising children. Adopting this feature is a critical step in reducing child poverty, so understanding the paths states have taken is important for advocates and policymakers considering reforms in their own states.
+In our 2023 analysis of the state landscape for
+family tax benefits
+, we noted that most of the recently adopted fully refundable child tax credits were layered on top of existing tax exemptions and nonrefundable credits. Layering a new system of tax credits on top of the existing infrastructure is both expensive and unnecessary. It overlooks the solid foundation most states have in the form of already existing exemptions, deductions, nonrefundable credits, and refundable credits for children and other dependents.
+The best route, we noted, is for states to convert these preexisting tax benefits into refundable child tax credits. Advantages include keeping initial costs down by concentrating benefit expansion on families with the greatest need, minimizing complexity by avoiding the creation of new tax expenditures that duplicate existing tax expenditures, and providing a crucial first step on which future reforms can be built when the circumstances allow it.
+Massachusetts, Maine, and Minnesota provide three case studies showing the diverging paths states can take to converge onto a fully refundable child tax credit.
+Massachusetts: Converting deductions and consolidating credits
+Until 2021, Massachusetts families were eligible for either a $3,600 deduction for children under 12 years old and elderly or disabled dependents; or a $4,200 deduction for work-related child care expenses for children under 13 years old. Families could claim either deduction — but not both — for each eligible dependent in a given year. Both capped the number of eligible dependents at two per household. As deductions, these benefits were worth little to nothing for low-income families who had little to no personal income tax liability after claiming other exemptions and deductions.
+As part of the state’s 2021 budget, the legislature converted both deductions into fully refundable credits of equal value ($3,600 x the state’s 5% income tax rate = $180 per child, and $4,200 x 5% = $210 per child, respectively), making it the first universal child benefit in the country. The total cost of both family tax benefits rose from
+$152.7 million
+to
+$167.4 million
+, amounting to a modest $14.7 million or a 10 percent increase in which the lowest-income families received all of the new benefits. Although the initial credit was relatively meager, it provided state policymakers with a foundation for further expansion through consolidation.
+By 2023, when fiscal conditions allowed, the governor and legislature undertook a more ambitious overhaul of the credits by combining them into a single, more generous credit worth $440 for each child under 13 or elderly or disabled dependents, and removing the two-dependent cap altogether. The state now spends about
+$460 million
+each year — about a 200 percent increase relative to 2022 — on the renamed Child and Family Tax Credit.
+Maine: Converting a nonrefundable credit and targeting an expansion
+Until 2017, Maine, like many other states, tied the generosity of its dependent exemption to federal personal exemptions amounts. The state’s $4,050 exemption was worth about $290 per dependent to families in the top tax bracket, but only about $235 to families in the lowest tax bracket. After Congress eliminated federal personal exemptions in 2017, Maine replaced their dependent exemption with a nonrefundable
+Dependent Exemption Tax Credit
+(DETC) worth up to $300 for each child under 18 years old. The credit begins phasing out at a .75 percent rate for single parents earning more than $200,000 and married parents earning more than $400,000. These changes effectively shifted the benefits toward more middle- and lower-income families.
+As part of the 2024-25 budget, the legislature made the nonrefundable DETC a fully refundable credit worth the same amount. Additionally, it indexes the $300 amount to inflation as of 2025. The state
+estimates
+the cost of making the DETC fully refundable to be only about $18 million, with low-income families receiving all of the new benefits. As in Massachusetts, the initial introduction in Maine provided state policymakers with a foundation for further expansion as fiscal considerations permitted.
+In summer 2025, the legislature doubled the credit amount for children under six years old to $600 and reduced the overall cost by phasing out the credit faster for upper-income families. Lawmakers reduced the phaseout thresholds to $125,000 (from $200,000) for single parents and $150,000 (from $400,000) for married parents and increased the phaseout rate to 4 percent. While potentially creating
+marriage penalties
+for some families, these relatively high thresholds still ensure that
+middle-income families
+still have access to the credit. The state
+estimates
+the annual net cost of this most recent expansion to be $31.8 million.
+Minnesota: Converting an Earned Income Tax Credit to make transformational change
+Until 2023, Minnesota families were eligible for a dependent exemption or a state version of the earned income tax credit called the
+Working Family Credit
+(WFC). The
+initial proposal
+for a fully refundable CTC in the governor’s budget would have created a new credit and layered it on top of these existing tax benefits. The legislature went in a different direction, deciding to eliminate the phase-in for the WFC.
+Similar to the federal Earned Income tax credit,
+Minnesota’s WFC
+phased in (9.35 percent for one child, 11 percent for two, and 12.5 percent for three) until reaching a maximum credit ($1,183 for one child, $2,283 for two, and $2,646 for three). It then plateaued as earnings continued to rise before phasing out after different thresholds depending on marital status. Unlike the federal Earned Income Tax Credit, Minnesota’s Working Family Credit was available to parents under 25 years old.
+The reform that ultimately passed
+converted the bulk of the WFC into a fully refundable CTC
+worth $1,750 per child under 18 years old and a smaller credit for older children 18-24 years old and in school, similar to what households would have received under the old WFC. Both will eventually be indexed to inflation. In contrast to Massachusetts’ and Maine’s CTCs, Minnesota’s remains relatively narrow, phasing out well before reaching the median income for most families in the state.
+The generosity of the new CTC was bound to make any reform expensive but reducing the WFC to a maximum of $369 per household helped reduce net costs. Still, the combined cost of the CTC and WFC was
+$712.7 million
+in 2024. The old WFC would have cost about
+$266.5 million
+that year, indicating that the net cost of the reforms amounted to about $446.2 million, or a 167 percent increase in which the lowest-income families received most of the new benefits.
+Lessons for other states
+Our previous report provided state advocates and policymakers a comprehensive view of family tax benefits across the 50 states, with details on income eligibility, dependent eligibility, and benefit amounts. The distinctive paths Massachusetts, Maine, and Minnesota took offer important lessons for other states considering fully refundable child tax credits.
+Forty-one states levy personal income taxes, and all of them already have an existing exemption or deduction for dependents, a nonrefundable CTC, an Earned Income Tax Credit, or a Child and Dependent Care Tax Credit. Policymakers can reduce net cost and complexity by examining the family tax benefit landscape in their state and thoughtfully considering ways to convert existing tax benefits into fully refundable child tax credits.
+These options are not limited to states that don’t already have a fully refundable CTC. Many states that already do have fully refundable credits layer their new credit on top of existing exemptions and credits. Consolidating these with their refundable CTC could be part of a
+comprehensive overhaul
+aimed at improving family tax benefits by streamlining duplicative benefits in a manner that allows further expansion at lower net costs.
+With many states anticipating
+tighter fiscal constraints
+in the coming years, progress will rely increasingly on their ability to adapt. Building on existing tax benefits rather than starting from scratch can be a crucial strategy for achieving policymakers’ goals of supporting families cost-effectively.

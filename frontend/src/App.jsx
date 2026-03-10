@@ -35,6 +35,11 @@ import {
   Target,
   XCircle,
   Download,
+  Menu,
+  X,
+  Edit3,
+  RotateCcw,
+  Trash2,
 } from "lucide-react";
 
 /* ========================================================================== */
@@ -52,16 +57,26 @@ const STEPS = [
 ];
 
 const FORMATS = [
-  { key: "twitter_post", label: "Twitter", limit: 280, unit: "chars" },
-  { key: "linkedin_post", label: "LinkedIn", limit: null },
-  { key: "bluesky_post", label: "Bluesky", limit: 300, unit: "chars" },
+  { key: "twitter_posts", label: "Twitter", limit: 280, unit: "chars", count: 5, platform: "Twitter/X" },
+  { key: "linkedin_posts", label: "LinkedIn", limit: null, count: 3, platform: "LinkedIn" },
+  { key: "bluesky_posts", label: "Bluesky", limit: 300, unit: "chars", count: 5, platform: "Bluesky" },
   { key: "newsletter_paragraph", label: "Newsletter", limit: 165, unit: "words" },
   { key: "congressional_one_pager", label: "One-Pager", limit: null },
   { key: "full_oped", label: "Op-Ed", limit: null },
   { key: "media_outlet_recommendations", label: "Media Recs", limit: null },
-  { key: "instagram_post", label: "Instagram", limit: null },
-  { key: "instagram_story", label: "IG Story", limit: null },
+  { key: "instagram_post", label: "Instagram", limit: null, platform: "Instagram" },
+  { key: "instagram_story", label: "IG Story", limit: null, platform: "Instagram Stories" },
 ];
+
+const SOCIAL_FORMATS = new Set(["twitter_posts", "linkedin_posts", "bluesky_posts", "instagram_post", "instagram_story"]);
+const DOC_FORMATS = new Set(["newsletter_paragraph", "congressional_one_pager", "full_oped", "media_outlet_recommendations"]);
+
+const AGENT_DESCRIPTIONS = {
+  research: "Extracts the paper's central thesis, supporting evidence, policy implications, and confidence caveats. This grounds all downstream content in the paper's actual findings.",
+  audience: "Identifies 3-5 target audience segments and calibrates tone for each output format. The content writer uses these tone recommendations to adjust voice across Twitter, LinkedIn, newsletters, and policy documents.",
+  citation: "Pulls verifiable claims from the research and checks each against live web sources via Tavily search. Only verified claims with source URLs are passed to the content writer.",
+  style: "Analyzes the article's sentence structure, rhetorical patterns, and characteristic phrases. The content writer mirrors these patterns to keep output consistent with Niskanen's voice.",
+};
 
 function measure(text, unit) {
   if (!text || typeof text !== "string") return 0;
@@ -80,7 +95,6 @@ function formatForDisplay(value) {
     const title = value.title || value.Title || "";
     if (title) lines.push(title, "");
 
-    // New structured format with THE ASK
     if (value.the_ask) {
       lines.push("THE ASK");
       lines.push(`  ${value.the_ask}`, "");
@@ -119,7 +133,8 @@ function formatForDisplay(value) {
         if (typeof item === "string") {
           lines.push(`  \u2022 ${item}`);
         } else if (item.outlet) {
-          lines.push(`  \u2022 ${item.outlet}${item.section ? ` (${item.section})` : ""}`);
+          const urlSuffix = item.url ? ` [${item.url}]` : "";
+          lines.push(`  \u2022 ${item.outlet}${item.section ? ` (${item.section})` : ""}${urlSuffix}`);
           if (item.beat) lines.push(`    Beat: ${item.beat}`);
           if (item.pitch_angle) lines.push(`    Angle: ${item.pitch_angle}`);
           if (item.why) lines.push(`    Why: ${item.why}`);
@@ -134,7 +149,6 @@ function formatForDisplay(value) {
     formatTargets(value["PRIMARY TARGETS"] || value["primary_targets"], "PRIMARY TARGETS");
     formatTargets(value["SECONDARY TARGETS"] || value["secondary_targets"], "SECONDARY TARGETS");
 
-    // Pitch angles
     const pitchAngles = value["pitch_angles"] || [];
     if (pitchAngles.length) {
       lines.push("PITCH ANGLES");
@@ -149,7 +163,6 @@ function formatForDisplay(value) {
       lines.push("");
     }
 
-    // Timing hooks
     const timingHooks = value["timing_hooks"] || value["TIMING"] || value["timing"] || [];
     if (timingHooks) {
       lines.push("TIMING HOOKS");
@@ -158,7 +171,6 @@ function formatForDisplay(value) {
       lines.push("");
     }
 
-    // Beat reporters (legacy format)
     const beats = value["BEAT REPORTERS"] || value["beat_reporters"] || [];
     if (beats.length || typeof beats === "string") {
       lines.push("BEAT REPORTERS");
@@ -167,7 +179,6 @@ function formatForDisplay(value) {
       lines.push("");
     }
 
-    // Pitch email draft
     const pitchEmail = value["pitch_email_draft"] || "";
     if (pitchEmail) {
       lines.push("PITCH EMAIL DRAFT");
@@ -233,24 +244,92 @@ function formatForDisplay(value) {
   return JSON.stringify(value, null, 2);
 }
 
+/* Render media recs with clickable outlet links */
+function MediaRecsDisplay({ data }) {
+  if (!data) return null;
+  const primary = data["PRIMARY TARGETS"] || data["primary_targets"] || [];
+  const secondary = data["SECONDARY TARGETS"] || data["secondary_targets"] || [];
+  const pitchAngles = data["pitch_angles"] || [];
+  const timingHooks = data["timing_hooks"] || data["TIMING"] || data["timing"] || [];
+  const pitchEmail = data["pitch_email_draft"] || "";
+
+  const renderTargets = (targets, heading) => {
+    if (!targets?.length) return null;
+    return (
+      <div className="media-recs-section">
+        <h4>{heading}</h4>
+        {targets.map((item, i) => {
+          if (typeof item === "string") return <div key={i} className="media-target">{item}</div>;
+          return (
+            <div key={i} className="media-target">
+              <div className="media-target-name">
+                {item.url ? (
+                  <a href={item.url} target="_blank" rel="noopener noreferrer">
+                    {item.outlet} <ExternalLink size={12} />
+                  </a>
+                ) : item.outlet}
+                {item.section && <span className="media-target-section">({item.section})</span>}
+              </div>
+              {item.beat && <div className="media-target-detail">Beat: {item.beat}</div>}
+              {item.pitch_angle && <div className="media-target-detail">Angle: {item.pitch_angle}</div>}
+              {item.why && <div className="media-target-detail">Why: {item.why}</div>}
+              {item.rationale && <div className="media-target-detail">{item.rationale}</div>}
+            </div>
+          );
+        })}
+      </div>
+    );
+  };
+
+  return (
+    <div className="media-recs-display">
+      {renderTargets(primary, "PRIMARY TARGETS")}
+      {renderTargets(secondary, "SECONDARY TARGETS")}
+      {pitchAngles.length > 0 && (
+        <div className="media-recs-section">
+          <h4>PITCH ANGLES</h4>
+          {pitchAngles.map((pa, i) => (
+            <div key={i} className="media-target">
+              {typeof pa === "string" ? pa : (
+                <>
+                  <div className="media-target-name">{pa.angle || pa.suggested_headline || ""}</div>
+                  {pa.suggested_headline && pa.angle && <div className="media-target-detail">Headline: {pa.suggested_headline}</div>}
+                </>
+              )}
+            </div>
+          ))}
+        </div>
+      )}
+      {timingHooks && (Array.isArray(timingHooks) ? timingHooks : [timingHooks]).length > 0 && (
+        <div className="media-recs-section">
+          <h4>TIMING HOOKS</h4>
+          {(Array.isArray(timingHooks) ? timingHooks : [timingHooks]).map((t, i) => (
+            <div key={i} className="media-target">{t}</div>
+          ))}
+        </div>
+      )}
+      {pitchEmail && (
+        <div className="media-recs-section">
+          <h4>PITCH EMAIL DRAFT</h4>
+          <pre className="pitch-email-pre">{pitchEmail}</pre>
+        </div>
+      )}
+    </div>
+  );
+}
+
 /* ========================================================================== */
 /*  Pipeline — real article fetch + multi-agent pipeline via backend           */
 /* ========================================================================== */
 
-// In dev, Vite proxies /api to localhost:3002.
-// In production, call the API Gateway directly.
 const API_BASE = import.meta.env.PROD
   ? "https://v1tofkjpy6.execute-api.us-east-1.amazonaws.com"
   : "";
 
 async function runPipeline(url, onStep, onDone, onError) {
   try {
-    onStep(1); // Fetch Article
-
-    // Generate a client-side job ID so we can poll if the gateway times out
+    onStep(1);
     const jobId = crypto.randomUUID();
-
-    // Fire the real API call (multi-agent pipeline runs on backend)
     const apiPromise = fetch(`${API_BASE}/api/generate`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -258,19 +337,17 @@ async function runPipeline(url, onStep, onDone, onError) {
     });
 
     await pause(400);
-    onStep(2); // Research Analyst
+    onStep(2);
     await pause(1200);
-    onStep(3); // Audience Mapper
+    onStep(3);
     await pause(600);
-    onStep(4); // Citation Checker
+    onStep(4);
 
     let data;
     try {
-      // Try to get the direct response (works if pipeline < 30s)
       const res = await apiPromise;
       data = await res.json();
       if (!res.ok || !data.success) {
-        // If the direct call errored, check if it's a gateway timeout
         if (res.status === 503 || res.status === 504) {
           data = await pollForResult(jobId, onStep);
         } else {
@@ -278,17 +355,14 @@ async function runPipeline(url, onStep, onDone, onError) {
         }
       }
     } catch (fetchErr) {
-      // Network error or gateway timeout — poll S3 for result
       if (fetchErr.message?.includes("Pipeline failed")) throw fetchErr;
       data = await pollForResult(jobId, onStep);
     }
 
-    onStep(5); // Style Analyst
+    onStep(5);
     await pause(300);
-    onStep(6); // Content Writer
+    onStep(6);
     await pause(200);
-
-    // Pass the FULL response (intermediate + content)
     onDone(data);
   } catch (err) {
     onError(err.message);
@@ -296,23 +370,20 @@ async function runPipeline(url, onStep, onDone, onError) {
 }
 
 async function pollForResult(jobId, onStep) {
-  const maxAttempts = 30; // ~90 seconds max
+  const maxAttempts = 30;
   for (let i = 0; i < maxAttempts; i++) {
     await pause(3000);
-    // Advance progress steps while waiting
     if (i === 2) onStep(5);
     if (i === 5) onStep(6);
-
     try {
       const res = await fetch(`${API_BASE}/api/status/${jobId}`);
-      if (res.status === 404) continue; // Job not written yet
+      if (res.status === 404) continue;
       const data = await res.json();
       if (data.status === "running") continue;
       if (data.status === "error") throw new Error(data.error || "Pipeline failed");
       if (data.success) return data;
     } catch (pollErr) {
       if (pollErr.message?.includes("Pipeline failed")) throw pollErr;
-      // Network error on poll — retry
     }
   }
   throw new Error("Pipeline timed out after 90 seconds");
@@ -327,6 +398,7 @@ function pause(ms) {
 /* ========================================================================== */
 
 function Nav({ page, setPage, dark, setDark }) {
+  const [menuOpen, setMenuOpen] = useState(false);
   const links = [
     { id: "home", label: "Home", icon: Home },
     { id: "pipeline", label: "Pipeline", icon: Workflow },
@@ -337,15 +409,18 @@ function Nav({ page, setPage, dark, setDark }) {
   return (
     <nav className="nav">
       <div className="nav-inner">
-        <span className="nav-brand" onClick={() => setPage("home")}>
+        <span className="nav-brand" onClick={() => { setPage("home"); setMenuOpen(false); }}>
           NISKANEN
         </span>
-        <div className="nav-links">
+        <button className="nav-hamburger" onClick={() => setMenuOpen(!menuOpen)} aria-label="Toggle menu">
+          {menuOpen ? <X size={22} /> : <Menu size={22} />}
+        </button>
+        <div className={`nav-links${menuOpen ? " nav-links-open" : ""}`}>
           {links.map(({ id, label, icon: Icon }) => (
             <button
               key={id}
               className={`nav-link${page === id ? " active" : ""}`}
-              onClick={() => setPage(id)}
+              onClick={() => { setPage(id); setMenuOpen(false); }}
             >
               <Icon size={16} />
               {label}
@@ -416,12 +491,11 @@ function FeatureCard({ icon: Icon, title, description, accentColor, onAction, ac
 
 function DataFlowDiagram() {
   const steps = [
-    { label: "PDF Upload", detail: "Extract text from policy paper", color: "var(--teal)", dot: "var(--teal)" },
-    { label: "Supervisor", detail: "Validate extraction, route pipeline", color: "var(--blue)", dot: "var(--blue)" },
-    { label: "Research Analyst", detail: "Thesis, evidence, implications", color: "var(--green)", dot: "var(--green)" },
+    { label: "Article Fetch", detail: "Extract text from policy paper URL", color: "var(--teal)", dot: "var(--teal)" },
+    { label: "Research Analyst", detail: "Thesis, evidence, implications", color: "var(--blue)", dot: "var(--blue)" },
     { label: "Parallel Agents", detail: "Audience + Citations + Style (concurrent)", color: "var(--amber)", dot: "var(--amber)" },
     { label: "Content Writer", detail: "Claude Sonnet generates 9 formats", color: "var(--blue)", dot: "var(--blue)" },
-    { label: "Human Review", detail: "Approve, revise, or escalate", color: "var(--teal)", dot: "var(--teal)" },
+    { label: "Human Review", detail: "Approve, edit, or regenerate per format", color: "var(--teal)", dot: "var(--teal)" },
   ];
 
   return (
@@ -468,15 +542,15 @@ function LandingPage({ setPage }) {
       <section className="hero">
         <div className="hero-inner">
           <div className="anim-fade-up">
-            <span className="hero-badge">Powered by LangChain</span>
+            <span className="hero-badge">LangChain PS Take-Home</span>
           </div>
           <h1 className="anim-fade-up d1">
             Niskanen Content Pipeline
           </h1>
           <p className="hero-desc anim-fade-up d2">
             Convert policy research papers into publication-ready content packages
-            across nine formats. Six AI agents analyze, fact-check, match style, and
-            write -- with human review before anything ships.
+            across nine formats. Five AI agents analyze, fact-check, match style, and
+            write -- with per-format human review before anything ships.
           </p>
           <div className="hero-buttons anim-fade-up d3">
             <button className="btn-hero btn-hero-primary" onClick={() => setPage("pipeline")}>
@@ -491,9 +565,9 @@ function LandingPage({ setPage }) {
 
           <div className="hero-models anim-fade d4">
             <span className="label">Built with</span>
-            <span className="model">LangGraph</span>
+            <span className="model">AWS Bedrock</span>
             <span className="sep">|</span>
-            <span className="model">Claude 3.5</span>
+            <span className="model">Claude Haiku + Sonnet</span>
             <span className="sep">|</span>
             <span className="model">LangSmith</span>
           </div>
@@ -512,9 +586,9 @@ function LandingPage({ setPage }) {
       <section className="metrics-row">
         <div className="metrics-grid">
           <MetricHighlight value="9" label="Output Formats" sublabel="Tweet to Instagram story" />
-          <MetricHighlight value="6" label="AI Agents" sublabel="Parallel execution" />
-          <MetricHighlight value="<$0.05" label="Per Paper" sublabel="Claude API cost" />
-          <MetricHighlight value="HITL" label="Human Review" sublabel="Approve before publish" />
+          <MetricHighlight value="5" label="AI Agents" sublabel="Fan-out parallel execution" />
+          <MetricHighlight value="~$0.17" label="Per Paper" sublabel="Haiku analysis + Sonnet writing" />
+          <MetricHighlight value="HITL" label="Human Review" sublabel="Per-format approve/edit/reject" />
         </div>
       </section>
 
@@ -522,11 +596,11 @@ function LandingPage({ setPage }) {
       <section className="section">
         <div className="container">
           <div className="section-header anim-fade-up">
-            <h2>Six agents. One pipeline.</h2>
+            <h2>Five agents. One pipeline.</h2>
             <p>
               Each paper flows through specialized agents that extract research,
               map audiences, verify facts, match Niskanen's voice, and generate
-              content -- all coordinated by LangGraph.
+              content -- all coordinated by a fan-out/fan-in topology.
             </p>
           </div>
           <div className="features-grid">
@@ -549,7 +623,7 @@ function LandingPage({ setPage }) {
             <FeatureCard
               icon={Palette}
               title="Style Matching"
-              description="Retrieves existing Niskanen publications from ChromaDB and extracts writing patterns -- sentence length, rhetorical moves, voice."
+              description="Analyzes the input article's sentence structure, rhetorical moves, and vocabulary patterns so the content writer can mirror Niskanen's voice."
               accentColor="teal"
               actionLabel="Learn more"
               onAction={() => document.getElementById("how-it-works")?.scrollIntoView({ behavior: "smooth" })}
@@ -572,32 +646,31 @@ function LandingPage({ setPage }) {
           <div className="flow-section">
             <div className="flow-left">
               <span className="section-badge badge-teal">Data Flow</span>
-              <h2 className="anim-fade-up d1">Paper to Content in Six Steps</h2>
+              <h2 className="anim-fade-up d1">Paper to Content in Five Steps</h2>
               <p className="anim-fade-up d2">
-                Every PDF flows through extraction, analysis, parallel specialist
-                agents, and content generation. The human-in-the-loop checkpoint
-                ensures nothing publishes without editorial sign-off.
+                Every article URL flows through text extraction, research analysis,
+                three parallel specialist agents, and content generation. Per-format
+                human review ensures nothing publishes without editorial sign-off.
               </p>
               <div className="code-block anim-fade-up d3">
-                <span className="comment">{"// LangGraph pipeline topology"}</span><br />
-                <span className="func">pdf_extract</span> {"-> "}
-                <span className="func">supervisor</span><br />
+                <span className="comment">{"// Pipeline topology (JS fan-out/fan-in)"}</span><br />
+                <span className="func">fetch_article</span><br />
+                {"  -> "}
+                <span className="func">research_analyst</span><br />
                 {"  -> "}
                 <span className="keyword">fan_out</span>{"("}<br />
-                {"       "}
-                <span className="func">research_analyst</span>{","}<br />
                 {"       "}
                 <span className="func">audience_mapper</span>{","}<br />
                 {"       "}
                 <span className="func">citation_checker</span>{","}<br />
                 {"       "}
-                <span className="func">style_agent</span><br />
+                <span className="func">style_analyst</span><br />
                 {"     )  -> "}
                 <span className="keyword">fan_in</span><br />
                 {"  -> "}
                 <span className="func">content_writer</span> {"-> "}
-                <span className="keyword">interrupt</span>{"()  "}
-                <span className="comment">{"// human review"}</span><br />
+                <span className="keyword">review</span>{"()  "}
+                <span className="comment">{"// per-format HITL"}</span><br />
                 {"  -> "}
                 <span className="func">output</span>
               </div>
@@ -615,9 +688,10 @@ function LandingPage({ setPage }) {
           <div className="section-header anim-fade-up">
             <h2>Stack Architecture</h2>
             <p>
-              Every service runs on a free tier or local runtime.
-              Zero idle cost. The production path replaces local stores
-              with AWS managed services.
+              The pipeline runs on AWS Lambda and costs nothing at idle. You pay only
+              for Bedrock API calls (~$0.17/paper with dynamic Haiku+Sonnet routing) and
+              negligible Lambda compute. S3 static hosting and CloudFront CDN are within
+              free-tier limits for demo usage.
             </p>
           </div>
           <ArchLayer
@@ -625,10 +699,10 @@ function LandingPage({ setPage }) {
             labelColor="var(--teal)"
             borderColor="var(--teal)"
             services={[
-              { icon: "\u{1F9E9}", name: "LangGraph", desc: "StateGraph + fan-out" },
-              { icon: "\u{1F504}", name: "MemorySaver", desc: "Checkpointer" },
-              { icon: "\u{270B}", name: "interrupt()", desc: "Human-in-the-loop" },
-              { icon: "\u{2601}\u{FE0F}", name: "AWS Lambda", desc: "Serverless deploy" },
+              { icon: "\u{1F9E9}", name: "JS Pipeline", desc: "Fan-out/fan-in topology" },
+              { icon: "\u{2601}\u{FE0F}", name: "AWS Lambda", desc: "Serverless compute" },
+              { icon: "\u{1F4E6}", name: "API Gateway", desc: "HTTP API + CORS" },
+              { icon: "\u{270B}", name: "HITL Review", desc: "Per-format approval" },
             ]}
           />
           <ArchLayer
@@ -636,21 +710,21 @@ function LandingPage({ setPage }) {
             labelColor="var(--green)"
             borderColor="var(--green)"
             services={[
-              { icon: "\u{1F9E0}", name: "Claude Haiku", desc: "Analysis agents" },
+              { icon: "\u{1F9E0}", name: "Claude Haiku", desc: "4 analysis agents" },
               { icon: "\u{270D}\u{FE0F}", name: "Claude Sonnet", desc: "Content writer" },
-              { icon: "\u{1F4CB}", name: "Structured Output", desc: "Pydantic models" },
+              { icon: "\u{1F4CB}", name: "Dynamic Routing", desc: "Cost-quality balance" },
               { icon: "\u{1F50D}", name: "Tavily Search", desc: "Fact verification" },
             ]}
           />
           <ArchLayer
-            label="Data & Retrieval"
+            label="Infrastructure"
             labelColor="var(--amber)"
             borderColor="var(--amber)"
             services={[
-              { icon: "\u{1F4DA}", name: "ChromaDB", desc: "Style corpus vectors" },
-              { icon: "\u{1F4C4}", name: "PyPDF", desc: "PDF extraction" },
-              { icon: "\u{1F4C2}", name: "Niskanen Corpus", desc: "8+ writing samples" },
-              { icon: "\u{1F4BE}", name: "S3", desc: "PDF + output storage" },
+              { icon: "\u{1F4BE}", name: "S3", desc: "Static hosting + jobs" },
+              { icon: "\u{1F310}", name: "CloudFront", desc: "CDN distribution" },
+              { icon: "\u{1F4C4}", name: "Readability", desc: "Article extraction" },
+              { icon: "\u{1F4C2}", name: "docx", desc: "Package generation" },
             ]}
           />
           <ArchLayer
@@ -660,27 +734,55 @@ function LandingPage({ setPage }) {
             services={[
               { icon: "\u{1F50E}", name: "LangSmith", desc: "Trace every run" },
               { icon: "\u{1F4CA}", name: "Evaluators", desc: "4 custom metrics" },
-              { icon: "\u{1F4D1}", name: "Datasets", desc: "8-10 test papers" },
+              { icon: "\u{1F4D1}", name: "Annotations", desc: "Human feedback loop" },
               { icon: "\u{1F4B0}", name: "Cost Tracking", desc: "Per-paper estimates" },
             ]}
           />
         </div>
       </section>
 
-      {/* Use Cases */}
+      {/* Automated Posting Vision */}
       <section className="section section-alt">
+        <div className="container">
+          <div className="section-header anim-fade-up">
+            <h2>The Automation Roadmap</h2>
+            <p>
+              This pipeline is built to become the backbone of a think tank's communications workflow.
+            </p>
+          </div>
+          <div className="use-grid">
+            {[
+              { icon: Send, title: "Social media auto-posting", text: "Once approved, social content will post directly to Twitter, Bluesky, LinkedIn, and Instagram via their APIs. Each platform's content is reviewed and approved individually before posting." },
+              { icon: BookOpen, title: "Newsletter distribution", text: "Newsletter content routes to Mailchimp or Buttondown after approval. The pipeline generates the paragraph, an editor signs off, and it flows into the next issue." },
+              { icon: FileText, title: "Document packages", text: "Op-eds, one-pagers, and media recommendations download as a .docx Comms Package for continued refinement, distribution to Hill staff, and submission to outlets." },
+              { icon: DollarSign, title: "Zero idle cost", text: "The pipeline runs on AWS Lambda and costs nothing when not in use. You pay only for Bedrock API calls (~$0.17/paper with Haiku+Sonnet routing) and negligible Lambda compute. This scales linearly with usage." },
+            ].map(({ icon: Icon, title, text }) => (
+              <div key={title} className="use-item">
+                <div className="use-icon"><Icon size={18} /></div>
+                <div>
+                  <h3>{title}</h3>
+                  <p>{text}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Use Cases */}
+      <section className="section">
         <div className="container">
           <div className="section-header anim-fade-up">
             <h2>What this pipeline does</h2>
           </div>
           <div className="use-grid">
             {[
-              { icon: FileText, title: "Generate 7 content formats", text: "From a single policy paper: tweet, LinkedIn post, Bluesky post, newsletter paragraph, congressional one-pager, full op-ed, and media placement recommendations." },
-              { icon: Shield, title: "Verify claims before publishing", text: "The citation checker searches the web for each statistical claim in the paper and flags anything it can't corroborate." },
+              { icon: FileText, title: "Generate 9 content formats", text: "From a single policy paper: 5 tweets, 3 LinkedIn posts, 5 Bluesky posts, newsletter paragraph, congressional one-pager, full op-ed, media placement recommendations, Instagram post, and Instagram story -- each with relevant hashtags." },
+              { icon: Shield, title: "Verify claims before publishing", text: "The citation checker searches the web for each statistical claim in the paper and flags anything it can't corroborate. Only verified claims with source URLs reach the content writer." },
               { icon: Users, title: "Match audience and tone", text: "The audience mapper tailors tone per format -- punchy for Twitter, professional for LinkedIn, jargon-free for Congress." },
-              { icon: Palette, title: "Write in Niskanen's voice", text: "ChromaDB stores existing Niskanen publications. The style agent extracts patterns so generated content sounds like the organization, not a chatbot." },
-              { icon: Eye, title: "Human review before publish", text: "LangGraph's interrupt() pauses the pipeline for editorial approval. Approve, request revision, or escalate -- nothing ships automatically." },
-              { icon: DollarSign, title: "Run at minimal cost", text: "Claude Haiku handles four analysis agents, Sonnet writes content. Full pipeline costs under $0.05 per paper." },
+              { icon: Palette, title: "Write in Niskanen's voice", text: "The style agent analyzes the input article's sentence structure, rhetorical patterns, and vocabulary. The content writer mirrors these patterns so output sounds like the organization, not a chatbot." },
+              { icon: Eye, title: "Per-format human review", text: "Each of the nine formats gets individual approve, edit, or reject controls. Social approvals simulate posting to the platform. Document approvals add to the .docx Comms Package." },
+              { icon: DollarSign, title: "Dynamic model routing", text: "Claude Haiku handles four analysis agents (~$0.02 total). Claude Sonnet writes the content (~$0.15). This keeps per-paper cost around $0.17 while delivering high-quality writing where it matters." },
             ].map(({ icon: Icon, title, text }) => (
               <div key={title} className="use-item">
                 <div className="use-icon"><Icon size={18} /></div>
@@ -695,16 +797,17 @@ function LandingPage({ setPage }) {
       </section>
 
       {/* Agent Table */}
-      <section className="section">
+      <section className="section section-alt">
         <div className="container">
           <div style={{ marginBottom: "2.5rem" }}>
             <span className="section-badge badge-blue">Agent Routing</span>
             <h2 style={{ fontSize: "clamp(1.5rem, 3vw, 1.875rem)", fontWeight: 700, color: "var(--foreground)" }}>
-              Six agents. Two models.
+              Five agents. Two models.
             </h2>
             <p style={{ marginTop: "0.75rem", fontSize: "0.875rem", color: "var(--muted-fg)", maxWidth: "36rem" }}>
               Analysis agents use Claude Haiku for speed and cost. The content
-              writer uses Claude Sonnet for quality. Four agents run in parallel.
+              writer uses Claude Sonnet for quality. Three agents run in parallel
+              after the research analyst completes.
             </p>
           </div>
           <table className="styled-table">
@@ -718,12 +821,11 @@ function LandingPage({ setPage }) {
             </thead>
             <tbody>
               {[
-                ["Supervisor", "Claude Haiku", "Validate extraction, route", "Sequential"],
-                ["Research Analyst", "Claude Haiku", "Thesis, evidence, implications", "Sequential"],
+                ["Research Analyst", "Claude Haiku", "Thesis, evidence, implications", "Sequential (first)"],
                 ["Audience Mapper", "Claude Haiku", "Tone + complexity per format", "Parallel"],
                 ["Citation Checker", "Claude Haiku + Tavily", "Verify statistical claims", "Parallel"],
-                ["Style Agent", "Claude Haiku + ChromaDB", "Extract writing patterns", "Parallel"],
-                ["Content Writer", "Claude Sonnet", "Generate 7-format package", "Sequential"],
+                ["Style Analyst", "Claude Haiku", "Extract writing patterns", "Parallel"],
+                ["Content Writer", "Claude Sonnet", "Generate 9-format package", "Sequential (last)"],
               ].map((row, i) => (
                 <tr key={i}>
                   <td>{row[0]}</td>
@@ -742,8 +844,8 @@ function LandingPage({ setPage }) {
         <div className="cta-inner">
           <h2>See it in action</h2>
           <p>
-            Upload a Niskanen Center policy paper and watch the pipeline
-            generate a full content package in under 30 seconds.
+            Paste a Niskanen Center article URL and watch the pipeline
+            generate a full content package in under a minute.
           </p>
           <div className="cta-buttons">
             <button className="btn-hero btn-hero-primary" onClick={() => setPage("pipeline")}>
@@ -784,17 +886,19 @@ function AboutPage() {
             multi-agent pipeline that converts policy papers into content packages.
           </p>
           <p style={{ marginBottom: "1rem" }}>
-            The pipeline uses LangGraph to coordinate six agents -- a supervisor,
-            research analyst, audience mapper, citation checker, style agent, and
-            content writer. Four of those agents run in parallel via LangGraph's
-            fan-out/fan-in pattern. The content writer waits for all four to
+            The pipeline coordinates five agents -- a research analyst, audience
+            mapper, citation checker, style analyst, and content writer. Three of
+            those agents (audience, citation, style) run in parallel after the
+            research analyst completes. The content writer waits for all three to
             finish before generating nine output formats.
           </p>
           <p style={{ marginBottom: "1rem" }}>
-            Human-in-the-loop review is built in using LangGraph's interrupt()
-            mechanism. The pipeline pauses after content generation and waits for
-            an editor to approve, request revision, or escalate. Nothing publishes
-            without human sign-off.
+            Human-in-the-loop review is built in at the format level. After content
+            generation, each of the nine formats gets individual approve, edit, or
+            reject controls. Rejecting a format regenerates only that specific output
+            using the cached intermediate agent data -- no need to re-run the full
+            pipeline. Social format approvals show a mock of the automated posting
+            flow. Document format approvals add to the downloadable .docx Comms Package.
           </p>
           <p style={{ marginBottom: "1rem" }}>
             The evaluation framework includes four custom metrics: argument
@@ -803,10 +907,25 @@ function AboutPage() {
             one-pager jargon-free?), and format compliance (is the tweet under
             280 characters?).
           </p>
+          <p style={{ marginBottom: "1rem" }}>
+            The pipeline uses dynamic model routing to balance cost and quality.
+            The four analysis agents (Research Analyst, Audience Mapper, Citation
+            Checker, Style Analyst) run on Claude 3.5 Haiku for fast, cheap
+            structured extraction. The Content Writer, which produces all
+            publication-ready outputs, runs on Claude Sonnet for higher-quality
+            long-form generation. This routing is configurable via environment
+            variables (BEDROCK_MODEL_ID for analysis, SONNET_MODEL_ID for
+            writing), letting operators tune the cost-quality tradeoff. The
+            approach keeps per-paper cost around $0.17 while delivering
+            Sonnet-quality writing where it matters most.
+          </p>
           <p>
-            Everything runs on free tiers. Claude via AWS Bedrock, Tavily free
-            tier for web search, ChromaDB for local vector storage, LangSmith
-            free tier for tracing. Total cost per paper is under $0.05.
+            Everything runs on AWS. Claude via Bedrock, Tavily free tier for web
+            search, LangSmith for tracing. The pipeline runs on Lambda and costs
+            nothing at idle. You pay only for Bedrock API calls and negligible
+            Lambda compute. S3 static hosting and CloudFront CDN are within
+            free-tier limits for demo usage. This architecture scales linearly
+            with usage and requires no standing infrastructure.
           </p>
         </div>
       </div>
@@ -815,10 +934,10 @@ function AboutPage() {
 }
 
 /* ========================================================================== */
-/*  Agent Work Panels — proof of intermediate agent outputs                    */
+/*  Agent Work Panels -- proof of intermediate agent outputs                   */
 /* ========================================================================== */
 
-function AgentPanel({ title, accent, icon: Icon, timing, defaultOpen, children }) {
+function AgentPanel({ title, accent, icon: Icon, timing, description, defaultOpen, children }) {
   const [open, setOpen] = useState(defaultOpen !== false);
   const timingStr = timing ? `${(timing / 1000).toFixed(1)}s` : null;
 
@@ -836,7 +955,12 @@ function AgentPanel({ title, accent, icon: Icon, timing, defaultOpen, children }
         </div>
         {open ? <ChevronDown size={16} /> : <ChevronRight size={16} />}
       </div>
-      {open && <div className="agent-panel-body">{children}</div>}
+      {open && (
+        <div className="agent-panel-body">
+          {description && <p className="agent-panel-desc">{description}</p>}
+          {children}
+        </div>
+      )}
     </div>
   );
 }
@@ -844,7 +968,7 @@ function AgentPanel({ title, accent, icon: Icon, timing, defaultOpen, children }
 function ResearchPanel({ data, timing }) {
   if (!data) return null;
   return (
-    <AgentPanel title="Research Analysis" accent="blue" icon={Search} timing={timing}>
+    <AgentPanel title="Research Analysis" accent="blue" icon={Search} timing={timing} description={AGENT_DESCRIPTIONS.research}>
       <div className="agent-section">
         <div className="agent-label">Thesis</div>
         <div className="agent-thesis">{data.thesis}</div>
@@ -887,7 +1011,7 @@ function ResearchPanel({ data, timing }) {
 function AudiencePanel({ data, timing }) {
   if (!data) return null;
   return (
-    <AgentPanel title="Audience Mapping" accent="green" icon={Users} timing={timing}>
+    <AgentPanel title="Audience Mapping" accent="green" icon={Users} timing={timing} description={AGENT_DESCRIPTIONS.audience}>
       {data.audiences?.length > 0 && (
         <div className="agent-section">
           <div className="agent-label">Target Audiences</div>
@@ -931,7 +1055,7 @@ function CitationPanel({ data, timing }) {
   const pct = Math.round(score * 100);
 
   return (
-    <AgentPanel title="Citation Verification" accent="amber" icon={Shield} timing={timing}>
+    <AgentPanel title="Citation Verification" accent="amber" icon={Shield} timing={timing} description={AGENT_DESCRIPTIONS.citation}>
       <div className="agent-section">
         <div className="agent-label">Overall Confidence</div>
         <div className="confidence-bar-wrap">
@@ -983,7 +1107,7 @@ function CitationPanel({ data, timing }) {
 function StylePanel({ data, timing }) {
   if (!data) return null;
   return (
-    <AgentPanel title="Style Analysis" accent="teal" icon={Palette} timing={timing}>
+    <AgentPanel title="Style Analysis" accent="teal" icon={Palette} timing={timing} description={AGENT_DESCRIPTIONS.style}>
       {data.sentence_length_avg && (
         <div className="agent-section">
           <div className="agent-label">Average Sentence Length</div>
@@ -1026,7 +1150,81 @@ function StylePanel({ data, timing }) {
 }
 
 /* ========================================================================== */
-/*  Evals Page — LangSmith observability, annotations, AI assessment           */
+/*  Pipeline Flow Visualization                                                */
+/* ========================================================================== */
+
+function PipelineFlowDiagram({ currentStep, status }) {
+  const nodes = [
+    { id: "fetch", label: "Fetch", step: 1, x: 0, y: 50 },
+    { id: "research", label: "Research", step: 2, x: 1, y: 50 },
+    { id: "audience", label: "Audience", step: 3, x: 2, y: 15 },
+    { id: "citation", label: "Citation", step: 4, x: 2, y: 50 },
+    { id: "style", label: "Style", step: 5, x: 2, y: 85 },
+    { id: "writer", label: "Writer", step: 6, x: 3, y: 50 },
+    { id: "review", label: "Review", step: 7, x: 4, y: 50 },
+  ];
+
+  const edges = [
+    { from: "fetch", to: "research" },
+    { from: "research", to: "audience" },
+    { from: "research", to: "citation" },
+    { from: "research", to: "style" },
+    { from: "audience", to: "writer" },
+    { from: "citation", to: "writer" },
+    { from: "style", to: "writer" },
+    { from: "writer", to: "review" },
+  ];
+
+  const getNodeState = (step) => {
+    if (status === "done" || status === "review") return "done";
+    if (step < currentStep) return "done";
+    if (step === currentStep) return "active";
+    // Steps 3,4,5 are parallel -- if currentStep >= 3, all three are active
+    if ([3, 4, 5].includes(step) && currentStep >= 3 && currentStep <= 5) return "active";
+    return "idle";
+  };
+
+  return (
+    <div className="pipeline-flow-diagram">
+      <svg className="pipeline-flow-svg" viewBox="0 0 500 100" preserveAspectRatio="xMidYMid meet">
+        {edges.map(({ from, to }) => {
+          const fromNode = nodes.find((n) => n.id === from);
+          const toNode = nodes.find((n) => n.id === to);
+          const x1 = fromNode.x * 115 + 50;
+          const y1 = fromNode.y;
+          const x2 = toNode.x * 115 + 50;
+          const y2 = toNode.y;
+          const fromState = getNodeState(fromNode.step);
+          const isActive = fromState === "done" || fromState === "active";
+          return (
+            <line
+              key={`${from}-${to}`}
+              x1={x1} y1={y1} x2={x2} y2={y2}
+              className={`flow-connector ${isActive ? "active" : ""}`}
+            />
+          );
+        })}
+      </svg>
+      <div className="pipeline-flow-nodes">
+        {nodes.map((node) => {
+          const state = getNodeState(node.step);
+          return (
+            <div
+              key={node.id}
+              className={`flow-node node-${state}`}
+              style={{ left: `${(node.x / 4) * 100}%`, top: `${node.y}%` }}
+            >
+              <span>{node.label}</span>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
+/* ========================================================================== */
+/*  Evals Page -- LangSmith observability, annotations, AI assessment          */
 /* ========================================================================== */
 
 const EVALS_TABS = [
@@ -1182,16 +1380,13 @@ function EvalsPage() {
   const [activeTab, setActiveTab] = useState("runs");
   const [selectedRunId, setSelectedRunId] = useState(null);
 
-  // Runs tab state
   const [runs, setRuns] = useState([]);
   const [runsLoading, setRunsLoading] = useState(false);
   const [runsError, setRunsError] = useState(null);
 
-  // Evals tab state
   const [evals, setEvals] = useState([]);
   const [evalsLoading, setEvalsLoading] = useState(false);
 
-  // Annotate tab state
   const [annotateRunId, setAnnotateRunId] = useState("");
   const [ratings, setRatings] = useState({
     content_quality: 0, factual_accuracy: 0, tone: 0, actionability: 0, overall: 0,
@@ -1201,13 +1396,11 @@ function EvalsPage() {
   const [recommendations, setRecommendations] = useState(null);
   const [recsLoading, setRecsLoading] = useState(false);
 
-  // Assess tab state
   const [assessTimeRange, setAssessTimeRange] = useState("7d");
   const [assessment, setAssessment] = useState(null);
   const [assessLoading, setAssessLoading] = useState(false);
   const [assessError, setAssessError] = useState(null);
 
-  // Fetch runs
   const loadRuns = useCallback(() => {
     setRunsLoading(true);
     setRunsError(null);
@@ -1217,7 +1410,6 @@ function EvalsPage() {
       .catch((e) => { setRunsError(e.message); setRunsLoading(false); });
   }, []);
 
-  // Fetch evals
   const loadEvals = useCallback(() => {
     setEvalsLoading(true);
     fetch(`${API_BASE}/api/evals`)
@@ -1231,7 +1423,6 @@ function EvalsPage() {
     if (activeTab === "evals" && evals.length === 0) loadEvals();
   }, [activeTab]);
 
-  // Submit annotations
   const submitAnnotations = async () => {
     if (!annotateRunId) return;
     setAnnotateStatus("submitting");
@@ -1256,7 +1447,6 @@ function EvalsPage() {
     }
   };
 
-  // Generate recommendations
   const generateRecs = async () => {
     if (!annotateRunId) return;
     setRecsLoading(true);
@@ -1276,7 +1466,6 @@ function EvalsPage() {
     setRecsLoading(false);
   };
 
-  // Generate assessment
   const generateAssessment = async () => {
     setAssessLoading(true);
     setAssessError(null);
@@ -1287,7 +1476,6 @@ function EvalsPage() {
         throw new Error(errData.error || `Failed to fetch traces (${traceResp.status})`);
       }
       const traceData = await traceResp.json();
-      // Validate that we actually got runs before sending to assess
       const runs = traceData?.runs || [];
       if (runs.length === 0) {
         throw new Error("No pipeline runs found. Run the pipeline at least once before generating an assessment.");
@@ -1309,7 +1497,6 @@ function EvalsPage() {
     setAssessLoading(false);
   };
 
-  // If viewing trace detail, show that instead
   if (selectedRunId) {
     return (
       <section className="section evals-page">
@@ -1329,11 +1516,11 @@ function EvalsPage() {
             <h2 className="evals-title">Pipeline Evaluations</h2>
             <p className="evals-subtitle">
               LangSmith traces, evaluation scores, annotations, and AI-generated assessments.
+              Traces appear automatically when LANGSMITH_API_KEY is configured.
             </p>
           </div>
         </div>
 
-        {/* Sub-tab navigation */}
         <div className="evals-tabs">
           {EVALS_TABS.map(({ id, label, icon: Icon }) => (
             <button
@@ -1347,7 +1534,6 @@ function EvalsPage() {
           ))}
         </div>
 
-        {/* Tab 1: Pipeline Runs */}
         {activeTab === "runs" && (
           <div className="evals-panel">
             <div className="evals-panel-header">
@@ -1398,7 +1584,6 @@ function EvalsPage() {
           </div>
         )}
 
-        {/* Tab 2: Evaluation Dashboard */}
         {activeTab === "evals" && (
           <div className="evals-panel">
             <div className="evals-panel-header">
@@ -1484,7 +1669,6 @@ function EvalsPage() {
           </div>
         )}
 
-        {/* Tab 3: Annotations */}
         {activeTab === "annotate" && (
           <div className="evals-panel">
             <div className="evals-panel-header">
@@ -1563,7 +1747,6 @@ function EvalsPage() {
                 )}
               </div>
 
-              {/* Recommendations panel */}
               {recommendations && !recommendations.error && (
                 <div className="recs-panel">
                   <div className="recs-cards">
@@ -1593,7 +1776,6 @@ function EvalsPage() {
           </div>
         )}
 
-        {/* Tab 4: Assessment Module */}
         {activeTab === "assess" && (
           <div className="evals-panel">
             <div className="evals-panel-header">
@@ -1708,11 +1890,18 @@ function PipelinePage() {
   const [contentPackage, setContentPackage] = useState(null);
   const [agentData, setAgentData] = useState(null);
   const [agentTimings, setAgentTimings] = useState(null);
-  const [activeTab, setActiveTab] = useState("twitter_post");
-  const [feedback, setFeedback] = useState("");
+  const [activeTab, setActiveTab] = useState("twitter_posts");
   const [errors, setErrors] = useState([]);
-  const [decision, setDecision] = useState("");
   const [articleMeta, setArticleMeta] = useState(null);
+
+  // Per-format HITL state
+  const [formatStatus, setFormatStatus] = useState({});
+  const [editedContent, setEditedContent] = useState({});
+  const [editingFormat, setEditingFormat] = useState(null);
+  const [editText, setEditText] = useState("");
+  const [regenerating, setRegenerating] = useState(null);
+
+  const allApproved = FORMATS.every((f) => formatStatus[f.key] === "approved");
 
   const handleSubmit = useCallback(
     (e) => {
@@ -1725,13 +1914,14 @@ function PipelinePage() {
       setAgentData(null);
       setAgentTimings(null);
       setArticleMeta(null);
-      setDecision("");
-      setFeedback("");
+      setFormatStatus({});
+      setEditedContent({});
+      setEditingFormat(null);
+      setRegenerating(null);
       runPipeline(
         url,
         (step) => setCurrentStep(step),
         (data) => {
-          // Store intermediate agent outputs
           setAgentData({
             research_summary: data.research_summary,
             audience_map: data.audience_map,
@@ -1743,6 +1933,10 @@ function PipelinePage() {
           setContentPackage(data.content);
           setCurrentStep(7);
           setStatus("review");
+          // Initialize all formats as pending
+          const initial = {};
+          FORMATS.forEach((f) => { initial[f.key] = "pending"; });
+          setFormatStatus(initial);
         },
         (errMsg) => {
           setErrors((prev) => [...prev, errMsg]);
@@ -1753,23 +1947,75 @@ function PipelinePage() {
     [url]
   );
 
-  const handleReview = useCallback((action) => {
-    setDecision(action);
-    if (action === "approve") {
-      setCurrentStep(7);
-      setStatus("done");
-    } else if (action === "revise") {
-      setStatus("running");
-      setCurrentStep(5);
-      setTimeout(() => {
-        setCurrentStep(6);
-        setStatus("review");
-        setDecision("");
-      }, 2500);
-    } else {
-      setStatus("done");
-    }
+  const clearResults = useCallback(() => {
+    setStatus("idle");
+    setCurrentStep(0);
+    setContentPackage(null);
+    setAgentData(null);
+    setAgentTimings(null);
+    setArticleMeta(null);
+    setFormatStatus({});
+    setEditedContent({});
+    setEditingFormat(null);
+    setRegenerating(null);
+    setErrors([]);
   }, []);
+
+  const handleApprove = useCallback((formatKey) => {
+    setFormatStatus((prev) => ({ ...prev, [formatKey]: "approved" }));
+  }, []);
+
+  const handleStartEdit = useCallback((formatKey) => {
+    const current = editedContent[formatKey] || contentPackage?.[formatKey];
+    const displayText = typeof current === "string" ? current : formatForDisplay(current);
+    setEditText(displayText);
+    setEditingFormat(formatKey);
+    setFormatStatus((prev) => ({ ...prev, [formatKey]: "editing" }));
+  }, [editedContent, contentPackage]);
+
+  const handleSaveEdit = useCallback((formatKey) => {
+    setEditedContent((prev) => ({ ...prev, [formatKey]: editText }));
+    setEditingFormat(null);
+    setFormatStatus((prev) => ({ ...prev, [formatKey]: "pending" }));
+  }, [editText]);
+
+  const handleCancelEdit = useCallback((formatKey) => {
+    setEditingFormat(null);
+    setFormatStatus((prev) => ({ ...prev, [formatKey]: "pending" }));
+  }, []);
+
+  const handleReject = useCallback(async (formatKey) => {
+    if (!agentData || !articleMeta) return;
+    setRegenerating(formatKey);
+    setFormatStatus((prev) => ({ ...prev, [formatKey]: "rejected" }));
+    try {
+      const res = await fetch(`${API_BASE}/api/regenerate`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          formatKey,
+          article: articleMeta,
+          research: agentData.research_summary,
+          audience: agentData.audience_map,
+          facts: agentData.fact_check_report,
+          style: agentData.style_patterns,
+        }),
+      });
+      const data = await res.json();
+      if (data.success && data.content) {
+        setContentPackage((prev) => ({ ...prev, [formatKey]: data.content }));
+        setEditedContent((prev) => {
+          const next = { ...prev };
+          delete next[formatKey];
+          return next;
+        });
+      }
+    } catch (err) {
+      setErrors((prev) => [...prev, `Regenerate failed: ${err.message}`]);
+    }
+    setRegenerating(null);
+    setFormatStatus((prev) => ({ ...prev, [formatKey]: "pending" }));
+  }, [agentData, articleMeta]);
 
   const downloadDocx = useCallback(async () => {
     if (!contentPackage) return;
@@ -1780,7 +2026,6 @@ function PipelinePage() {
       const title = articleMeta?.title || "Content Package";
       const sections = [];
 
-      // Title page
       sections.push(
         new Paragraph({ text: title, heading: HeadingLevel.TITLE }),
         new Paragraph({ text: "" }),
@@ -1793,16 +2038,31 @@ function PipelinePage() {
         new Paragraph({ text: "" }),
       );
 
-      // Each format as a section
       for (const fmt of FORMATS) {
-        const raw = contentPackage[fmt.key];
+        const raw = editedContent[fmt.key] || contentPackage[fmt.key];
         if (!raw) continue;
-        const displayText = formatForDisplay(raw);
+
         sections.push(
           new Paragraph({ text: fmt.label, heading: HeadingLevel.HEADING_1 }),
-          ...displayText.split("\n").map((line) => new Paragraph({ text: line })),
-          new Paragraph({ text: "" }),
         );
+
+        // Handle arrays (multiple social posts)
+        if (Array.isArray(raw)) {
+          raw.forEach((item, idx) => {
+            const text = typeof item === "string" ? item : formatForDisplay(item);
+            sections.push(
+              new Paragraph({ text: `${fmt.label} ${idx + 1} of ${raw.length}`, heading: HeadingLevel.HEADING_2 }),
+              ...text.split("\n").map((line) => new Paragraph({ text: line })),
+              new Paragraph({ text: "" }),
+            );
+          });
+        } else {
+          const displayText = typeof raw === "string" ? raw : formatForDisplay(raw);
+          sections.push(
+            ...displayText.split("\n").map((line) => new Paragraph({ text: line })),
+            new Paragraph({ text: "" }),
+          );
+        }
       }
 
       const doc = new Document({ sections: [{ children: sections }] });
@@ -1812,20 +2072,32 @@ function PipelinePage() {
     } catch (err) {
       console.error("Failed to generate .docx:", err);
     }
-  }, [contentPackage, articleMeta]);
+  }, [contentPackage, editedContent, articleMeta]);
 
-  const rawContent = contentPackage?.[activeTab] || "";
-  const activeContent = formatForDisplay(rawContent);
+  // Get active content (respecting edits and array formats)
+  const rawContent = editedContent[activeTab] || contentPackage?.[activeTab] || "";
   const activeMeta = FORMATS.find((f) => f.key === activeTab);
-  const count = activeMeta?.limit ? measure(activeContent, activeMeta.unit) : null;
-  const isOver = activeMeta?.limit && count > activeMeta.limit;
+  const isArrayFormat = Array.isArray(rawContent);
+  const activeContent = isArrayFormat ? rawContent : formatForDisplay(rawContent);
+
+  // Determine if we should render MediaRecsDisplay specially
+  const isMediaRecs = activeTab === "media_outlet_recommendations" &&
+    rawContent && typeof rawContent === "object" && !Array.isArray(rawContent) &&
+    (rawContent["PRIMARY TARGETS"] || rawContent["primary_targets"]);
 
   return (
     <div className="pipeline-page">
       <div className="container">
         {/* Upload */}
         <div className="upload-zone anim-fade-up">
-          <h2>Process a policy paper</h2>
+          <div className="upload-zone-header">
+            <h2>Process a policy paper</h2>
+            {contentPackage && (
+              <button className="btn btn-sm btn-outline" onClick={clearResults} title="Clear results">
+                <Trash2 size={14} /> Clear
+              </button>
+            )}
+          </div>
           <form className="input-row" onSubmit={handleSubmit}>
             <input
               type="text"
@@ -1848,7 +2120,14 @@ function PipelinePage() {
           </form>
         </div>
 
-        {/* Status */}
+        {/* Pipeline Flow Visualization */}
+        {status !== "idle" && (
+          <div className="anim-fade-up">
+            <PipelineFlowDiagram currentStep={currentStep} status={status} />
+          </div>
+        )}
+
+        {/* Step Progress */}
         {status !== "idle" && (
           <div className="status-card anim-fade-up">
             <h3>Pipeline Progress</h3>
@@ -1881,7 +2160,7 @@ function PipelinePage() {
           </div>
         )}
 
-        {/* Content Package — shown first, above agent work */}
+        {/* Content Package with per-format HITL controls */}
         {contentPackage && (
           <div className="content-card anim-fade-up">
             <div className="content-card-header">
@@ -1892,36 +2171,163 @@ function PipelinePage() {
                     <Clock size={12} /> {(agentTimings.content_writer / 1000).toFixed(1)}s
                   </span>
                 )}
-                <button className="btn btn-sm btn-outline" onClick={downloadDocx} title="Download as .docx">
+                <button
+                  className={`btn btn-sm ${allApproved ? "btn-primary" : "btn-outline"}`}
+                  onClick={downloadDocx}
+                  title={allApproved ? "Download approved content" : "Download current content"}
+                >
                   <Download size={14} /> .docx
                 </button>
               </div>
             </div>
             <div className="tabs">
-              {FORMATS.map((f) => (
-                <button
-                  key={f.key}
-                  className={`tab${activeTab === f.key ? " active" : ""}`}
-                  onClick={() => setActiveTab(f.key)}
-                >
-                  {f.label}
-                </button>
-              ))}
+              {FORMATS.map((f) => {
+                const fStatus = formatStatus[f.key];
+                const statusCls = fStatus === "approved" ? " tab-approved"
+                  : fStatus === "rejected" ? " tab-rejected"
+                  : "";
+                return (
+                  <button
+                    key={f.key}
+                    className={`tab${activeTab === f.key ? " active" : ""}${statusCls}`}
+                    onClick={() => setActiveTab(f.key)}
+                  >
+                    {fStatus === "approved" && <CheckCircle size={12} />}
+                    {f.label}
+                  </button>
+                );
+              })}
             </div>
+
             <div className="tab-content">
-              <pre>{activeContent}</pre>
-              {count !== null && (
-                <div className={`char-count${isOver ? " over" : ""}`}>
-                  {count} {activeMeta.unit}
-                  {activeMeta.limit && ` / ${activeMeta.limit} limit`}
-                  {isOver && " -- over limit"}
+              {/* Editing mode */}
+              {editingFormat === activeTab ? (
+                <div className="edit-mode">
+                  <textarea
+                    className="edit-textarea"
+                    value={editText}
+                    onChange={(e) => setEditText(e.target.value)}
+                    rows={12}
+                  />
+                  <div className="edit-actions">
+                    <button className="btn btn-sm btn-primary" onClick={() => handleSaveEdit(activeTab)}>
+                      Save
+                    </button>
+                    <button className="btn btn-sm btn-outline" onClick={() => handleCancelEdit(activeTab)}>
+                      Cancel
+                    </button>
+                  </div>
+                </div>
+              ) : regenerating === activeTab ? (
+                <div className="regenerating-state">
+                  <Loader2 size={24} className="spin" />
+                  <p>Regenerating {activeMeta?.label}...</p>
+                </div>
+              ) : isMediaRecs ? (
+                <MediaRecsDisplay data={rawContent} />
+              ) : isArrayFormat ? (
+                /* Render array of posts (multiple tweets, linkedin, bluesky) */
+                <div className="array-posts">
+                  {rawContent.map((item, idx) => {
+                    const text = typeof item === "string" ? item : formatForDisplay(item);
+                    const count = activeMeta?.limit ? measure(text, activeMeta.unit) : null;
+                    const over = activeMeta?.limit && count > activeMeta.limit;
+                    return (
+                      <div key={idx} className="array-post-item">
+                        <div className="array-post-header">
+                          <span className="array-post-num">{activeMeta?.label} {idx + 1} of {rawContent.length}</span>
+                          {count !== null && (
+                            <span className={`char-count-inline${over ? " over" : ""}`}>
+                              {count} {activeMeta.unit}{activeMeta.limit ? ` / ${activeMeta.limit}` : ""}
+                            </span>
+                          )}
+                        </div>
+                        <pre className="array-post-text">{text}</pre>
+                      </div>
+                    );
+                  })}
+                </div>
+              ) : (
+                /* Single-value format */
+                <>
+                  <pre>{activeContent}</pre>
+                  {activeMeta?.limit && (
+                    <div className={`char-count${measure(activeContent, activeMeta.unit) > activeMeta.limit ? " over" : ""}`}>
+                      {measure(activeContent, activeMeta.unit)} {activeMeta.unit}
+                      {` / ${activeMeta.limit} limit`}
+                      {measure(activeContent, activeMeta.unit) > activeMeta.limit && " -- over limit"}
+                    </div>
+                  )}
+                </>
+              )}
+
+              {/* Per-format HITL controls */}
+              {(status === "review" || status === "done") && editingFormat !== activeTab && regenerating !== activeTab && (
+                <div className="hitl-controls">
+                  <div className="hitl-status">
+                    <span className={`hitl-badge hitl-${formatStatus[activeTab] || "pending"}`}>
+                      {(formatStatus[activeTab] || "pending").charAt(0).toUpperCase() + (formatStatus[activeTab] || "pending").slice(1)}
+                    </span>
+                  </div>
+                  <div className="hitl-actions">
+                    <button
+                      className="btn btn-sm btn-green"
+                      onClick={() => handleApprove(activeTab)}
+                      disabled={formatStatus[activeTab] === "approved"}
+                    >
+                      <CheckCircle size={14} /> Approve
+                    </button>
+                    <button
+                      className="btn btn-sm btn-outline"
+                      onClick={() => handleStartEdit(activeTab)}
+                    >
+                      <Edit3 size={14} /> Edit
+                    </button>
+                    <button
+                      className="btn btn-sm btn-warn"
+                      onClick={() => handleReject(activeTab)}
+                    >
+                      <RotateCcw size={14} /> Reject & Regenerate
+                    </button>
+                  </div>
+
+                  {/* Approval confirmation messages */}
+                  {formatStatus[activeTab] === "approved" && SOCIAL_FORMATS.has(activeTab) && (
+                    <div className="hitl-approved-banner social-banner">
+                      <Send size={18} />
+                      <div>
+                        <strong>Approved for {activeMeta?.platform || "social"}</strong>
+                        <p>Once automated, this system would post directly to {activeMeta?.platform}. Content saved to your .docx package.</p>
+                      </div>
+                    </div>
+                  )}
+                  {formatStatus[activeTab] === "approved" && DOC_FORMATS.has(activeTab) && (
+                    <div className="hitl-approved-banner doc-banner">
+                      <FileText size={18} />
+                      <div>
+                        <strong>Approved</strong>
+                        <p>This will be included in your downloadable .docx Comms Package for further refinement and distribution.</p>
+                      </div>
+                    </div>
+                  )}
                 </div>
               )}
             </div>
           </div>
         )}
 
-        {/* Agent Work Panels — proof of intermediate agent outputs */}
+        {/* All-approved banner */}
+        {allApproved && Object.keys(formatStatus).length > 0 && (
+          <div className="done-banner anim-fade-up">
+            <h3>All formats approved</h3>
+            <p>
+              Your content package is ready. Download the .docx Comms Package above.
+              Social content is queued for automated posting once platform integrations are connected.
+            </p>
+          </div>
+        )}
+
+        {/* Agent Work Panels */}
         {agentData && (
           <div className="agent-panels anim-fade-up">
             <h3 className="agent-panels-heading">Agent Work</h3>
@@ -1948,54 +2354,15 @@ function PipelinePage() {
           </div>
         )}
 
-        {/* Review */}
-        {status === "review" && (
-          <div className="review-card anim-fade-up">
-            <h3>Human Review</h3>
-            <div className="review-actions">
-              <button className="btn btn-green" onClick={() => handleReview("approve")}>
-                <CheckCircle size={16} /> Approve
-              </button>
-              <button className="btn btn-warn" onClick={() => handleReview("revise")}>
-                <Pen size={16} /> Revise
-              </button>
-              <button className="btn btn-red" onClick={() => handleReview("escalate")}>
-                Escalate
-              </button>
-            </div>
-            <textarea
-              className="feedback-input"
-              placeholder="Optional: add feedback for the content writer..."
-              value={feedback}
-              onChange={(e) => setFeedback(e.target.value)}
-            />
-          </div>
-        )}
-
-        {/* Done */}
-        {status === "done" && (
-          <div className="done-banner anim-fade-up">
-            <h3>
-              {decision === "approve"
-                ? "Content approved and saved"
-                : "Escalated to editorial team"}
-            </h3>
-            <p>
-              {decision === "approve"
-                ? "The content package has been written to outputs/ as JSON. View the full trace in LangSmith."
-                : "This paper has been flagged for manual review. The pipeline state is preserved for resumption."}
-            </p>
-          </div>
-        )}
-
         {/* Empty state */}
-        {status === "idle" && (
+        {status === "idle" && !contentPackage && (
           <div style={{ textAlign: "center", padding: "4rem 2rem", color: "var(--muted-fg)" }}>
             <FileText size={48} style={{ margin: "0 auto 1rem", opacity: 0.4 }} />
             <p style={{ fontSize: "0.9375rem", maxWidth: "28rem", margin: "0 auto" }}>
               Enter a Niskanen Center article URL above to generate a content
-              package with nine formats: tweet, LinkedIn, Bluesky, newsletter,
-              one-pager, op-ed, media placement recommendations, Instagram post, and Instagram story.
+              package with nine formats: tweets, LinkedIn posts, Bluesky posts,
+              newsletter, one-pager, op-ed, media placement recommendations,
+              Instagram post, and Instagram story.
             </p>
           </div>
         )}
@@ -2005,7 +2372,7 @@ function PipelinePage() {
 }
 
 /* ========================================================================== */
-/*  App Root                                                                   */
+/*  App Root -- CSS display toggling for persistent state                      */
 /* ========================================================================== */
 
 export default function App() {
@@ -2016,10 +2383,18 @@ export default function App() {
     <div className={`app${dark ? "" : " light"}`}>
       <Nav page={page} setPage={setPage} dark={dark} setDark={setDark} />
 
-      {page === "home" && <LandingPage setPage={setPage} />}
-      {page === "pipeline" && <PipelinePage />}
-      {page === "evals" && <EvalsPage />}
-      {page === "about" && <AboutPage />}
+      <div style={{ display: page === "home" ? "block" : "none" }}>
+        <LandingPage setPage={setPage} />
+      </div>
+      <div style={{ display: page === "pipeline" ? "block" : "none" }}>
+        <PipelinePage />
+      </div>
+      <div style={{ display: page === "evals" ? "block" : "none" }}>
+        <EvalsPage />
+      </div>
+      <div style={{ display: page === "about" ? "block" : "none" }}>
+        <AboutPage />
+      </div>
 
       <Footer />
     </div>

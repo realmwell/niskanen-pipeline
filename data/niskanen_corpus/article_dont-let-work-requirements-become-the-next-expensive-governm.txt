@@ -1,0 +1,157 @@
+TITLE: Don’t let work requirements become the next expensive government tech meltdown
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/dont-let-work-requirements-become-the-next-expensive-government-tech-meltdown/
+WORDS: 4708
+
+State Medicaid administrators face major changes in the year ahead—and without clear CMS guidance, the result could be massive costs and the largest multi-state technology failure since the pandemic.
+Beginning in 2027, states will be required to verify whether certain Medicaid enrollees are participating in work, education, or community service as a condition for eligibility. CMS’s forthcoming guidance offers a critical opportunity to prevent wasteful spending on incomplete data and unreliable products.
+Implementing these new requirements will be a massive bureaucratic undertaking. States will need comprehensive, structured data on who is working, volunteering, studying, or engaging in other qualifying activities—yet no federal, state, or local entity currently maintains this level of detail in a way that can be used automatically.
+H.R. 1
+adds further complexity by allowing community service and education hours to substitute for some or all work requirements. By early 2027, states will need to gather this data for more than 20 million people in the Medicaid expansion population in order to determine continued eligibility.
+The most straightforward way to collect this information is simply to ask beneficiaries—but that approach is costly, time-consuming, and imposes a significant “time tax” on the public. Even notifying enrollees about the new requirements could cost states millions, before factoring in the expenses of building new websites, retraining staff, handling increased call-center volume, and processing additional paperwork. Since CMS will reimburse states for 90 percent of their IT design and implementation costs and 75 percent of their operating costs, both federal and state governments will shoulder the financial burden. Actual expenses are likely to far exceed the $200 million appropriated for implementation.
+Unfortunately for both taxpayers and CMS, states have a decidedly mixed track record of implementing such programs cost-effectively.
+Georgia, for example, spent $60 million
+— about $8,000 per enrollee—in the first year on a system plagued by “technical glitches,” only to scale back to less frequent verification. In New Hampshire,
+contracting out phone calls to all 50,000 expansion recipients
+yielded so little enrollment that the state ultimately abandoned the program altogether.
+If each state spends what Georgia did and CMS reimburses siloed IT and data systems, the federal government could be on the hook for more than $1.5 billion—most of it flowing to large legacy contractors like Deloitte or Accenture and data brokers like Equifax. A recent
+GAO report discussed Georgia’s experience at length
+, charting the flow of federal dollars to contractors for relatively low numbers of end-users:
+These costly failures stem largely from CMS’ own guidelines and Medicaid IT governance, which locks states into outdated “waterfall” models of software development and implementation. Combined with tight timelines, this approach drives states toward incumbent vendors rather than allowing open competition that could deliver better, cheaper solutions.
+The result is a system that satisfies virtually no one: states remain tied to incumbent contractors regardless of performance; innovative vendors never get a chance to compete; CMS ends up covering inflated contract costs created by the lack of competitive pressure; and taxpayers shoulder higher bills while receiving diminishing returns.
+This state of affairs is not inevitable. To bring down these hefty price tags and guard against massive system failures, CMS can change its own rules to unshackle states from the rules that keep them stuck in this trap. In particular, as CMS develops and issues its guidance to states, these changes can simultaneously improve the accuracy of state Medicaid offices’ verification and reduce the price tag of this mammoth-sized national work reporting process by:
+Permitting states to use existing data sources to verify income and work history, and thereby reduce the reliance on expensive and incomplete data from brokers and administrative spending on call centers and outreach; and
+Streamlining its guidance to states by cutting CMS’ own red tape, making it easier for states to seek out new, innovative vendors and shared platforms, quickly prototype and iterate solutions, invest in their own internal capacity to manage contractors, and ultimately serve as better stewards of taxpayer resources.
+In addition, it is critical for CMS to move quickly in issuing guidance to states if it’s going to move in this direction–even with streamlined guidance, procurement and implementation of new solutions to comply with H.R. 1 will take time–and waiting until the statutory deadline of June, 2026 to send a signal to states effectively locks them into today’s costly system.
+Time is short, but CMS can still course-correct—saving money and ensuring a smoother transition—if it acts swiftly.
+The problem: How CMS’ current rules incentivize waste
+Under
+current law
+, the federal government offers reimbursement to states for the cost of maintaining and operating Medicaid IT infrastructure. Typically, CMS covers 90 percent of system design and implementation expenses, and 75 percent of ongoing operations and maintenance costs. These matches are intended to support states, which are often resource-constrained and ill-equipped to absorb unexpected costs, manage the growing complexity of administering Medicaid on behalf of the federal government. Comparable matches exist for other programs, such as SNAP and
+many states
+rely on federal funding to operate integrated eligibility systems that support both Medicaid and non-healthcare enrollment.
+Like many federal programs, these matching funds come with significant red tape. To qualify for reimbursement for Medicaid specifically, per CMS’ rules in 45 CFR Part 95, states are required to submit a detailed Advance Planning Document (APD) to CMS for approval. These APDs are extremely detailed project plans that outline various aspects of how a given state plans to approach the project, including
+“a detailed description of the nature and scope of the activities to be undertaken and the methods to be used to accomplish the project”
+among other requirements.
+CMS then reviews and must approve these plans before the project starts. If a state seeks to modify support contracts or alter the project approach, they need to go back for CMS approval -– a process that averaged
+43 days
+last year and may take even longer given recent staffing changes at the agency. For states operating integrated eligibility systems, the process can be further slowed by requirements to notify additional agencies, such as FNS, when system changes affect multiple programs.
+HHS and Congress are right to want federal dollars spent wisely and to encourage states to adopt consistent solutions. But the current approach creates perverse incentives and operational challenges that actually lead to
+more expensive
+implementations. CMS’ APD process is a perfect example of a traditional, “waterfall” approach to system development that both significantly increases costs to states (of which 90 percent are paid by CMS) and increases the likelihood that a given project will fail, requiring costly rework.
+Under this model, states must predict project needs far in advance, locking in plans, architecture, staffing, and budgets before work even begins. This requirement for the project to be determined all up-front,
+before the work has even started,
+makes what should be an iterative process into a path-dependent one. This directly conflicts with more modern, “agile” development cycles that virtually all private sector software companies have adopted, detailed at length in
+Niskanen’s recent Product Operating Model paper.
+It also creates significant distortions in the market for IT vendors that contribute to cost overruns and operational failures.
+CMS’ guidance limits critical free market competition between vendors
+This system creates strong structural incentives for states to limit competition that inflate costs and benefit incumbent vendors, especially when on a tight timeline (as they are in the case of H.R. 1 implementation). Working backwards from Congressional deadlines, states must account for both CMS’ APD approval process and their own procurement timelines. Faced with these delays, many default to the quickest option: simply extending or expanding incumbent vendor contracts, adding scope and funding without ever testing the market or giving new entrants a chance to compete.
+This dynamic drives up costs and weakens accountability. Competitive bidding is meant to hold vendors accountable by inviting multiple perspectives from the private market and ensuring the government gets the best value. But when procedural hurdles make competition impractical, states are left relying on incumbent vendors without external checks. The result is less accountable vendors, diminished incentives for performance, and escalating costs.
+Even when states open procurement to competition, these same structural pressures still tilt the process in favor of incumbents. Tight timelines and the risk of protest from losing vendors often push states to adopt restrictive procurement terms—such as heavily weighting prior experience in other states or defaulting to “lowest cost, technically acceptable” contracts. These rules make it nearly impossible for new or nontraditional vendors to break in.
+The problem is especially acute in this niche market, where a handful of large companies often dominate. These incumbents have a history of leveraging their market capture to charge multiple states (and therefore the federal government) multiple times for the same work.
+This isn’t mere speculation: as Niskanen recently documented in its
+How to Save a Billion Dollars
+report, we’ve seen these same vendors behave badly time and time again across the government in exactly the way described above:
+Deloitte and other vendors built Medicaid eligibility and enrollment systems for at least 25 U.S. states, with total spending exceeding $6 billion. While intended to streamline program administration, many states reported persistent problems, including eligibility errors, system inflexibility, and costly delays. In Georgia, 35 system change requests in 2023 were projected to take over 104,000 hours. In Texas, a Federal Trade Commission complaint alleged Deloitte’s software wrongly cut hundreds of thousands from Medicaid. A federal lawsuit alleges that Florida’s Deloitte-run computer system incorrectly cut off Medicaid coverage for new mothers, despite their eligibility for continuous 12-month coverage, due to technical issues. Alaska faced issues with eligibility errors, wrongful benefit terminations, and slow, expensive fixes. In September 2023, federal officials announced nearly 500,000 people — many of them children — would regain Medicaid or CHIP coverage after 30 states were found to have improperly vetted household eligibility post-pandemic, often disenrolling children when parents failed to return forms. These problems have fueled growing scrutiny and legal challenges across multiple states.
+One reason vendors continue to get away with this is that many governments lack in-house technical experts who understand what projects should cost or how to assess a vendor’s work. While agencies don’t need to build all software themselves, they do need staff capable of reviewing contractor deliverables at a detailed, technical level. Too often, that expertise is missing–creating a “sophistication gap” that vendors exploit to deliver products that don’t work as promised, are unnecessarily complex, or fail to integrate with existing systems.
+Modern technical product management approaches can mitigate these risks. Still, the
+public sector is far behind the private sector in adoption.
+CMS’ guidance creates the conditions for critical failures in go-live
+Worst of all, due to this waterfall approach, states often don’t discover that their solutions don’t work until it’s too late to change course. In the private sector, software teams iterate constantly—adjusting scope, reallocating resources, hiring or firing contractors, and refining based on feedback. But under CMS’ current model, states are incentivized instead to build an entire system and hope it works when they finally get around to testing.
+This failure mode is at the heart of many major tech failures in government – like HealthCare.gov or 2023’s FAFSA meltdown – and is a direct result of this highly linear approach to implementation. If a similar meltdown (and large-scale rescue) happens for H.R. 1 implementation, CMS may end up
+paying twice
+for state system implementations: once to build a first failed prototype and then again to build something that actually works. When vendors aren’t forced to compete and prototype, this “death change request” is a lucrative business model.
+As challenging as this system is under normal circumstances, the aggressive timelines Congress set for H.R. 1 make a meltdown even more likely. Rigid adherence by CMS to outdated processes leaves states with little margin for error: if everything doesn’t work perfectly the first time—an expectation no private tech company would set—they will almost certainly miss congressional deadlines. This dynamic also strengthens the hand of incumbent contractors. With the clock ticking, states may conclude they lack the time to complete both the APD and procurement processes needed to bring in a new vendor and build a compliant system. Instead, they often default to sticking with incumbents (even when those firms overcharge and underdeliver) as the
+only option
+that presents a plausible path to on-time compliance.
+This is precisely what happened during the last Administration with FAFSA and the role that
+rigid procedural compliance
+played in causing those bad decisions cannot be understated – this is a common failure mode for large, high-profile implementations in government and will keep happening until agencies move towards more iterative models.
+In sum, CMS’ rules about reimbursement–though well-intentioned–have created a perfect moral hazard trap. States are left in a weak negotiating position, governors shoulder all the political risk of failure, and the competitive pressures that normally hold vendors accountable are stripped away. Contractors have all the leverage and the government owns the downside risk; somehow the taxpayer and the customer come out on the wrong end of every break.
+The good news is that this outcome is not inevitable. CMS can still act to avert it by steering states toward a more disciplined, competitive and accountable use of federal dollars.
+Strategy 1: Ensure states can use existing data
+One of the simplest ways to cut costs and accelerate implementation is to shrink the scope of the problem. With its forthcoming guidance, CMS can help states make full use of their existing data sources to automatically exempt or verify compliance for eligible beneficiaries—a process known as
+ex parte
+verification. This would reduce reliance on manual reporting and prevent unnecessary state and federal spending on redundant data collection. To realize this opportunity, CMS must clearly specify which types of data are sufficient for verification.
+Two main groups of Medicaid beneficiaries fall under the new requirements outlined in H.R. 1, for which CMS will need to provide detailed guidance:
+Individuals who are working and should be automatically marked as compliant and
+Individuals who meet the various exemption categories–including parents of young children, pregnant individuals, those with medical conditions–and should be automatically marked as exempt.
+Doing this efficiently and accurately will save federal and state resources by allowing them to prioritize outreach (and call center capacity) towards those who need to self-report. Just as importantly, it will help Medicaid fulfill its core purpose: ensuring eligible Americans retain coverage. Poorly implemented work requirments risk undermining that mission.
+Efficiently verifying
+compliance
+For those who are already working and meet the requirement–and estimates suggest this may be as many as
+64 percent
+of Medicaid-covered adults–the most reliable way to verify compliance is by employer-reported wage data. H.R. 1 allows reported income to serve as a proxy for the 80-hour monthly work requirement. In practice, confirming that an individual earns at least the equivalent of 80 hours at minimum wage (about $580 per month) is sufficient. One of the best sources of this data for states is through the National Directory of New Hires (NDNH), which includes quarterly wage records from employers in all states, available to states by the start of the following quarter.
+However, the quarterly wage file does not align neatly with H.R. 1’s narrow reporting framework, which requires income data at two distinct points. First, states must verify income for at least the month prior to application. Then, they are required to re-verify income at least every six months, with the option to require monthly checks.
+Although many state agencies already have access to quarterly wage data, neither its timing nor its structure perfectly aligns with H.R. 1’s reporting requirements—raising doubts about whether it can be used. As a result, states may feel compelled to seek alternative sources with more frequent updates, most likely by purchasing access from a major data broker such as Equifax. Equifax’s
+Work Number
+database is the largest privately held source of real-time wage data, but relying on it poses two major problems:
+it will require millions of dollars in expenditures to retrieve and
+it only covers two-thirds of employers, skewing toward large- and mid-sized companies.
+Because the federal government is required to match 75 percent of the spending on data collection, relying on private data brokers will come at a significant federal cost, potentially in the hundreds of millions.
+In acknowledgement of the difficulty with
+ex parte
+verification, CMS recently announced a tool they will be offering states to automatically verify income. At this point, the exact data source is unclear, but CMS will be providing at least two states (Louisiana and Arizona) an
+“Income Verification App”
+to provide payroll and gig-economy data to prevent manual reporting for those workers. In October, the rest of the states will be given a tutorial with the ability to opt-in. This is a welcome step, particularly for gig workers, who would otherwise face a disproportionate paperwork burden.
+That said, quarterly wage records already offer a good source of income data for both gig workers and other workers alike. Most importantly, any CMS-centered data hub (or any purchase of other income data) will still require workers to opt-in due to privacy issues, likely resulting in significant drop off. Quarterly wage records do not suffer from this problem and offer states the most robust and timely source of income data.
+CMS still has an opportunity to improve streamlining by encouraging states to use the data they
+already
+have (and naming these sources in guidance to provide more explicit signals to states’ Offices of General Counsel), rather than create
+new
+systems to purchase or otherwise obtain data.
+Private data brokers should be a last resort for states to verify income. To ensure states are best positioned to use the data they currently have, preventing the reliance on inferior sources and the resulting financial expenditures, CMS should:
+Ensure that state Medicaid offices are authorized to use the NDNH’s quarterly wage file.
+Under current guidance, the other state agencies that currently enforce work requirements (SNAP and TANF) are
+authorized
+to use quarterly wage records. Using the statutory authority under the OBBBA to use all
+existing
+data sources for automatic verification, CMS should make explicit that state Medicaid agencies can access NDNH’s quarterly wage file to implement work requirements and otherwise do everything in its power to ensure state Medicaid agencies have access to the quarterly wage file.
+Stipulate that quarterly wage data is a reasonably compatible source to verify compliance
+at both the initial application point and at the federally-mandated six-month redetermination review. The “reasonable compatibility” standard comes from Medicaid eligibility guidance, where CMS allows states to use client statements as evidence when there is a difference between available data sources and the client statement. The goal of this standard is to enable efficient verification when the gap between the explicit requirement and the available data is negligible. CMS should apply this same standard here, allowing states to use the gold-standard, more complete quarterly wage data to verify income, preventing unnecessary and significant expenditure on incomplete records from private data brokers. Even if states are required to use new sources to initially verify compliance at the application point–such as CMS’ new income verification app– allowing states to use quarterly wage records for the subsequent bi-annual redetermination reviews would significantly improve efficiency and accuracy.
+In addition to those meeting the work requirement some beneficiaries will be compliant through their enrollment in education. To ensure minimal manual reporting of school documents and transcripts which also require manual review from Medicaid officers, states should leverage the National Student Clearinghouse (NSC) database. Access to the NSC would allow states to automatically verify students
+ex parte
+, reducing bureaucratic friction and administrative expenses.
+Because many state agencies already have contracts with the NSC for this data, there should be an opportunity for data sharing between agencies to allow for easy access to the NSC. In the case of many states lacking access to the data, the federal government could negotiate a contract with the NSC to make the data available to all states on The Federal Data Services Hub.
+For both work and education verification, CMS should design its guidance to prioritize data-sharing and the use of existing sources wherever possible. Encouraging states to rely on existing data would allow them to verify compliance more economically and reduce unnecessary administrative overhead.
+Efficiently verifying
+exemption
+Beyond those who meet the work or education requirements, many beneficiaries will qualify under exemption categories. Much of this verification should be straightforward for states, drawing on existing Medicaid and child welfare data—particularly for the mandatory exemptions, such as caregivers, pregnant individuals, foster youth, and people recently released from incarceration.
+All of these statuses can be reliably and automatically verified
+ex parte
+by states using already available Medicaid eligibility and claims data without additional beneficiary reporting. But there are other “specified excluded” individuals which includes a slew of other categories such as those who are “medically frail,” have “special medical needs,” are on SNAP assistance, are a “former” foster youth under 26, or have a 100% veterans disability status.
+Verifying these other categories will require significant data sharing between various state and federal agencies, particularly SNAP, TANF, and the VA. A lot of the critical decisions to ensure efficient automatic exemption for these individuals will come down to the states establishing their own data sharing protocols. This will prevent unnecessary and cumbersome manual reporting and reduce the federal matching expenditures needed to verify eligibility for exemptions.
+Strategy 2: Help states escape the clutches of expensive incumbent IT contractors
+Even with the most robust use of existing data, some beneficiaries will still need to manually verify their work activities to maintain coverage. For instance, individuals who combine part-time gig work with community service may have earnings that can be verified automatically, but their community service hours will still require self-reporting and manual validation. To handle these cases, every state will need to create a portal or form that allows beneficiaries to submit supplemental information and enables staff to reconcile the hours.
+If CMS proceeds with its traditional approach to governing and funding H.R. 1 implementation – mandating a waterfall development approach and robbing states of negotiating leverage against their contractors – this process will be cumbersome, expensive, and prone to significant delays. Federal dollars will flow via change requests to incumbent IT contractors for work of dubious value while taxpayers foot the bill.
+But there’s an alternate path forward. When CMS issues its guidance to states on how to unlock these funds for H.R. 1 compliance, it should change its ways of doing business by putting states in control, rather than empowering expensive contractors. CMS should:
+Waive traditional APD procedural requirements for H.R. 1 implementation –
+Under current rules, CMS already has the authority to accept waiver requests from any state who “demonstrates that it has an alternative approach to a requirement in this chapter that will safeguard the State and Federal Governments’ interest and that enables the State to be in substantial compliance with the other requirements of this chapter.” CMS should utilize this flexibility to exercise an across-the-board waiver of the APD process requirements for H.R. 1 implementation to free states from the traditional waterfall development approach and associated risks described above. These constraints are largely self-imposed and removing them would give states the flexibility to pursue alternative paths, to prototype through a test-and-learn approach, and look beyond their incumbent vendors for support.
+Create an alternative fast-track process with lighter governance
+– Having waived the APD process as imagined today, but recognizing the need for CMS to ensure states and vendors are being good stewards of federal money, CMS should replace it with light, streamlined guidance that provides oversight without relying on paperwork. This could take various forms. For example, mandating that states show CMS technical experts a series of demos focused on a set of key user stories or test cases throughout the implementation process and limit CMS’ role in approving contractor or team staffing changes. CMS could then rely on these demos as a form of
+progressive approval
+rather than
+prior approval
+to ensure states are on track and making progress without imposing additional low-value compliance work on them. With this insight, CMS could also identify opportunities for states to collaborate on shared challenges, or recommend course corrections by pairing a struggling state with one further ahead.
+Encourage investment in shared solutions used by multiple states
+– A common way vendors profit is by charging different states (and thereby CMS) multiple times for the same work – for example, building a module in one state and then billing another state, as if starting from scratch. Instead of enabling this model, CMS could structure its guidance to favor states that adopt shared, multi-tenant solutions already in use elsewhere.
+For example, CMS could fast track approvals or waive APD requirements for states adopting proven, shared commercial products. This would incentivize nontraditional vendors to invest in building and marketing shared solutions to states by making them much easier for states to pursue than a classic custom-built solution.
+Even for states that continue to pursue bespoke solutions, CMS could still nudge states in this direction by requiring all functional documentation (e.g., user research, process maps, promotional materials, etc.) to be made available to any other state that wishes to use it or reference it.
+Encourage states to hire their own technologists rather than relying
+only
+on contractors
+– Another way to control costs is for states to build internal capacity and take ownership of key elements of software development. While states do not–and should not–bring all
+technical expertise in-house, they do need staff with aligned incentives (i.e., not at firms trying to turn a profit at the taxpayer’s expense) who can work directly with products and review vendor deliverables for technical accuracy. Hiring
+technical product managers
+that can fill this role would both keep contractors accountable and allow states to resolve some issues themselves.
+Fortunately, states can already use FFP funds to hire their own staff, making the return on investment especially strong. In cases where states do not feel they can move fast enough to hire their own staff, they should consider at least contracting with independent experts to provide them with objective second opinions on deliverables and statements by vendors.
+Other interventions may be possible – like organizing groups of states and funding them to
+pursue joint platforms
+or reminding states that they can
+purchase IT services off federally-managed contract vehicles like GSA MAS
+. CMS could expand this list by immediately convening states to identify what flexibilities they need to be stronger stewards of taxpayer dollars..
+No one is satisfied with the status quo. CMS’s priority should be to give states the flexibility they need to purchase more efficiently and effectively so they can carry out Congress’ intent without being hamstrung by federal guidance.
+Time is of the essence: Every day without guidance inflates CMS’ bill
+In H.R. 1, Congress gave CMS until June 2026 to issue an interim rule that governs how states approach implementation, leaving six months for states to change course if that guidance doesn’t match their plans. Given the length of procurement timelines, states will have little choice but to funnel more money to existing vendors for implementation support.
+However, nothing prevents CMS from issuing interim guidance much sooner. Doing so would give states far more options—allowing them to initiate procurements and adjust their implementation strategies as conditions evolve. If CMS quickly signals that the approaches described above are allowable, it can substantially reduce costs and lower the risk of another high-profile IT failure–where vendors often escape accountability.
+Whether guidance comes in two months or nine, CMS has a unique opportunity to encourage best practices and reduce the unnecessary, costly reliance on private data brokers and vendors. CMS should seize this opportunity by allowing states to use the best available data for compliance and by providing a pathway to build internal capacity rather than defaulting to outside IT consultants. Without these strategies, taxpayers will shoulder immeasurable costs: eligible individuals losing critical health coverage, the public and state agencies wasting time on paperwork, and the federal budget absorbing the inflated price of inefficient implementation and legacy vendor capture.

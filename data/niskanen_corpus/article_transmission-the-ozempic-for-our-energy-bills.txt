@@ -1,0 +1,39 @@
+TITLE: Transmission: the Ozempic for our energy bills
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/transmission-the-ozempic-for-our-energy-bills/
+WORDS: 837
+
+Households across America are feeling the pinch of rising energy bills. Policymakers are desperate for fixes — subsidies, new power plants, or small upgrades to local grids — but costs keep climbing. What’s needed is a different solution. And that’s where transmission comes in.
+Think of transmission like Ozempic. At first glance they couldn’t be more different, one being a groundbreaking diabetes medication, and the other long wires stretching across the nation. Yet they share a common role: both are systemic fixes that can replace stopgap solutions and provide ripple effects benefitting long-term stability.
+For decades, Type 2 diabetes was managed through lifestyle changes and insulin therapy. These changes helped glucose intake at the cell level. Ozempic, by contrast, mimics the GLP-1 hormone that regulates insulin production and appetite, smoothing the body’s feedback loops instead of patching each spike in blood sugar. The result is not just better glucose control, but a cascade of benefits that include
+weight loss
+,
+fertility
+, and
+improved heart health
+.
+Our electric grid faces a similar challenge in reconciling a shortage of energy production with spikes in energy consumption. This mismatch creates reliability and resiliency risks that can cause blackouts and expensive energy. Too often, utilities and states respond to shortages by building new power plants and local transmission lines–essentially short-term band-aids that are neither efficient nor effective in the long-run. What the grid really needs is the ability to move energy over long distances, from where it’s abundant to where it’s scarce. That’s what interregional transmission lines do.
+Under former first-choice treatments of insulin therapy and local generation and transmission, system imbalances are mitigated in the short-run but are costly and ineffective otherwise. Ozempic and interregional transmission lines present a drastically more effective and efficient solution for system dysfunction. Just as Ozempic stabilizes blood sugar swings, transmission stabilizes energy flows by substituting power from neighboring states where localized generation and distribution fall short. That way, instead of each region scrambling to generate more locally, the system works together — more efficient, more reliable, and ultimately more affordable.
+Ozempic’s most famous (and infamous) side effect is weight loss. Transmission’s most famous side effect? Lower energy bills.
+With interregional transmission lines, energy can be sourced from a wider net of energy generation, allowing it to efficiently flow from low- to high-demand regions and alleviating stress on the capacity of regional transmission lines and generation. Similar to how Ozempic’s ability to systemically level blood sugar leads to weight loss, interregional transmission’s ability to systemically level energy congestion reduces energy bills.
+The evidence is clear. Texas’s Competitive Renewable Energy Zone project, completed in 2012, saved households hundreds of dollars a year by unlocking cheap wind power. One
+study
+estimated CREZ saved residential consumers on average over $900 in their electric bills in its first 5 years in service, with an additional nearly $200 in annual savings through 2037.
+The Champlain Hudson Power Express (CHPE), a developing interregional HVDC transmission line intended to serve the NYC metro area, is expected to lower energy prices $4.6 per MWh, bringing the annual average reduction in ratepayer costs of energy to
+$813.5 million
+. Across the state of New York, wholesale and capacity electricity costs for ratepayers are projected to decrease by
+$17.3 billion
+over CHPE’s first 25 years of operation; in that same timeframe, low income households would save $2.5 billion in energy costs.
+Another
+study
+for the Eastern U.S. through 2050 found that expanding transmission would cut household energy bills by at least $25 per month — about $300 per year. Similarly, DOE’s
+National Transmission Planning Study
+estimated that transmission expansion would generate $270–$490 billion in cost savings nationwide, directly reducing energy prices. Whether measured during construction or after completion, at both national and household levels, expanding interregional transmission delivers clear economic benefits.
+The takeaway, then, is simple: when the grid works better, families pay less.
+The benefits don’t stop there. Transmission makes the grid more resilient against extreme weather by opening more pathways for energy to flow. Transmission lines also improve electricity flow, allowing energy to be more reliably distributed, an increasingly important issue as
+energy demand increases
+. Moreover, transmission lines encourage new energy generation projects, reducing the barrier to entry into the energy markets and decreasing upfront capital required for projects.
+Like Ozempic, transmission is more than a quick fix — it reshapes the system.
+America needs to fix its grid, and the obstacle isn’t technology — it’s policy. Building a stronger grid requires both smarter planning and political action. Until then, utilities and states will keep reaching for the expensive, short-term fixes that do little to relieve families of spiraling costs.
+Ozempic only works when taken regularly. Transmission only works if it’s built at scale. If we want a future with affordable, reliable, resilient energy, policymakers need to clear the way for infrastructure that can deliver it.
+Americans don’t have to keep footing the bill of a struggling grid. Transmission is the prescribed solution — the Ozempic for our energy bills.

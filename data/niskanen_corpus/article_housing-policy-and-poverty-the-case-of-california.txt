@@ -1,0 +1,293 @@
+TITLE: Housing policy and poverty: The case of California
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/housing-policy-and-poverty-the-case-of-california/
+WORDS: 6828
+
+Key takeaways
+California’s high housing costs are the main reason that the state has the highest poverty rate in the country.
+Rental prices in California have grown hand-in-hand with the incomes of California’s richest households since the 1980s, but have far outpaced the incomes of California households near the poverty line.
+The increase in California’s poverty threshold due to housing costs has effectively nullified all of the poverty-reducing impact of increased SNAP benefits since the 1980s.
+A 15 percent reduction in relative housing costs in California’s high-cost cities would yield resources-to-needs gains that are comparable to those of the 2021 Child Tax Credit expansion.
+The increases in housing supply necessary for California’s high-cost cities to make meaningful reductions in poverty are extraordinary, but are also not without precedent among large California cities.
+Increases in housing supply offer redistributive benefits comparable to major income support programs and should be understood as an important anti-poverty tool.
+Download the full PDF here
+Introduction
+Poverty is typically understood as a shortage of
+resources
+relative to
+needs
+. Policy strategies aimed at reducing poverty tend to focus on the
+resources
+side of that equation, studying, for example, how cash transfers or minimum wage increases affect poverty through their increases in families’ incomes.
+1
+This report, in contrast, shifts focus to the role of housing policy and local housing costs in influencing the
+needs
+side of the poverty equation. Policy strategies aimed at increasing housing supply and reducing housing costs should be viewed analogously to anti-poverty strategies focused on the direct redistribution of cash income.
+California serves as the prototypical example of a high-cost, high-poverty state with well-documented challenges of increasing housing supply.
+2
+In recent decades, California has consistently featured the highest (or next-to-highest) poverty rate among the 50 states (when using the Supplemental Poverty Measure, or SPM, the Census-produced poverty measure that researchers generally prefer). The reason is simple: California has consistently had the highest housing costs in the nation, which means that residents across the state need higher incomes in order to meet their basic needs. In the SPM framework, variation in rental costs across U.S. municipalities directly affects variation in poverty thresholds.
+3
+For example, the poverty threshold for a two-adult, two-children family renting in San Jose, Cal., in 2023 was 1.5 times higher than for an equivalent family renting in Minneapolis, Minn. ($57,673 to $39,674).
+This report explores five stylized facts related to the role of California’s high and rising housing costs in affecting the state’s poverty rate, and how increases in housing supply could potentially reduce poverty in California.
+First,
+high housing costs explain why California has the highest poverty rate in the nation. Though this relationship may be familiar to consumers of poverty and policy research, demonstrating the link between California’s high housing costs and its high poverty rate is a necessary first step for further contextualizing the potential gains from reducing housing costs in the state. I show in a simple accounting exercise that California would have a poverty rate in line with the national average in 2023-2024, rather than the highest poverty rate in the nation, if median rental prices in the state matched the national average.
+Second
+, California is one of a few states where growth in rental prices has exceeded growth in 10
+th
+-percentile incomes in recent decades. I show that in California, changes in median rental prices have evolved hand-in-hand with changes in the 90
+th
+percentile of family incomes from 1985 to 2023, yet have notably outpaced growth of the 50
+th
+and 10
+th
+percentile of family incomes. In other words, California’s rental prices track the incomes of its wealthier residents, but not the incomes of those in the middle or at the bottom of the distribution. California is unique in this respect, as 44 of the 50 states have seen 10
+th
+-percentile outcomes grow faster than rental prices from 1985 to 2023.
+Third
+, rising housing costs in California have effectively offset all of the increase in SNAP (aka food stamp) benefits provided to the state’s residents in recent decades. California’s housing costs have increased at a faster rate than the rest of the nation’s since the early 1980s, leading to faster growth in the average poverty threshold applied to the state’s residents during that time frame. I compare increases in the total sum of income needed to escape poverty in California as a result of higher housing costs from 1980 to 2023 to increases in the total sum of SNAP benefits provided to the state’s residents. The upshot: the $11.4 billion of increases in SNAP benefits to Californians have effectively been offset by a $13.3 billion increase in the poverty gap due to higher-than-average increases in housing prices.
+Fourth
+, a 15 percent decline in relative rental prices in California’s high-cost cities would, to the families living there, be comparable in redistributive value to the 2021 Child Tax Credit expansion.
+4
+I document that in the areas within and around San Francisco, San Jose, Los Angeles, and San Diego, a 15 percent decline in home prices relative to the rest of the country would reduce annual poverty thresholds by an average of $3,600 for families with children in those cities – an amount similar to the average gains from the 2021 CTC expansion.
+And
+last
+, large increases in housing supply would be necessary to achieve such notable declines in poverty in California’s high-cost cities.
+I use findings from prior research on the relationship of housing supply and rental prices to quantify the potential gains from increases in housing supply across California’s high-cost cities. A 10 percent increase in housing supply in a metropolitan area could reduce the area’s poverty rate by 2.5 percent, and the child poverty rate by 3 percent, relative to baseline values. In order to achieve deeper reductions in poverty through reductions in relative living costs alone, however, California’s high-cost cities of San Francisco, San Diego, and Los Angeles would need to increase housing supply at extraordinarily high rates (matching, for example, recent increases in California cities like Irvine, Bakersfield, or Elk Grove). These five findings emphasize that successful anti-poverty strategies in high-cost states like California must focus on controlling housing costs, in addition to the more-commonly emphasized strategy of providing adequate income support. Specifically, increases in housing supply – to the extent that they translate into lower housing prices compared to the counterfactual – should be understood as a form of redistribution with important implications for poverty rates in the United States, and in high-cost regions in particular.
+Five facts on housing prices and poverty
+1. High housing costs explain why California has the highest poverty rate in the nation.
+California’s highest-in-the-nation poverty rate is easy to explain: It is attributable to the state’s high rental costs. In 2024, rental prices for a typical, quality-adjusted dwelling in California were $2,413 per month, more than 70 percent higher than the national average ($1,408, both according to Fair Market Rent values). Prices in San Francisco and Silicon Valley – California’s highest-cost areas – topped $3,000 per month.
+5
+As noted previously, the Supplemental Poverty Measure (SPM) adjusts poverty thresholds for local living costs to account for the fact that a family needs more money to get by in San Jose than, say, Minneapolis (where typical rental prices were $1,610 per month in 2024).
+Figure 1:
+SPM poverty rates by state before and after applying housing cost adjustments (2022-2023)
+Note: Author’s calculations from the Current Population Survey’s Annual Social and Economic Supplement (CPS ASEC). The poverty rates are two-year averages covering calendar years 2022 and 2023. “USA” represents the national poverty rates, which are not equivalent to the mean of states’ poverty rates given differences in population sizes. See Appendix for more details on data and methods.
+To illustrate how California’s high housing prices affect its highest-in-the-nation poverty rates, Figure 1 presents observed 2023-2024 poverty rates alongside poverty rates if all states had equivalent housing costs (but all else remained equal). Maine and Minnesota out-performed all states during these two years with poverty rates of 7.1 and 7.4 percent, respectively. California’s poverty rate was more than twice as high at 17.7 percent. The national poverty rate during these years was 12.4 percent – more than 5 percentage points lower than the rate in California. Removing the housing cost adjustments, however, massively shifts the rank order of states: California would now be a mid-performing state with a poverty rate that is near-identical to the national average. Hawaii, New Hampshire, Minnesota, Rhode Island, and Connecticut would make up the top-five performing states, in order, without accounting for local living costs (Minnesota notably performs near the top regardless of whether one adjusts for living costs).
+High rates of poverty in California are not a recent phenomenon, though the state did perform better relative to the national average during the 1980s. From 1980 to 1989, California’s average annual state rank (with respect to the SPM poverty rate) was 39
+th
+of the 50 states, meaning that an average of 11 states per year had a higher poverty rate than California; between 1990 and 2023, however, California’s best performance was 47
+th
+of the 50 states, and its median annual performance during those years was to rank last among the 50 states. The timing of California’s declining poverty rank is no coincidence: The 1990s are when the state’s housing costs began to rise particularly rapidly relative to the national average.
+California is one of a few states where growth in rental prices has exceeded growth in 10
+th
+-percentile incomes in recent decades.
+States’ housing prices are positively correlated with average incomes. This suggests that California’s high prices may be primarily reflective of rising incomes in a wealthy state rather than an underlying shortage of supply. But Figure 2 tells a more detailed story: Rental prices in California have increased hand-in-hand with 90
+th
+-percentile family incomes (i.e., those of high-income Californians) from 1985 to 2023.
+6
+At the same time, increases in rental prices have consistently outpaced the growth of median and 10
+th
+percentile incomes in the state.
+Figure 2: Change in rental prices versus change in 10
+th
+percentile, median, and 90
+th
+percentile household incomes in California (1985 to 2023)
+Note: Author’s calculations from the CPS ASEC (for percentile income levels) and U.S. Department of Housing and Urban Development’s Fair Market Rent (FMR) data. Percentile income levels are post-tax/transfer income at the SPM unit (generally, the household). All values are adjusted for inflation using the CPI-U-RS. FMR levels represent the 40th percentile of gross rents for typical, non-substandard rental units occupied by recent movers in a local housing market. FMR levels changed from the 45
+th
+percentile to 40
+th
+percentile in 1995. Historical data on SPM income concepts are from the dataset produced in Fox et al. (2015) and Wimer et al. (2016). I start this analysis in 1985 as that is the first year for which we have consistent data from the FMR files. However, see Appendix Figure A2 for an analysis that uses ACS data on median housing costs, begins in 1980, and produces similar findings.
+From 1985 to 2023, Fair Market Rent levels increased by 75 percent (in real 2024 USD), while the 90
+th
+percentile of post-tax/transfer family resources also increased by 75 percent.
+7
+The median and 10
+th
+percentile incomes, in contrast, increased by around 50 percent and 40 percent during this time period, respectively. Rental prices in California track incomes, but primarily the incomes of the better-off Californians. This helps to explain why California’s poverty rate has remained stubbornly high despite large and growing levels of total income and wealth in the state. Individuals and families near the poverty line have long struggled to keep up with high and rising living costs – and, in turn, high and rising poverty thresholds.
+Nationally, California is one of only a few states where change in rental prices has exceeded change in 10
+th
+percentile incomes. Figure 3 documents these patterns by state, with percent changes in Fair Market Rent levels on the vertical axis, and percent changes in 10
+th
+percentile incomes on the horizontal axis. All values represent percent changes from 1985 to 2024 in real levels of 2024 USD. The diagonal line in Figure 3 represents the points where changes in rental prices are equivalent to 10
+th
+-percentile incomes; states above this line have seen faster growth in rental prices than low incomes.
+Figure 3: Percent changes in rents versus changes in 10
+th
+-percentile household incomes by state, 1985 to 2024
+Note: Author’s calculations from the CPS ASEC (for percentile income levels) and U.S. Department of Housing and Urban Development’s Fair Market Rent (FMR) data. Percentile income levels are post-tax/transfer income at the SPM unit (generally, the household). All values are adjusted for inflation using the CPI-U-RS. FMR levels represent the 40th percentile of gross rents for typical, non-substandard rental units occupied by recent movers in a local housing market. FMR levels changed from the 45
+th
+percentile to 40
+th
+percentile in 1995. Historical data on SPM income concepts are from the dataset produced in Fox et al. (2015) and Wimer et al. (2016).
+In addition to California, five other states sit unambiguously above the line of equality (i.e., rental prices growing faster than low incomes): New Hampshire, Connecticut, Massachusetts, Hawaii, and New York. In contrast, states like South Dakota, Idaho, Oregon, and Minnesota have seen notably higher increases in 10
+th
+-percentile incomes relative to rental costs.
+3.
+Rising housing costs in California from 1980 to 2023 have effectively offset all increases in SNAP benefits provided to the states’ residents during that time frame.
+High housing costs affect the amount of income a family unit needs to escape poverty; as such, we can quantify how increases in housing prices (relative to the national average) cost the average family in a state relative to their gains from income transfer programs. In Figure 4, I compare increases in the average California poverty line due to higher-than-average housing costs between 1980 to 2023 to increases in total SNAP benefit allocations during the same time period.
+Figure 4: Increases in California’s rental costs have effectively offset all increases in SNAP allocations to the state’s residents from 1980 to 2023
+Note: Total SNAP allocations are calendar-year totals reported by the U.S. Department of Agriculture. All values are presented in level differences from the 1980 values (always in millions of 2024 USD). The poverty gap due to housing prices is calculated as the weighted aggregate of the poverty gap based on the standard SPM thresholds with housing price adjustments (where individuals above the poverty line receive a value of zero) minus the poverty gap based on a threshold that is not adjusted for housing prices (again with zero values for non-poor individuals) in each year. The value represents how much total income is needed to move all poor Californians above the poverty line due to the state’s higher poverty threshold. All values are presented in level differences from the 1981 values (always in millions of 2024 USD). Historical data on SPM income concepts are from the dataset produced in Fox et al. (2015) and Wimer et al. (2016).
+In 2023, higher-than-average rental costs made the total amount of resources needed to move all Californians out of poverty $13.3 billion higher than in 1980 (in 2024 USD). To reiterate, this is not the increase in the
+total
+poverty gap, but instead simply the increase in the poverty gap due to rental costs rising faster than the national average. Meanwhile, the total increase in SNAP benefits allocated to Californians during this time period was $11.4 billion. In effect, rising rental costs in California have offset all increases in SNAP benefits during this time period. Though federal income transfers from SNAP have meaningfully increased family resources over time, these increases to resources are essentially chasing a poverty threshold that has increased even faster.
+Figure 4 also makes clear that from 1981 to 2019 – just before the onset of the Covid-19 pandemic and several policy changes that would increase total SNAP allocations during 2020 through 2023 – increases in SNAP benefits had consistently failed to keep up with house-price-induced increases in the poverty gap.
+A 15 percent decline in relative rental prices in California’s high-cost cities would be comparable in redistributive value to the 2021 Child Tax Credit expansion.
+Contextualizing how rising relative housing prices swamp increases in income transfers also allows us to understand how a contemporary decline in housing prices (relative to the national average) would compare in redistributive value to prominent income transfer programs. Here, I quantify the declines in poverty thresholds that would result from declines of 5, 10, 15, 20, or 25 percent of local housing costs relative to the national average (see Appendix for more details on these calculations). I focus specifically on California’s highest-cost cities for this analysis (the areas within and around San Francisco, San Jose, Los Angeles, and San Diego), given that some areas of California do already have housing costs closer to the national average. I assume, for simplicity, that a reduction in housing prices could occur while other conditions remain constant; the estimates should be understood as an accounting exercise rather than a true counterfactual.
+Figure 5: Potential reductions in poverty thresholds in California’s high-cost cities at different percent declines in average house prices relative to the national mean (2022-2023)
+Note: Gray numbers in parentheses represent the decline from the baseline value (above the black circle) relative to the price-reduction scenarios (beneath the blue diamonds). High-cost California (CA) cities include the metropolitan areas of San Francisco (incl. Oakland, Berkeley, Santa Rosa), San Diego (incl. Chula Vista, Carlsbad), San Jose (incl. Sunnyvale, Santa Clara, Santa Cruz), and Los Angeles (incl. Long Beach, Anaheim, Ventura). Poverty thresholds are averages among the specified demographic group in these metropolitan areas. Reductions in the poverty threshold are calculated by adjusting the housing portion of the SPM poverty thresholds by the specified declines in housing prices for these high-cost cities relative to the national average. See Appendix for details.
+Figure 5 presents the results for all individuals in these high-cost cities (left panel) and only for children (right-panel; these are the mean thresholds for families with children, which are relevant for estimates of child poverty). The average poverty threshold for all individuals in these areas was $41,934. With a 5 percent reduction in rental costs relative to the national average, the annual poverty threshold would fall by $992 (around 2.5 percent). For children, the average poverty threshold falls $1,205 ($50,695 to $49,490) with a 5 percent decline in relative housing costs.
+With a 15 percent decline in rental costs relative to the national average, thresholds for all individuals and children instead fall by an average of $2,975 and $3,614, respectively. The $3,614 gain for families of children is comparable to the average gains from the 2021 Child Tax Credit (CTC) expansion, which provided up to $3,600 of unconditional cash support for each child under 6 years old (and up to $3,000 for each child at age 6 or above). In discussions regarding policies to reduce child poverty, reforms such as the 2021 CTC expansion tend to receive much more focus than efforts to reign in housing costs. This is surely warranted, but the findings above nonetheless emphasize that in high-cost cities and states, moderate reductions in house prices (relative to the national average) can achieve similar poverty-reduction effects.
+5.  Large increases in housing supply are necessary to achieve notable declines in poverty in California’s high-cost cities.
+Declines in relative rental prices could help reduce the level of resources that Californian families need to meet their basic needs – but how much housing construction would be necessary to achieve those reductions, and what would the implications be for poverty rates?
+Several studies have investigated how increases in housing supply affect local housing prices. Li (2022), using data from New York City, finds that a 10 percent increase in housing units leads to a 1 percent decline in rents, implying a rent elasticity of –0.1. Mense (2025), studying Germany, estimates that a 1 percent increase in new housing supply reduces average rents by 0.19 percent. Pennington (2021) similarly finds that the opening of a new building reduces rents by 1.2 to 2.3 percent within a 500-meter radius in San Francisco. Asquith, Mast, and Reed (2023) report that new market-rate buildings decrease nearby rents by 5 to 7 percent relative to areas farther away or developed later; while they do not express this as a general elasticity, their findings support the broader evidence that new housing construction contributes to local rent reductions.
+For simplicity, let’s focus on an elasticity of -0.25, which is within the range of the estimates above. In this scenario, achieving a 5 percent decline in rental prices would require a municipality to increase its housing stock by 20 percent. In other words, a city like San Francisco would need to increase its housing stock by around 80,000 housing units – nearly identical to the
+city’s target increase in housing units
+over the coming decade. If California’s high-cost cities were to achieve 20 percent increases in housing supply, and if these gains were to translate into 5 percent reductions in relative rents, what might the effects on poverty be?
+Figure 6: Potential reductions in poverty rates in California’s high-cost cities at different percent declines in average rental prices relative to the national mean (2022-2023)
+Note: Gray numbers in parentheses represent the decline from the baseline value (above the black circle) relative to the price-reduction scenarios (beneath the blue diamonds). High-cost California (CA) cities include the metropolitan areas of San Francisco (incl. Oakland, Berkeley, Santa Rosa), San Diego (incl. Chula Vista, Carlsbad), San Jose (incl. Sunnyvale, Santa Clara, Santa Cruz), and Los Angeles (incl. Long Beach, Anaheim, Ventura). “Price decline” refers to the simulated decline in rental prices relative to the national average. “Supply increase” refers to the potential change in housing supply necessary to reach that price decline, per the elasticity discussed in the paper.
+Figure 6 shows that the overall poverty rate in these high-cost cities would fall by 0.8 percentage points (4.3 percent relative decline), and the child poverty rate would fall by 1.3 percentage points (6.6 percent relative decline). In other words, each 1 percent increase in housing supply reduces child poverty rates by 0.3 percent (under an assumption that the 1 percent increase in housing supply reduces median rental prices relative to the national average by 0.25 percent).
+For meaningful reductions in poverty and child poverty – say, declines in poverty of at least 15 percent relative to baseline – California’s high-cost cities would need to cut housing prices by 15 percent.
+8
+In this scenario, the overall SPM poverty rate would fall by 2.7 percentage points (14.7 percent), while the child poverty rate would fall by 3.8 percentage points (20 percent). However, such gains may require an increase in housing supply of around 60 percent under our assumed elasticity, an unrealistic goal in the short run, but also in the long run for large parts of these land-constrained cities. Consider, for example, that San Francisco has managed only a 31 percent increase in housing stock over the 50-year period from 1970 to 2020, and that its largest rate of housing growth in the last half-century was a 9 percent increase in housing stock between 2000 and 2010. The city of Los Angeles increased housing stock by 39 percent from 1970 to 2020, and by only 12 percent between 2000 to 2020.
+Still, the types of housing supply gains needed to make meaningful reductions in poverty are not without precedent, even in California. From 2000 to 2020, 186 reasonably-large cities (those with housing stock of at least 10,000 units in 2000) have seen 50 percent or greater gains in supply, including 24 municipalities in California (ranging from coastal Irvine to inland Bakersfield to suburban outlets like Tracy, Manteca, and Elk Grove). Irvine, in particular, expanded its housing supply by 56 percent between 2000 and 2010, then followed up with an additional 42 percent expansion from 2010 to 2020 (an increase of 65,500 housing units from 2000 to 2020 altogether). Irvine’s
+founding history
+and geographic features do not compare to that of, say, San Francisco, but the city nonetheless demonstrates how sustained political commitment and a pro-housing regulatory environment can enable large-scale housing expansion even in a high-cost, high-demand region.
+Outside of California, there is plenty of precedent for the types of large increases in housing supply needed to reduce the state’s poverty rate. Austin, Texas, is a clear example. In 2000, Austin had approximately 5,000 fewer housing units than San Jose, Cal., (both had around 280,00 housing units in 2000). In 2020, however, Austin had 100,000 more units than San Jose (440,000 in Austin compared to 342,000 housing units in San Jose). From 2000 to 2020, Austin achieved a 60.5 percent increase in its housing stock, while San Jose saw only a 21 percent increase (still greater than the growth rates of Los Angeles, San Francisco, or San Diego). If the elasticities discussed above were to be right, then Austin-style housing growth in California’s large cities could reduce the overall poverty rate in those cities by 15 percent, and child poverty rates by 20 percent.
+There are many possible caveats to the poverty estimates above. It may be that the real elasticity of housing supply to prices is larger than assumed here, and that a shift in demand for housing away from California’s high-cost cities to other areas could also achieve relative reductions in median house prices. Conversely, the elasticities could be too generous if the increase in supply is met by similar increases in demand, or if the construction of high-end housing does not sufficiently filter down to declining median rental prices relative to national averages. Moreover, there may be other, more-effective measures to reduce housing burdens for low-income residents, particularly in the short run.
+Conclusion
+Policymakers often look to income-support policies as key tools for reducing poverty. In high-cost states like California, though, keeping local housing hosts in check remains an equally important anti-poverty tool. The high and rising housing costs in the state have far outpaced the incomes of most Californians, and especially those toward the bottom of the income distribution. As this report demonstrates, the state’s housing costs have accelerated faster than SNAP benefit levels. As such, increases in California’s poverty line due to higher-than-average housing costs have effectively nullified all of the poverty-reducing impact of increased SNAP benefits since the 1980s.
+Reducing rental prices relative to the national average produces redistributive impacts that mirror major income support programs. Modest reductions in rental costs in California’s most-expensive cities could yield resources-to-needs gains that are comparable to those of the 2021 Child Tax Credit expansion. The increases in housing supply necessary to achieve those reductions, however, are large: cities like San Francisco or Los Angeles would need to mimic recent housing supply growth rates of cities like Austin, Texas, or Irvine, Cal. No single policy is going to allow coastal California to develop at the rate of its high-growth peers, but a number of pro-supply policy reforms could help move the state in the right direction. Policy proposals exist to increase density of housing units,
+particularly around public transportation
+; to speed up
+review times
+for new permits and
+reduce abuse
+in environmental review processes; to limit local jurisdictions’ capabilities to
+veto new housing units
+, and much
+more
+. California legislators can and should act now to prevent the state’s housing crisis – and in turn, its poverty crisis – from further worsening.
+Bio & acknowledgements
+Zachary Parolin is an Associate Professor of Social Policy at Bocconi University and a Senior Research Fellow at Columbia University’s Center on Poverty and Social Policy. He is the author of
+Poverty in the Pandemic: Policy Lessons from COVID-19
+. For helpful comments and suggestions, Parolin thanks Carl Gershenson, Peter Hepburn, Hilary Hoynes, Matthew Desmond, Jennifer Laird, Christopher Wimer, Jim Ziliak, and the Niskanen Center team.
+References
+Asquith, B. J., Mast, E., & Reed, D. (2023). Local effects of large new apartment buildings in low-income areas.
+The Review of Economics and Statistics, 105
+(2), 359–375.
+https://doi.org/10.1162/rest_a_01055
+Dougherty, C. (2021).
+Golden gates: The housing crisis and a reckoning for the American dream
+. Penguin Books.
+Dube, A. (2019). Minimum wages and the distribution of family incomes.
+American Economic Journal: Applied Economics, 11
+(4), 268–304.
+Fox, L., Wimer, C., Garfinkel, I., Kaushal, N., & Waldfogel, J. (2015). Waging war on poverty: Poverty trends using a historical supplemental poverty measure.
+Journal of Policy Analysis and Management, 34
+(3), 567–592.
+https://doi.org/10.1002/pam.21833
+Hoynes, H. W., & Patel, A. J. (2018). Effective policy for reducing poverty and inequality? The Earned Income Tax Credit and the distribution of income.
+Journal of Human Resources, 53
+(4), 859–890.
+https://www.jstor.org/stable/26533535
+Li, X. (2022). Do new housing units in your backyard raise your rents?
+Journal of Economic Geography, 22
+(6), 1309–1336.
+https://doi.org/10.1093/jeg/lbab034
+Manson, S., Schroeder, J., Van Riper, D., Knowles, K., Kugler, T., Roberts, F., & Ruggles, S. (2024).
+IPUMS National Historical Geographic Information System: Version 19.0
+[Dataset]. Minneapolis, MN: IPUMS.
+https://doi.org/10.18128/D050.V19.0
+Mense, A. (2025). The impact of new housing supply on the distribution of rents.
+Journal of Urban Economics, 120
+, 103389.
+https://doi.org/10.1086/733977
+National Academies of Sciences, Engineering, and Medicine. (2023).
+An updated measure of poverty: (Re)Drawing the line
+. Washington, DC: The National Academies Press.
+https://doi.org/10.17226/26825
+Parolin, Z., Ananat, E., Collyer, S., Curran, M., & Wimer, C. (2023). The effects of the monthly and lump-sum Child Tax Credit payments on food and housing hardship.
+AEA Papers and Proceedings, 113
+, 406–412.
+Pennington, K. (2021). Does building new housing cause displacement? The supply and demand effects of construction in San Francisco.
+SSRN Electronic Journal
+.
+https://doi.org/10.2139/ssrn.3867764
+Trounstine, J. (2018).
+Segregation by design: Local politics and inequality in American cities
+. Cambridge University Press.
+U.S. Department of Housing and Urban Development. (1998).
+Fair Market Rents
+.
+https://www.huduser.gov/periodicals/ushmc/winter98/summary-2.html
+Wimer, C., Fox, L., Garfinkel, I., Kaushal, N., & Waldfogel, J. (2016). Progress on poverty? New estimates of historical trends using an anchored supplemental poverty measure.
+Demography, 53
+(4), 1207–1218.
+https://doi.org/10.1007/s13524-016-0485-7
+Technical appendix
+Data:
+I perform all distributional analyses within the Current Population Survey’s Annual Social and Economic Supplement (CPS ASEC). It is common for researchers to combine three years of ASEC files when analyzing state-level results to ensure sufficient sample sizes within each state. In my estimates of recent poverty rates, however, I only combine information from reference years 2023 and 2022 (the 2024 and 2023 ASEC files, respectively). I avoid the 2021 and 2020 reference years given the large sums of temporary, Covid-related cash transfers offered in those years. Given that California is the largest state in the nation and has a larger raw sample size than other states, the use of two rather than three years does not meaningfully influence point estimates or standard errors around the state’s poverty estimates; I confirm that adding a third reference year (2021 or 2019) does not alter this report’s conclusions.
+For trends in income and poverty rates dating back to 1980 (Figures 2, 3 and 4), I supplement the CPS ASEC with the historical SPM series as introduced in Fox et al. (2015) and Wimer et al. (2016). This supplement allows me to use a consistent set of SPM-specific income components throughout all years of data in this analysis.
+SPM Geographic Cost Adjustment:
+The SPM’s geographic cost adjustment plays a key role in this report. The geographic cost adjustment reflects that the cost of living – especially housing – varies substantially across different parts of the United States. Rather than applying a single poverty threshold nationwide, the SPM adjusts thresholds to account for these geographic differences, ensuring that families in high-cost areas (like San Francisco or New York City) are not compared to the same needs standard as those in lower-cost regions (like rural Mississippi or the Midwest). This adjustment is based on differences in median gross rents for two-bedroom rental units as reported in the five-year American Community Survey (ACS). The Census Bureau creates an index that compares local housing costs to the national average and applies it to the base SPM threshold. While the base thresholds reflect expenditures on food, clothing, shelter, and utilities (FCSU), the geographic adjustment only modifies the shelter and utilities portion of the threshold, which accounts for roughly half of the overall FCSU threshold.
+Formally, the SPM threshold for a given family type in a specific geographic area (
+p
+) is calculated as:
+SPM Thresholdp=Base Threshold *[HLocal Median RentpNational Median Rent + 1-H]
+In this formula, “Base Threshold” is the national FCSU threshold for a family type with a given housing tenure, before geographic adjustment; H is the housing portion of the SPM threshold, which is typically around 0.48; 1-H is the remaining share of the threshold attributed to food, clothing, and other expenses; and the two rent indicators reflect the median rent of a given place (
+p
+) relative to the national median.
+When simulating the effects of declining relative rental prices in California, I am adjusting the rent portion of the equation above, specifically Local Median RentpNational Median Rent, so that, e.g., a 10 percent decline in relative rental prices for a given place is first scaled by the housing portion of the SPM threshold (H) before creating an alternative poverty threshold.
+Fair Market Rent Data:
+I use Fair Market Rent (FMR) values throughout my primary findings as an indicator of near-median gross rental costs. The U.S. Department of Housing and Urban Development (HUD) produces the FMR annually to approximate the 40th percentile (or 45th percentile prior to 1995) of gross rents for typical, non-substandard rental units occupied by recent movers within each local housing market. FMRs are used administratively to set payment standards for housing assistance programs like the Housing Choice Voucher Program, but in this report, they serve as a consistent benchmark for comparing rental costs across geographies. Because FMRs are updated annually using a combination of ACS data and local rent trends, they also reflect more recent changes in housing markets than other sources. My primary findings are consistent, however, if I instead use estimates of gross rent for two-bedroom homes from the 5-year ACS files; as the subsequent figures document, the FMR and ACS estimates produce near-identical variation in housing prices across states and time. Specifically, Figure A1 shows the state-level correlations of FMR and ACS rents in 1990, 2000, 2010, and 2023.
+Figure A1: State-level comparisons of Fair Market Rent levels and median monthly gross rents from the American Community Survey by year
+Figure A2 replicates the findings of rising rental prices vs. income percentiles in California using the ACS estimates instead of FMR estimates. The findings are near-identical: changes in median rents in California from 1980 onward align with growth in the 90
+th
+percentile of post-tax/transfer incomes, but vastly outpace the growth of either the median or 10
+th
+percentile of California incomes.
+Figure A2: Change in median rents of two-bedroom homes in California (using 5-year ACS files instead of FMR) versus change in 10
+th
+, 50
+th
+, and 90
+th
+percentiles of post-tax/transfer income of Californians
+Analysis for Figure 1:
+To estimate state-level poverty rates with vs. without geographic adjustments, I compare the observed SPM poverty rate (using the 2023 and 2024 ASEC files; see above) to an alternative SPM measure that backs out the geographic cost adjustments from the poverty threshold for all states.
+Analysis for Figure 2:
+To estimate change in rental prices versus change in percentiles of household incomes in California, I compare percent changes for FMR estimates to a post-tax/transfer SPM-unit income concept from the ASEC. The post-tax/transfer income includes all near-cash and refundable tax credits (SNAP, EITC, and so on) that are ordinarily captured in the SPM. All values are adjusted for inflation using the CPI-U-RS. I compute the percentile values of that income measure for Californians in each year, and plot the percent change relative to the baseline year. I start this analysis in 1985 as that is the first year for which we have consistent data from the FMR files. However, see Appendix Figure A2 for an analysis that uses ACS data, begins in 1980, and produces similar findings.
+Analysis for Figure 3:
+This analysis follows the same strategy as for Figure 2, but compares the 1985 to 2023 trends for all states.
+Analysis for Figure 4:
+This analysis compares changes in levels of SNAP benefits versus the change in California’s poverty gap due to rising house prices (both in levels of 2024 USD) from 1980 onward. I calculate the poverty gap due to house prices as (a) the weighted aggregate of the poverty gap based on the standard SPM thresholds with housing price adjustments (where individuals above the poverty line receive a value of zero) minus (b) the poverty gap based on a threshold that is not adjusted for housing prices (again with zero values for non-poor individuals) in each year. The result of (a) minus (b) is the excess poverty gap in a given year that is attributable to the state’s higher-than-average housing costs. The value represents how much total income is needed to move all poor Californians above the poverty line due to the state’s higher poverty threshold. The value tends to rise with time given that California’s relative house prices have also increased with time. I then compare that value to total SNAP allocations from 1980 onward using calendar-year values of administrative totals reported by the U.S. Department of Agriculture. I use these administrative reports, rather than estimates from survey data, given concerns of SNAP underreporting in the CPS ASEC.
+Analysis for Figure 5:
+To estimate potential reductions in poverty thresholds in California’s high-cost cities at different percent declines in average house prices relative to the national mean, I again use the ASEC data for reference years 2022 and 2023. I calculate average reductions in the poverty threshold by adjusting the housing portion of the SPM poverty thresholds by the specified declines in housing prices for these high-cost cities relative to the national average, following Equation A1.
+Analysis for Figure 6:
+Figure 6 follows the same procedure as for Figure 5 above, though I follow up with a step that creates a new SPM poverty indicator after adjusting the SPM threshold by the specific percent decline in local housing prices relative to the national average.
+Hilary W. Hoynes and Ankur J. Patel, “Effective Policy for Reducing Poverty and Inequality? The Earned Income Tax Credit and the Distribution of Income,”
+Journal of Human Resources
+53, no. 4 (2018): 859–90,
+https://www.jstor.org/stable/26533535
+; Arindrajit Dube, “Minimum Wages and the Distribution of Family Incomes,”
+American Economic Journal: Applied Economics
+11, no. 4 (2019): 268–304; Zachary Parolin et al., “The Effects of the Monthly and Lump-Sum Child Tax Credit Payments on Food and Housing Hardship,”
+AEA Papers and Proceedings
+113 (2023): 406–12.
+↩︎
+Conor Dougherty,
+Golden Gates: The Housing Crisis and a Reckoning for the American Dream
+(New York: Penguin Books, 2021); Jessica Trounstine,
+Segregation by Design: Local Politics and Inequality in American Cities
+(New York: Cambridge University Press, 2018).
+↩︎
+National Academies of Sciences, Engineering, and Medicine,
+An Updated Measure of Poverty: (Re)Drawing the Line
+(Washington, DC: The National Academies Press, 2023),
+https://doi.org/10.17226/26825
+. See more details in the Appendix.
+↩︎
+A “15 percent decline” refers specifically to a 15 percent decline in the median rental prices for two-bedroom housing units in California’s high-cost cities relative to the nationwide median prices for two-bedroom homes.
+↩︎
+All rental price estimates are from the U.S. Department of Housing and Urban Development’s Fair Market Rent (FMR) data. FMR levels represent “the 40th percentile of gross rents for typical, non-substandard rental units occupied by recent movers in a local housing market” (U.S. Department of Housing and Urban Development, 1998). See Appendix for more details and comparisons to estimates of median rental prices from the American Community Survey.
+↩︎
+“Family incomes” represent the post-tax/transfer resources of all members within a SPM family unit, which is most often equivalent to the household. The term “family” does not imply the presence of children in the unit. The trend starts in 1985 as this is the first year for which Fair Market Rent values are consistently available at the state level.
+↩︎
+In Appendix Figures A1 and A2, I show that these findings hold when instead using median rental costs from the American Community Survey.
+↩︎
+All data on housing stocks are the author’s analysis of data from the IPUMS National Historical Geographic Information System: S. Manson, J. Schroeder, D. Van Riper, K. Knowles, T. Kugler, F. Roberts, and S. Ruggles,
+IPUMS National Historical Geographic Information System: Version 19.0
+[Dataset] (Minneapolis, MN: IPUMS, 2024),
+https://doi.org/10.18128/D050.V19.0
+.
+↩︎

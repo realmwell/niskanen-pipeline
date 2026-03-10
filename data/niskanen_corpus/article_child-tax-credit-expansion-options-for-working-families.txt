@@ -1,0 +1,94 @@
+TITLE: Child Tax Credit expansion options for working families
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/child-tax-credit-expansion-options-for-working-families/
+WORDS: 874
+
+The reconciliation tax bill recently approved by the House delivers several key wins for families, starting with
+a long-awaited upgrade
+to the Child Tax Credit (CTC). The legislation would raise the CTC to $2,500 per child–up from $2,000–and keep that higher amount in place through 2028. This restores its real (adjusted for inflation) value to what it was in the original Tax Cuts and Jobs Act from President Donald Trump’s first term.
+The Senate can strengthen the bill by ensuring the expanded Child Tax Credit (CTC) truly reaches working-class families, not just middle and upper-income households with enough tax liability to capture the full non-refundable portion. Under the House plan, the refundable portion remains capped at $1,700 per child. That cap means roughly 8 percent of children who now receive the full credit
+would not be able
+to fully claim the new, expanded CTC. In practice, families would need to earn substantially more than today to claim the entire expanded credit (Table 1).
+Table 1: Family income needed to fully claim the CTC
+Income Needed for Fully Claim CTC for Married Filing Jointly Household
+Current Policy
+Reconciliation CTC Expansion
+1-child family
+$33,000
+$40,000
+2-child family
+$36,000
+$48,000
+3-child family
+$39,000
+$56,000
+4-child family
+$45,500
+$62,700
+Although the House bill raises the Child Tax Credit (CTC) maximum to $2,500 per child, its structure still shuts out many of the working-class families Congress aims to help:
+Larger families:
+Ten percent of children in working households with three or more children—families that currently receive the full credit—would not receive the full expansion.
+Rural communities:
+Nine percent of rural children who now qualify for the full benefit would not qualify for the full expansion.
+Single-mother households:
+One in ten children raised by single working mothers who currently receive the full credit would fall short of the new expansion.
+The 2017 Tax Cuts and Jobs Act (TCJA) demonstrated how modest adjustments can broaden the CTC’s reach: the share of children receiving the full credit
+jumped
+from 52 percent in 2017 to 67 percent in 2018, and stands at 71 percent today. By modestly increasing the refundable portion, the Senate can build on that momentum and deliver a genuine win for working-class families
+Low cost, high impact CTC levers
+The Senate can fine-tune the CTC so it delivers more help to low-income families without substantially adding to the cost of the reconciliation package. This can be done through two straightforward adjustments.
+Start the refundable credit at the first dollar of earnings.
+Current rule:
+Families must earn $2,500 before the Additional CTC (ACTC) begins to phase in.
+Fix:
+Lower the threshold to $0 so every dollar of work counts toward the credit. That keeps the work incentive intact but makes it far easier for low-income parents—especially those with multiple children—to qualify for the full benefit.
+Raise the refundable share in lockstep with the headline credit.
+Current rule:
+The ACTC is capped at $1,700 per child (indexed for inflation).
+Fix:
+Raise the ACTC to $2200 per child, giving it a parallel $500 boost to the CTC’s expansion. Continue to keep it indexed to inflation.
+Estimating the cost and impact of refundability changes
+Using Policy Engine–a microsimulation model of American tax policy and benefits programs–we model the costs and benefits of these policies (Table 2).
+Each models the costs and benefits for 2025, comparing any CTC expansion to current policy. For the purpose of this comparative, one-year analysis, our modelling only considers the temporary CTC expansion to $2500, not the inflation indexing thereafter. It also does not include the pay-fors such as the elimination of the dependent exemption that are a component of the House package. Our modelling includes the requirement that qualifying children have a social security number, but not that both parents also have a SSN. All modelling used V1.302.0 of Policy Engine’s microsimulation model.
+The two options modelled all incorporate the $2,500 CTC proposed in reconciliation and add the following:
+Option 1: Lower the ACTC phase-in threshold to $0.
+Option 2: Lower the ACTC phase-in threshold to $0 and increase the ACTC to $2,200.
+Table 2: Modelling CTC expansion scenarios
+Reconciliation Baseline
+Option 1
+Option 2
+CTC
+$2,500
+$2,500
+$2,500
+ACTC
+$1,700
+$1,700
+$2,200
+Phase in starts at
+$2,500
+$0
+$0
+Percent of households with increased net income
+25.8%
+34.6%
+(+8.8pp)
+38.1%
+(+12.3pp)
+Yearly cost
+$20.4b
+$22.9b
+$25.8b
+Cost over OBBB
+n/a
+$1.5b
+$5.4b
+The House version of the reconciliation package has a one-year
+cost
+of $20.4 billion. Adding the shift to a first dollar phase in for the ACTC (Option 1)
+raises
+the cost by $1.5b per year over the reconciliation package baseline for a total of $22.9b per year. Adjusting the ACTC by both beginning the phase-in at the first dollar earned and also raising the value of the ACTC to $2,200 (Option 2)
+costs
+a total of $25.8b–an increase of $5.4b per year over the reconciliation package baseline.
+Conclusion
+Even within today’s tight fiscal constraints, Congress can fine-tune the Child Tax Credit at a relatively modest cost. Doing so would allow millions more working-class families—especially larger households, rural communities, and single-mother families—to receive the full benefit without weakening the credit’s pro-work design. In short, a small additional investment can deliver a far more equitable—and politically durable—CTC expansion.

@@ -1,0 +1,115 @@
+TITLE: Capability-based budgeting: A practical roadmap for getting started
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/capability-based-budgeting-a-practical-roadmap-for-getting-started/
+WORDS: 2711
+
+Over the course of this series, we’ve covered the
+why
+:
+Why agencies can’t “do more with less” without losing sight of mission
+Why procedural bloat and legacy-funding models work against modern service delivery
+Why capabilities — not programs, systems, or compliance categories — give us a durable way to describe the work the government must do
+The most common question I hear from leaders is simple: “This is all great, but where do I start in my world, with my budget, my org chart, my portfolio, my politics?”
+This final article answers exactly that. And the good news is: you can get started regardless of your team’s size or product maturity.
+Capability-based budgeting is not a wholesale reorganization. It’s a way of making the budget legible: first to yourself, then to leadership, then to oversight. Capability-based budgeting is an approach to budgeting that can apply to any kind of team — whether or not you are providing direct support to public facing or mission critical work. You can begin with a single portfolio, a single project, or even a single conversation about what outcomes your team is truly accountable for. Below is a practical roadmap for getting started, based on real federal implementations and the lessons learned along the way.
+1. Start with outcomes: What are you actually trying to deliver?
+Before you identify capabilities, you must identify the mission outcomes your team is responsible for. Not the tasks, not the systems, and not the reporting requirements, but the actual impact on customers, beneficiaries, or the public.
+Ask:
+“What should the customer be able to do?”
+“What do our stakeholders (or Congress) expect us to achieve?”
+“What does a successful experience look like at the point of service?”
+Most organizations can identify three to five enduring outcomes backed by a strong consensus. At the Department of Veterans Affairs, these included things like “veterans can access benefits without friction,” “veterans receive accurate and timely decisions,” and “veterans can reliably verify and manage their identity.” Outcomes provide the anchor. Without them, capability-based budgeting collapses into taxonomy exercises.
+2. Map the capabilities required to deliver those outcomes.
+Once the outcomes are clear, the next step is translating them into the foundational “piping” that your organization needs. A capability is a repeatable, enduring body of work — not a system or a project — that directly supports a desired outcome. A few examples of capabilities are: Eligibility Determination, Identity & Access Management, Correspondence Delivery, and Payments Management. Each capability is something the organization must be able to do year after year, regardless of the technology it’s using.
+To map your capabilities:
+Start with the outcomes you identified.
+Identify the essential steps customers must go through.
+Identify the repeatable enterprise functions your teams support.
+Name each capability in plain language.
+Your first capability map should be draft quality. Don’t aim for perfect. You’ll refine it as you enlist support in your organization.
+3. Trace current spending and staffing back to capabilities.
+Every portfolio, no matter how complex, can be captured in a basic inventory of how people, contracts, and systems support capabilities. You don’t need precision down to the dollar. You need a directional understanding of where the money actually goes. The goal is to create a complete picture of how resources are leveraged within your area, and how those resources align with and advance your organization’s mission, vision, and strategic goals.
+Look at:
+what each team actually does day to day
+which systems enable which capabilities
+where duplications or gaps exist
+what each contract truly supports
+This step is key to making sure everyone understands what is or is not a part of that capability’s purview or boundary. This step usually surfaces uncomfortable truths:
+We’re overspending on lower-value capabilities.
+We’re underfunding mission-critical ones.
+We’re carrying technical and operational debt in places that leadership doesn’t see.
+We’re spreading resources too thinly across too many things.
+This exercise creates what earlier articles called the “negotiation language,”: which is a clear way to show leadership, “Here’s where we say the mission is — and here’s where the money actually goes.” Every dollar spent is a decision about priorities, whether intentional or not. These truths illuminate both the explicit and implicit choices your organization has already made. As a leader, you need to see those choices clearly and determine whether the pattern of spending truly reflects your area’s priorities — and, if it doesn’t, make the adjustments necessary to realign resources with the mission.
+4. Test the capability model: Can stakeholders use it to make real decisions?
+Once you draft your capability map and align your current work to it, the next step is validation. You need to test whether the model is usable and intuitive enough for real people, operating under real constraints, to make real decisions.
+A strong capability map is defined by a team’s ability to review the alignment and the elements in its purview and confidently answer:
+“Where does this work belong?”
+“What team should manage this work?”
+“Does this investment fit inside the scope of this capability, or are we drifting?”
+“If resources are constrained, what gets elevated, paused, or ended?”
+To validate your model, run it through three practical tests.
+Test 1: Can teams and stakeholders use the model to prioritize work inside the right boundaries?
+Sit down with product teams, contracting colleagues, budget officers, and operational leaders. Present real work items and ask them to place each one within the capability structure. If they hesitate, disagree, or interpret capabilities differently, then the model needs refinement — not more complexity. A usable capability model enables fast categorization of work, consistent decision-making, clear ownership of outcomes, and a shared lens for evaluating tradeoffs. If people can’t apply it intuitively, it won’t survive the next fiscal cycle.
+Test 2: Can the capability model operate cleanly within the organization’s operational, contracting, and fiscal structures?
+A capability model is only useful if it aligns with how the organization actually works — how it plans, budgets, procures, and executes. This next test evaluates whether the capability boundaries make sense in the real world, not just on paper.
+Your goal is to ensure that each capability is distinct, operationally coherent, and financially workable. To test it against those values, ask:
+Are the capabilities distinct enough that a budget analysis would clearly show what is “in,” what is “out,” and why?
+During budget formulation, reviewers should instantly understand why a piece of work belongs to one capability and not another. If you consistently have to justify exceptions or negotiate overlaps, the boundary definitions need refinement.
+Does the model support the intended flexibility for product managers to manage their full systems landscape?
+One of the core goals of capability-based budgeting is to give product managers the ability to manage all the systems, services, contracts, and operational activities related to their area in a single, coherent frame. So test the model by asking:
+Would product managers lose flexibility or hit contractual or fiscal barriers if funding were grouped at this capability level?
+Do current procurement rules, contract structures, or appropriations categories limit the ability to manage the entire systems suite as a single capability?
+If the answer is yes to either of these questions, you may need to adjust the alignment (or plan for bridging strategies) to ensure that dollars, authorities, and procurement mechanics can actually support the model.
+Can future procurements be structured around capabilities without causing organizational disruption?
+The intent of capability-based budgeting is not to reorganize teams every year, but to create a stable structure for investment. If aligning procurements to capabilities requires major staffing shifts, reassignments, or constant coordination workarounds, the boundaries may be wrong. A good model should reduce friction, not generate it.
+A capability model that cannot function within operational, contracting, and fiscal constraints is not ready for execution. It must both describe the mission accurately and be executable within the rules that govern how the organization buys, funds, and delivers work.
+Test 3: Does the model make it obvious what to start, stop, or continue?
+A good capability model shines a light on decisions that have been hiding in plain sight — duplicative work, legacy systems, low-value activities, and underfunded mission-critical areas.
+Ask stakeholders, based on this model:
+What work clearly supports outcomes and should start?
+What work is misaligned, redundant, or low value and should stop?
+What must continue because it is essential to mission delivery or risk reduction?
+If the model doesn’t make these calls clearer, it’s not ready. But if it does, you’ve struck the right balance between alignment structure and story telling, and the model is now a decision-making tool, not just a diagram.
+5. Build your first capability-based budget: Translate the tested model into a clear, mission-centered justification.
+Once your capability model has been tested and validated, the next step is to build your first draft budget aligned to the new structure. This step is not just about numbers. It’s about proving that the capability framework can support a clean, complete, and compelling budget narrative. Start by mapping every line item from the previous structure into the new capability structure.
+Your goals are simple and essential:
+Validate that all existing budget lines are accounted for.
+Nothing should be orphaned. Nothing should “fall between” capabilities. If it isn’t clear where a line belongs, that’s a signal that either the capability boundaries need to be refined or the work itself is unclear or redundant. This exercise forces discipline and clarity — and it’s often where agencies first see the power of the model.
+Produce a side-by-side view: old structure vs. capability structure.
+This comparison builds trust. It demonstrates that the new model isn’t about moving the money; it’s about making the money legible. This allows leaders, budget officers, and oversight bodies to immediately see:
+how the dollars reassemble into a coherent whole
+how much each capability truly costs
+where resources were previously scattered or hidden
+where alignment gaps or inefficiencies may exist
+Use the exercise to validate your mission outcomes and capability definitions.
+This process clarifies the results those investments are expected to produce and how the capability improves customer experience, reduces operational or technical risk, or advances modernization goals. It also tests whether the capability is best funded as a coherent whole rather than as a collection of unrelated activities. If you find that you cannot articulate a clear, end-to-end story for a capability — what it does, why it matters, and what the funding will achieve — it’s a strong signal that the capability is either misdefined or not fully understood.
+Write a new capability-based budget justification that tells a cohesive story.
+With the tested model in hand, the next step is to write a capability-based budget justification that replaces the old piecemeal, line-item approach with a coherent mission story. This justification should clearly articulate what the capability is; why it’s essential to the mission; what it will accomplish in the upcoming budget year; which outcomes or metrics it will improve; what risks it mitigates; and what the requested funding will enable across the entire systems and services landscape. Here’s an example from
+FY2026 VA Full Budget Submission
+:
+The Eligibility and Enrollment investment focuses on revamping the VA’s healthcare and benefits systems, emphasizing Community Care, Claims Processing, and Appeals Management. This initiative supports technologies and services that enable Veterans to access and enroll in VA programs, driving greater efficiency, accuracy, and accessibility through automated claims processing, streamlined eligibility determinations, and enhanced provider management. Key projects like the Attachments Retrieval System, Claims Processing and Eligibility System, and Community Care Reimbursement System (CCRS) are critical, along with initiatives in mental health assessment, genomics, precision oncology, and medical imaging that leverage advanced technology for personalized care. Benefits include reduced processing times, improved benefit accuracy, expanded access to community care, and efficient use of taxpayer funds, leading to faster, more transparent service delivery. The return on investment is driven by improved efficiency, accuracy, and Veteran satisfaction, resulting in faster reimbursements, cost savings, and reduced administrative burdens. This comprehensive approach supports the VA’s mission to provide high quality, accessible healthcare to Veterans, driving operational efficiencies, and ensuring positive outcomes across various clinical domains. … The 2026 budget request will support:
+New functionality of the Veteran Health Eligibility and Enrollment process which supports enhancements required by future congressional mandates.
+Eligibility and Enrollment Experience which will ensure the completion of Veteran and Family Member Program (VFMP) eligibility migration, integration, and expansion to all VHA eligible using Benefit Discovery service, completing updates, and personalized registration services.
+The result should be a far more compelling narrative than any traditional budget structure could produce; one that shows how the organization delivers a complete mission capability end-to-end rather than a collection of fragmented activities. The core test is simple: Does this new justification tell the mission story more clearly, more coherently, and more persuasively than the old one? If so, it becomes the foundation for future cycles and the strongest possible demonstration that the capability model is not just conceptually sound but truly executable.
+6. Communicate early and often: Bring leadership and oversight along.
+Capability-based budgeting only succeeds when it becomes a shared vocabulary across the organization. That requires engaging early with everyone involved in shaping, funding, delivering, or overseeing the work — from the CIO and budget officers to portfolio leads, product teams, contracting, HR, frontline staff, and external oversight bodies such as OMB examiners and congressional committees. The goal is not to win a taxonomy debate but to create a framework that enables all stakeholders to answer a single, unifying question:
+What does this investment do for the mission?
+Sharing the model takes time, but it accelerates time for adoption and implementation. It fosters clarity and reduces political friction as people begin to see how their work fits together and how the capability structure resolves long-standing ambiguities in ownership, funding, and accountability.
+Leverage early wins to build momentum.
+You don’t need to complete a multi-year transformation to demonstrate the value of capability-based budgeting, You need one meaningful win. Early successes, such as consolidating redundant contracts under a single capability, redirecting small amounts of funding from low-value work to high-impact gaps, or resolving a persistent customer pain point by maturing a targeted capability, provide tangible proof that the model works. Even modest progress within a single fiscal cycle can reveal how capability framing reduces risk, increases transparency, and creates a clearer rationale for investment.
+At the VA, this approach helped the agency’s leadership and Congress understand modernization not as a scattered set of projects but as deliberate acceleration of core capabilities like paying benefits, helping veterans through the transition experience, and processing loan guarantees. These early wins create believers, and believers create momentum. Once stakeholders see the value firsthand, they become advocates for deeper adoption and broader scaling across the organization.
+Common pitfalls and how to avoid them
+If you’re beginning this work, be mindful of these traps:
+mistaking systems for capabilities (“
+Login.gov
+” vs. “Identity & Access Management”)
+trying to perfect the map before making decisions
+using capabilities as a reorganization tool instead of a decision-making tool
+getting lost in taxonomy arguments
+letting the process become compliance theater
+failing to involve the frontline workforce
+Capability-based budgeting is a tool for making strategic decisions, not a governance process. Keep it simple. Keep it focused on decisions and outcomes.
+You can start anywhere — but just start!
+A common misconception is that capability-based budgeting requires enterprisewide reorganization or new funding authorities. You can start simply, by defining a handful of core mission outcomes, listing the capabilities that deliver them, tracing a single investment to a single capability, and identifying one place where resources should shift toward higher-value work. Each small step brings greater clarity, strengthens your case to leadership, and moves the organization closer to aligning its resources with its true mission.
+This series began with the premise that the government cannot deliver new and innovative services within constrained waterfall based structures. Capability-based budgeting is a practical way to bridge that gap.
+If you begin now, your next budget cycle, and the ones that follow, will become easier, clearer, and more strategically aligned. The work scales, the value compounds, and the only requirement is taking the first step.

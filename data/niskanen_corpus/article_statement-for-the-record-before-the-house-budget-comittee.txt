@@ -1,0 +1,181 @@
+TITLE: Statement for the record before the House Budget Comittee
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/statement-for-the-record-before-the-house-budget-comittee/
+WORDS: 2370
+
+January 21, 2026
+The Honorable Jodey Arrington, Chairman
+The Honorable Brendan Boyle, Ranking Member
+House Budget Committee
+Re: Hearing on “Reverse the Curse: Skyrocketing Health Care Costs and America’s Fiscal Future”
+Submitted on behalf of the Niskanen Center, Social Policy Healthcare Team
+Lawson Mansell, Health Policy Analyst
+Kaj Gumbs, Government Affairs Manager
+–
+Chairman Arrington, Ranking Member Boyle, and Members of the Committee, thank you for the opportunity to submit this statement for the record of today’s hearing on addressing America’s rising healthcare costs.
+The challenges driving high healthcare costs
+The cost of healthcare, for both services and health insurance, is rising, burdening American households with mounting out-of-pocket expenses and financial uncertainty. These rising costs are driven by high service prices, increasing service intensity and volume, and a scarce and continually consolidating provider market that has failed to offer patients an adequate range of affordable options for care. These dynamics not only make healthcare increasingly unaffordable but also contribute to the deepening federal budget deficit by driving unnecessary spending on Medicare, Medicaid, and other federal programs.
+In the following, we detail the ways in which high reimbursement rates, rising volume, and market distortions drive this financial burden, and we offer policy levers Congress can use to reverse it.
+High reimbursements, higher prices, and rising volume
+National Health Expenditures reached an astonishing $5.3 trillion in 2024, increasing over 7 percent from the year prior and making up around 18 percent of the entire US GDP.
+1
+More than half of this went to hospital and physician services, primarily paid by private insurers, Medicare, and Medicaid, which together represented about 70 percent of all healthcare spending.
+2
+Healthcare prices, especially in the commercial sector, have been a leading driver of this growth, with the average price of medical services rising roughly 30 percent in American cities over the past decade.
+3
+Recently, however, researchers have found that service volume (encounters with providers) and intensity (care delivered in higher-cost settings or with higher-cost resources) now drive most spending increases.
+4
+Rising volume may reflect greater care needs related to the aging of the American population and rising rates of chronic disease, while rising intensity reflects shifting patients from lower- to higher-cost sites — for instance, from independent-provider offices to hospital and other facility-based outpatient departments.
+Federal payment policies incentivize this shift by rewarding facility-based delivery over independent providers and other lower-cost alternatives. Programs such as Medicare and Medicaid fuel overspending through high reimbursements to hospital systems, as do  rate-setting procedures that encourage the use of high-cost specialists. Medicare rates often serve as benchmarks for those of private insurers, whose prices average 2.5 times Medicare’s. As a result, Medicare reimbursement policies can distort healthcare markets.
+5
+Medicare’s site-based billing practices underscore the point. Medicare reimburses hospital-owned clinics nearly double what independent offices receive for the same service.
+6
+Medicare procedural reimbursements (payments for discrete, technical services such as diagnostic imaging) have outpaced those in time-based fields like primary care, where compensation is tied to the time physicians spend with their patients. CMS noted last year that procedural rates are “very likely overinflated” relative to actual resources utilized.
+7
+For example, while the Medicare code for removal of a skin lesion says it should take 29 minutes, researchers have found that it takes only seconds.
+8
+Policymakers must target such unnecessary spending, particularly on overpriced or low-value services. While some growth reflects legitimate demand, inefficiencies in Medicare’s rate-setting policies and procedures should spur Congress to curb waste and redirect funds to higher-value care.
+Dwindling availability of affordable options
+The significant consolidation of the hospital and physician markets in recent years, with mergers reducing competition and leaving 80 percent of metropolitan areas highly concentrated, has been both a cause and effect of high and distorted pricing for healthcare services.
+9
+The scarcity of such low-cost options as retail clinics and independent practices has forced patients into higher-priced settings.
+The implications extend beyond patients’ wallets to the federal deficit and national debt. In a marketplace dominated by hospital-owned clinics, Medicare is forced to reimburse at higher hospital rates, fueling unnecessary Medicare spending.
+Reducing long-term healthcare spending will require not just correcting current distortions, but also ensuring that lower-cost, independent-care models are financially viable on their own and can continue to offer patients an affordable alternative.
+What Congress can do to improve affordability and our fiscal future
+The following solutions offer Congress real, bipartisan opportunities to reduce unnecessary spending without compromising the quality of care for patients. Scaling up higher-value care requires both incentivizing and expanding care models with reduced prices, including independent physician offices and ambulatory surgery centers, and improving overall market dynamics to lower the prices of hospital and physician care.
+First, what Congress can do in the near term regarding rising healthcare costs:
+Near-term: Stem the tide
+Make common outpatient procedures and all off-campus hospital outpatient payments site-neutral
+: Congress should build on recent CMS rule changes to correct the site-based payment distortion.
+10
+Currently, Medicare typically pays hospitals significantly more than it pays independent physician offices for the same exact services. Even for such routine services as X-rays, which are commonly done at physicians’ offices as well as at hospitals, rates can be four times higher in a hospital outpatient department (HOPD) than at a physician’s office.
+11
+Site-based payments and similar market-distorting policies have created an incentive for hospital systems to acquire independent physician offices, labeling them as off-campus facilities to qualify them as hospital outpatient departments (HOPDs), and immediately begin receiving higher reimbursements without changing the care patients receive. According to studies from the Actuarial Research Corporation, Medicare could save $126.8 billion over 10 years if site-neutral payments were extended to all HOPDs just for routine services.
+12
+Benchmark No Surprises Act payments and end independent dispute resolution
+: Congress passed the No Surprises Act in 2020 to shield patients from unexpected medical bills. Since taking effect, the law has been largely successful in protecting patients from high charges stemming from inadvertent out-of-network care. However, the independent dispute resolution (IDR) program that Congress established to choose between competing payment offers has been driving up overall healthcare costs rather than saving federal dollars as expected. CMS data shows that providers initiated 1.5 million billing disputes since the law’s enactment — more than 70 times the predicted annual caseload. Of those, 85 percent were decided in favor of the provider — that is, the higher offer — driving up the median winning offer to over four times the median in-network rate of each insurer.
+13
+The IDR program has generated at least $5 billion in total costs, including overpayments.
+14
+Congress can halt the expected increase in related federal spending and insurance premiums by simply benchmarking the rates and extricating the IDR process from these billing disputes.
+End payment parity for telehealth services
+: In the Consolidated Appropriations Act of 2021, Congress permanently established payment parity between in-person and telehealth behavioral-health services.
+15
+As a result, low-overhead virtual-only mental health providers gain a competitive advantage over brick-and-mortar mental health clinics, which could lead to distortions in the market for telehealth behavioral care. Virtual-only clinicians constituted more than 20 percent of behavioral health providers in both 2021 and 2022, demonstrating that despite the stabilization of telehealth use post-pandemic, virtual-only providers will continue to be a major player.
+16
+Reimbursement rates should reflect the true costs and value of telehealth services — meaning providers would receive a lower reimbursement for care that requires fewer resources to deliver.
+17
+Per MedPAC’s recommendation, Congress should mandate payment of the lower facility rate for most telehealth services.
+18
+Long-term: Build a competitive market with affordable options
+Provide Incentives for Medicaid to partner with Direct Primary Care clinics:
+Addressing the scarcity of primary care providers requires innovative approaches to healthcare delivery. Among innovative models, Direct Primary Care (DPC) offers patients virtually unlimited access to a primary care doctor for an affordable, fixed monthly fee. Because DPC practices do not accept traditional insurance, DPC doctors spend less time and fewer resources on paperwork and more time with patients. This is a critical counterweight to our current system in which routine needs are addressed in episodic, high-cost settings. Medicaid patients, in particular, suffer in this dynamic and would greatly benefit from continuous, relationship-based care. A new proposal would allow states to contract directly with DPC practices, offering Medicaid beneficiaries predictable, straightforward access to a personal physician.
+19
+,
+20
+Moreover, the proposal would likely lower costs by reducing consumption on expensive hospital stays and outpatient procedures.
+21
+Reform Medicare’s Graduate Medical Education (GME) formula to enable more primary care doctors:
+Ensuring that patients have enough affordable options must start with addressing America’s primary care shortage and the residency bottleneck that helped create it. Each year, the federal government allocates over $20 billion to teaching hospitals through Medicare GME formulas designed to encourage hospitals to train medical residents. Yet, the U.S. graduates only about eight new physicians per 100,000 residents annually, whereas other Organisation for Economic Co-operation and Development countries train two to three times as many doctors per capita.
+22
+Moreover, in the United States, primary care physicians are declining as a percentage of annual graduates. The current funding structure disproportionately benefits hospitals in higher-cost areas and those performing more expensive procedures.
+23
+Because residents in lucrative subspecialties perform higher-cost procedures, the funding structure discourages programs from expanding primary care slots, exacerbating shortages in both primary care and essential specialties. Creating more primary care residents would require broader, structural changes to GME funding to better align the supply of physicians with patient demand.
+24
+Allow for more physician-owned hospitals:
+The 2010 Affordable Care Act included a provision that banned both the creation of new physician-owned hospitals (POHs) and the expansion of existing ones. POHs are a critical counterbalance to large, vertically integrated hospital systems that dominate consolidated local markets, offering care at lower prices and similar quality compared with other hospitals in the same market.
+25
+,
+26
+Yet, the law restricts market entry for these hospitals. Congress should lift the ban and allow for both the expansion of current POHs and the formation of new ones.
+27
+Conclusion
+We applaud the committee’s attention to healthcare cost increases and their effects on America’s fiscal outlook. While we support efforts to reduce healthcare spending where appropriate, we urge that policymakers stay laser-focused on reining in unnecessary spending and strengthening the supply side to build the competitive healthcare marketplace of the future.
+The Niskanen Center remains committed to working with both sides of the aisle to develop and implement solutions that expand the supply of quality healthcare and deliver cost-effective value for the American public and the budget. We appreciate the opportunity to submit this statement and stand ready to assist the committee in its important work.
+If you have any questions or wish to engage further, please contact our Government Affairs Manager, Kaj Gumbs, at
+kgumbs@niskanencenter.org
+.
+Respectfully submitted,
+Lawson Mansell, Niskanen Center
+Kaj Gumbs, Niskanen Center
+National Health Care Spending Increased 7.2 Percent In 2024 As Utilization Remained Elevated
+, Micah Hartman et al., Health Affairs, January 14, 2026.
+↩︎
+Ibid.
+↩︎
+Author’s calculations. Source: FRED, “
+Consumer Price Index for All Urban Consumers: Medical Care in U.S. City Average
+,” accessed January 19, 2026.
+↩︎
+Growth In National Health Expenditures: It’s Not The Prices,the  Stupid
+, Michael E Chernew, Health Affairs, January 15, 2026.
+↩︎
+RAND Health Care Price Transparency Initiative
+, RAND Health, December 10, 2024.
+↩︎
+Estimating Out-of-Pocket Savings From Medicare Site-Neutral Payments on Colon, Lung, Ovarian, and Prostate Cancer Patients
+, Sage Mehta et al., The Journal of Health Care Organization, Provision, and Financing, December 23, 2025.
+↩︎
+Calendar Year (CY) 2026 Medicare Physician Fee Schedule (PFS) Proposed Rule (CMS-1832-P)
+, CMS, July 14, 2025.
+↩︎
+Experts urge Medicare to overhaul secretive panel that helps determine doctors’ pay
+, Bob Herman, Stat News, September 12, 2022.
+↩︎
+One or Two Health Systems Controlled the Entire Market for Inpatient Hospital Care in Nearly Half of Metropolitan Areas in 2022
+, Jamie Godwin et al., KFF, October 1, 2024.
+↩︎
+How site-neutral payment policies can save money for cancer patients and the chronically-ill
+, Sage Mehta, Niskanen Center, January 15, 2026.
+↩︎
+Hospital-physician integration and Medicare’s site-based outpatient payments
+, Brady Post et al., January 27, 2021.
+↩︎
+Sizing Medicare Off-Campus Hospital Outpatient Department Site Neutrality Proposals
+, Tim Bulat and Ryan Brake, Actuarial Research Corporation, January 3, 2024.
+↩︎
+New data shows No Surprises Act arbitration is growing healthcare waste
+, Lawson Mansell and Sage Mehta, Niskanen Center, June 18, 2025.
+↩︎
+The Substantial Costs Of The No Surprises Act Arbitration Process
+, Jack Hoadley and Kennah Watts, Center on Health Insurance Reforms, September 24, 2025.
+↩︎
+Consolidated Appropriations Act
+, H.R. 133, 116th Cong. (2021).
+↩︎
+Telehealth in Medicare: Status report
+, Brian O’Donnell and Ledia Tabor, MedPAC, April 11, 2024.
+↩︎
+Financing Telehealth — Moving Beyond Payment Parity
+, Tara Sklar, NEJM, January 10, 2026.
+↩︎
+Telehealth in Medicare after the coronavirus public health emergency
+, MedPAC, March 2021.
+↩︎
+Crenshaw, Schrier, Smucker, Pettersen Introduce Bipartisan Bill to Expand Access to Direct Primary Care Through Medicaid
+, Congressman Dan Crenshaw, February 11, 2025.
+↩︎
+Kelly, Blackburn Introduce Bill to Increase Primary Care Access and Lower Costs for Medicaid Recipients in Rural Communities
+, Senator Mark Kelley, December 5, 2024.
+↩︎
+One bipartisan solution can revolutionize how Medicaid patients get primary care
+, Lawson Mansell, The Hill, December 28, 2025.
+↩︎
+OECD Data Explorer
+, October 15, 2025.
+↩︎
+Unmatched: Repairing the U.S. Medical Residency Pipeline
+, Robert Orr, Niskanen Center, September 20, 2021.
+↩︎
+Evaluating a new Senate proposal to reform residency funding
+, Lawson Mansell and Jared Rhoads, Niskanen Center, January 29, 2025.
+↩︎
+Comparison of Commercial Negotiated Price and Cash Price Between Physician-Owned Hospitals and Other Hospitals in the Same Hospital Referral Region
+, Yang Wang et al., June 23, 2023.
+↩︎
+Cost and Quality of Care in Physician-Owned Hospitals: A Systematic Review
+, Brian J. Miller et al., September 7, 2021
+↩︎
+Physician Led and Rural Access to Quality Care Act
+, S. 1390, 119th Cong. (2025) (introduced by Representative H. Morgan Griffith).
+↩︎

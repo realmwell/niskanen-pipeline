@@ -1,0 +1,104 @@
+TITLE: Saving lives and money by incentivizing living organ donation
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/saving-lives-and-money-by-incentivizing-living-organ-donation/
+WORDS: 1691
+
+In the U.S., an average of
+13 people
+die every day awaiting an
+organ transplant. Of the
+more than 105,000
+Americans waiting for organs, over
+86 percent
+are awaiting a kidney. While
+many Americans
+are willing to donate their organs after death,
+only three in 1,000 people
+die in such a way that their organs can be used for posthumous donation under the strict medical criteria. Increasing donor registration to close
+the gap
+between the number of people who support organ donation and those who are actually signed up to donate after death could provide modest benefits. But living donation, when possible, is the better alternative, and encouraging it, for both the lifesaving and budgetary savings benefits, should be a major policy priority.
+Earlier this year, members of Congress reintroduced a bill that aims to increase the rate of living kidney donations by adding financial incentives for altruistic donations – those that are not directed at a particular recipient. The bipartisan
+End Kidney Deaths Act
+(EKDA) would offer nondirected living kidney donors a $10,000 refundable tax credit for five years, totaling $50,000. By providing this financial incentive, the EKDA aims to motivate donors who do not have a personal connection to a patient in need and thus shrink the kidney transplant waitlist. Despite the tax credit expenditure, this effort would also likely significantly improve the federal balance sheet by reducing the number of government-insured patients who need costly dialysis treatment.
+Benefits of living organ donation
+Living organ donation refers to the surgical removal of an organ or part of an organ from a healthy, living volunteer. Living organ transplant is almost exclusively available to patients who need a kidney or liver transplant. Compared to those receiving cadaveric organs, individuals who receive living organ transplants often have better outcomes. For instance, the five-year survival rate after a cadaveric kidney transplant is about
+74.4 percent
+in the U.S. Alternatively, the five-year survival rate after a living kidney transplant is about
+85.6 percent
+. Similarly, the five-year survival rate of those receiving a posthumous liver is about
+71.8 percent
+compared to the
+77.3 percent
+rate for those receiving a living liver donation.
+Living organ transplants also tend to raise
+fewer complications
+, and, in the case of kidney donations, the organs tend to last longer. A kidney received from a deceased donor is likely to last
+seven to 10 years
+, at which point its recipient may end up back on the waiting list for a new replacement. Living-donor kidneys, though, typically last
+15 to 20 years
+, extending a recipient’s time off the waitlist by up to a decade.
+The
+risks to living donors
+are also limited. Surgeries are never without risk, but because the pre-donation health screenings are so thorough, kidney donors actually tend to
+live longer
+than non-donors.
+Despite the many benefits of living-donor transplants,
+less than a quarter
+of kidney transplants came from a living donor in 2024. Among liver transplants, it was
+less than 6 percent
+. While most living organ donors give to family members, significant others, or friends, every year some volunteers come forward without a recipient in mind. These nondirected donors gave
+545 kidneys and 109 livers
+in 2024. Since nondirected donors are not tied to a specific recipient, these organs can be allocated and prioritized according to medical need and projected longevity, similarly to how
+deceased donor organs
+are distributed, thus maximizing their benefit.
+Existing and proposed policies
+Recognizing the many benefits of living organ donation, several states have implemented policies designed to facilitate or even incentivize it. In fact, the
+American Kidney Fund
+rates state policies based on seven criteria, including:
+Protections against life, disability
+,
+and long-term care insurance discrimination for living donors;
+Job-protected leave for living donation from private employers;
+Job-protected leave from public employers;
+Tax credits for employers who provide paid leave for living donation;
+Direct reimbursements, tax credits, or tax deductions for donor expenses;
+Whether there is any paid leave via state family and medical leave laws or regulations, and;
+Whether such leave is longer than 60 days.
+The fund reports that
+only four states
+have not yet implemented any of these policies, and
+22 states
+have enacted at least three.
+On a federal level, policies facilitating living organ donation have moved more slowly. Federal employees are permitted
+up to 30 days
+of paid leave each calendar year for organ donation, and the
+Department of Health and Human Services
+regularly awards grants to local entities that reimburse living donors for costs incurred during donation.
+Legislation has been introduced to extend other state-level protections and policies at the national level, but has not yet been successful. For instance, the
+Living Donor Protection Act
+, as most recently introduced by Senator Tom Cotton (R-AR), would, if passed, protect living organ donors from denial of coverage or increased insurance premiums based on their donor status.
+Other legislators have aimed to encourage living donations by compensating living donors through tax benefits. Some of these efforts have focused narrowly on closing the gap between costs incurred and costs already eligible for reimbursement. For instance, the
+Living Organ Donor Tax Credit Act
+would offer a tax credit of up to $5,000 for expenses that are not reimbursed by state or local entities. While this may lower the barriers to donation for some potential donors, other policies are more assertively designed to motivate new donors.
+One of the most robust compensation packages is in the
+End Kidney Deaths Act
+(EKDA). Most existing local donor reimbursement programs, and the proposed Living Organ Donor Tax Credit Act, require donors to report expenses and sometimes provide receipts for the costs associated with donation, which can include lost wages, travel expenses, home health needs, and post-operative care, among others. Instead, the EKDA offers all nondirected donors (those who do not know the identity of their recipient at the time of donation) a refundable tax credit of $10,000 per year for five years. Without the burden of tracking and reporting expenses, donors can focus on their own recovery from surgery while also allowing local entities and administrative bodies to avoid the hassle of reviewing and reimbursing expenses. Furthermore, by providing this financial incentive exclusively to nondirected donors, the EKDA aims to incentivize people who are not already motivated by having a loved one in need. To do so, the bill amends the National Organ Transplant Act of 1984, which bans compensation for organ donation, by excluding tax credits.
+The End Kidney Deaths Act would save lives and taxpayer dollars
+One of the key questions surrounding the push to compensate donors is over cost-effectiveness and the effect on the federal budget. According to the sponsors of the EKDA, Representatives Nicole Malliotakis of New York and Josh Harder of California, the bill is expected to save taxpayers anywhere between $10 billion and $37 billion over 10 years. The expected savings are primarily due to the difference between the high costs that Medicare and Medicaid pay for dialysis, the costly and uncomfortable treatment for kidney failure, compared to the treatment of a transplant patient. But a reduction in Social Security Disability Insurance (SSDI) spending is also likely. The wide range in potential savings is due to the difficulty in predicting how many new donors will be mobilized.
+We can reasonably expect that for the marginal
+new
+donor – who otherwise would not have donated – the Medicare savings alone will pay for the $50,000 tax credit. In 2022, Medicare spent
+$45.3 billion
+for patients on dialysis, each of whom cost the program between $82,554 (Medicare fee-for-service) and $98,434 (Medicare Advantage). Those who are dual-eligible for both Medicaid and Medicare required $110,000 in annual spending in 2022. In contrast, a transplant patient no longer on dialysis costs Medicare around $45,000 annually. As a result, once the up-front costs like transplant surgery are fully paid for, the federal government could save between $37,000 and $53,000 annually with each new donor. Over five years, depending on the recipient, federal savings could reach anywhere from $185,000 to $265,000 per new transplant — around three to five times more than the tax credit value. The first year will likely incur upfront costs due to the transplant surgery. But, as noted, kidneys from living donors typically last
+15-20 years
+(nearly double that of a deceased donor), so federal savings should far surpass the initial outlays.
+Any savings do depend on an increase in nondirected kidney donors. Over the last 10 years, the U.S. has had an annual average of 385 nondirected kidney donations, although rates have been rising in recent years. The big question is whether $50,000 will motivate enough new donors to eliminate the transplant waiting list, currently nearing 100,000 people, with around 40,000 new cases each year. Israel introduced a benefits package incentive for nondirected living kidney donors in 2008 that varies in value but is generally less than the benefit included in the EKDA, and has managed to
+quadruple
+their living donation rates. In 2022, researchers using cost-benefit analysis
+found
+that a slightly more generous compensation ($77,000) would be needed to eliminate the U.S. kidney waiting list entirely.
+Based on the available research, the EKDA compensation of $50,000 should certainly result in budgetary savings. A
+2015 study
+, which assumed that $45,000 compensation per donor would eliminate the waiting list in five years, concluded that a similar policy to the EKDA would save taxpayers $12 billion. However, it is difficult to predict precise total savings without empirical evidence in the U.S. documenting how people respond to financial incentives of this kind.
+Conclusion
+The scarcity of organs for those who need them is ultimately a policy failure, one which costs lives daily in the United States. Addressing the organ shortage will require bipartisan efforts to encourage higher rates of donation, particularly living donation. Federal lawmakers can follow in the footsteps of states by increasing workplace and insurance protections for living donors, or directly incentivize new donors through a tax credit. Financial incentive policies like those proposed in the End Kidney Deaths Act can save lives, reduce the kidney wait list, and save taxpayer dollars by lowering federal health expenditures.

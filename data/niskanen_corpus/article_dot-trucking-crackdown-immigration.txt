@@ -1,0 +1,71 @@
+TITLE: The DOT’s trucking crackdown isn’t about safety — it’s about immigration
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/dot-trucking-crackdown-immigration/
+WORDS: 1282
+
+The Department of Transportation (DOT) is selling its recently announced restrictions on “non-domiciled” truck drivers as an emergency measure. In reality, they’re an immigration crackdown. By sharply limiting which foreign-born workers can hold commercial driver’s licenses (CDLs), the DOT will push nearly 200,000 legally authorized drivers off the road, gutting an industry already facing severe labor shortages — all under the guise of highway safety.
+The new restrictions, which Secretary of Transportation Sean Duffy
+announced
+on September 26, apply to truckers who work in the U.S. but have permanent residency in another country.  Duffy announced the measure amid an
+ongoing audit
+by the Federal Motor Carrier Safety Administration (FMCSA) of states’ non-domiciled CDL practices, launched after a series of
+high-profile accidents
+involving drivers with non-domiciled CDLs.
+The new rule makes
+seven changes
+limiting migrants’ eligibility for CDLs, leaving only workers on short-term H-2A, H-2B, or E-2 visas authorized to work in trucking in the U.S.
+What is a non-domiciled CDL? How do migrants get them?
+A non-domiciled CDL is a commercial driver’s license that a state or other jurisdiction issues to an individual who lives permanently in another state or, in the case of migrant truckers, another  country.
+All but seven states
+— New Hampshire, Rhode Island, West Virginia, Tennessee, Arkansas, Mississippi, and Alabama —  issue non-domiciled CDLs.
+Prior to the new rule, foreign-born individuals who were not U.S. citizens or permanent residents could obtain non-domiciled CDLs if they were authorized to work in the United States. This included workers on temporary visas, such as H-2A or H-2B, as well as individuals with other forms of legal authorization. These statuses included Temporary Protected Status (TPS), Deferred Action for Childhood Arrivals (DACA), and the Cuba, Haiti, Nicaragua, and Venezuela (CHNV) parole program. Eligible individuals in these categories were granted an Employment Authorization Document (EAD) and had to meet the state’s CDL requirements.
+Individuals with permanent residency in Canada or Mexico have always been, and continue to be, exempt. The U.S. government recognizes commercial driving licenses from both countries due to compatible testing and licensing standards.
+In the U.S.,
+federal regulation previously stated
+that applicants for non-domiciled CDLs needed to provide an unexpired
+EAD
+issued by USCIS or an unexpired foreign passport and an approved
+I-94
+entry/exit form documenting their arrival in and departure from the U.S. The expiration date of the CDL was left to the discretion of individual states.
+The updated rule restricts these requirements by eliminating EAD holders from acquiring non-domiciled CDLs. Only those with an H-2A, H-2B, or E-2 visa plus a valid I-94 and unexpired passport are eligible for a non-domiciled CDL. Additionally, the new rule requires the expiration date for a non-domiciled CDL to match the expiration date of the Form I-94 or to expire in one year, whichever is sooner.
+Why the ‘safety’ rationale falls short
+The DOT claims that a “catastrophic pattern of states issuing licenses illegally to foreign drivers” has led to “horrific, fatal crashes caused by non-domiciled drivers.” The only hitch is that the FMCSA, which is auditing the program’s safety,
+has itself stated that
+there’s no evidence of a relationship between a CDL’s nation of domicile and safety issues on U.S. highways.
+The real issue here is not malfeasance on the part of state departments of transportation or that immigrants are inherently unsafe drivers, but the lack of standardization of the expiration dates of non-domiciled CDLs held by foreign-born truckers.
+While individual states do not share this data, there are likely three ways in which states determine when an immigrant’s CDL should expire: (1) matching the standard validity (five to eight years depending on the state); (2) matching the end of an individual’s legal presence in the U.S.; or (3) matching the end of an individual’s legal work authorization (EAD) document.
+The complication arises because the expiration dates for legal presence and work authorization documents are not always the same. This is the case for large portions of the foreign-born population in the U.S. such as DACA recipients and those with TPS — together, they account for some 2 million people — as well as any individual with a pending adjustment of status (I-485).
+Without a prior national standard for non-domiciled CDL expiration dates, it becomes very easy to see why there could be
+many cases
+in which a CDL expires on a different date from a work authorization or lawful presence in the U.S. This fact, however, does not necessarily indicate that there are large numbers of undocumented truckers on the road, nor that immigrants are inherently less safe drivers.
+Using this dubious emergency action as a pretext to cut TPS holders, DACA recipients, and other foreign-born individuals with valid work authorization is incoherent and will only serve to harm the U.S. trucking industry and supply chains. Using this rule to develop a federal standard for the expiration date of non-domiciled CDLs is a step in the right direction. Limiting it to a single year and requiring burdensome in-person renewals will cause bureaucratic backlog and add yet more policy and process incoherence.
+Industry impact
+In the
+text of the interim final rule
+, the FMCSA claims that there are approximately 200,000 non-domiciled CDL holders as well as 20,000 individuals with non-domiciled commercial learning permits.
+1
+They do not break down the legal status of this cohort, instead
+insinuating that the majority had come to the country “illegally.
+” The rule also estimates that approximately 500-600 H-2B,  5,000 H-2A, and 1,000 E-2 visa holders will seek non-domiciled CDLs annually going forward. As a result, at least 194,000 non-domiciled CDL drivers will be forced out of the industry within two years (the rule is not retroactive, meaning these drivers would likely lose their CDLs upon attempted renewal). This loss is equivalent to about 5 percent of all CDL drivers currently in the U.S.
+The industry already faces driver shortages estimated to be between
+60,000 and 80,000 drivers.
+Pulling nearly 200,000 workers out of jobs at a time when the industry is already struggling with shortages, extremely
+high turnover
+, and an
+aging workforce
+only serves to exacerbate existing issues within the industry.
+Further, preventing DACA recipients, TPS holders, asylum seekers, and prenaturalization refugees from working in the industry means that the only foreign-born entrants
+2
+into the industry will be able to fill gaps temporarily. Trucking is not a seasonal occupation. Year-round, trucks move some
+73 percent of all freight
+, including groceries, healthcare supplies and medicine, water, and emergency equipment. The supply chain is entirely dependent on the health of this industry, and this move risks destabilizing it.
+An immigration raid by another name
+States have created confusion by the inconsistent way they have issued non-domiciled CDLs, but that does not
+justify depriving tens of thousands of lawfully authorized drivers of their jobs. A simple, effective solution would be for the DOT to standardize CDL expiration dates to match the validity of work authorization documents. This approach would prevent licenses from outlasting legal work status while still allowing long-term and permanent residents — including TPS holders, DACA recipients, and asylum seekers — to continue contributing to the trucking industry.
+Framed as a safety measure, the DOT’s crackdown is anything but. In reality, it is a
+de facto immigration raid
+, forcing experienced, lawfully present workers out of an essential sector and threatening the stability of U.S. supply chains.
+While the pending audit may reveal new information, currently, neither DOT nor the Commercial Vehicle Safety Alliance, the American Association of Motor Vehicle Administrators, USCIS, nor the Department of Labor (DOL) publishes data on non-domiciled CDL issuance numbers or the types of legal status that these individuals hold.
+↩︎
+Without permanent residence or citizenship
+↩︎

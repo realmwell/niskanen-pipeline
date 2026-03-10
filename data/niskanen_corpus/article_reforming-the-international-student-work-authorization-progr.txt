@@ -1,0 +1,58 @@
+TITLE: Reforming the international student work authorization programs
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/reforming-the-international-student-work-authorization-programs/
+WORDS: 1479
+
+The student visa program provides immense value to the United States. International students contribute
+over $40 billion
+to the American economy and support
+over 350,000 jobs
+. Postgraduation work programs that allow international students to train in American companies have become an
+important pull factor
+that has drawn top students to U.S. universities from around the world. Simultaneously, American companies benefit from the infusion of U.S.-trained talent as these students often fill gaps in the domestic labor market.
+Notwithstanding their well established benefits to the United States, these student work authorization programs are not without gaps and flaws, and Congress should take the opportunity to codify and improve them. Doing so would not only improve the program, but also fortify protections for American workers.
+Optional Practical Training, or OPT, is the period of work authorization granted to student visa (F-1) holders, typically following completion of their program of study. Most recent graduates are given authorization to work in a field related to their studies for one year, after which they would require visa sponsorship to continue employment in the U.S. Graduates of STEM (science, technology, engineering, and math) and STEM-related programs are typically eligible for an additional two years of work authorization under STEM OPT — for a total work authorization period of three years postgraduation.
+Foreign graduates of U.S. universities have been eligible for post completion work authorization since
+at least 1947
+, and Optional Practical Training was
+formally established
+by regulation in George H.W. Bush’s administration in 1992. The federal government has also used the regulatory process several times since to adjust the program’s requirements and benefits, yet Congress has never formally authorized the program in statute.
+Congress should codify the program now, taking advantage of the opportunity to implement strategic improvements that can increase oversight and strengthen protections for American workers.
+Reform 1. Update tax liabilities for off-campus employment
+Many international students in the OPT program are currently
+exempt from Social Security and Medicare taxes
+, also known as the Federal Insurance Contributions Act (FICA) taxes, unless they have been in the U.S. for more than five years. For instance, it is likely that a master’s graduate who only came to the U.S. at the start of a two-year master’s program could work for three years after graduation through OPT and STEM OPT without a FICA tax obligation.
+Exempting student employment from FICA tax obligations is not unique to international students. In fact, whether American or foreign, students who work
+on campus during their studies
+are generally exempt from FICA taxes. However, when American students graduate and accept their first off-campus jobs, their employers are required to pay and withhold FICA taxes, which is typically not the case for OPT participants’ employers.
+To protect American students and workers, international students should not be exempt from the tax liabilities that apply to their American counterparts. International students who work off campus while in student status, including during OPT and STEM OPT, should face standard FICA tax liability, regardless of the student’s length of stay in the United States.
+Reform 2. Limit eligibility for Curricular Practical Training (CPT)
+Curricular Practical Training, or CPT, is similar and related to OPT but occurs
+during
+an international student’s program of study, rather than after. CPT allows international students to work off campus during their studies when the work is related, and integral, to their program of study. International students are eligible for part-time or full-time work during CPT, and there is no limit on how long students may carry CPT work authorization so long as they continue to meet the requirements. However, one year of full-time CPT employment eliminates eligibility for post-completion OPT.
+While well-intentioned, CPT has become, in some cases, a way to work around congressionally authorized immigration policy and has allowed people to take advantage of program loopholes in bad faith. It may seem, for instance, that enrolling in a frivolous degree program at an institution willing to authorize full-time CPT on day one would be a solution to a failed
+H-1B selection
+. But CPT was never meant to be an alternative to genuine employment-based visa programs. It was meant to permit students in certain industries to obtain the hands-on experience necessary to complete their education in the United States.
+As such, Congress should direct the Department of Homeland Security (DHS) to specify which academic programs qualify for CPT and for how long. As DHS maintains a
+list of degree programs eligible for STEM OPT
+, CPT should have a list of qualifying degrees also. For example, education majors completing student teaching or nursing majors who are completing clinical rotations would be strong candidates for CPT. A list of this kind would allow DHS to evaluate if full-time employment and day-one eligibility are appropriate for each designated program. A first-year undergraduate nursing student, for example, probably does not need to be in the hospital full time the day classes start, unlike a student in a doctor of nursing practice program who is already a registered nurse.
+Congress should implement additional requirements for schools seeking to authorize CPT employment for their international students. These requirements could include higher minimum in-person learning requirements, more frequent record audits, or an additional application specifically for CPT authorization authority. Congress could also require CPT participants to apply for formal work authorization if working full time for more than six months. These requirements would support greater oversight of CPT participants and their sponsoring institutions to ensure that the program is serving its original purpose.
+As noted earlier, since CPT employment is typically off campus, participants should not be exempt from FICA taxes, regardless of their length of stay in the United States.
+Reform 3. Strengthen reporting mechanisms to ensure consistent program oversight
+One critical difference between OPT and STEM OPT is that STEM OPT employers are required to complete
+Form I-983
+prior to the start of a student’s employment. The form requires employers to report the proposed salary of the STEM OPT worker and certify that they will not replace a U.S. worker, and that compensation is commensurate with similarly situated U.S. employees. However, the form is only submitted to the student’s sponsoring university, whose Designated School Official (DSO) reviews it before recommending the student for STEM OPT employment.
+Although the international student enrollment program is managed by Immigration and Customs Enforcement (ICE) and STEM OPT work authorization is issued by U.S. Citizenship and Immigration Services (USCIS), neither agency reviews completed I-983 forms. DSOs may upload the form to their international student portal, but it is not submitted to either agency. DHS, therefore, does not typically have access to the information reported on the form unless the school becomes the subject of an investigation. Without a trained ICE or USCIS review, though, it is difficult to ensure that employers are complying with their certifications.
+Congress should require DSOs, or employers, to file the form I-983 with the appropriate agency, along with a fee, and require agency officers to review the forms for compliance with programmatic requirements. Not only would this increase oversight, but it would also enable DHS to publish annual statistics regarding the average salary of STEM OPT workers, providing critical public insight into this program.
+Reform 4. Leverage OPT to create opportunities for American students
+While the U.S. benefits in many ways from the pipeline of U.S.-educated and U.S.-trained talent, these programs could also be leveraged to fund new opportunities for American students. Individuals working on OPT or STEM OPT are required to apply for work authorization from USCIS, mandating payment of the application’s filing fee, but they do not pay to extend their student visa status beyond course completion. However, they could.
+Congress could introduce a modest F-1 maintenance fee, requiring individuals seeking post-completion OPT or STEM OPT to pay an additional fee to maintain their student visa status after graduation. This annual fee could also be added to any individual seeking to continue working beyond six months of full-time CPT employment.
+The proceeds could then help fund scholarships for American students to study high-demand fields in which Americans are underrepresented. For example,
+two-thirds
+of graduate students in AI and related academic programs are foreign born. Although publicly available data does not provide an exact percentage of
+OPT participants
+who have already graduated, nor the share of CPT participants employed full time, even a $250 fee is likely to generate over $60 million a year, conservatively speaking.
+These reforms would bolster protections for American students and workers without impeding the talent pipelines that OPT, STEM OPT, and CPT were designed to facilitate.
+While the Trump administration intends to revise the Optional Practical Training program through
+regulation
+, Congress can implement more durable changes. By authorizing OPT, STEM OPT, and CPT in statute, Congress could give these programs the predictability and stability they need while also making meaningful improvements to protect Americans.

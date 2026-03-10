@@ -1,0 +1,59 @@
+TITLE: Why federal IT fails — And how budgeting by capability can fix it
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/federal-it-budgeting-capability/
+WORDS: 1662
+
+This is the first in a series on how agencies can adapt the federal IT budget to support a
+Product Operating Model
+, beginning with small, practical changes that don’t require a government-wide overhaul. In the coming articles, I’ll outline what’s broken, how to fix it, and steps agencies can take to start making progress right now.
+We keep setting ourselves up the hard way
+If you’ve spent any time in federal IT, you’ve likely seen this story before: a massive modernization project—promising a breakthrough, launched with a glossy deck, backed by years of planning, a skilled team, and millions (
+sometimes billions
+) of dollars—only to get bogged down, miss the mark, or fail outright.
+From the inside, it’s clear the problem isn’t talent or ideas. Federal IT teams are smart and capable. The real challenge is how funding flows and how tightly it’s bound to the work. It’s not simply a matter of budgeting a certain amount and receiving it. The timing of obligations, the rules on how funds can be spent, and whether they can carry across acquisitions—all of these factors directly shape a team’s ability to deliver effectively and adapt responsively.
+The gap between what Congress funds and what we’re delivering
+The disconnect starts at the top. Congress may call for a new capability—say, faster enrollment for veterans—but the funding agencies track and execute against is tied to individual systems, offices, or programs. In other words, appropriations follow organizational charts rather than the capabilities and user experiences modern IT is meant to deliver. The result: dollars are locked into narrow efforts instead of supporting the capability as a whole.
+Nothing in the current structure ensures that all the interdependent parts of a modernization effort are funded or prioritized together. Instead, funding depends on what types of money happen to be available that year, the status of existing acquisitions, and shifting requirements across offices. That means the critical pieces of a full-scale modernization—databases, APIs, user interfaces, infrastructure—may not all be resourced at once. Work happens out of sequence, legacy systems stay alive longer than they should, and key dependencies fall behind.
+It’s a lot like remodeling a kitchen when the budget is split across separate contractors, each funded on a different timeline. One year covers cabinets, the next pays for countertops, and maybe appliances in FY28 if there’s money leftover. The pieces eventually get installed, but without a holistic plan the renovation drags on, riddled with redos and mismatches—and the kitchen never works the way you need it to.
+That’s how program-based funding works in federal IT. It makes it nearly impossible to answer a basic question:
+How much did we spend last year to improve enrollment?’
+Dollars are scattered across offices and categories, and reporting doesn’t roll up to show the total investment in the capability itself.
+The challenge isn’t that agencies lack clarity on outcomes. It’s that money flows through structures that don’t match those outcomes. Conventional wisdom says this can’t be fixed within the annual appropriations cycle. Too often, people assume the budgeting process can’t be changed, and those preconceptions become the barrier. The reality is, it can be done—but only if we stop tying dollars to the org chart and start tying them to the capabilities agencies are actually responsible for delivering.
+This shift doesn’t require reinventing the federal budget overnight. It begins with a small step: align one funding block to a capability and empower a product team to manage it end-to-end. From there, the model can scale, and the results become increasingly visible.
+How capability-based budgeting works
+Capability-based budgeting shifts the focus from individual projects or systems to the complete outcome or experience being delivered. A “capability” might be eligibility and enrollment, claims processing, or benefits delivery. Each capability receives a dedicated block of funding, managed by a product team accountable for delivering that capability end-to-end.
+Think of it like your monthly entertainment budget. The old way is approving cable, Netflix, HBO, and Prime Video one by one—without ever looking at the total—until suddenly you’re spending $120 a month. The capability model flips that:
+‘Here’s $80. Give me the best entertainment experience you can.’
+You make trade-offs, watch the whole picture, and adjust as your needs change.
+A key difference in the capability model is that the product owner isn’t confined to delivering just one slice of the work—like a database upgrade or new front-end module—while remaining disconnected from everything else. Instead, they can manage all of the pieces together: product rationalization, backend modernization, data integration, user interface updates, and legacy decommissioning. This structure gives them the flexibility to prioritize across those elements, sequence the work logically, and adjust resources as real-world needs evolve.
+In practice, that means:
+Dependencies are addressed together.
+Instead of waiting years for separate systems to get funded, the product team can invest across several aspects of the technical roadmap within the same year.
+Priorities can shift midstream.
+If one deliverable comes in under budget, funds can be reallocated immediately to another high-impact backlog item, instead of waiting for the next appropriation cycle.
+Planning is holistic.
+The team owns the outcome of the entire experience, not just isolated projects, making it easier to align investments with the long-term roadmap and real user needs.
+In some years, most funding might go towards backend infrastructure. In others, the focus could be on user-facing features or shutting down legacy systems. The point is that the
+capability
+—not the org chart or a system boundary—is the unit of planning and delivery.
+This is exactly the kind of structure Ann Lewis and Jen Pahlka
+recently described
+. They argue that the government must empower integrated product teams to deliver outcomes end-to-end, rather than manage siloed projects with shallow outputs. Capability-based budgeting is what enables that model to work in practice as it provides the financial flexibility for product teams to truly operate as product teams.
+“Isn’t block funding a black box?” No, it’s more transparent
+A common concern is that if you give a product team a block of funding, it becomes a “black box,” that no one will really know what the money was spent on. In fact, the opposite is true.
+Today, agencies report IT spending through a long list of project names, program codes, and system IDs. On paper, it looks precise—Project A, System Modernization Line 4B, Program Element 019—but none of that tells Congress or the public whether the service actually improved. It’s a kind of false transparency: plenty of detail about how money was categorized, but little clarity on what users actually gained.
+Block funding makes it easier to connect dollars to outcomes. Instead of reporting against dozens of disconnected projects, you can say:
+“You gave us $40M to improve eligibility and enrollment. Here’s what changed for users this year. Here’s what we improved, here’s what we learned, and here’s where we’re going next.”
+Far from being a black box, this kind of reporting is exactly the clarity that oversight bodies and Congress want: not a list of deliverables and system codes, but evidence of real progress in the service experience.
+Author Dan Davies describes bureaucracy as an
+“unaccountability machine”
+– a system where no one is responsible for outcomes, only for following the rules. In federal IT, that often means declaring a project “successful” simply because it was on time, on budget, and within scope—even if it didn’t solve the problem.
+Capability-based budgeting flips that logic. By tying funding to the outcomes or value-based metrics (whether more people successfully enrolled, system errors decreased, or latency improved) accountability shifts from process compliance to real-world impact. Instead of proving the rules were followed, agencies can clearly demonstrate that services actually got better for the people who rely on them.
+A model ready for the moment
+Agencies are under pressure to deliver more with the resources they already have—and the current debates in Congress and the administration make this a timely moment to revisit how. FY 2026 budget discussions include staffing reductions, though some of the sharpest proposed cuts have been pared back. There’s discussion of modest increases for certain science and technology agencies like NIST, even as overall nondefense discretionary spending continues to tighten. At the same time, the Department of Government Efficiency (DOGE) is looking to double its headcount and boost its budget to $45 million.
+What that signals is this: sweeping modernization budgets may be harder to secure, but there’s room for targeted, high-impact technology work. That’s exactly where capability-based budgeting fits. Agencies don’t have to wait for massive reforms–start with one capability, fund it as a product team, and prove the value. That puts you in the same playbook as today’s focused tech efforts, while keeping ownership of the outcome.
+Capability-based budgeting isn’t just a theory—it’s already being put into practice at the Department of Veterans Affairs. Teams began identifying their enduring capabilities and the products that supported them. By realigning how IT investments were tracked and managed across those capabilities, teams could finally see the total cost of delivery, make smarter trade-offs, and start delivering real, incremental improvements.
+That progress proved the model works. Even within the constraints of the federal budgeting process, agencies can shift the frame from projects and programs to capabilities—and achieve better results because of it.
+A common next question is: ‘How would this work in my agency, given our specific history, systems, and organizational dynamics?’ That’s the focus of the next article. I’ll walk through how teams VA OIT shifted to capability-based budgeting, and how that change paved the way for greater transparency and maturity in their product management model.
+The key lesson: this isn’t about waiting for a perfect system or a government-wide overhaul. It’s about starting where you are.
+Solitaire Carroll was formerly the Acting Director of Veterans Experience Services Portfolio at the Department of Veterans Affairs. The views expressed in this piece are offered in her personal capacity and do not reflect the official position of the VA.

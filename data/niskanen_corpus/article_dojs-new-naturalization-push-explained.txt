@@ -1,0 +1,31 @@
+TITLE: Op-ed: The DOJ’s new denaturalization push explained
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/dojs-new-naturalization-push-explained/
+WORDS: 338
+
+This article originally appeared in The Dispatch on July 8, 2025
+.
+On June 11, the Department of Justice (DOJ) issued a
+memo
+instructing federal prosecutors to “prioritize and maximally pursue denaturalization proceedings in all cases permitted by law and supported by the evidence.” The directive, signed by Assistant Attorney General Brett Shumate, elevates citizenship revocation to one of the Civil Division’s top five enforcement priorities.
+The Trump administration is framing the expansion as a matter of public safety, with a DOJ spokesperson
+stating
+that “those who gain citizenship through unlawful means and endanger our national security will not maintain the benefits of being an American citizen.” But
+advocates
+who work with immigrants warn the policy creates a dangerous precedent, effectively rendering
+24.5 million
+naturalized Americans as second-class citizens whose status is subject to perpetual review.
+What’s the legal basis for stripping someone’s citizenship?
+The government’s authority to revoke citizenship stems from
+Title 8 of the U.S. Code
+, which permits denaturalization on certain grounds: illegal procurement, concealment of material facts, or willful misrepresentation during the naturalization process. Critically, the Supreme Court has ruled that the government cannot strip someone of citizenship for conduct that occurs after naturalization—only for problems with how citizenship was originally obtained.
+The constitutional framework emerged from
+Afroyim v. Rusk
+(1967), where the Supreme Court held that citizenship is “a constitutional right which Congress cannot take away” absent voluntary renunciation or fraud in procurement. The court reinforced this ruling in
+Maslenjak v. United States
+(2017), which established that false statements made during the naturalization process must be shown to have influenced the naturalization decision in order to justify revocation of citizenship.
+Despite these guardrails, civil denaturalization cases—unlike criminal proceedings—have
+no statute of limitations
+, and defendants have no right to appointed counsel. The process unfolds in federal district court through civil litigation, where judges apply a lower evidence standard than criminal cases require. If successful, the individual would revert to their previous immigration status, potentially triggering deportation proceedings.
+Read the full article here
+.

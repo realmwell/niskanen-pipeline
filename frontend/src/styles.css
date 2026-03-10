@@ -2206,6 +2206,378 @@ body {
 }
 
 /* --------------------------------------------------------------------------
+   Hamburger Menu
+   -------------------------------------------------------------------------- */
+
+.nav-hamburger {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  color: var(--foreground);
+  cursor: pointer;
+  padding: 0.25rem;
+}
+
+/* --------------------------------------------------------------------------
+   HITL Per-Format Controls
+   -------------------------------------------------------------------------- */
+
+.hitl-controls {
+  border-top: 1px solid var(--card-border);
+  padding: 1rem 0 0;
+  margin-top: 1rem;
+}
+
+.hitl-status {
+  margin-bottom: 0.75rem;
+}
+
+.hitl-badge {
+  display: inline-block;
+  padding: 0.2rem 0.75rem;
+  border-radius: 1rem;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.hitl-pending { background: rgba(107, 114, 128, 0.12); color: var(--muted-fg); }
+.hitl-approved { background: rgba(16, 185, 129, 0.15); color: var(--green); }
+.hitl-rejected { background: rgba(239, 68, 68, 0.12); color: var(--red); }
+.hitl-editing { background: rgba(59, 130, 246, 0.12); color: var(--blue); }
+
+.hitl-actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.btn-green {
+  background: rgba(16, 185, 129, 0.12);
+  color: var(--green);
+  border: 1px solid rgba(16, 185, 129, 0.25);
+}
+.btn-green:hover:not(:disabled) { background: rgba(16, 185, 129, 0.2); }
+.btn-green:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.btn-warn {
+  background: rgba(245, 158, 11, 0.12);
+  color: var(--amber);
+  border: 1px solid rgba(245, 158, 11, 0.25);
+}
+.btn-warn:hover:not(:disabled) { background: rgba(245, 158, 11, 0.2); }
+
+.tab-approved { position: relative; }
+.tab-approved::after {
+  content: "";
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: var(--green);
+}
+
+.tab-rejected { opacity: 0.6; }
+
+.hitl-approved-banner {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+  padding: 0.875rem 1rem;
+  border-radius: 0.5rem;
+  margin-top: 0.75rem;
+  font-size: 0.8125rem;
+  line-height: 1.5;
+}
+
+.hitl-approved-banner strong {
+  display: block;
+  font-size: 0.8125rem;
+  color: var(--foreground);
+  margin-bottom: 0.125rem;
+}
+
+.hitl-approved-banner p {
+  margin: 0;
+  font-size: 0.75rem;
+  color: var(--muted-fg);
+}
+
+.social-banner {
+  background: rgba(14, 165, 233, 0.06);
+  border: 1px solid rgba(14, 165, 233, 0.15);
+  color: var(--teal);
+}
+
+.doc-banner {
+  background: rgba(16, 185, 129, 0.06);
+  border: 1px solid rgba(16, 185, 129, 0.15);
+  color: var(--green);
+}
+
+/* --------------------------------------------------------------------------
+   Edit Mode
+   -------------------------------------------------------------------------- */
+
+.edit-textarea {
+  width: 100%;
+  background: var(--background);
+  border: 1px solid var(--card-border);
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+  font-family: "SF Mono", "Fira Mono", monospace;
+  font-size: 0.8125rem;
+  line-height: 1.6;
+  color: var(--foreground);
+  resize: vertical;
+  min-height: 200px;
+}
+
+.edit-actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.regenerating-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 3rem 1rem;
+  color: var(--muted-fg);
+}
+
+/* --------------------------------------------------------------------------
+   Array Posts (multiple social posts)
+   -------------------------------------------------------------------------- */
+
+.array-posts {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.array-post-item {
+  background: var(--background);
+  border: 1px solid var(--card-border);
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+}
+
+.array-post-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.array-post-num {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted-fg);
+}
+
+.char-count-inline {
+  font-size: 0.6875rem;
+  color: var(--muted-fg);
+}
+
+.char-count-inline.over {
+  color: var(--red);
+  font-weight: 600;
+}
+
+.array-post-text {
+  font-family: "SF Mono", "Fira Mono", monospace;
+  font-size: 0.8125rem;
+  line-height: 1.6;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  margin: 0;
+  color: var(--foreground);
+}
+
+/* --------------------------------------------------------------------------
+   Media Recs Display (clickable links)
+   -------------------------------------------------------------------------- */
+
+.media-recs-display {
+  font-size: 0.8125rem;
+  line-height: 1.6;
+}
+
+.media-recs-section {
+  margin-bottom: 1.25rem;
+}
+
+.media-recs-section h4 {
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted-fg);
+  margin: 0 0 0.5rem;
+}
+
+.media-target {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.04);
+}
+
+.media-target:last-child { border-bottom: none; }
+
+.media-target-name {
+  font-weight: 600;
+  color: var(--foreground);
+}
+
+.media-target-name a {
+  color: var(--teal);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.media-target-name a:hover { text-decoration: underline; }
+
+.media-target-section {
+  font-weight: 400;
+  color: var(--muted-fg);
+  margin-left: 0.5rem;
+}
+
+.media-target-detail {
+  font-size: 0.75rem;
+  color: var(--muted-fg);
+  padding-left: 0.75rem;
+}
+
+.pitch-email-pre {
+  font-family: "SF Mono", "Fira Mono", monospace;
+  font-size: 0.8125rem;
+  line-height: 1.6;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  background: var(--background);
+  border: 1px solid var(--card-border);
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+  color: var(--foreground);
+}
+
+/* --------------------------------------------------------------------------
+   Pipeline Flow Visualization
+   -------------------------------------------------------------------------- */
+
+.pipeline-flow-diagram {
+  position: relative;
+  height: 120px;
+  margin: 1rem 0 0.5rem;
+  overflow: hidden;
+}
+
+.pipeline-flow-svg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.flow-connector {
+  stroke: var(--card-border);
+  stroke-width: 1.5;
+  fill: none;
+  transition: stroke 0.3s;
+}
+
+.flow-connector.active {
+  stroke: var(--teal);
+  stroke-dasharray: 8 4;
+  animation: flowLine 0.8s linear infinite;
+}
+
+@keyframes flowLine {
+  from { stroke-dashoffset: 12; }
+  to { stroke-dashoffset: 0; }
+}
+
+.pipeline-flow-nodes {
+  position: absolute;
+  inset: 0;
+}
+
+.flow-node {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  padding: 0.25rem 0.625rem;
+  border-radius: 0.375rem;
+  font-size: 0.625rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border: 1px solid var(--card-border);
+  background: var(--card-bg);
+  color: var(--muted-fg);
+  transition: all 0.3s;
+  white-space: nowrap;
+}
+
+.node-active {
+  border-color: var(--teal);
+  color: var(--teal);
+  box-shadow: 0 0 8px rgba(45, 212, 191, 0.3);
+  animation: pulse 1.5s ease infinite;
+}
+
+.node-done {
+  border-color: var(--green);
+  color: var(--green);
+  background: rgba(16, 185, 129, 0.08);
+}
+
+@keyframes pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(45, 212, 191, 0.4); }
+  50% { box-shadow: 0 0 12px 4px rgba(45, 212, 191, 0.2); }
+}
+
+/* --------------------------------------------------------------------------
+   Agent Panel Description
+   -------------------------------------------------------------------------- */
+
+.agent-panel-desc {
+  font-size: 0.75rem;
+  color: var(--muted-fg);
+  line-height: 1.5;
+  margin: 0 0 0.75rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid rgba(255,255,255,0.04);
+  font-style: italic;
+}
+
+/* --------------------------------------------------------------------------
+   Upload Zone Header
+   -------------------------------------------------------------------------- */
+
+.upload-zone-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.upload-zone-header h2 {
+  margin: 0;
+}
+
+/* --------------------------------------------------------------------------
    Responsive
    -------------------------------------------------------------------------- */
 
@@ -2217,8 +2589,46 @@ body {
   .arch-services { grid-template-columns: repeat(2, 1fr); }
   .hero-models { flex-wrap: wrap; }
   .hero-meta { flex-wrap: wrap; gap: 0.5rem; }
-  .nav-links { display: none; }
   .footer-inner { flex-direction: column; gap: 0.75rem; text-align: center; }
+
+  /* Hamburger menu */
+  .nav-hamburger { display: flex; }
+  .nav-links {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    background: var(--navy);
+    padding: 1rem;
+    border-bottom: 1px solid var(--card-border);
+    z-index: 100;
+  }
+  .nav-links.nav-links-open { display: flex; }
+  .nav-inner { position: relative; }
+
+  /* Pipeline tabs */
+  .tabs { overflow-x: auto; -webkit-overflow-scrolling: touch; flex-wrap: nowrap; }
+  .tab { white-space: nowrap; font-size: 0.6875rem; padding: 0.5rem 0.625rem; }
+
+  /* Form and content */
+  .input-row { flex-direction: column; }
+  .input-row input { width: 100%; }
+  .content-card-header { flex-direction: column; gap: 0.5rem; }
+
+  /* HITL controls */
+  .hitl-actions { flex-direction: column; }
+  .hitl-approved-banner { flex-direction: column; }
+
+  /* Hero */
+  .hero-buttons { flex-direction: column; }
+  .hero h1, .hero-inner h1 { font-size: 1.5rem; }
+  .hero-desc { font-size: 0.875rem; }
+
+  /* Flow diagram */
+  .pipeline-flow-diagram { height: 90px; }
+  .flow-node { font-size: 0.5rem; padding: 0.2rem 0.4rem; }
 
   /* Agent panels responsive */
   .agent-meta-row { flex-direction: column; }
@@ -2232,4 +2642,8 @@ body {
   .timeline-detail-grid { grid-template-columns: 1fr; }
   .assess-controls { flex-direction: column; align-items: stretch; }
   .annotate-actions { flex-direction: column; }
+
+  /* Styled table */
+  .styled-table { font-size: 0.75rem; }
+  .styled-table th, .styled-table td { padding: 0.5rem; }
 }

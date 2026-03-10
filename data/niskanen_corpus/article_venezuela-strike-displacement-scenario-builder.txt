@@ -1,0 +1,10 @@
+TITLE:  Venezuela strike displacement scenario builder
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/venezuela-strike-displacement-scenario-builder/
+WORDS: 174
+
+This interactive tool models projected short-term civilian displacement resulting from hypothetical U.S. military strikes on Venezuelan targets.
+Users can explore pre-built scenarios—such as air superiority campaigns, counter-narcotics operations, or decapitation strikes against command-and-control infrastructure—or build custom scenarios by selecting individual military installations, drug trafficking regions, or urban centers. The dashboard calculates displacement estimates based on municipal-level population data, which can be adjusted to account for either population growth or decline since the 2011 census.
+To use the tool, select a scenario preset from the left panel or filter targets by type, region, or state to build a custom selection. Adjust the displacement rate slider to model different strike intensities—from surgical (0.001%) to major (10%)—and modify the population multiplier to reflect demographic changes.
+The summary panel displays affected population and projected displacement figures, with breakdowns by target type and region. Results can be exported as a text report.
+Note that this model estimates immediate displacement only; it does not account for secondary effects such as regional instability, prolonged conflict, or cascading migration from neighboring areas.​​​​​​​​​​​​​​​​

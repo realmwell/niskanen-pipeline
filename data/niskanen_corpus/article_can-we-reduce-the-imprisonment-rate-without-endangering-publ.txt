@@ -1,0 +1,70 @@
+TITLE: Can we reduce the imprisonment rate without endangering public safety? The promise of electronic monitoring
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/can-we-reduce-the-imprisonment-rate-without-endangering-public-safety-the-promise-of-electronic-monitoring/
+WORDS: 1875
+
+After a long period of steady decline, the
+U.S. imprisonment rate
+rose by 2 percent between 2021 and 2022. In Maine, Connecticut, Kentucky, Rhode Island, North Dakota, Minnesota, Tennessee, Colorado, and Montana, the increase in prisoner numbers exceeded 6 percent. Mississippi’s prison population over this period grew by almost 15 percent. This is enormously expensive. The
+cost of imprisonment
+in the U.S. amounts to more than $80 billion per annum — money that could otherwise be spent on imperatives like public infrastructure, education, and healthcare.
+The limitations of imprisonment
+The high cost of imprisonment is just one reason for seeking a reduction in prisoner numbers. Another reason is the growing evidence from sophisticated studies that prison is less effective in reducing crime than it was once thought to be. There is
+little evidence
+that offenders who receive prison sentences are likelier to stay on the straight-and-narrow than otherwise similar offenders who receive non-custodial penalties. And while increasing the imprisonment rate from a low level helps to
+control crime
+, the payoffs from that strategy
+decline
+as the rate of imprisonment increases. Increasing the imprisonment rate at very high levels of imprisonment may actually
+increase crime
+rather than reduce it.
+Prison also has a number of other social costs. Incarceration reduces an offender’s
+employment and earnings prospects
+. The imprisonment of a parent
+has been found
+to increase a child’s aggression and delinquency, diminish their educational attainment, and make it more likely they will be placed in foster care. These are not reasons to abandon prison as a sanction. The government has a duty to protect the person and property of its citizens. The effect of imprisonment on individuals and families, however, is a relevant consideration for offenders who in the right circumstances might be dealt with via a sanction other than imprisonment.
+The problem for policymakers, of course, is that it is much harder to reduce a prison population than to increase it. Sentencing policies that increase the imprisonment rate rarely arouse much public concern. Tougher penal policies, however, are ‘sticky.’ Proposals to introduce less punitive policies, especially if they involve reduced use of imprisonment, risk being met with fierce public and political opposition. To reduce the prison population we need a sentencing or parole option that provides effective deterrence and, when necessary, incapacitation.
+Impressed by the need to keep a lid on rising imprisonment rates, policymakers have kept up the search for alternatives to prison or ways of diverting offenders from prison, even as they proclaim the need to remain tough on crime. The list of alternatives that have been tried includes probation, community work, work release, suspended sentences, restitution, mental health courts, and drug courts. Some of these
+alternatives
+(e.g., drug courts) are effective in reducing re-offending. But that does not always translate into
+lower imprisonment rates
+.
+There are many reasons for this. First, alternatives to prison that involve drug or mental health treatment usually have strict eligibility criteria, so they select for participants who were most likely to succeed anyway. For example, defendants with a history of violent crimes, arrests for drug sale or trafficking, or who have more than two previous non-drug felony convictions are often ineligible for
+Drug Court
+. Second, breach of conditional release programs (like probation) is common and often results in imprisonment. One in eight people in U.S. state prisons is
+serving time
+for a technical violation of probation conditions. Third, courts sometimes use sentencing alternatives to prison for offenders who would n
+ever have gone to prison
+anyway. Finally, conditional release offers nothing like the public assurance that prison does in keeping offenders where they can do no harm, so officials are often reluctant to use it in marginal cases. It also lacks the element of punishment that
+many people expect
+in response to crime.
+There is, however, one alternative to imprisonment (or way of shortening prison terms) that has the potential to avoid some of these problems. Electronic monitoring (EM) has offenders serve their sentences in the community, living at home, either alone or with others, including their family. Typically, they face restrictions on when they can leave their home, and compliance is monitored via an anklet worn by the offender. In addition to an alternative to serving a sentence in prison, electronic monitoring has also been used as a form of early release, as a requirement of community supervision or suspended-sentence orders, as a condition of bail, and as an alternative to pre-trial detention.
+The appeal of electronic monitoring is that it provides a low-cost means of depriving offenders of their liberty and monitoring their movements. By confining an offender to spaces where they are less likely to be tempted to commit crimes, and making detection very likely if they do stray, the technology should deter new offenses. But unlike incarceration, it does not and cannot incapacitate offenders in a way that assuredly prevents acts of crime from being perpetrated in the community (though new offenses still do happen inside prisons). And so, the viability of electronic monitoring as an alternative to prison comes down to the question of whether or not the reduced costs stack up when compared to the increased risks of offenders committing crimes.
+The effectiveness of electronic monitoring
+Electronic monitoring of offenders (EM) traces back to research conducted in the 1960s by Ralph Schwitzgebel and his twin brother Robert. Although their proposal for electronic monitoring of offenders was ridiculed at the time by the
+Harvard Law Review
+, and their article on the proposal rejected by the journal
+Federal Probation
+, the use of electronic monitoring coupled with home detention has since grown rapidly. Between 2005 and 2022, the number of people on EM in the United States
+increased ten-fold
+.
+Despite its widespread use, few studies provide convincing evidence on how EM compares to imprisonment. This is because those serving their sentence under EM are typically selected precisely because they are less likely to re-offend. This selection into EM is typically based on information not captured in administrative or other data collections, and our blindness to the true criteria makes it difficult to isolate the impact on re-offending of serving a sentence under EM instead of in prison.
+In a recent study, we get around this problem by making use of the fact that judges differ in their willingness to use EM. Because cases are randomly assigned to judges within courts, this difference in judges’ fundamental appetite for EM provides a source of randomness in who receives it. In other words, otherwise similar offenders receive different penalties (prison vs. EM), depending on which judge deals with their case.
+In the context we study, EM was a well-established program that was available to non-violent offenders with sentences of up to 18 months. The median sentence length was 6 months for both those who served their sentence in prison and those who served their sentence under EM. We found no difference in re-offending between those who served their sentence in prison and those who served it under EM at 6 months, 12 months, and 18 months after their terms began. In other words, we found no evidence that those serving their sentence in the community under EM are more likely to re-offend while serving their sentence than those who serve their sentence in prison.
+While this finding is reassuring, a perceived advantage of a prison sentence is that in addition to preventing crimes while offenders are incarcerated (the incapacitation effect), it also deters future reoffending (deterrence effect). To evaluate how EM compares to prison post-sentence, we studied reoffending for a full 10 years after sentencing. We found that serving a sentence under EM rather than in prison
+reduced
+re-offending compared with prison by 22 percentage points five years after sentencing, and by 11 percentage points 10 years after sentencing. This translates to a 40 percent reduction in the number of offenses over the 10 years.
+Does it come down to closer surveillance?
+The EM program we studied sought to divert offenders from the prison system while maintaining a high level of supervision. The 10-year reduction in re-offending, however, suggests that surveillance is not the only channel through which EM reduced recidivism. Rehabilitation is also likely part of the story. Offenders placed on EM in our study experienced a high rate of face-to-face contact with their supervising officers. They were required to work or attend vocational training. They were also required to participate in programs such as anger management and attend treatment for drug or alcohol abuse.
+But EM might also simply perform better than prison at reducing post-sentence offending. While prison sentences are intended to deter future offending, the empirical evidence as to whether they do so is mixed. This may be because the deterrent effect of a prison sentence is offset by unintended criminogenic effects of incarceration. For example, by their nature, prisons provide opportunities for inmates to develop and expand their criminal networks and increase their criminal skills, all of which increase the payoff to crime upon release. At the same time, a prison sentence reduces legal employment opportunities and earnings capacity and disrupts family ties, all of which reduce the costs of future re-offending.
+Ours is not the only study to find that EM reduces re-offending. In France, serving a sentence under EM has been
+found to reduce reoffending
+within five years of sentencing by 6-7 percentage points (9-11%), while in Sweden it has been found to
+reduce reconvictions
+by 1-2 percentage points (2-4%).
+This might not seem like much, but it is worth noting that, in Sweden, EM increased the likelihood of being gainfully employed within three years of sentencing by 13% and average earnings over the same period by 22%. EM is not only useful as a front-end alternative to prison. Other research has studied EM in the context of early release from prison, where it has been found to
+reduce re-offending
+in the year following release by 6-7 percent.
+Making best use of electronic monitoring
+Of course, the effectiveness of EM as a means of reducing the prison population depends on how it is implemented. The Australian experience is that many alternatives to custody often just end up replacing other non-custodial sanctions rather than being used as an alternative to prison. One way to avoid this is to make it clear in the enabling legislation that EM is to be used only where a prison sentence would otherwise be appropriate. Another, perhaps more effective way, is to use EM as a ‘back-end’ solution, that is, as a means of shortening the period spent in prison. Suitable prisoners could be released early in their sentence, subject to the requirement that they submit themselves to EM. Alternatively, EM could be used as a condition of release on parole. This might encourage parole authorities to release offenders in circumstances where they might be inclined to refuse or delay parole.
+We need alternatives to prison that keep people and their property safe, not only while offenders are under the supervision of the criminal justice system, but also after their sentences have been served. Our research shows that, in the right circumstances, EM has the potential to meet this challenge, reducing both the use of prison sentences and crime.

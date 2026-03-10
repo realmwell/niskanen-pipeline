@@ -1,0 +1,640 @@
+TITLE: Mapping America’s immigration needs: A county-level model for matching migrants to local economies  
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/mapping-americas-immigration-needs-a-county-level-model-for-matching-migrants-to-local-economies/
+WORDS: 4464
+
+Executive summary
+America’s immigration system has long lacked a way to connect migrants with the local communities that need them most. While some regions thrive thanks to immigrant-driven growth, others face labor shortages, population decline, and economic stagnation. This mismatch leaves opportunity on the table — both for migrants seeking stability and for communities seeking renewal.
+The
+Migration Match Index (MMI)
+is a county-level model designed to identify where migration can maximize mutual benefit. Using 16 indicators — including labor demand, housing availability, cost of living, demographics, and migration patterns — from all 3,144 counties and county-equivalents in the country, the MMI evaluates which communities are both in need of workers and capable of supporting newcomers. Using four key quantitative factors — job availability, housing, cost of living, and demographics — the baseline model identified 484 counties across 44 states that currently fit the bill.
+The MMI provides a data-driven tool to guide smarter immigration policy, helping policymakers, economic developers, and migrants themselves make better-informed decisions about resettlement and workforce planning. It has the potential to support humanitarian resettlement, attract global talent, and revitalize aging or declining communities across the United States.
+Download the full PDF here
+Introduction
+Immigration is one of America’s greatest engines of renewal. It can revitalize cities, strengthen local economies, and fuel national growth. Yet today, the United States has no system for matching migrants with the places that need them most and are best equipped to help them succeed. The result is a patchwork approach to resettlement that ignores geography and opportunity alike.
+This lack of strategic planning has stoked anti-immigrant sentiment, deepened political division, and kept the economic benefits of global talent concentrated in just a few regions of the country. Some areas have flourished thanks to immigrant entrepreneurship and labor, while others — often those struggling most with population loss and economic decline — have been left behind.
+To change this, we need data. We need a way to identify which U.S. communities would gain most from welcoming newcomers and whether those communities have the resources and readiness to help them thrive. Migrants, in turn, need access to that same information to find the places where their skills, businesses, and families can take root and grow.
+The Niskanen Center’s Migration Match Index (MMI) is a first-of-its-kind tool that meets that need. Drawing on quantitative indicators of both local demand and capacity, the MMI maps where migration can do the most good for migrants seeking opportunity, for fading communities in need of renewal, and for the nation’s broader strength and competitiveness.
+By grounding immigration policy in data, the MMI provides a foundation for smarter, fairer, and more forward-looking decisions — policies that work to the benefit of migrants, local communities, and the nation alike.
+The data
+To create the MMI, we collected data for 16 key indicators including labor demand, housing access, cost of living, demographics, and migration patterns for every county in the U.S. Each variable plays a role in evaluating localities with current or emerging labor shortages; aging, stagnant, or insufficient native labor supply; and communities that can support migrant integration with adequate housing, wages, and an affordable cost of living.
+We scraped the data from publicly available federal sources, including the U.S. Bureau of Labor Statistics, Census Bureau, and the Departments of Commerce and Housing and Urban Development (HUD).
+The variables are broadly sorted into six categories:
+job availability (measures regional labor market tightness and demand)
+housing availability (rental and owned)
+cost of living (captures financial barriers and affordability thresholds)
+demographics and migration patterns (highlights workforce age structure and net migration flows)
+infrastructure for growth (implied by affordability, vacancy, and population dynamics)
+settlement capacity (measured through population size, aging trends, and net inflow)
+Together, these indicators support a robust, scalable, and transparent model that can guide public policy, economic investment, workforce development, and targeted migration strategy.
+DATA DICTIONARY
+Variable
+Description
+Why it matters
+Primary data source
+Unemployment Rate
+Percentage of the local labor force that is unemployed
+Lower rates signal labor shortages and economic momentum — key for identifying regions that need workforce reinforcement.
+U.S. Bureau of Labor Statistics
+Total Population
+Overall resident count in a state or county
+A higher population may offer infrastructure, but also competition. Smaller populations may signal opportunity for revitalization.
+U.S. Department of Commerce, U.S Census Bureau
+Total Population (65+)
+Number of residents aged 65 and older
+Aging populations suggest labor shortages and heightened demand for younger working-age migrants.
+U.S. Census Bureau
+Median Age
+Median age of residents in a region
+A higher median age reflects demographic aging and future workforce gaps.
+U.S. Census Bureau
+International Migration
+Count of residents arriving from abroad
+Number signals external attractiveness and historical openness to immigrants.
+U.S. Department of Commerce, U.S. Census Bureau
+Domestic Migration
+Net change in population due to internal U.S. movement
+High domestic in-migration suggests economic opportunity; outflow may indicate stagnation.
+U.S. Department of Commerce, U.S. Census Bureau
+Net Migration
+Sum of international and domestic migration inflows
+A direct indicator of locality magnetism or decline. Useful for identifying integration-ready regions.
+Calculated (Intl + Domestic)
+Avg. Rent (1 Bed)
+Average monthly rent for a 1-bedroom unit
+Affects affordability for single migrants or couples. High rents may deter integration or signal affordability constraints.
+U.S. Department of Housing and Urban Development
+Avg. Rent (2 Beds)
+Average monthly rent for a 2-bedroom unit
+Reflects affordability for small families or dual-migrant households.
+U.S. Department of Housing and Urban Development
+Avg. Rent (3 Beds)
+Average monthly rent for a 3-bedroom unit
+Captures midsize family affordability and long-term living potential.
+U.S. Department of Housing and Urban Development
+Avg. Rent (4 Beds)
+Average monthly rent for a 4-bedroom unit
+Tests the readiness of a region to support larger families — important for long-term migrant retention.
+U.S. Department of Housing and Urban Development
+Vacancy Rate (Rental)
+Percentage of vacant rental units.
+High vacancy rates suggest available housing capacity — key for migrant absorption.
+U.S. Census Bureau
+Vacancy Rate (Homeowners)
+Percentage of vacant homes for sale
+Reflects homeownership pipeline and potential for permanent settlement by migrants.
+U.S. Census Bureau
+Job Openings
+Total current job postings in the area
+High volumes indicate economic vitality and capacity to absorb new labor.
+U.S. Bureau of Labor Statistics
+Min. Wage
+Legally mandated minimum hourly pay
+Indicates floor-level earnings potential; may affect migrant living standards and economic mobility.
+U.S. Department of Labor, Bureau of Labor Statistics
+Median Household Income
+Midpoint household income in the area
+A proxy for economic prosperity and living standards; helps evaluate cost-of-living vs. wage mismatch.
+U.S. Department of Labor, Bureau of Labor Statistics
+Developing the baseline model
+The data we collected can be used to model a variety of scenarios. For example, the needs of a resettled humanitarian population will be different from those of high-skilled migrants arriving for specific jobs. As a result, the variables and how they are weighted will depend on the application. This data is a snapshot of a moment in time, essentially the summer of 2025. Ideally, policymakers would continuously collect this data to best identify the communities that would meet their needs in real time.
+To make a broad use case for the geographical matching of migrants and localities, we developed a baseline model. The baseline model is simple; it shows all the counties in the U.S. that, at the current moment, cannot fill their labor shortages without migration
+and
+can host newcomers via affordable, available housing. To do this, we looked at four key factors: job availability, housing, cost of living, and demographics.
+Job availability
+Underpinning this project is the idea that there are areas in the country where the choice has come down to economic decline or immigration. In Grand Forks County, North Dakota, and Madison County, Nebraska, for example, even if every unemployed person were suddenly able to work, there would still be job openings. Without migration, these communities will see businesses close, growth cease, and an outflow of youth and talent due to severe labor shortages. On the flip side, it is
+economic opportunity that most often brings migrants to the U.S
+. These individuals and their families want to settle in locations with sufficient job openings and room for growth. Therefore, our model attempts to quantify the ideal unemployment rate and number of job openings to make a county a “match” for new migration and the local economy.
+Variable 1: Unemployment rate
+To determine whether there are labor shortages in a county, we examine the unemployment rate first, looking for a rate that is below what economists call the natural rate of unemployment. The
+natural rate of unemployment
+is the minimum percentage that results from real or voluntary economic forces, such as workers moving from one job to another, technology replacing people, and a mismatch between the skills people have and the skills the job market requires. In the U.S. currently, the Federal Reserve calculates the natural unemployment rate as being
+about 4.3 percent
+.
+An unemployment rate below 4.3 percent, therefore, signals that the labor market is at or near full capacity and could be experiencing shortages.
+Variable 2: Unemployment-to-job openings ratio
+To assess whether a labor shortage exists, we look at the number of job openings. The key measure is the unemployment-to-job opening ratio (UJOR), which compares unemployed workers with available jobs. Using county-level data on unemployment, population, and job openings, we estimated the labor force as 62.3 percent of the total population — the national average — and then calculated the number of unemployed workers by multiplying that figure by the local unemployment rate. Dividing the number of unemployed workers by job openings gives the UJOR.
+A ratio below 1 means there are more job openings than job seekers, while a ratio above 1 means local workers could fill available positions.
+Housing
+The availability of affordable housing is a critical indicator for the integration and retention of newcomers to any locality. Unfortunately, housing shortages are a nationwide problem in the U.S.
+The construction of new housing has slowed since the Great Recession
+of 2008 and has fallen below the 1.6 million new units needed annually to keep up with population growth. Around the U.S., the cost of housing is also a major issue, with
+home prices reaching a record high in 2024, and the home price index 47 percent higher
+than in 2020.
+Rental costs, too, are up 26 percent
+since 2020 and continue to rise in 60 percent of markets. With shortages and high prices relatively common across the country, the model sorts for counties with rental housing availability based on the current stock, while recognizing that housing supply likely remains inadequate nationwide.
+Variable 3: Vacancy rate for rentals
+The
+vacancy rate for rentals
+is the percentage of vacant properties in an area. It indicates whether there is equilibrium between supply and demand for rental properties. The
+historic average is 7.3 percent
+, though the vacancy rental rate has been even lower in recent years –
+6.6
+percent
+in 2024 and
+7.0
+percent
+in 2025. Typically, a stable market has a rental vacancy rate between
+5
+percent
+and 8
+percent
+, with experts arguing that the
+equilibrium is 8 percent.
+For the baseline version of the model, we look for counties with a rental vacancy rate above 5 percent.
+Cost of living
+The cost of living is the average amount spent on essential expenses — housing, food, taxes, and healthcare — in a given location at a given time. There is no standardized way to calculate the cost of living. Some measures only factor in the bare essentials, while others consider a basket of goods that might include beauty services, clothing, or takeout coffee. The cost of living varies widely across the U.S., but in recent years inflation has caused it to increase nationwide. The consumer price index shows that
+prices are 24.3 percent
+higher in 2025 than they were before the COVID-19 pandemic began in 2020. An affordable cost of living is essential for attracting and retaining migrants. However, this metric is more individualized than any of the others considered in the model. For example, a physician, engineer, or computer scientist will be able to afford the cost of living in a greater number of locations than a nurse, electrician, or home health aide. Therefore, our model uses a proxy measure for the cost of living based on the median household income of an area and the cost of rental housing for a small family.
+Variable 4: Rent-to-income ratio for 2-bedroom units
+For the baseline model, we developed a simple cost-of-living metric based on the ratio of rent-to-income. We did this by dividing average monthly rent by median monthly income. Generally, an affordable rent-to-income ratio is considered to occur when
+30 percent or less of monthly income is spent on housing.
+For the baseline model, we sort for counties that have a rent-to-income ratio of 30 percent or less, using the rental costs for a two-bedroom apartment.
+Demographics
+U.S. population growth is declining, and the population is rapidly aging. The year 2000 was the last time the
+year-over-year population growth was above 1 percent, and the Census Bureau does not predict it will hit that level again.
+The
+total fertility rate
+has fallen to a historic low (
+1.6 in 2025
+) while life expectancy has been rising and will continue to rise for the foreseeable future.
+The Peter G. Peterson Foundation predicts this will lead to an additional 3.1 years for men and 2.6 years for women by 2055.
+The country is trending toward a population with a growing portion of elderly people and a shrinking portion of young people. As a result, the
+old-age dependency ratio
+(the ratio of people aged 65 and older to working-age people) will increase. The World Bank predicts that there will be 46 people over age 65 per 100 people of working age (25–64) by 2055. By comparison, the ratio was about
+28 per 100 in 2024.
+A high old-age dependency ratio puts pressure on the labor force, which makes economic growth challenging and funding for Social Security and Medicare increasingly constrained.
+Without an increase in the working-age population via immigration, the U.S. will have to come to terms with an increasingly tight budget and slow or negative economic growth. Nationwide, 2024 census data  shows that
+18 percent of the U.S. population is over age 65
+, though there is significant
+geographical variation
+. As a result, the baseline model sorts for counties that are already feeling the tension of a rising old-age dependency ratio, a clear signal that migrant workers are needed to maintain economic growth.
+Variable 5: Total population over age 65
+Our data includes total population and the population over 65 for every county in the U.S., but not the working-age population. This does not allow for the development of an old-age dependency ratio for each county, so instead the baseline model uses a different demographic measure to predict the counties in the U.S. with a high share of elderly individuals. The United Nations divides countries into
+four categories based on the share of the population that is over age 65
+: young (less than 7 percent), aging (7–13 percent), aged (14–20 percent), and super-aged (more than 21 percent).
+For the baseline model, we sort for counties that are “aged,” or where at least 14 percent of the population is 65 or over.
+Baseline Model
+Variable
+Measure
+Unemployment rate
+< 4.3%
+Total population (65+)
+=> 14% of total population
+Avg. rent (2 beds)
+rent-to-income ratio <= 30
+Vacancy rate (rental)
+> 5%
+Job openings
+unemployment-to-job-opening ratio < 1
+Baseline counties
+Nonquantitative factors
+Quantitative data alone is not enough to determine whether a migrant will succeed in a given place no matter the context, nor whether the economy of a given place will grow due to migration alone. There are obvious, immeasurable social, cultural, and political variables at play that affect whether migration will be welcomed by a given population, as well as whether migrants will elect to resettle in a certain area.
+The goal of the MMI is to use quantitative data to aid in making migration more mutually beneficial for migrants and their new communities. This data can help predict which communities are best positioned to attract and retain migrants. Still, as extensive literature shows, there are many difficult-to-quantify factors that go into attracting and retaining newcomers.
+Welcoming America
+, for example, has developed an extensive roadmap for cities and counties who want to become
+more welcoming
+to migrants using criteria for a multitude of factors, including civic engagement, safety, and education.
+The MMI could be used as a valuable new starting point for policymakers. Depending on the economic needs of the country and absent a tumultuous external shock that results in an influx of migration to the U.S., this data can indicate localities that could
+be a good fit for newcomers. Then,
+if
+those localities meet the qualitative “welcoming” criteria outlined by organizations like Welcoming America, there can be reasonable assurance that a successful match between migrants and localities can be made.
+Where we go from here
+The current data for the MMI makes it backward-looking. It captures a static moment in time to improve future geographical matching of migrants and communities. With increased development and constant data collection, the MMI has numerous applications that allow it to become part of future-oriented immigration policy. On the humanitarian side, with up-to-date data at the ready, policymakers could quickly develop a resettlement plan for individuals arriving in the U.S. after a crisis, an influx of asylum seekers at the border, or a new structure for the U.S. Refugee Admissions Program. Those working in economic (re)development could use this data to inform their decisions, create plans for attracting global talent, or prepare aging communities for the future. Migrants themselves could utilize the data to help them and their families choose where in the U.S. to put down roots. The annex of this report showcases several different applications of the data.
+ANNEX
+Baseline Counties
+Baldwin County, AL
+Butler County, AL
+Calhoun County, AL
+Dale County, AL
+DeKalb County, AL
+Houston County, AL
+Jefferson County, AL
+Lauderdale County, AL
+Limestone County, AL
+Madison County, AL
+Montgomery County, AL
+Pike County, AL
+Shelby County, AL
+Talladega County, AL
+Tallapoosa County, AL
+Washington County, AL
+Bristol Bay Borough, AK
+Ketchikan Gateway Borough, AK
+Sitka Borough/city, AK
+Greenlee County, AZ
+Arkansas County, AR
+Calhoun County, AR
+Howard County, AR
+Pulaski County, AR
+Sebastian County, AR
+Mono County, CA
+Arapahoe County, CO
+Baca County, CO
+Cheyenne County, CO
+Eagle County, CO
+Grand County, CO
+Gunnison County, CO
+Hinsdale County, CO
+Jackson County, CO
+Kit Carson County, CO
+La Plata County, CO
+Mitchell County, KS
+Montgomery County, KS
+Nemaha County, KS
+Ness County, KS
+Norton County, KS
+Osborne County, KS
+Pawnee County, KS
+Phillips County, KS
+Pottawatomie County, KS
+Pratt County, KS
+Reno County, KS
+Republic County, KS
+Rice County, KS
+Rooks County, KS
+Rush County, KS
+Russell County, KS
+Sedgwick County, KS
+Shawnee County, KS
+Sherman County, KS
+Smith County, KS
+Stafford County, KS
+Stanton County, KS
+Stevens County, KS
+Thomas County, KS
+Trego County, KS
+Wallace County, KS
+Washington County, KS
+Wichita County, KS
+Jefferson County, KY
+Caddo Parish, LA
+Calcasieu Parish, LA
+Cameron Parish, LA
+East Baton Rouge Parish, LA
+Lafayette Parish, LA
+Ouachita Parish, LA
+Plaquemines Parish, LA
+Rapides Parish, LA
+St. Charles Parish, LA
+West Feliciana Parish, LA
+Hancock County, ME
+Knox County, ME
+Penobscot County, ME
+Sagadahoc County, ME
+Allegany County, MD
+Dodge County, NE
+Frontier County, NE
+Furnas County, NE
+Garfield County, NE
+Jefferson County, NE
+Knox County, NE
+Madison County, NE
+Morrill County, NE
+Nuckolls County, NE
+Phelps County, NE
+Rock County, NE
+Sheridan County, NE
+Valley County, NE
+Wheeler County, NE
+Carroll County, NH
+Grafton County, NH
+Sullivan County, NH
+Bernalillo County, NM
+Eddy County, NM
+Monroe County, NY
+Ontario County, NY
+Saratoga County, NY
+Warren County, NY
+Alamance County, NC
+Avery County, NC
+Buncombe County, NC
+Catawba County, NC
+Craven County, NC
+Dare County, NC
+Forsyth County, NC
+Guilford County, NC
+Henderson County, NC
+New Hanover County, NC
+Orange County, NC
+Surry County, NC
+Swain County, NC
+Adams County, ND
+Barnes County, ND
+Billings County, ND
+Bottineau County, ND
+Bowman County, ND
+Burke County, ND
+Burleigh County, ND
+Cavalier County, ND
+Dickey County, ND
+Moore County, TN
+Sevier County, TN
+Wilson County, TN
+Cottle County, TX
+Dimmit County, TX
+Edwards County, TX
+Gillespie County, TX
+Hartley County, TX
+La Salle County, TX
+Parmer County, TX
+Potter County, TX
+Upton County, TX
+Ward County, TX
+Grand County, UT
+Kane County, UT
+Rich County, UT
+Sevier County, UT
+Summit County, UT
+Washington County, UT
+Ouray County, CO
+Pitkin County, CO
+Prowers County, CO
+Rio Blanco County, CO
+Routt County, CO
+San Miguel County, CO
+Evans County, GA
+Fayette County, GA
+Floyd County, GA
+Glynn County, GA
+Gordon County, GA
+White County, GA
+Butte County, ID
+Caribou County, ID
+Minidoka County, ID
+Brown County, IL
+DuPage County, IL
+Allen County, IN
+Clark County, IN
+DeKalb County, IN
+Elkhart County, IN
+Gibson County, IN
+Hendricks County, IN
+Shelby County, IN
+Vanderburgh County, IN
+Whitley County, IN
+Adams County, IA
+Black Hawk County, IA
+Bremer County, IA
+Buena Vista County, IA
+Carroll County, IA
+Cass County, IA
+Chickasaw County, IA
+Clay County, IA
+Dubuque County, IA
+Ida County, IA
+Iowa County, IA
+Anne Arundel County, MD
+Baltimore County, MD
+Cecil County, MD
+Dorchester County, MD
+Garrett County, MD
+Howard County, MD
+Worcester County, MD
+Hampshire County, MA
+Grand Traverse County, MI
+Ingham County, MI
+Oakland County, MI
+Beltrami County, MN
+Blue Earth County, MN
+Cook County, MN
+Freeborn County, MN
+Hennepin County, MN
+Jackson County, MN
+Kittson County, MN
+Lac qui Parle County, MN
+Lake of the Woods County, MN
+Lyon County, MN
+McLeod County, MN
+Martin County, MN
+Mower County, MN
+Nobles County, MN
+Olmsted County, MN
+Otter Tail County, MN
+Pipestone County, MN
+Polk County, MN
+Ramsey County, MN
+Redwood County, MN
+Rock County, MN
+Roseau County, MN
+St. Louis County, MN
+Stevens County, MN
+Swift County, MN
+Traverse County, MN
+Wabasha County, MN
+Watonwan County, MN
+Yellow Medicine County, MN
+Harrison County, MS
+Divide County, ND
+Dunn County, ND
+Foster County, ND
+Golden Valley County, ND
+Grand Forks County, ND
+Grant County, ND
+Griggs County, ND
+Hettinger County, ND
+LaMoure County, ND
+Logan County, ND
+McIntosh County, ND
+McLean County, ND
+Mercer County, ND
+Morton County, ND
+Nelson County, ND
+Pembina County, ND
+Renville County, ND
+Richland County, ND
+Steele County, ND
+Stutsman County, ND
+Traill County, ND
+Walsh County, ND
+Cuyahoga County, OH
+Holmes County, OH
+Logan County, OH
+Madison County, OH
+Beaver County, OK
+Beckham County, OK
+Blaine County, OK
+Carter County, OK
+Cimarron County, OK
+Cotton County, OK
+Custer County, OK
+Dewey County, OK
+Ellis County, OK
+Garfield County, OK
+Harper County, OK
+Jackson County, OK
+Kingfisher County, OK
+Love County, OK
+Noble County, OK
+Oklahoma County, OK
+Ottawa County, OK
+Pontotoc County, OK
+Bennington County, VT
+Lamoille County, VT
+Windsor County, VT
+Henrico County, VA
+Roanoke County, VA
+Norton City, VA
+Roanoke city, VA
+Salem City, VA
+Virginia Beach, VA
+Waynesboro, VA
+Cabell County, WV
+Greenbrier County, WV
+Harrison County, WV
+Kanawha County, WV
+Ohio County, WV
+Raleigh County, WV
+Tucker County, WV
+Wood County, WV
+Door County, WI
+Kossuth County, IA
+Linn County, IA
+Lyon County, IA
+Monroe County, IA
+Muscatine County, IA
+O’Brien County, IA
+Palo Alto County, IA
+Pocahontas County, IA
+Shelby County, IA
+Union County, IA
+Wright County, IA
+Barber County, KS
+Barton County, KS
+Chase County, KS
+Cheyenne County, KS
+Clark County, KS
+Cloud County, KS
+Coffey County, KS
+Comanche County, KS
+Cowley County, KS
+Dickinson County, KS
+Doniphan County, KS
+Edwards County, KS
+Ellsworth County, KS
+Franklin County, KS
+Graham County, KS
+Greeley County, KS
+Harper County, KS
+Harvey County, KS
+Kearny County, KS
+Kingman County, KS
+Kiowa County, KS
+Labette County, KS
+Lincoln County, KS
+Marion County, KS
+Marshall County, KS
+Meade County, KS
+Lauderdale County, MS
+Lee County, MS
+Lowndes County, MS
+Madison County, MS
+Rankin County, MS
+Union County, MS
+Warren County, MS
+Buchanan County, MO
+Cape Girardeau County, MO
+Cole County, MO
+Marion County, MO
+Nodaway County, MO
+Perry County, MO
+Pettis County, MO
+Phelps County, MO
+Platte County, MO
+St. Charles County, MO
+Scott County, MO
+Cascade County, MT
+Custer County, MT
+Daniels County, MT
+Deer Lodge County, MT
+Fallon County, MT
+Flathead County, MT
+Hill County, MT
+McCone County, MT
+Park County, MT
+Powder River County, MT
+Richland County, MT
+Rosebud County, MT
+Sheridan County, MT
+Silver Bow County, MT
+Stillwater County, MT
+Sweet Grass County, MT
+Toole County, MT
+Valley County, MT
+Adams County, NE
+Antelope County, NE
+Brown County, NE
+Chase County, NE
+Cuming County, NE
+Custer County, NE
+Dawes County, NE
+Dixon County, NE
+Tulsa County, OK
+Woods County, OK
+Woodward County, OK
+Morrow County, OR
+Allegheny County, PA
+Blair County, PA
+Butler County, PA
+Centre County, PA
+Dauphin County, PA
+Montgomery County, PA
+Union County, PA
+Newport County, RI
+Beaufort County, SC
+Charleston County, SC
+Florence County, SC
+Greenville County, SC
+Spartanburg County, SC
+Beadle County, SD
+Brown County, SD
+Brule County, SD
+Charles Mix County, SD
+Davison County, SD
+Douglas County, SD
+Edmunds County, SD
+Faulk County, SD
+Gregory County, SD
+Haakon County, SD
+Hand County, SD
+Harding County, SD
+2Hughes County, SD
+Hyde County, SD
+Jerauld County, SD
+Jones County, SD
+Kingsbury County, SD
+Lake County, SD
+Marshall County, SD
+Moody County, SD
+Spink County, SD
+Sully County, SD
+Tripp County, SD
+Yankton County, SD
+Hamblen County, TN
+Knox County, TN
+Madison County, TN
+Maury County, TN
+Fond du Lac County, WI
+Sauk County, WI
+Carbon County, WY
+Converse County, WY
+Crook County, WY
+Goshen County, WY
+Hot Springs County, WY
+Johnson County, WY
+Natrona County, WY
+Niobrara County, WY
+Park County, WY
+Platte County, WY
+Sublette County, WY
+Sweetwater County, WY
+Teton County, WY
+Uinta County, WY
+Washakie County, WY
+Weston County, WY
+OTHER WAYS TO LOOK AT THE DATA
+This model shows all the counties in the U.S. that we predict will need labor from outside their borders to fill shortages.
+This model shows the counties included in the baseline that also have a super-aged population — more than 21% of the population is aged 65 or older.
+This model shows the counties included in the baseline that are also suffering from net negative migration, which could be taken as a partial proxy for brain drain.
+Acknowledgements
+The author wishes to thank Subomi A. for his assistance in scraping the data used for this report. The author also received helpful comments from colleagues at the Niskanen Center, including Kristie De Peña, Matthew LaCorte, Gil Guerra, Will Raderman, and Claire Holba. The paper’s findings and arguments are the sole responsibility of the author.

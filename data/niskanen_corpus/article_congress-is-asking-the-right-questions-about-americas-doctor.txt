@@ -1,0 +1,74 @@
+TITLE: Congress is asking the right questions about America’s doctor shortage
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/congress-is-asking-the-right-questions-about-americas-doctor-shortage/
+WORDS: 1853
+
+The Niskanen Center’s Statement for the Record to the House Ways & Means Committee can be
+viewed here
+.
+When it comes to ensuring that America’s supply of doctors is sufficient to meet Americans’ demand for medical care, one of the most significant investments is also one of the most overlooked: Medicare’s Graduate Medical Education (GME) payments. As the largest funder of medical residency slots, GME subsidies are a powerful lever in determining whether we have enough doctors where they’re most needed.
+So why aren’t we making the best use of it?
+That’s a question that the House Ways & Means Health Subcommittee is examining as it considers the ways and means to modernize America’s healthcare workforce, most recently at
+a hearing last month
+. As America’s demand for medical care continues to outpace our ability to supply it at an affordable cost, lawmakers are right to call the effectiveness of these payments into question.
+At the hearing, both lawmakers and residency program managers highlighted structural flaws in how Medicare distributes GME payments. These flaws, which Niskanen has
+documented
+in
+recent years
+, stem from a fundamental misalignment: GME payments in support of residency programs are not tied to the population or workforce needs of the areas where the residency programs are located. As a result, funds are disproportionately sent to residency positions in high-cost, low-growth regions, contributing to acute shortages in rural areas and in primary care.
+But this is not inevitable. By allowing dollars to flow based on actual training costs and where doctors are needed, Congress has an opportunity to modernize GME payments to ensure this funding is used in the best interest of patients.
+How we got here
+This imbalance was years in the making. In the early 1980s, a federal panel known as the GME National Advisory Committee
+warned
+that the U.S. was approaching a major physician surplus that would inflate our healthcare spending. Not only did the surplus never materialize, but the panel’s recommendations contributed to the shrinking of the physician pool, in part because medical schools
+froze
+enrollment for the quarter century between 1980 and 2005, reducing the number of physicians entering residency programs. Congress also responded to the warning, capping Medicare GME-funded residency slots in 1997. The shrinking supply of physicians came just as demand began to spike thanks to population growth, aging, and more people gaining insurance coverage. Despite the deepening physician shortage, Congress’s cap on Medicare GME-funded residency slots remains in place today, nearly 30 years later.
+These were among the policy decisions that put us in our current predicament. It’s not as if fewer people are interested in medical careers; last year,
+over 9,500
+medical graduates were unable to match to a residency program due to limited slots — an all-time high. And while the number of residency slots is a major concern, where those slots are located and which specialties they train also affect patients’ access to medical care.
+Two features define the misaligned distribution of physicians in America: One, we do not train enough primary care physicians sufficient to meet demand. And two, we train far too few doctors in and for rural communities. Around 20 percent of Americans live in rural areas, yet
+only 9 percent
+of physicians practice in them. Across the country, there are
+3 times
+as many doctors in urban areas compared to rural areas, even after adjusting for population. And this gap is only getting worse, particularly for primary care. Between 2017 and 2023, rural areas experienced an
+11 percent net loss
+of family physicians.
+An
+aging healthcare workforce
+is one of the key drivers of this loss. Forty-two percent of doctors are over the age of 55 and will begin transitioning into retirement in the next decade. And rural doctors are, on average,
+a year older
+than their urban counterparts. Given these trends, it is no surprise that the Association of American Medical Colleges
+expects
+the U.S. to fall between 20,000 and 40,000 primary care doctors by 2036.
+In light of these deep and growing shortages, Medicare’s GME payments are increasingly disconnected from actual workforce needs. Instead, payments follow a rigid formula that unevenly distributes dollars across states and disproportionately rewards large urban hospitals. The same formula that disadvantages rural programs also deprioritizes primary care, steering training dollars toward high-cost specialties performed in inpatient settings rather than the community-based care most Americans need.
+The flaws in funding distribution are evident in regional breakdowns. Medicare GME funding concentrates heavily in the Northeast, where most residents and training programs are located. As a result, the Northeast region receives a 39 percent share of funding despite comprising only 17 percent of the population. Consequently, the South, with 38 percent of the population and growing,
+receives just 24 percent
+. We concentrate most of our funding in high-cost, low-growth areas.
+The distribution of practice-area specialties also increasingly runs counter to the country’s healthcare needs. Since 2000, GME funding has expanded specialist training positions
+2.4 times faster
+than primary care positions, despite the concentration of shortages in primary care.
+Three flaws in the payment formula entrench these maldistributions:
+Medicare’s direct payments (DGME) — about one-third of Medicare’s GME funding — are determined in part by cost reporting from the 1980s. Hospitals that reported higher costs decades ago receive more funding now. At that time, many rural hospitals had few or no residency programs, and thus
+established lower baseline amounts
+for funding.
+Indirect payments (IME) — the remaining two-thirds of Medicare’s GME funding — scale with resident volume and procedure costs. These payments work like a restaurant tip: The more expensive the service, the larger the tip. As a result, large urban hospitals with more residents performing high-cost procedures
+receive larger portions
+of GME funding. Despite the fact that healthcare services have shifted more toward outpatient settings in recent years, IME payments are
+tied exclusively to inpatient services
+. Primary care physicians, who perform fewer inpatient procedures and charge lower rates, are simply less attractive to teaching hospitals as a result.
+The 1997 cap on Medicare-funded slots
+cemented
+the regional distribution of funding. Since 1997, large, urban hospitals have been able to expand their programs without new Medicare funding, while small, rural programs struggle to fund slots above their cap. Now, over 80 percent of large programs
+fund slots above their caps
+while only 23 percent of small programs are able to do so.
+Overhauling the Medicare GME payment formula is critical to addressing Americans’ healthcare needs, particularly as rates of chronic disease, including obesity, diabetes, and heart disease, continue to climb. Having a regular source of primary care is associated with
+20 percent lower hospitalization rates and a 50 percent drop in emergency department visits
+for those with chronic disease.
+A path forward
+To better align GME with the nation’s healthcare needs, Congress could modernize and better target Medicare’s GME payments to actual workforce and population needs in three ways.
+First, Congress could allow direct payments based on actual workforce needs. The current DGME formula relies on 1980s-era hospital cost reporting. This has contributed to extreme, and baseless, variations in funding across regions, states, and residency programs. Reforming how these direct payments are calculated would better target this subsidy to actual workforce and community needs. The most direct and effective formula would be a national per-resident payment rate that is adjusted narrowly based on local wages, urban/rural status, or workforce need. In particular, payments should be adjusted based on specialty needs to ensure that residents and programs have an incentive to pursue specialties with acute shortages such as primary care and psychiatry. This will give new and expanding programs more predictable revenue streams, allowing them to better plan for the future. A uniform per-resident payment would also improve efficiency program by program, ensuring that teaching institutions compete on their ability to train residents cost-effectively, rather than relying on legacy cost reporting.
+Second, Congress could reform IME payments to reflect training costs, not hospital volume. Medicare’s IME payments, offered as an add-on payment to each hospital discharge, are the primary distortionary mechanism in the GME formula. The IME add-on payments are largely determined by a hospital’s resident-to-bed ratio. This means that hospitals performing more inpatient procedures at higher costs receive larger IME payments, compounding large urban teaching hospitals’ advantage. Because primary care physicians perform fewer inpatient services, and because rural hospitals have lower inpatient volumes, both are systematically disadvantaged by this structure. Decoupling IME from inpatient volume would mean converting it from a discharge-based add-on to a fixed, empirically justified indirect cost adjustment per resident. This would more accurately reflect the actual costs of graduate medical education, rather than passively amplifying the revenue advantages of high-volume, high-cost institutions.
+Lastly, Congress could repair GME’s foundation and the limitations of funding caps. Taken together, a geographically uniform DGME rate and a decoupled IME payment would meaningfully reorient GME funding toward programs and regions that need it most, without requiring a wholesale restructuring of how Medicare finances medical education. In the long run, however, Congress should consider consolidating DGME and IME into a single per-resident payment. A combined stream would be simpler to administer and function more like a true federal subsidy that follows residents across the country instead of a legacy formula that rewards historical cost patterns.
+But any adjustments or consolidation of payments would necessarily run up against the 1997 cap on Medicare-funded residency slots. The national cap is operationalized as hospital‑level full‑time equivalent (FTE) limits, which effectively freeze each teaching hospital’s Medicare‑supported resident count at historical levels. These FTE caps are a major driver of maldistribution, both in terms of specialty mix and rural access. For small and rural programs operating on thin margins, the FTE cap functions as a fixed ceiling on growth, locking them into the limited training capacity they had when the cap was set. The result is a system in which the programs best positioned to address rural and primary care shortages are the ones most constrained in their ability to expand.
+But simply removing the cap without undertaking structural reform would likely mean larger urban hospitals, already advantaged by legacy cost reporting and inpatient volume incentives, would continue to capture a disproportionate share of any new capacity. This is why the most cost-effective, long-term solution to the formula’s flaws is both structural changes and an adjustment to the FTE caps, rather than attempting to rebalance payments through piecemeal restrictions or additional earmarked funding. We urge Congress to pursue structural changes to the GME formula as the first-best solution to realigning the federal subsidy with America’s workforce needs.
+Medicare’s GME payments — where they are made and which programs receive them — have an underappreciated role in shaping healthcare supply and outcomes. Improving our healthcare system and ensuring patients have adequate access to the doctors they need where they need them will require a fundamental reorientation of GME funding toward rural communities and primary care training. We are excited to see Congress acknowledge the structural flaws in the program, and we look forward to witnessing this momentum translate into meaningful reform that serves the American people.

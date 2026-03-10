@@ -1,0 +1,50 @@
+TITLE: How do states manage their workforces anyway?
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/how-do-states-manage-their-workforces-anyway/
+WORDS: 1472
+
+You’d never know it from the cavalcade of federally focused headlines this past year, but most public servants in the United States don’t work for the federal government. They work for states and localities, the
+“laboratories of democracy”
+that staff our schools, maintain our roads, manage our prisons, and administer our social safety net. And yet when it comes to understanding how these governments work — how they hire, pay, evaluate, and retain the people who do this work — we all operate largely in the dark.
+The Niskanen Center partnered with the
+National Academy of Public Administration
+to change that and bring Americans closer to understanding their government. The
+State Human Resources and Benchmarking Study
+provides detailed, comparable data on how more than 40 states manage their civil service systems, covering everything from hiring processes and compensation structures to performance evaluation, at-will employment, and grievance procedures.
+It’s one of the most comprehensive, publicly available inventories of state personnel practices, and the most up-to-date. And we’re making all of it freely available to anyone with an interest, from researchers and government administrators to the press and the public. The report and accompanying data are available on the
+NAPA website
+.
+What the study found
+The Academy’s study team, working from September 2025 through January 2026, reviewed publicly available policy documents, laws, and regulations for all 50 states, then conducted interviews with HR officials from 41 states. Three additional states provided written responses and many followed up to confirm the team’s description of their state. The study includes a short narrative report, but is backed up by two comprehensive spreadsheets with all the information we collected.
+A few findings stand out:
+There is no single “best” model.
+State HR systems reflect unique histories, labor markets, legal frameworks, and political cultures. Fifteen states have centralized HR management; 35 are partially or fully decentralized. Texas has no central personnel agency at all. Vermont and Utah run highly centralized operations where individual agencies don’t even maintain their own HR offices. Most states fall somewhere in between, and many are actively adjusting their models — some consolidating for consistency, others delegating for speed.
+Skills-based hiring is gaining real traction, but results are mixed.
+More than half of the states interviewed have issued executive orders or passed legislation to reduce or eliminate degree requirements. This is a significant shift. But state officials reported that while the approach broadens the candidate pool, it can also create screening bottlenecks when the additional applicants aren’t qualified. States like Utah and Arizona are tracking the outcomes of their efforts closely; most others are not yet in a position to say whether the reform is working. This mirrors
+challenges present in the federal government where well-intentioned efforts are crashing into the real resource constraints
+associated with testing applicants for their skills.
+Compensation systems are modernizing, but budget constraints remain the binding constraint.
+States are increasingly adopting market-based salary plans and conducting regular benchmarking.
+Tennessee’s recent compensation overhaul
+— which ties ongoing salary decisions to market alignment and performance rather than one-time increases — has reportedly reduced turnover and driven a surge in applications. But across the board, officials said they often have the policy authority to offer competitive salaries but not the budget to actually use it. This differs in some ways from the federal government’s problem, where salaries are relatively small portions of the budget but they lack the flexibility to calibrate them to the labor markets in which they operate.
+Performance evaluation remains the most underleveraged tool in state government.
+All states do it; few do it well. Thirty-three states have moved to electronic systems, and several — California and Louisiana among them — are piloting continuous feedback models. But 31 states now have pay-for-performance programs, and the evidence on whether these programs actually influence behavior is thin. Managers tend to cluster ratings at the top, employees perceive the process as unfair, and budget disparities between agencies create pay inequities even among workers in the same classification. This finding is important but unsurprising: Most organizations, in the public and private sectors, struggle with performance evaluation, and the companies that do it best invest huge amounts of time and money in calibration exercises that may not be feasible for most public sector institutions.
+At-will employment is more nuanced than its champions or opponents would have you believe.
+The scope of at-will status ranges from 0.3 percent of the workforce in Michigan to 100 percent in Texas and Arkansas. But even in states with extensive at-will employment, dismissals are rarely the free-for-all that critics fear or proponents hope. Most states extend internal safeguards — pretermination reviews, documentation requirements, grievance options—to at-will employees in some form. Arizona, for example, where most workers are at-will, requires that dismissals be justified and reviewed by the central HR office before taking effect.
+Recent research by the Partnership for Public Service also discusses the state of the evidence around this topic
+and largely reaches the same conclusion: an objective reading of the evidence and practice here is that the topic is murky, experiences are mixed, and directional signals are difficult to generalize.
+Why this matters
+Interest in the scope, size, and quality of the public sector workforce in the United States has dramatically increased in recent years. Americans across the political spectrum have expressed an undeniable sense that their governments, at all levels, are struggling to carry out their missions effectively and efficiently. On the left, there is a pervasive view that
+blue state governing struggles
+stemmed from a
+lack of tools to move quickly enough to matter
+— that despite sound ambitions, the machinery of government hasn’t been able to keep up. On the right, we continue to see the
+accusation that entrenched bureaucratic interests prevent conservative leaders from making government responsive to popular will
+. And across the ideological spectrum, more narrowly focused issue advocates, including those in the nascent abundance movement, have begun to turn their attention to the uncomfortable question of whether their elegant policy proposals for housing, transportation, healthcare, and education will actually work when implemented.
+Notwithstanding all this renewed interest, there is relatively little scholarship on what a better system might look like. The public administration discipline is concerned with tightly scoped research squirreled away behind paywalls, as a result of academic incentives to publish rather than influence policymakers. The management policy space in Washington has long been dominated by government contractors and those who take their money. And it has been a number of years since either national party has devoted sustained attention to civil service reform proposals, beyond partisan signaling over wedge issues.
+In the past, when states or the federal government sought reform, they could look for promising examples among the states. Today, many state personnel officers don’t know how the civil service systems work in the state next door, let alone which ones work better or worse. “Best practices” dissemination is rarer and slower for unsung issues like human capital policy than it is for flashy “issue of the day” topics like artificial intelligence. Despite their work underlying all other policy goals, management professionals in states have tremendously difficult jobs and very little high-quality analysis to help them do better.
+What comes next
+To be clear, this is a descriptive inventory. It doesn’t tell us which practices lead to better outcomes; in most cases, the data to answer that question don’t yet exist. States define even basic metrics like “time to hire” differently, making analytically rigorous comparisons difficult. Many states don’t track early tenure turnover, quality of hire, or other indicators that would help assess whether reforms are working. Even the words they use don’t have the same meaning across jurisdictions — the phrase “at will,” for example, means different things to different people — and almost never mean what they do in the private sector.
+That’s the gap we want to close. This release is the beginning of an ongoing effort to generate a robust national discourse on public management issues. Which performance metrics best capture HR effectiveness? How should states balance centralized oversight with agency-level flexibility? Do pay-for-performance models meaningfully influence public sector performance? How does at-will employment affect a government’s capacity to recruit and retain talent? What actually works to speed up the hiring process?
+We welcome collaboration and look forward to the conversations this research will spark.
+Better government won’t happen without better analysis, better evidence, and new ideas about how to structure systems when the practical realities of governing collide with organizational theory, human behavior, constitutional tensions, and the basic management challenges associated with operating at government scale. We’re grateful to the academy’s study team for their work and professionalism; to the Recoding America Fund for its support; and above all to the 40+ state HR offices whose participation made this work possible.

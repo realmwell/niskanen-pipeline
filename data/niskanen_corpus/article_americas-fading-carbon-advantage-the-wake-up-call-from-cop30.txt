@@ -1,0 +1,41 @@
+TITLE: America’s fading carbon advantage: The wake-up call from COP30
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/americas-fading-carbon-advantage-the-wake-up-call-from-cop30/
+WORDS: 773
+
+For decades, American industry has held a quiet, underappreciated competitive advantage: On a per-unit basis, much of our heavy manufacturing — steel, aluminum, cement — is cleaner and more carbon-efficient than many of our major international rivals’. This “carbon advantage” is a powerful tool, reflecting years of technology shifts and strict local environmental regulation. But this position of leadership is fragile, and the United States risks forfeiting it entirely if we continue to ignore the global momentum toward pricing carbon. A new initiative launched at the recent COP30 makes this threat immediate and undeniable.
+The new global carbon alignment
+At COP30, held in Belém, Brazil, in November 2025, a group of nations formally launched the
+Open Coalition on Compliance Carbon Markets
+(the coalition), a voluntary initiative that strengthens environmental integrity by encouraging experiences-sharing. It is focused on aligning domestic carbon-pricing systems, harmonizing Monitoring, Reporting, and Verification (MRV) protocols, standardizing accounting rules, and exploring long-term market interoperability. In short, the world’s major economies are taking concrete steps toward creating a unified, predictable global price signal for carbon.
+The idea is rooted in rigorous policy research, building on work from the Global Climate Policy Project (GCPP) at Harvard and MIT. The GCPP’s September 2025
+report
+outlined the potential: A voluntary coalition of nations coordinating on robust carbon-price floors could significantly cut global emissions; raise trillions in revenue for emissions-reduction and adaptation efforts; and, critically, prevent a chaotic and economically destabilizing patchwork of unilateral border measures. The coalition essentially serves as the technical and political engine for realizing the carbon-priced future the report envisioned.
+During COP30, a diverse set of countries joined the new coalition. The ranks now consist of Brazil, China, the European Union, the United Kingdom, Canada, Chile, Germany, Mexico, Armenia, Zambia, France, Rwanda, Andorra, Guinea, New Zealand, Monaco, Singapore, and Norway. Seven of the countries in this group account for more than two-thirds of total U.S. goods exports. They’re now working together to implement mandatory carbon pricing frameworks, incentivizing emission reduction domestically and providing a competitive edge when facing border charges on exports.
+The fragility of the American advantage
+The implications for U.S. energy-intensive and trade-exposed industries are staggering. Analyses from
+our own work
+and from groups such as the
+Climate Leadership Council
+have consistently shown that U.S. heavy industry is, for the moment, among the least carbon-intensive in the world. In steel, chemicals, glass, and cement, for example, the carbon intensity of U.S. production is among the lowest in the world. This is partly the result of cleaner electricity supply relative to competitors, and partly the result of relatively modern industrial facilities.
+But this leadership is fragile. As countries in the Open Coalition implement carbon pricing, they create two reinforcing incentives: first, for their domestic firms to accelerate investments in clean industrial technologies; and second, for their governments to implement Border Carbon Adjustments (BCAs) to protect those firms from dirtier imports. Firms in those jurisdictions will begin to benefit from a combination of carbon cost signals and financial support that reward cleaner production.
+The carbon cost signal to the U.S. would also be clear: If the U.S. does not adopt policies that provide similar incentives, the carbon advantage that currently benefits U.S. exporters could narrow or even disappear.
+What makes this situation even more alarming — and arguably more likely — is that this global acceleration toward lower emissions comes as U.S. policy moves aggressively in the opposite direction. The Trump administration, for instance, aims to extend the life of coal-fired power plants. A recently signed
+executive order
+defines coal as a critical mineral and
+proposes to repeal power plant regulations
+like the Mercury and Air Toxics Standards and Carbon Pollution Standards. The
+Environmental Protection Agency
+and
+Department of Energy
+are even looking into using backup diesel generators to meet high energy demand.
+These actions, by diminishing the costs of polluting, jeopardize the health of both
+adjacent communities
+and
+downwind states
+, while weakening America’s industrial-carbon advantage. As other countries increase their decarbonization efforts, U.S. policies are widening the gap, making our energy grid — and the production that relies on it — more emission-intensive and more vulnerable to trade penalties.
+A call for action
+The message from Belém is clear: Global carbon markets are coalescing, and they will define the future of international trade. If the U.S. continues to resist carbon price, we are choosing to surrender our hard-won industrial advantage.
+The United States does not need to mimic every policy choice made abroad. It does, however, need a
+credible system
+that encourages industrial decarbonization, maintains competitiveness, and aligns with emerging global norms. A market-based carbon price would serve these purposes.

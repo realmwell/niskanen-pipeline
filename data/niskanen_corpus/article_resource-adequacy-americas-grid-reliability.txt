@@ -1,0 +1,49 @@
+TITLE: Resource adequacy: The foundation of America’s power grid reliability
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/resource-adequacy-americas-grid-reliability/
+WORDS: 643
+
+The Department of Energy (DOE)’s new report,
+Evaluating the Reliability and Security of the United States Electric Grid
+, warns that rising electricity demand could outstrip supply and spotlights a neglected pillar of reliability: resource adequacy. Produced under President Trump’s Executive Orders
+14262
+and
+14156
+—which declared a national energy emergency and directed the DOE to craft reliability guidelines—the study has drawn
+criticism from analysts
+who question its near‑term blackout risk projections.
+Debates aside, the report rightly notes that shifting weather patterns, electricity demand, and resource mixes requires grid operators to modernize how they assess resource adequacy. Moving forward, federal and state entities should collaborate on best‑practice standards grounded in a system‑wide understanding of grid capabilities and needs.
+What is resource adequacy?
+Resource adequacy is a key metric utilities use to gauge grid reliability. It asks whether the power system can keep serving customers when individual elements fail, taking a long‑term,
+system-wide
+view of every resource’s contribution. Resource adequacy studies, in turn, guide decisions about how much infrastructure to build, which technologies to deploy, and when and where to add them so the lights stay on.
+Mounting challenges
+Traditionally
+, resource adequacy analysis has focused on the system’s peak hour—the moment of highest consumer electricity demand. That narrow lens is losing relevance. The North American Electric Reliability Corporation (NERC)
+expects
+outage risks will increase over the next decade, driven in part by the unpredictable emergence of large loads like
+data centers
+. At the same time, uncertainty around the pace of
+generation interconnection
+and
+asset retirements
+compounds the challenge. When combined with the growing threat of
+extreme weather
+and limited
+transmission infrastructure
+, these shifting dynamics call for a more nuanced view informed from
+deeper data analysis
+to capture these realities.
+Responsibility for regulating resource adequacy is shared between state and federal entities, varying by region and
+market structure
+. Coordination is particularly critical as resource adequacy calculation and evaluation metrics continue to evolve. FERC’s recent
+technical conference
+and DOE’s recognition of the importance of resource adequacy are steps in the right direction. Federal and state authorities should work together to refine common metrics and align reliability standards across the entire grid.
+A modern, all-of-the-above approach to resource adequacy
+DOE’s study uses the concept of “perfect capacity,” which it explains as “idealized capacity that has no outages or profile,” and calculates how much of it would be needed by 2030 to meet a chosen resource adequacy target. But no real‑world power plant is flawless, and relying on this abstraction can distort planning decisions.
+ESIG
+recently cautioned that treating perfect capacity as a proxy for actual plants risks bias, because every technology experiences outages. Resource adequacy is a system-wide exercise: a diverse mix of generation and transmission assets must work together to cover demand. Prudent infrastructure deployment decisions require holistic, evidence-based viewpoints that reflect both the strengths and the limits of each resource type. DOE is well positioned to lead by providing technical guidance on incorporating the full range of resources into resource adequacy analysis and accurately characterizing their availability and contributions.
+Looking forward
+Resource adequacy is a pillar of electric reliability for households, security facilities, and industrial energy users. Because utilities use resource adequacy studies to inform infrastructure investment decisions, including both generation and interstate transmission lines, state regulators and federal agencies need a shared framework and vision.
+As our grid evolves, the federal government should take the lead in codifying modern resource adequacy best practices—from development, to dissemination, to implementation. DOE should use its technical expertise to work with states on evidence‑based methods that capture real‑world outage risks and the true reliability value of each resource. Congress, in turn, can ensure continuity by funding grants and bolstering agency capacity.
+If we modernize resource adequacy analytics now, we can turn today’s vulnerability into an opportunity—delivering a grid that is reliable, affordable, and resilient.

@@ -1,0 +1,73 @@
+TITLE: The missing half of healthcare choice
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/the-missing-half-of-healthcare-choice/
+WORDS: 1215
+
+With the December 31 expiration of enhanced Obamacare subsidies looming — and the prospect of significant premium spikes for 22 million Americans along with it — Congress is under intensifying pressure to offer a credible approach to healthcare affordability.
+For Republicans, who control both chambers, the answer so far has focused overwhelmingly on empowering patients through tax policy and regulation to give individuals more direct control over their healthcare dollars. President Trump has framed the basic pitch in blunt terms: send the money “
+directly back to the people
+” instead of to insurers, and let patients shop for the coverage and care they prefer.
+Paired with broader consumer-choice rhetoric from congressional leaders, this vision has become the organizing principle of the right’s post-Obamacare health policy.
+There’s real merit to this approach. When people can see and respond to prices, they have stronger incentives to shop for value, and insurers and providers would have stronger incentives to compete.
+Yet empowering patients on the demand side is only half of the consumer-choice equation. If Congress wants to fully realize the power of market forces to bring down healthcare costs, it’s critical that they also make sure that newly empowered patients actually have lower-cost options to choose from. Increasing consumers’ exposure to prices without tackling the policies that restrict competition on the supply side risks a perverse outcome: patients with more financial “skin in the game” facing the same or even higher prices due to a scarce and consolidated provider market.
+As the push for individual choice in healthcare continues, supply-side reforms that open up more lower-cost options for patients deserve more attention in Congress.
+Demand-side focus
+In their current push for patient choice, Republicans in Congress and the administration are focused primarily on the demand side by adjusting the offerings available in the Affordable Care Act marketplace and pursuing aggressive
+price transparency
+requirements for hospitals and insurers. Together, these reform efforts aim to make patients more price-sensitive shoppers with greater direct control over their healthcare spending.
+This year, Republicans greatly
+expanded
+the reach of Health Savings Accounts (HSAs) – tools that individuals can use to pay directly for health expenses when paired with cheaper, higher-deductible insurance plans. Starting in 2026, all the cheapest “bronze” and “catastrophic” health plans on the Obamacare marketplace will qualify for pairing with tax-free HSAs. This lets about 7 million more people combine low monthly premiums with savings accounts they can use tax-free for medical bills, though these plans make them pay a bigger share of costs out of pocket first.
+The administration also recently
+expanded
+eligibility for newly HSA-eligible catastrophic plans to people who will lose premium assistance if enhanced advance premium tax credits (eAPTCs) expire, shifting enrollees to low-premium plans. As a result, affected enrollees are more likely to sign up for plans with lower monthly premiums but higher deductibles and cost sharing, so they pay less up front but are more exposed to prices at the point of care. Trump and Republican members of Congress have further proposed replacing eAPTCs with funds sent directly to patients through
+HSAs
+or
+similar tools
+.
+But these reforms often rely on a competitively responsive supply side. In reality, a
+worsening doctor shortage
+and the
+erosion of independent, lower-cost providers
+make clear that the supply side is unlikely to meet this moment for patients without similar reforms.
+Republican policymakers have long recognized the importance of supply-side reform. The Trump administration’s agenda for healthcare choice and competition, laid out most clearly in a joint 2018
+report
+from the Departments of Health and Human Services, Treasury, and Labor, included calls for reform on both the demand and supply sides. It urged policymakers to roll back rules that restrict market competition, fuel consolidation of hospitals and medical practices, and other forces that drive out competition and drive up costs.
+Despite Republicans’ historical prioritization of market-oriented reforms, the demand-side of the market continues to dominate healthcare policy discourse while key supply restrictions go unaddressed.
+Supply-side restrictions
+In nearly half of U.S. metropolitan areas, one or two health systems
+control
+the entire inpatient hospital market, and in more than four out of five, one or two systems control over 75 percent of inpatient care. In such markets, patients don’t have a meaningful choice of healthcare facility, no matter how empowered they are on paper. Prices at monopoly hospitals are roughly
+12 percent higher
+than in markets with four or more competitors, even after accounting for cost and demand differences.
+This consolidation is the result of policy choices that restrict competition and distort the market. For example:
+Medicare’s large payment differentials — in which hospitals typically receive significantly more than independent physician offices for the same service, such as reimbursing routine X-rays, at rates up to
+four times higher
+in hospital outpatient departments (HOPDs) — create a strong
+financial incentive
+for hospitals to acquire physician practices and bill at those elevated rates.
+Federal law
+effectively bans
+new physician-owned hospitals and tightly caps the expansion of existing ones, protecting large systems from new competitors that could
+offer lower prices and comparable quality
+.
+In roughly two-thirds of states,
+certificate-of-need laws
+require would-be entrants to seek permission from regulators to open facilities, add beds, or acquire major equipment. These applications often get challenged by incumbent providers, resulting in
+delayed or canceled plans
+for new hospitals and clinics.
+Yet, these supply-side barriers are receiving less attention in the current healthcare policy debates. This is not at all unexpected, as demand-side reforms, such as enhanced subsidies or HSA expansions, directly take on affordability for patients and carry strong political salience as a result. But overlooking the supply side risks missing the structural drivers of long-term cost growth. By addressing provider market imbalances — through site-neutral payments and these other competition drivers — policymakers can deliver more sustainable price reductions and broader access to care.
+A complete market-oriented agenda
+A more comprehensive market-oriented choice agenda would treat supply-side reform as the necessary complement to demand-side empowerment. Giving patients more control over their healthcare dollars is a helpful step – but this should be paired with aggressive changes including:
+site-neutral payments
+that stop rewarding anticompetitive hospital consolidation and give patients more options for lower-cost care
+repeal or relaxation of the ban on physician-owned hospitals
+to unleash lower-cost, physician-led competitors in concentrated markets
+sustained pressure on states to
+unwind certificate-of-need regimes
+that allow incumbent providers to stamp out competition
+Taken together, these changes would give newly empowered patients a broader menu of providers and facilities actually competing for their business.
+Looking ahead
+Whether or not enhanced premium tax credits expire at the end of this year, Congress will be forced to confront healthcare affordability. Republicans are right to insist that reforms should be structured in ways that strengthen individual agency and market discipline.
+However, if they want patient empowerment to mean more than paying higher deductibles to the same local hospital monopoly and higher premiums to insurers, they should put the supply-side half of their own agenda on equal footing with the demand-side reforms they’re currently championing.
+Real healthcare choice requires both empowered consumers and a competitive supply of options to choose from. As Congress debates its next steps on healthcare affordability, Republicans must ensure both sides of that market equation are part of the conversation.

@@ -1,0 +1,71 @@
+TITLE: Family benefits in America: An international perspective
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/family-benefits-in-america-an-international-perspective/
+WORDS: 1141
+
+In our second annual
+Family Benefits in America
+report, we provide detailed information on the benefits available to two types of families from core social programs across 11 states. Although most states lack
+refundable child tax credits
+, they all administer
+SNAP
+and
+TANF
+programs to provide social assistance to families without any earnings. We can extend this 50-state analysis to look at how American families in certain situations stack up relative to similarly situated families in other countries.
+Canada offers a good comparative case for several reasons. Political scientists categorize both countries as
+liberal welfare regimes
+in which social policy relies heavily on targeted assistance to the poor. Like the United States, Canada has a mix of federally provided family policies and province-level social policies, with substantial variation among both states and provinces.
+Both countries also rely on
+federal block grants
+to states and provinces to fund social assistance programs. In the United States, the
+much discussed
+decline of TANF has been
+partially offset
+by the SNAP expansion, with about
+80 percent of TANF beneficiaries
+also receiving SNAP benefits. Both countries have
+similar take-up rates
+for basic social assistance. And both have increasingly
+relied on refundable tax credits
+to support families at the federal and state/provincial levels.
+These commonalities are partly why our annual
+Family Benefits in America
+report draws inspiration from Maytree’s annual
+Welfare in Canada
+report, which also looks at the variety of income sources available to families without earnings from a variety of sources. We can use these two reports to directly compare total benefit levels from social assistance and child benefits for a hypothetical single parent with one child in each U.S. state and Canadian province.
+When the reports are viewed side by side, two important points emerge: First, differences in the structure of the federal child tax credit and state social assistance generosity explain why American families receive substantially less government support than their Canadian counterparts. And second, these stylized facts suggest that social policy advocates can bring America’s minimal safety net more in line with Canada’s moderately generous standard with two major reforms to TANF and the federal child tax credit.
+Comparing benefits for American and Canadian families
+Drawing from Niskanen’s 2024
+Family Benefits in America
+and Maytree’s 2024
+Welfare in Canada
+reports, Figure 1 compares total incomes (adjusted for
+purchasing power parity
+) from social assistance (TANF plus SNAP in the U.S. and basic plus additional social assistance in Canada) and child benefits (state plus federal child tax credits in the U.S. and provincial plus federal child benefits in Canada) for a single parent with one young child and no earnings in each of the 50 states and Canada’s 10 provinces.
+This hypothetical family receives significantly more support in Canada than in the United States. On average, Canadian provinces provide $21,242 in total benefits to our hypothetical family versus just $12,396 averaged across U.S. states, amounting to an $8,846 gap in total incomes across the border. Only two states — California and New Hampshire — provide levels of support comparable to Canadian provinces. Figure 1 breaks down total incomes by source to reveal which states and policies drive the difference.
+Figure 1:
+Income breakdown by state/province (2024)
+Differences in social assistance generosity contribute to the gap. In the U.S., combined TANF and SNAP benefits average $12,150 across states versus $13,618 in the equivalent benefits across Canadian provinces. Given the uniformity of SNAP benefits across states, this $1,468 gap is generated largely by states with relatively meager TANF benefits. In fact, the top third of U.S. states are just as or more generous than the average Canadian province.
+The remaining gap between provinces and states ($7,378) is driven by differences in total child benefits, which average $246 a year across U.S. states versus $7,624 across Canadian provinces. Some of this can be attributed to child benefits being more common in Canadian provinces (seven out of 10) than in U.S. states (11 out of 50). The rest is attributable to differences at the federal levels, where our hypothetical American family receives $0 from the federal child tax credit while the Canadian family receives $6,506 from the
+Canada Child Benefit
+.
+Closing the gap
+Policymakers who want to close these gaps can focus their efforts most constructively on two major reforms — one to TANF and the other to the federal child tax credit — to help bring minimum safety net standards for American families closer to Canadian standards.
+At the state level, increasing TANF benefits in the bottom two-thirds of states would, combined with existing SNAP programs, bring American social assistance levels in line with Canada’s. In the 28 states in which maximum TANF benefits are set below one-third of the federal poverty line, raising the maximum TANF benefits to one-third of the federal poverty line would boost average combined TANF/SNAP benefits across states to $13,746, which is just above the average for Canadian provinces.
+At the federal level, America’s status as the
+only developed country without a broad-based child benefit
+explains most of the gap in benefits for families with no earned income. Congress can remedy this by expanding the child tax credit and making it fully refundable so that it becomes available to the lowest-income families.
+Figure 2 compares total incomes from social assistance and child benefits for the same families in a counterfactual situation where 1) the least generous states set their maximum TANF benefits to at least one-third of the federal poverty line; and 2) the federal government implements an
+American Family Act-style
+child tax credit worth $4,320 for each young child.
+Figure 2:
+Income breakdown by state/province under proposed reforms (2024)
+On average, U.S. states would provide $18,312 in total benefits to our hypothetical family versus just $12,396 under current law. While still below the average across Canadian provinces, the gap is significantly smaller, shrinking to less than $3,000 for these families.
+A good roadmap – but policy details still matter
+Policymakers interested in boosting family economic security have an alphabet soup of programs — TANF, SNAP, CTC, EITC, etc. — at their disposal. Drawing on comparative data from Canadian provinces suggests that focusing on changes to TANF and Child Tax Credits can go a long way toward bringing the U.S. more in line with other developed countries.
+Details still matter when it comes to policy design, though. States, for example, may struggle to boost TANF benefits given that the least generous states tend to receive the
+least amount of federal support
+due to outdated allocation formulas. Standalone child tax credit expansion like the one described here would be
+costly and unnecessarily duplicative
+if enacted without broader reforms to our maze of family tax benefits.
+Nonetheless, these findings suggest that advocates and policymakers can build a strong agenda for American families on existing policies at the state and federal levels.

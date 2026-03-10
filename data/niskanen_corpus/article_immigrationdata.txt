@@ -1,0 +1,95 @@
+TITLE: Legal Immigration in Numbers: January 2026 Status Update
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/immigrationdata/
+WORDS: 1346
+
+While President Trump has kept the spotlight on illegal immigration, legal immigration has also been disrupted—through policy changes and bureaucratic slowdowns. At the same time, delayed data releases have obscured how federal agencies are currently operating, limiting public insight. Below, I analyze the most recent data available, current as of January 9, 2026.
+Contents
+U.S. Citizenship and Immigration Services
+Subset of processing data for October 2025
+All forms processing data for April through June 2025
+FY2025 median processing times through September 30, 2025
+Department of State
+Consular wait times as of December 12, 2025
+IV and NIV monthly visa issuances for May 2025
+Department of Labor
+PERM Processing Times as of December 1, 2025
+Immigration and Customs Enforcement
+International student records through December 2025
+National Travel and Tourism Office
+Trends in overseas visitors through November 2025
+U.S. Citizenship and Immigration Services
+U.S. Citizenship and Immigration Services (USCIS) oversees the administration of legal immigration by adjudicating applications and petitions for benefits such as work authorization, citizenship, and legal permanent residence (green card status).
+Comprehensive processing data for all USCIS forms is only available through June 2025, but a smaller dataset provides updated details through October.
+Key takeaways from the October 2025 USCIS processing data:
+Application for Naturalization filings increased sharply in October 2025, likely due to the new naturalization test
+announced in September
+, taking effect for filings after October 20, 2025. USCIS received 109% more naturalization applications in October 2025 than in October 2024.
+Applications for work authorization dropped by nearly half compared to October 2024, yet the number of cases pending for over six months increased by nearly 95%.
+Consistent with
+reported pauses
+in refugee and asylum green card applications, case completions in these categories have continued to stall.
+Compared to October 2024, there were 140% more Cuban adjustment of status cases pending in October 2025.
+For all USCIS forms, processing data is only currently available through the third quarter of fiscal year 2025, or April through June 2025.
+Key takeaways from the FY2025 Q3 USCIS data:
+In FY2025 Q3, USCIS completed just 2.7 million cases, which, while consistent with Q2 completions, represents a nearly 16% decrease in completions compared to the same quarter last year.
+USCIS approved 21% fewer cases in FY2025 Q3 compared to the same time last year and 19% fewer than in Q1.
+USCIS completed 397% more affirmative asylum cases in FY2025 Q3 compared to the same quarter last year. In FY2025 Q3, USCIS denied 538% more affirmative asylum cases compared to the same quarter last year.
+Compared to FY2024 Q3, USCIS denied 482% more T nonimmigrant petitions and received 99% fewer U nonimmigrant petitions.
+In June 2025, USCIS received 103,211 H-1B petitions, the highest number of H-1B petitions filed in a single month since April 2019.
+The frontlog (unopened cases received by USCIS) nearly doubled since the end of Q2, rising from around 34,000 to over 60,000 at the end of Q3.
+The net backlog (backlogged cases within the government’s control) rose by nearly 1.6 million between Q2 and Q3, ending Q3 with 5,408,000 backlogged cases.
+The active DACA population dropped by 9,640 individuals between Q2 and Q3.
+Real-time USCIS processing data isn’t easily accessible in aggregate, but annual median processing times still offer valuable insight into broader trends.
+Key takeaways from the FY2025 Median Processing Times:
+The FY2025 median processing time for Form I-90, the application for a replacement green card, increased by
+486%
+between January 31, 2025 andSeptember 30, 2025.
+On average, reported median processing times for the fiscal year increased by 13 percent between January 31, 2025 and September 30, 2025. Excluding the I-90 486% increase, there was an average of a 3 percent increase among reported form types.
+Department of State
+The Department of State (DOS) issues visas to foreign nationals abroad, leveraging interviews and other vetting tools to protect the integrity and security of legal immigration.
+Key takeaways from consular wait times:
+Consular wait times have fluctuated sharply in recent months as new vetting procedures—such as
+social media reviews
+and
+duplicative interview requirements
+—have taken effect.  While some posts have managed to lower wait times in spite of these changes, other locations have seen steep increases in estimated wait times, driving up the average change statistics seen below.
+Consular wait times have fluctuated sharply in recent months as new vetting procedures—such as social media reviews and
+duplicative interview requirements
+—have taken effect.  While some posts have managed to lower wait times in spite of these changes, other locations have seen steep increases in estimated wait times, driving up the average change statistics seen below.
+Among reported posts, visitor wait times increased by an average of 95% between January 7, 2025 and November 20, 2025.
+Student wait times increased by an average of 188%.
+Petition-based wait times increased by an average of 137%.
+Transit and crew wait times increased by an average of 144%.
+Notes regarding data consistencies
+: Between January 2025 and April 2025, the Department of State consular wait time data changed formats. Data that was once reported in days is now published only in rounded months. For consistency, January 2025 figures have been converted into approximate months to allow comparison. Additionally, in September 2025, the Department of State began labeling any value less than 0.5 as “<0.5,” rather than providing the specific value or rounding down. For consistency, these values were rounded down to zero in the below chart.
+Key takeaways from the consular visa issuance statistics
+U.S. consulates issued
+16% fewer nonimmigrant visas
+in May 2025 than in May 2024.
+By magnitude, the largest decreases in NIV issuances occurred among visitor visa types B-1, B-2, B-1/B-2, BBBCC, BBBCV with a cumulative decrease of 136,025 and F-1 student visas with a decrease of 12,689, compared to May 2024.
+U.S. consulates issued
+20% fewer immigrant visas
+in May 2025 than in May 2024.
+By magnitude, the FX classification for country cap-exempt immediate relatives of green card holders experienced the largest decrease in IV issuances as U.S. consulates issued 6,128 fewer FX visas in May 2025 compared to May 2024.
+Department of Labor
+The Department of Labor (DOL) oversees multiple labor certification and prevailing wage processes that were designed to protect American workers and uphold minimum standards for the employment of foreign nationals sponsored on employment visas.
+Key takeaways from the PERM processing times
+After two months without updates, DOL released new data regarding the average processing time for PERM applications, increasing to 496 days from 472 days in September 2025. Still, PERM processing times remain below their highest point of 500 days in June 2025.
+Immigration and Customs Enforcement
+Beyond leading the interior enforcement efforts, Immigration and Customs Enforcement (ICE) also administers SEVIS, (the Student and Exchange Visitor Information System used by international students and cultural exchange visitors).
+Key takeaways from the SEVIS records
+October, November, and December 2025 reported year-over-year declines in active SEVIS records.
+In December 2025, there were 17,457 fewer active international student records overall and 21,008 fewer STEM-enrolled international student records, suggesting that international students pursuing STEM fields may have been more affected or deterred by recent policy changes.
+National Travel and Tourism Office
+The National Travel and Tourism Office, part of the International Trade Administration, tracks data on international travel to and from the United States.
+Key takeaways from the overseas visitor numbers
+Over 828,000 fewer overseas visitors came to the U.S. during the first 11 months of 2025 compared to the same time period in 2024.
+July 2025 and August 2025 both recorded over 100,000 fewer visitors than last year.
+March 2025 recorded the sharpest year-over-year drop of over 300,000 fewer visitors.
+February 2025 marked the first month with a year-over-year decrease in overseas visitors since the COVID-19 pandemic.
+The International Trade Administration that publishes this data says that every 40 international visits supports 1 U.S. job. At that rate, the U.S. could be missing out on over 20,700 American jobs as a result of tourism declines.
+ARCHIVE: Previous updates to the “Legal immigration in numbers” series are available for download here.
+August 2025
+October 2025
+December 2025

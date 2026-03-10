@@ -1,0 +1,42 @@
+TITLE: Rhode Island child tax credit would be bold, simple, and fiscally responsible
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/rhode-island-child-tax-credit-would-be-bold-simple-and-fiscally-responsible/
+WORDS: 861
+
+In his 2026 State of the State address, Rhode Island Governor Dan McKee laid out an innovative plan for reforming the state’s tax code to expand support for all families with children. The governor’s plan would replace the state’s existing personal exemption for dependents under 19 years old with a fully refundable child tax credit worth $325 per child.
+The plan, which follows what we have dubbed the
+New England model
+, wisely builds on existing policies by expanding their reach rather than creating a wholly new credit from scratch. Evidence from similar reforms in
+Massachusetts and Maine
+indicates these changes would be relatively inexpensive, well-targeted, and provide a crucial foundation of support for all families.
+The limits of Rhode Island’s dependent exemption
+Rhode Island, like many states, has a personal income tax system that relies on a
+standard deduction and personal exemptions
+paired with graduated rates to ensure progressivity. After claiming their standard deduction ($16,350 for single parents, $21,800 for married couples), Rhode Island taxpayers can also claim a $5,100 personal exemption for themselves, their spouse, and any eligible dependents such as children or disabled adults who live with them. These exemptions are available to households earning less than $254,250, at which point they begin to phase out along with the standard deduction. Figure 1 illustrates the value of the dependent exemption for a married couple with two children.
+Figure 1:
+Value of dependent exemptions for a married couple with two children (2025)
+Exemptions work by reducing the amount of income that is subject to the state’s income tax. The exemption is worth up to about $305 ($5,100 x 5.99%) for each eligible dependent, although the value depends on each family’s marginal tax rate. The exemption is worth less to families in lower tax brackets. Families with little or no income cannot benefit from the full value of these exemptions because they typically have little or no income tax liability after claiming the standard deduction and other personal exemptions. A family of four in which one parent is working fulltime at the state minimum wage, for example, does not receive any benefit from the exemption now.
+The case for swapping the exemption for a refundable child tax credit
+We worked with
+PolicyEngine
+to design a
+child tax credit calculator for Rhode Island
+. The calculator allows users to simulate the cost and impact of reducing or eliminating personal exemptions for dependents and replacing them with fully refundable child tax credits. Users can change the parameters (e.g., credit amount, age eligibility, and earnings requirements) to explore the impact of potential reforms.
+We simulated the cost and impact of the governor’s plan to replace the personal exemption for dependents under 19 with a fully refundable child tax credit worth $325 per child. The credit has no phase-in, making it available to all low- and middle-income households. In line with other personal exemptions, it begins to phase out at household earnings above $265,965 for all filing statuses (single, head of household, married). Households would still be able to claim personal exemptions for other eligible adults, including oneself, spouse, and disabled adult dependents.
+Our findings are consistent with the experience of other New England states. Figure 2 summarizes the proposal’s impact on Rhode Island in 2027.
+Figure 2
+: Statewide impact analysis
+For policymakers, a smarter approach to family polic
+y
+For policymakers, a smarter approach to family policy
+The net cost of the proposed changes would be about $36.73 million in 2027. Pairing the credit with elimination of personal exemptions for dependents under 19 is key. Without it, the net annual cost of the child tax credit as a standalone provision would balloon to $71.51 million. It is a good example of how reducing net costs by eliminating redundant policies provides policymakers with more fiscal room for other priorities.
+Importantly, the reduced net cost does not come at the expense of other goals. Because the exemption’s benefits were skewed toward higher income families, swapping it out for a credit results in most of the new benefits going to low- and middle-income families. Almost a third (29.2 percent) of Rhode Island families would see a bigger tax benefit, with most of those benefits going to families earning less than $50,000.
+Additionally, this approach avoids a
+common pitfall we have seen in other states
+in which policymakers change a family tax benefit without considering its impact on other benefits. The result is a “tax maze” of overlapping and badly targeted benefits that families struggle to navigate at tax time.
+Looking ahead
+To date,
+11 states
+have adopted refundable child tax credits as part of a growing trend to help families with the cost of raising children. If enacted during the 2026 session, Rhode Island’s would become the 12th.
+While these credits come in different shapes and sizes, the proposal laid out in Governor McKee’s State of the State address stands out. By building on the New England model, Rhode Island has the opportunity to achieve the trifecta of bold policy intervention, simplicity, and fiscal responsibility.
+Note: This analysis has been updated to reflect estimates for 2027 and a slight reweighting of population in PolicyEngine’s data.

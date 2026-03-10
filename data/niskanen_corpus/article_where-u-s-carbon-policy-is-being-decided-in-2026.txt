@@ -1,0 +1,74 @@
+TITLE: Where U.S. carbon policy is being decided in 2026
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/where-u-s-carbon-policy-is-being-decided-in-2026/
+WORDS: 876
+
+One year into the second Trump administration, carbon management policy is no longer advancing through climate-focused priorities at the executive level. Although the administration has been explicit that climate is not a central objective, its policy choices continue to carry significant emissions implications. Congress, meanwhile, continues to consider legislation that affects emissions outcomes, both directly and indirectly. As a result, the most consequential developments for U.S. emissions in 2026 are likely to emerge from decisions on trade dynamics and emissions data governance.
+Tariffs and Trade
+Europe continues to advance the design and expansion of the Carbon Border Adjustment Mechanism (CBAM). Although financial obligations will not take effect until September 2027, compliance requirements are
+already in force
+, leaving U.S. exporters full exposure in the absence of a federal carbon pricing system. Furthermore, the Commission had
+planned to present proposals to extend CBAM’s scope
+by the end of 2025; that timeline has slipped, but the proposals are still expected in the near term. In parallel, the U.S. and EU
+agreed last August
+to expand exceptions to the EU CBAM for U.S. small and medium-sized exporters, building on the existing de minimis threshold.
+Whether those commitments morph into real exemptions may depend on the broader trade relationship and the president’s authority to set tariffs–particularly if they continue to be wielded as
+leverage in international disputes
+.
+Meanwhile, the Supreme Court is
+considering
+the constitutionality of the administration’s reciprocal tariffs, and is expected to reach a decision in the next few months. If the court rules against the president, any
+replacement
+would need a more durable statutory basis, potentially reopening congressional consideration of legislated alternatives that raise revenue at the border–including carbon pricing.
+Two divergent paths emerge. If the Court ultimately upholds the tariffs, it would reinforce a president’s unilateral tariff authority, further diminishing Congress’s role. The president could sign–and continue to negotiate–the U.S.-EU CBAM exemption agreement. However, recent U.S. actions on trade and geopolitics have already prompted European leaders to discuss countermeasures, such as the EU’s
+anti-coercion instrument
+. Under those conditions, a deal that brings more CBAM-related exemptions for SMEs would likely become more difficult.
+If the Court strikes down or meaningfully narrows the tariffs, a
+replacement
+would need to survive judicial scrutiny while preserving the revenue the administration wishes to collect. Carbon-linked trade measures could be a credible Plan B, such as
+the Foreign Pollution Fee Act (FPFA)
+, sponsored by Sen. Bill Cassidy (R-LA) and Sen. Lindsey Graham (R-SC), and
+the Clean Competition Act
+, introduced by Sen. Sheldon Whitehouse (D-RI). These proposals would establish tariff-like mechanisms grounded in statute, with clearer WTO defensibility and more predictable revenue treatment. The open question is whether enough members of Congress would cooperate to advance such measures.
+Emissions measurement under shifting federal authority
+In July 2025, the administration signaled its intent to
+reconsider the Endangerment Finding
+, which
+underpins
+much of EPA’s climate authority under the Clean Air Act. Administrator Lee Zeldin has
+said
+the reconsideration has no fixed timeline, though a draft proposal was submitted to the White House in early January.
+Similarly, the EPA moved to
+reconsider
+the Greenhouse Gas Reporting Program (GHGRP), citing the goal of reducing industrial compliance costs by
+removing reporting obligations
+for many source categories, with a final decision
+expected in mid-2026
+. The GHGRP currently covers more than 8,000 of the highest-emitting facilities and has long served as the backbone of standardized, comparable emissions data across U.S. industry since 2009.
+Industry response has been notably cautious.
+Business
+groups
+have warned that abrupt changes could actually raise compliance costs by fragmenting reporting requirements across states and complicating market access for
+hard-to-abate sectors
+. Many stakeholders, including the
+carbon capture industry
+,
+have
+highlighted
+how GHGRP reporting requirements are used in the administration of the 45Q carbon sequestration tax credit. Weakening the reporting system without a viable replacement could create uncertainty for investment tied to tax-credit qualification. Absent congressional action, repealing the GHGRP might not directly increase emissions but would make required emissions reporting more costly and difficult.
+While the
+PROVE IT Act
+itself has not been reintroduced, its core approach has effectively resurfaced through Congress’s use of appropriations report language.
+Bicameral
+reports
+accompanying the fiscal 2026 Energy and Water appropriations bill directs the Department of Energy’s National Energy Technology Laboratory to assess the average emissions intensity of goods covered by the EU’s CBAM. Although report language is not statutory, agencies typically treat it as authoritative guidance, particularly when it reflects bicameral alignment. The resulting DOE-led study,
+due next January
+, would establish a federal baseline for product-level emissions data that could help U.S. companies respond to foreign trade measures. Whether this foundation leads to broader domestic carbon pricing policy remains an open question.
+Conclusion
+Legal and administrative decisions outside conventional climate policymaking are shaping U.S. emissions outcomes. Whether bills introduced in recent Congresses gain traction will depend on how trade negotiations and administration actions evolve, and on when members of Congress begin to view carbon pricing as a tool with
+economic
+and
+fiscal
+relevance. Those choices will also determine what
+data and accounting systems
+underpin future policy, shaping how both government and industry respond. Tracking how they unfold will be central to understanding the direction of U.S. carbon pricing policy in 2026.

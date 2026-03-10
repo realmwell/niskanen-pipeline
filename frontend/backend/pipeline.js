@@ -2,18 +2,86 @@
  * Multi-agent pipeline for the Niskanen content pipeline.
  * Shared by both lambda.js (AWS Lambda) and server.js (local Express).
  *
- * Runs 5 sequential agent steps:
+ * Dynamic model routing:
+ *   Agents 1-4 → Haiku (cheap structured extraction)
+ *   Agent 5    → Sonnet (high-quality long-form writing)
+ *
+ * Runs 5 agent steps:
  *   1. Research Analyst  — thesis, evidence, implications
  *   2. Audience Mapper   — target audiences, tone per format
  *   3. Citation Checker  — verify claims via Tavily web search
  *   4. Style Analyst     — writing patterns, rhetorical moves
- *   5. Content Writer    — 9 publication-ready formats
+ *   5. Content Writer    — 9 formats (5 tweets, 3 LinkedIn, 5 Bluesky, newsletter,
+ *                          one-pager, op-ed, media recs, Instagram post, IG story)
  *
  * Agents 2-4 run in parallel (fan-out) after the research analyst.
  * Agent 5 waits for all four intermediate outputs (fan-in).
+ *
+ * Post-processing: em dash removal, AI vocabulary sanitization, placeholder scanning.
  */
 
 import * as cheerio from "cheerio";
+
+/* ------------------------------------------------------------------
+   LangSmith tracing (optional -- silently skipped if not configured)
+   ------------------------------------------------------------------ */
+
+let RunTree = null;
+try {
+  const langsmith = await import("langsmith");
+  RunTree = langsmith.RunTree;
+} catch {
+  // langsmith not installed — tracing disabled
+}
+
+const LANGSMITH_ENABLED = !!(RunTree && process.env.LANGSMITH_API_KEY);
+const LANGSMITH_PROJECT = process.env.LANGSMITH_PROJECT || "takehome";
+
+async function createParentRun(name, inputs) {
+  if (!LANGSMITH_ENABLED) return null;
+  try {
+    const run = new RunTree({
+      name,
+      run_type: "chain",
+      inputs,
+      project_name: LANGSMITH_PROJECT,
+    });
+    await run.postRun();
+    return run;
+  } catch (err) {
+    console.warn(`[langsmith] Failed to create run: ${err.message}`);
+    return null;
+  }
+}
+
+async function createChildRun(parent, name, runType, inputs) {
+  if (!parent) return null;
+  try {
+    const child = await parent.createChild({
+      name,
+      run_type: runType || "chain",
+      inputs,
+    });
+    await child.postRun();
+    return child;
+  } catch {
+    return null;
+  }
+}
+
+async function endRun(run, outputs, error) {
+  if (!run) return;
+  try {
+    if (error) {
+      run.end({ error: error.message || String(error) });
+    } else {
+      run.end(outputs);
+    }
+    await run.patchRun();
+  } catch {
+    // silent
+  }
+}
 
 /* ------------------------------------------------------------------
    Helpers
@@ -68,6 +136,64 @@ async function callBedrock(client, model, systemPrompt, userPrompt, maxTokens = 
     messages: [{ role: "user", content: userPrompt }],
   });
   return response.content[0].text.trim();
+}
+
+/**
+ * Post-processing: remove em dashes, en dashes, and AI-writing markers.
+ * Runs recursively on all string values in the content object.
+ */
+function sanitizeOutput(value) {
+  if (typeof value === "string") {
+    let s = value;
+    // Em dashes → comma or restructured
+    s = s.replace(/\s*\u2014\s*/g, ", ");
+    // En dashes in non-numeric contexts → hyphen
+    s = s.replace(/(\D)\u2013(\D)/g, "$1-$2");
+    // AI vocabulary replacements
+    const aiWords = [
+      [/\bAdditionally,?\s*/gi, "Also, "],
+      [/\bdelve(?:s|d)?\s+(?:into|deeper)\b/gi, "examine"],
+      [/\blandscape\b(?!\s+(?:architect|design|paint))/gi, "environment"],
+      [/\btapestry\b/gi, "mix"],
+      [/\ba testament to\b/gi, "evidence of"],
+      [/\bunderscore[sd]?\b/gi, "show"],
+      [/\bserves as\b/gi, "is"],
+      [/\bstands as\b/gi, "is"],
+      [/\bhighlights the importance of\b/gi, "shows why"],
+      [/\bIt is (?:crucial|critical|vital|essential) (?:that|to)\b/gi, "It matters that"],
+      [/\bpivotal\b/gi, "important"],
+      [/\bgroundbreaking\b/gi, "significant"],
+      [/\btransformative\b/gi, "significant"],
+    ];
+    for (const [pat, rep] of aiWords) {
+      s = s.replace(pat, rep);
+    }
+    return s;
+  }
+  if (Array.isArray(value)) return value.map(sanitizeOutput);
+  if (value && typeof value === "object") {
+    const out = {};
+    for (const [k, v] of Object.entries(value)) out[k] = sanitizeOutput(v);
+    return out;
+  }
+  return value;
+}
+
+/**
+ * Scan for placeholder patterns in content. Logs warnings but does not throw.
+ */
+function scanForPlaceholders(obj, path = "") {
+  const pattern = /\[.*?(would|insert|add|your|example|placeholder|text here|lorem|TBD|full .* here|generated here).*?\]/gi;
+  if (typeof obj === "string") {
+    const matches = obj.match(pattern);
+    if (matches) {
+      console.warn(`[pipeline] Placeholder detected at ${path}: ${matches.join(", ")}`);
+    }
+  } else if (Array.isArray(obj)) {
+    obj.forEach((v, i) => scanForPlaceholders(v, `${path}[${i}]`));
+  } else if (obj && typeof obj === "object") {
+    for (const [k, v] of Object.entries(obj)) scanForPlaceholders(v, `${path}.${k}`);
+  }
 }
 
 async function searchTavily(apiKey, query) {
@@ -326,7 +452,16 @@ Your writing voice:
 - When writing tweets, they should read like a knowledgeable person summarizing findings, not a marketing department
 - On Instagram, lead with the single most visual data point. Captions should read like a smart friend explaining the finding, not a marketing department.
 
-You do NOT inflate significance. You do NOT use phrases like "a testament to," "serves as," "highlights the importance of," or "underscores." You write like someone who assumes the reader is smart and busy.`;
+You do NOT inflate significance. You do NOT use phrases like "a testament to," "serves as," "highlights the importance of," or "underscores." You write like someone who assumes the reader is smart and busy.
+
+HARD RULES:
+- NEVER use em dashes (\u2014). Use commas, colons, or parentheses instead.
+- NEVER start sentences with "Additionally." Use "Also" or restructure.
+- NEVER write "delve," "landscape," "tapestry," "pivotal," "groundbreaking," or "transformative."
+- NEVER write "Not only...but also" constructions.
+- NEVER force ideas into groups of three unless the content genuinely has three parts.
+- Use "use" not "utilize," "help" not "facilitate," "about" not "approximately."
+- Active voice over passive. One idea per paragraph.`;
 
 async function runContentWriter(client, model, article, research, audience, facts, style) {
   const prompt = `Generate a content package for this Niskanen Center article. Use the research analysis, audience mapping, fact-check results, and style patterns below to inform your writing.
@@ -357,21 +492,25 @@ Generate ALL NINE formats below. Reference actual findings and data from the res
 
 Return valid JSON with exactly these keys (generate them in this order):
 
-1. "twitter_post": Under 280 characters. Lead with the single most striking finding or number. Reference @NiskanenCenter. No hashtags, no emojis.
+1. "twitter_posts": Array of 5 tweets. Each under 280 characters. Each takes a DIFFERENT angle on the findings (one data-led, one implication-led, one question, one quote-worthy, one contrarian). Reference @NiskanenCenter in at least 2. End each with 2-3 relevant policy hashtags (e.g., #FiscalPolicy, #ImmigrationReform, not generic like #policy or #news).
 
-2. "full_oped": 700-900 word op-ed. THIS IS THE LONGEST FORMAT — write it in full. Structure:
-   - LEDE: Open with a vivid scene, counterintuitive claim, or striking juxtaposition — not a throat-clearing summary.
+2. "full_oped": 700-900 word op-ed. THIS IS THE LONGEST FORMAT -- write it in full. Structure:
+   - LEDE: Open with a vivid scene, counterintuitive claim, or striking juxtaposition -- not a throat-clearing summary.
    - THESIS: State a provocative, specific position within the first 3 paragraphs. This is an argument, not a report.
    - BODY: Build 3 distinct arguments, each anchored by evidence from the research analysis. Use transitions that advance the argument.
    - "TO BE SURE" PARAGRAPH: Acknowledge the strongest counterargument head-on, then explain why your position still holds. This is what separates credible op-eds from advocacy pieces.
-   - KICKER: Circle back to the lede image or scene. End with a specific, actionable policy ask — not a vague call to action.
+   - KICKER: Circle back to the lede image or scene. End with a specific, actionable policy ask -- not a vague call to action.
    - After the op-ed text, add: "SUGGESTED TARGETS: [name 2-3 specific publications where this piece would fit, with reasoning]"
 
-3. "linkedin_post": 3-5 paragraphs. Open with the structural problem, then walk through specific findings with numbers, then close with concrete proposals. Use line breaks between paragraphs.
+3. "linkedin_posts": Array of 3 LinkedIn posts. Each 3-5 paragraphs with a different approach:
+   - Post 1: Data-led. Open with the most striking number, walk through implications, close with a question.
+   - Post 2: Narrative-led. Open with a human story or scenario that illustrates the problem, connect to findings.
+   - Post 3: Question-led. Open with a provocative question, answer it with evidence, end with a policy proposal.
+   End each with 3-5 relevant hashtags (e.g., #PolicyAnalysis, #ThinkTank). Use line breaks between paragraphs.
 
-4. "bluesky_post": Under 300 characters. Use a different angle from the tweet — if the tweet leads with data, Bluesky should lead with the policy implication, or vice versa.
+4. "bluesky_posts": Array of 5 posts. Each under 300 characters. Each takes a DIFFERENT angle (same diversity as tweets). End each with 2-3 relevant hashtags.
 
-5. "newsletter_paragraph": Under 165 words. Structure as: HOOK (1 sentence with the most striking fact or statistic) -> CONTEXT (1-2 sentences on why this matters now, tied to current legislative or news cycle) -> EVIDENCE (1 sentence with a specific data point from the research) -> CTA (1 sentence directing reader to the full piece, with a placeholder hyperlink like [Read the full analysis]). Model this on Brookings Brief or Atlantic Council newsletter style — dense with information, no fluff.
+5. "newsletter_paragraph": Under 165 words. Structure as: HOOK (1 sentence with the most striking fact or statistic) -> CONTEXT (1-2 sentences on why this matters now, tied to current legislative or news cycle) -> EVIDENCE (1 sentence with a specific data point from the research) -> CTA (1 sentence directing reader to the full piece, with a placeholder hyperlink like [Read the full analysis]). Model this on Brookings Brief or Atlantic Council newsletter style -- dense with information, no fluff.
 
 6. "congressional_one_pager": Return a JSON object with these keys:
    - "title": Short descriptive title
@@ -383,14 +522,22 @@ Return valid JSON with exactly these keys (generate them in this order):
    - "contact": "Niskanen Center | niskanencenter.org"
 
 7. "media_outlet_recommendations": Return a JSON object with these keys:
-   - "primary_targets": Array of 3 objects, each with: "outlet" (publication name), "section" (specific section or vertical), "beat" (beat reporter's focus area), "pitch_angle" (1-sentence angle tailored to this outlet), "why" (why this outlet is a fit for this specific paper)
-   - "secondary_targets": Array of 3 objects with same structure
+   - "primary_targets": Array of 3 objects, each with: "outlet" (publication name), "url" (the outlet's submission or tips page URL, e.g., "https://www.politico.com/tips"), "section" (specific section or vertical), "beat" (beat reporter's focus area), "pitch_angle" (1-sentence angle tailored to this outlet), "why" (why this outlet is a fit for this specific paper)
+   - "secondary_targets": Array of 3 objects with same structure (including "url")
    - "pitch_angles": Array of 3 objects, each with: "angle" (the story angle), "suggested_headline" (a headline an editor would actually run)
    - "timing_hooks": Array of 2-3 strings naming specific legislative calendars, appropriations deadlines, upcoming hearings, or news pegs that create urgency
-   - "pitch_email_draft": A 3-4 sentence pitch email template that a comms staffer could send to a reporter. Include [REPORTER NAME] and [OUTLET] placeholders.
+   - "pitch_email_draft": A 5-7 sentence pitch email. Structure:
+     Sentence 1: Lead with the specific news peg or data point (never open with "I hope this finds you well" or "Dear Editor").
+     Sentence 2: State the paper's core finding in plain English.
+     Sentence 3: Why this matters to [OUTLET]'s readers specifically.
+     Sentence 4: What's new or counterintuitive about this finding.
+     Sentence 5: Concrete offer ("The author is available for interview" or "We can provide exclusive data").
+     Sentence 6: Specific ask ("Would you have 15 minutes this week to discuss?").
+     Use [REPORTER NAME], [OUTLET], and [ARTICLE LINK] placeholders.
+     Tone: collegial, not deferential. You're offering a story, not begging for coverage.
 
 8. "instagram_post": Return a JSON object with these keys:
-   - "visual_description": Describe the ideal visual — a single-stat hero graphic, a carousel concept, or a quote card. Specify layout, suggested colors/contrast, and text overlay content. Think Brookings Instagram or Urban Institute data viz style.
+   - "visual_description": Describe the ideal visual -- a single-stat hero graphic, a carousel concept, or a quote card. Specify layout, suggested colors/contrast, and text overlay content. Think Brookings Instagram or Urban Institute data viz style.
    - "caption": 150-200 words. Front-load the most interesting finding in the first sentence (it gets truncated in feeds). Write like a smart friend explaining the finding, not a press release. End with a clear call to action.
    - "hashtags": Array of 3-5 specific, relevant hashtags (policy-focused, not generic like #policy)
    - "alt_text": Accessibility description of the proposed visual, under 125 characters
@@ -401,17 +548,23 @@ Return valid JSON with exactly these keys (generate them in this order):
    - "poll_question": An engaging binary poll question related to the finding (e.g., "Should Congress fund X? Yes / No")
    - "link_sticker_text": Short text for the link sticker (e.g., "Read the research" or "Full analysis here")
 
-CRITICAL: Write ALL content in full. Never use placeholders like "[text would go here]". Every format must contain complete, publication-ready text.
+CRITICAL: Write ALL content in full. Never use placeholders like "[text would go here]". Every format must contain complete, publication-ready text with real data from the research analysis.
 
 Return ONLY the JSON object, no markdown fencing, no explanation.`;
 
-  const raw = await callBedrock(client, model, NISKANEN_VOICE, prompt, 8000);
-  const pkg = parseJSON(raw);
+  const raw = await callBedrock(client, model, NISKANEN_VOICE, prompt, 12000);
+  let pkg = parseJSON(raw);
+
+  // Post-process: remove em dashes, AI vocabulary, and other humanizer violations
+  pkg = sanitizeOutput(pkg);
+
+  // Scan for placeholder text (logs warnings)
+  scanForPlaceholders(pkg, "content");
 
   const required = [
-    "twitter_post",
-    "linkedin_post",
-    "bluesky_post",
+    "twitter_posts",
+    "linkedin_posts",
+    "bluesky_posts",
     "newsletter_paragraph",
     "congressional_one_pager",
     "full_oped",
@@ -424,6 +577,61 @@ Return ONLY the JSON object, no markdown fencing, no explanation.`;
   }
 
   return pkg;
+}
+
+/**
+ * Regenerate a single content format using cached intermediate agent outputs.
+ * Used by the HITL reject-and-regenerate flow.
+ */
+async function regenerateSingleFormat(client, model, article, research, audience, facts, style, formatKey) {
+  // Build a focused prompt for just one format
+  const formatPrompts = {
+    twitter_posts: 'Generate an array of 5 tweets about this article. Each under 280 chars, different angles. Reference @NiskanenCenter in at least 2. End each with 2-3 relevant policy hashtags.',
+    linkedin_posts: 'Generate an array of 3 LinkedIn posts. Each 3-5 paragraphs. Post 1: data-led, Post 2: narrative-led, Post 3: question-led. End each with 3-5 hashtags.',
+    bluesky_posts: 'Generate an array of 5 Bluesky posts. Each under 300 chars, different angles. End each with 2-3 hashtags.',
+    newsletter_paragraph: 'Write a newsletter paragraph under 165 words. Structure: HOOK -> CONTEXT -> EVIDENCE -> CTA.',
+    congressional_one_pager: 'Write a congressional one-pager as a JSON object with keys: title, the_ask, the_problem (array), the_evidence (array), key_recommendations (array), bottom_line, contact.',
+    full_oped: 'Write a 700-900 word op-ed. LEDE -> THESIS -> BODY (3 arguments) -> TO BE SURE paragraph -> KICKER. Add SUGGESTED TARGETS at the end.',
+    media_outlet_recommendations: 'Write media outlet recommendations as a JSON object with: primary_targets (3, each with outlet, url, section, beat, pitch_angle, why), secondary_targets (3, same), pitch_angles (3), timing_hooks (2-3), pitch_email_draft (5-7 sentences).',
+    instagram_post: 'Write an Instagram post as JSON with: visual_description, caption (150-200 words), hashtags (3-5), alt_text, cta.',
+    instagram_story: 'Write an Instagram story as JSON with: frames (3 objects), poll_question, link_sticker_text.',
+  };
+
+  const formatPrompt = formatPrompts[formatKey] || `Generate the "${formatKey}" format.`;
+
+  const prompt = `Regenerate ONLY the "${formatKey}" format for this article. The previous version was rejected by the editor.
+
+TITLE: ${article.title}
+${article.author ? `AUTHOR: ${article.author}` : ""}
+
+ARTICLE TEXT (excerpt):
+${article.text.slice(0, 3000)}
+
+RESEARCH ANALYSIS:
+${JSON.stringify(research, null, 2)}
+
+TARGET AUDIENCES:
+${JSON.stringify(audience, null, 2)}
+
+FACT-CHECK RESULTS:
+${JSON.stringify(facts, null, 2)}
+
+STYLE PATTERNS:
+${JSON.stringify(style, null, 2)}
+
+---
+
+${formatPrompt}
+
+Write a FRESH version, different from the previous attempt. Use different angles, different opening lines, and different evidence ordering.
+
+Return valid JSON with exactly one key: "${formatKey}". No markdown fencing.`;
+
+  const raw = await callBedrock(client, model, NISKANEN_VOICE, prompt, 4000);
+  let result = parseJSON(raw);
+  result = sanitizeOutput(result);
+  scanForPlaceholders(result, `regenerate.${formatKey}`);
+  return result;
 }
 
 /* ------------------------------------------------------------------
@@ -504,26 +712,60 @@ export async function fetchArticleText(url) {
    Main pipeline: 5 agents, fan-out/fan-in topology
    ------------------------------------------------------------------ */
 
-export async function runAgentPipeline(client, model, tavilyKey, article) {
+/**
+ * Main pipeline: 5 agents with dynamic model routing.
+ * @param {object} client - Bedrock SDK client
+ * @param {string} analysisModel - Model for agents 1-4 (Haiku: cheap structured extraction)
+ * @param {string} writerModel - Model for agent 5 (Sonnet: high-quality long-form writing)
+ * @param {string} tavilyKey - Tavily API key for citation verification
+ * @param {object} article - { title, author, text, wordCount }
+ */
+export async function runAgentPipeline(client, analysisModel, writerModel, tavilyKey, article) {
   const timings = {};
+
+  console.log(`[pipeline] Analysis model: ${analysisModel}`);
+  console.log(`[pipeline] Writer model: ${writerModel}`);
+  if (LANGSMITH_ENABLED) console.log(`[pipeline] LangSmith tracing: ${LANGSMITH_PROJECT}`);
+
+  // Create LangSmith parent run for the whole pipeline
+  const parentRun = await createParentRun("niskanen_pipeline", {
+    url: article.title,
+    word_count: article.wordCount,
+    analysis_model: analysisModel,
+    writer_model: writerModel,
+  });
 
   // ── Agent 1: Research Analyst (sequential, must run first) ──
   let research_summary;
   let t = Date.now();
+  const researchRun = await createChildRun(parentRun, "research_analyst", "chain", {
+    article_title: article.title,
+    model: analysisModel,
+  });
   try {
-    research_summary = await runResearchAnalyst(client, model, article);
+    research_summary = await runResearchAnalyst(client, analysisModel, article);
+    await endRun(researchRun, { research_summary });
   } catch (err) {
     console.error(`[research_analyst] Error: ${err.message}`);
     research_summary = { ...FALLBACK_RESEARCH };
+    await endRun(researchRun, null, err);
   }
   timings.research_analyst = Date.now() - t;
 
   // ── Agents 2-4: Fan-out (parallel, all depend on research_summary) ──
   t = Date.now();
+
+  // Create child runs for parallel agents
+  const [audienceRun, citationRun, styleRun] = await Promise.all([
+    createChildRun(parentRun, "audience_mapper", "chain", { model: analysisModel }),
+    createChildRun(parentRun, "citation_checker", "chain", { model: analysisModel, tavily: !!tavilyKey }),
+    createChildRun(parentRun, "style_analyst", "chain", { model: analysisModel }),
+  ]);
+
   const [audienceResult, citationResult, styleResult] = await Promise.allSettled([
-    runAudienceMapper(client, model, research_summary),
-    runCitationChecker(client, model, tavilyKey, research_summary),
-    runStyleAnalyst(client, model, research_summary, article),
+    runAudienceMapper(client, analysisModel, research_summary),
+    runCitationChecker(client, analysisModel, tavilyKey, research_summary),
+    runStyleAnalyst(client, analysisModel, research_summary, article),
   ]);
 
   const parallelTime = Date.now() - t;
@@ -543,23 +785,52 @@ export async function runAgentPipeline(client, model, tavilyKey, article) {
       ? styleResult.value
       : (() => { console.error(`[style_analyst] Error: ${styleResult.reason}`); return { ...FALLBACK_STYLE }; })();
 
+  // End parallel agent runs
+  await endRun(audienceRun,
+    audienceResult.status === "fulfilled" ? { audience_map } : null,
+    audienceResult.status === "rejected" ? audienceResult.reason : null);
+  await endRun(citationRun,
+    citationResult.status === "fulfilled" ? { fact_check_report } : null,
+    citationResult.status === "rejected" ? citationResult.reason : null);
+  await endRun(styleRun,
+    styleResult.status === "fulfilled" ? { style_patterns } : null,
+    styleResult.status === "rejected" ? styleResult.reason : null);
+
   // Approximate individual timings from parallel execution
   timings.audience_mapper = parallelTime;
   timings.citation_checker = parallelTime;
   timings.style_analyst = parallelTime;
 
-  // ── Agent 5: Content Writer (sequential, depends on all 4) ──
+  // ── Agent 5: Content Writer (Sonnet — high quality, depends on all 4) ──
   t = Date.now();
-  const content = await runContentWriter(
-    client,
-    model,
-    article,
-    research_summary,
-    audience_map,
-    fact_check_report,
-    style_patterns
-  );
+  const writerRun = await createChildRun(parentRun, "content_writer", "chain", {
+    model: writerModel,
+    formats: 9,
+  });
+  let content;
+  try {
+    content = await runContentWriter(
+      client,
+      writerModel,
+      article,
+      research_summary,
+      audience_map,
+      fact_check_report,
+      style_patterns
+    );
+    await endRun(writerRun, { formats_generated: Object.keys(content).length });
+  } catch (err) {
+    await endRun(writerRun, null, err);
+    throw err; // Content writer failure is fatal
+  }
   timings.content_writer = Date.now() - t;
+
+  // End parent run
+  await endRun(parentRun, {
+    success: true,
+    formats_generated: Object.keys(content).length,
+    total_time_ms: Object.values(timings).reduce((a, b) => a + b, 0),
+  });
 
   return {
     research_summary,
@@ -570,3 +841,9 @@ export async function runAgentPipeline(client, model, tavilyKey, article) {
     agent_timings: timings,
   };
 }
+
+/**
+ * Regenerate a single format (for HITL reject flow).
+ * Uses the writer model for quality.
+ */
+export { regenerateSingleFormat };

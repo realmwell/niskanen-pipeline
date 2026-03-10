@@ -1,0 +1,89 @@
+TITLE: We can build infrastructure and habitat at the same time
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/we-can-build-infrastructure-and-habitat-at-the-same-time/
+WORDS: 1808
+
+It is too hard to build in the United States, but build we must.
+A growing chorus of abundance advocates
+argues
+that America’s regulatory framework is misaligned with America’s needs. Well-meaning procedures designed to mitigate environmental degradation too often prevent the construction of housing, transmission lines, transit, and other critical infrastructure.
+Severe weather events now cause
+billions
+in damages annually, while electricity demand is
+on the rise
+— driven by economic growth and the expansion of artificial intelligence and advanced manufacturing. Building resilient, modern infrastructure will be essential for maintaining global competitiveness, ensuring affordability and reliability, and supporting a growing domestic economy.
+Yet even as our capacity to build the economic and technical infrastructure we need has stalled, we are also losing much of the natural infrastructure we depend on. More than
+one-third
+of U.S. plants and animals are at increased risk of extinction, and
+over half
+of the nation’s wetlands — and many other ecosystems — have been lost in recent decades. These natural systems have inherent ecological, cultural, and recreational value. They also provide economic services like storing carbon, purifying air and water, buffering floods, and more.
+We can restore and conserve our natural systems even as we build the infrastructure that supports American growth and prosperity. These goals are not inherently in conflict; growth and environmental protection are not mutually exclusive. Expanding the supply of energy, housing, and transit can happen with acceptable and mitigatable impacts, and depends on reforming the same procedural friction that has also limited restoration efforts and the growth of natural infrastructure.
+We can build infrastructure and habitats at the same time. In fact, in some ways, we already do.
+Upper Colorado River Endangered Fish Recovery Program
+Consider, for example, the Upper Colorado River Endangered Fish Recovery Program, which meets the needs of both water users and threatened and endangered fish. The Colorado River
+supports
+40 million people across seven states, irrigates nearly 5.5 million acres of agricultural land, and can generate around 4,200 megawatts of electrical generating capacity from hydropower per year. It’s also home to four native fish species that can be found only in this river system.
+In the 1980s, all four of these fish were on a trajectory to extinction, due in large part to water resource development. In response, a coalition of state and federal actors, water users, tribes, and conservation groups created the Upper Colorado River Endangered Fish Recovery Program, followed by a sister program in the San Juan River Basin — a major tributary in the same river system. The goal of the programs was recovery of the four species while providing Endangered Species Act (ESA) compliance for water users — such as municipalities, hydropower projects, and irrigators — throughout the entire basin.
+The result is an arrangement that provides basin-wide regulatory certainty to water users in exchange for their help in funding and implementing recovery activities. Under the program, populations of the fish have increased, with one species already
+downlisted
+and the U.S. Fish and Wildlife Service
+proposing
+to downlist another. Meanwhile, over 2,500 water projects are now in compliance with the ESA — with
+zero lawsuits
+over their effect on protected species. This is remarkable for a region historically
+beset by
+complex water allocations and litigation.
+Compensatory Mitigation under the Clean Water Act
+Compensatory mitigation under the Clean Water Act (CWA) is another model for how we’ve balanced these priorities. Section 404 of the CWA, jointly administered by the U.S. Army Corps of Engineers and the U.S. Environmental Protection Agency, requires a permit for the discharge of dredged or fill material into waters of the United States, including wetlands, streams, and other aquatic resources.
+Projects that will cause unavoidable damage to resources like wetlands must restore, establish, enhance, or preserve other aquatic resources as a condition of a permit. This policy generally follows a mitigation hierarchy: developers must first avoid, then minimize their impacts. Only once impacts have been minimized can they offset any remaining impacts through compensatory mitigation.
+One mechanism that has proven effective is mitigation banking, which allows developers to meet their regulatory requirements by purchasing validated credits approved in advance by an interagency review team led by the Army Corps of Engineers. Mitigation banking eliminates the need for regulators to evaluate project-specific plans for each permit,
+reducing permit processing time
+by about 50 percent. Mitigation banks create larger, more continuous tracts of habitat than project-based mitigation. Time, money, and interagency expertise are invested in the planning and monitoring. As a result, mitigation banks are more likely to achieve lasting ecological benefits and to create sites that are genuinely protected in perpetuity than in the conventional regulatory approach, where mitigation happens on a project-by-project basis.
+Compensatory mitigation is not without challenges, but it has channeled
+billions of dollars
+into wetland restoration and conservation while delivering regulatory certainty for necessary development projects — such as new transit systems and residential developments.
+The Legacy of the Land and Water Conservation Fund
+The Land and Water Conservation Fund (LWCF), which Congress established in 1964, has ensured lasting investment in America’s natural and recreational assets without relying on taxpayer dollars. Funded primarily through offshore oil and gas revenues, the LWCF created a steady mechanism for reinvesting a fraction of energy development revenues back into land conservation and public recreation.
+Throughout its 60-year history, the fund has allowed federal land management agencies to conserve over 8 million acres of public space. This has happened primarily through the purchase of private “inholdings” within national parks, forests, refuges, monuments, and other protected areas that otherwise would fragment habitat and undermine management and conservation efforts. The fund also supports state and local projects, and
+nearly every U.S. county
+has benefited from LWCF investments in parks, trails, and recreation facilities.
+Despite a history of
+being underresourced
+relative to authorized amounts, the fund has been widely recognized by
+lawmakers
+,
+conservationists
+, and
+sportsmen and -women
+alike as one of America’s most important conservation tools.
+Lessons from transmission development
+The 102-mile Cardinal Hickory Creek Transmission Line proposed to cross one mile of the Upper Mississippi River National Wildlife and Fish Refuge, which comprises 240,000 acres touching Illinois, Iowa, Minnesota, and Wisconsin. To do so, the developer and the Fish and Wildlife Service negotiated an exchange. The developer acquired 20 acres of refuge land to build the line, and in return, transferred 36 acres of higher-quality, contiguous habitat to the refuge. The developer acquired land already fragmented by a gravel road and agreed to remove existing infrastructure by consolidating two utility corridors down to one. The Fish and Wildlife Service
+concluded
+that the exchange “fulfills the Refuge’s purposes” by trading lower-quality habitat for a high-priority tract that would not otherwise have been available. The project faced
+litigation
+from some conservation groups, but the proposal ultimately prevailed.
+This kind of negotiated habitat exchange is one way to reduce the footprint of new transmission lines. Other
+approaches
+have included establishing a
+trust fund
+to improve aquatic habitats surrounding underwater cables in the Northeast;
+relocating lakes
+to protect migrating birds in the Southwest; and deploying more high-voltage direct-current transmission technology, which
+requires less space
+to deliver the same amount of power as the alternating-current alternative. These approaches have helped lessen the disturbance that building new transmission has on land and resources.
+A better way to build
+While these examples show us what is possible, they also reveal where our systems have sometimes fallen short.
+The United States’ core environmental laws, largely written in the 1970s, were built to prevent and minimize harm to the environment. Despite our need to permit and implement more projects that restore and conserve, these activities can trigger environmental review and permitting, just as development projects do. In practice, that can mean a multitude of regulatory hurdles and added time and costs before work can begin — even when the goal is ecological improvement.
+Consider what this means for a few of the examples we just examined.
+The Upper Colorado River Endangered Fish Recovery Program achieved impressive results, yet voluntary restoration efforts in the basin may still face lengthy permitting reviews. If restoration projects weren’t evaluated under the same permitting lens as development, could this near 40-year conservation effort have accomplished even more in less time?
+Even as mitigation banks have matured as an established market for ecological restoration, the approval process for new banks frequently exceeds federal directives — sometimes taking up to
+1.5 times longer
+than required — and varies widely among Army Corps of Engineers districts that administer the program. These delays postpone the approval of new restoration efforts and the availability of new high-quality habitat to offset development.
+The permitting process to restore damaged ecosystems should not be as burdensome as the permitting process required to cause damage in the first place. When restoration is hard and slow, every acre affected by infrastructure can feel precious and worth fighting for, even when thoughtful exchanges could lead to net benefits. Permitting should make it easier to deliver positive environmental outcomes faster, in both habitat restoration and infrastructure construction.
+So how can we make it easier to do both, to reflect true costs and to generate mutual benefits?
+First, we can remove barriers to restoration. Good stewardship produces broad public benefits, and more high-quality habitat reduces pressure to preserve every acre affected by infrastructure. We should reduce regulatory burdens and incentivize the necessary and important work of restoring and maintaining America’s wildlife and habitat.
+Second, we can shift toward an outcome-based permitting system with fewer procedural steps. We need clear rules, predictable timelines, and a measurable definition of what success looks like so that we can plan for, finance, and deliver on environmental protection from the outset.
+Third, we can reassess the mitigation hierarchy we have today, recognizing that investment in restoration is essential, not tertiary. The current mitigation framework makes restoration a last resort. Responsible stewardship includes thinking in advance about where and how we can mitigate the effects of infrastructure by investing in more high-quality ecosystems elsewhere.
+Fourth, we can leverage fiscal and market-based tools for conservation. A well-designed instrument or market can deliver resilient landscapes and healthy ecosystems at scale and with efficiency. When linked to conservation goals, they can also help assemble broad political support.
+While some of these proposals may feel counterintuitive to half a century of habitat protection, if we are going to build — and build we must — then we need reform that clarifies how to build responsibly, credibility on environmental protection, and speed in delivering both infrastructure and habitat. The examples above remind us that we can assemble broad support and accomplish our policy goals when we think creatively about how to meet them.
+Building infrastructure and conserving habitat are not inherently incompatible. Finding an equilibrium between them must be a defining feature of America’s next chapter of growth.

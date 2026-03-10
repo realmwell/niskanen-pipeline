@@ -1,0 +1,55 @@
+TITLE: Don’t just poke holes in the PRA
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/dont-just-poke-holes-in-the-pra/
+WORDS: 1072
+
+Data Analysis by Cameron Unice
+The Paperwork Reduction Act (PRA)—especially its information collection process—is failing to fulfill its purposes.
+Many critics have written about
+its unintended consequences and persistent flaws. Some argue the PRA should be “
+on the chopping block
+” or “
+nuked from space
+,” while others advance the view that a “
+small number of straightforward reforms
+” could fix the statute. Whatever the solution, one thing is clear: the PRA, in its current form, is not working.
+Congress has noticed. Over the past decade, lawmakers have introduced hundreds of bills exempting specific programs from the PRA’s information collection process. But these carveouts merely worsen an already broken system: the PRA’s underlying problems remain, and new complications emerge. Instead of poking more holes in the PRA, Congress should recognize that it is time for an across-the-board fix.
+What is the PRA?
+The PRA has several components, but its most controversial provisions govern how agencies collect information from the public. The standard process unfolds in three steps:
+An agency must publish its proposed information collection and solicit public comment for 60 days.
+After reviewing any public comments, the agency must submit the (potentially revised) information collection to the Office of Management and Budget (OMB) for review, publish this version, and allow for at least 30 days of public comment on this version.
+After potential further changes in light of this second round of public comments, OMB must approve or deny the information collection no more than 30 days after the second public comment period ends, and can approve the information collection for no more than three years.
+What are the key problems with the PRA?
+The PRA’s purposes are to minimize the burden of information collection while maximizing the utility of the information that the government gathers. In practice, it often does the opposite.
+The mandatory 60-day and 30-day public comment periods rarely generate meaningful input, yet they add months of delay. As a result, agencies often postpone—or abandon altogether— efforts to collect critical information that would likely improve policymaking. Meanwhile, OMB reviews add value to only a small share of information collections, but the PRA gives OMB little flexibility to concentrate its attention where it matters most These problems have given rise to calls to
+reform
+or
+scrap
+the information collection requirements of the PRA.
+What is Congress doing about it?
+The PRA was last substantially updated in 1995. Since then, growing frustration with its requirements has spurred a wave of legislative carveouts. Between 2013 to 2018, lawmakers introduced 56 bills containing PRA exemptions; from 2019 to 2024, that number jumped to 241. These proposals have come from both chambers and across a wide variety of committees, covering subjects from the Bipartisan Safer Communities Act to the 21st Century Cures Act. These bills are sponsored by members across the spectrum, including: Rep. Chip Roy, Rep. Hakeem Jeffries, Sen. Elizabeth Warren, Sen. Susan Collins, and Sen. Ted Cruz.
+While only 8 of these bills were enacted into law from 2013 to 2018, 16 were enacted from 2019 to 2024. There is a clear upward spike in congressional interest in, and enactment of, PRA exemptions over the last six years. Continuing this trend will only make the problem worse.
+The problem with a perforated PRA
+One-off PRA exemptions may ease burdens for individual programs, but they come with significant costs. There is no central repository or list of information collections that are exempted, meaning OMB—and the administrations that it serves—will likely find it difficult to keep track of what they are not seeing. Because the PRA is the main tool that OMB uses to monitor information collections’ compliance with certain requirements, such as
+Statistical Policy Directives
+and administration priorities, unchecked exemptions risk undermining effective policy implementation and coordination over time.
+A major consequence of these exemptions is further backsliding on one of the PRA’s original goals: reducing unnecessary and duplicative paperwork. As the
+Commission on Federal Paperwork observed back in 1977
+, while federal agencies rarely ask for identical information multiple times, they often demand
+nearly
+identical data in slightly different formats. For example, at the time, the information “required by the Health Services Funding Regulations of the Bureau of Community Health Services” overlapped with “
+50 to 75 percent of the data previously submitted
+to” the Bureau. The enactment of the PRA in 1980 gave OMB greater authority to identify and eliminate these inefficiencies—work that continues today, in domains that run the gamut from
+data requirements for commercial vessels to dog importation requirements
+.
+Exemptions make it more difficult to detect duplication. Consider, for example, a current PRA exemption for information collected from “
+post-acute care providers
+.” Is the information currently being collected duplicative of any other collections, and might it be duplicative in the future? No one is in charge of keeping track. Exemptions also mean that the
+OMB database of information collections
+has increasingly less complete coverage as time goes on. This not only degrades executive branch efficacy, but also harms external actors seeking to use such data, such as for congressional oversight or academic research.
+Importantly, this differs from the consequences of repealing or reforming the PRA comprehensively. Repeal or reform would force the executive branch to develop alternative systems to serve the PRA’s current functions. Individual exemptions do not trigger such changes; instead, they leave the current structure in place while steadily weakening its effectiveness. Poking holes in the PRA may benefit individual programs in the short term, but it undermines the integrity of the entire system in the long term.
+It is time to fix the PRA
+The recent surge of legislative interest in PRA exemptions shows that Congress broadly recognizes that the PRA is not working well. That recognition should be a springboard for comprehensive reform. Instead of carving out piecemeal exemptions, lawmakers should address the statute’s shortcomings head-on. Whether through targeted reforms or a sweeping repeal, one thing is clear: it is time for Congress to move beyond poking holes in the PRA, and instead commit to an across-the-board fix.
+***
+Methodology:
+These data were generated using Quorum to identify bills that mentioned the Paperwork Reduction Act or Subchapter I of Chapter 35 of Title 44 of the U.S. Code. All identified bills were individually reviewed in order to exclude any bill that did not include a PRA exemption. Data for the 119th Congress was current as of July 31, 2025.

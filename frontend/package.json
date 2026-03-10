@@ -23,6 +23,7 @@
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
     "file-saver": "^2.0.5",
+    "langsmith": "^0.5.9",
     "lucide-react": "^0.577.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"

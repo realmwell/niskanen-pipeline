@@ -1,0 +1,121 @@
+TITLE: How site-neutral payment policies can save money for cancer patients and the chronically ill
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/how-site-neutral-payment-policies-can-save-money-for-cancer-patients-and-the-chronically-ill/
+WORDS: 1666
+
+Every year, rising numbers of Americans are diagnosed with chronic health conditions — diagnoses that are accompanied by rising out-of-pocket expenses. It is especially difficult for patients with cancer and other life-threatening conditions, whose frequent and aggressive treatments force them to bear a disproportionate share of these escalating out-of-pocket costs. But in
+a new study
+from Niskanen experts, we found that one simple reform would significantly ease this burden on the most vulnerable, high-need patients: site-neutral Medicare payments.
+In
+a report
+published in the healthcare journal
+INQUIRY
+, we estimate that making Medicare payments site-neutral would save patients with some of the most prevalent types of cancer, on average, over $1,000 in annual out-of-pocket spending. Moreover, savings from site-neutral payments could also result in lower out-of-pocket costs for other beneficiaries struggling with chronic conditions, including service members and those on commercial insurance.
+Site-neutral payment policies ensure that the rates for Medicare services are the same regardless of where the service is delivered or the procedure is performed. Because Medicare typically reimburses hospitals significantly more than independent physician offices for the same services, site-neutral payments would lower the federal cost of care and reduce Medicare patients’ out-of-pocket costs, allowing patients to focus more of their energy on their treatment and recovery.
+While recent health policy conversations on site-neutral payments have focused on the potential for substantial federal savings through a comprehensive expansion of the policy, less attention has been paid to what this reform could mean for beneficiaries themselves. Our study shows why Congress should look to site-neutral payments as a critical and effective lever to improve affordability for seniors dealing with chronic, life-threatening conditions.
+Site-based billing disproportionately hurts those with chronic conditions
+The prevalence of chronic disease and the proportion of Americans living with multiple chronic diseases have been
+steadily increasing
+over the past two decades. As of 2024, individuals with chronic conditions such as cancer constituted
+90 percent
+of all healthcare spending in the United States, and those with multiple chronic conditions accounted for
+93 percent
+of total Medicare spending.
+At the same time, Medicare reimburses outpatient facilities at different rates depending on who owns the facility where care is delivered, rather than on the quality of care or patient outcomes. This practice of “site-based billing” means that Medicare beneficiaries are often stuck paying dramatically different amounts for the same service, depending on the type of facility in which they receive treatment. In fact, hospital-owned outpatient departments (HOPDs) routinely charge
+two to four times
+more than independent physician offices for identical services, despite there being no meaningful clinical difference between the care provided at the hospital-owned clinic compared to the independent clinic.
+Because Medicare reimburses in part based on site ownership, hospitals have been able to essentially game the system by acquiring freestanding clinics, converting them to HOPDs, and charging Medicare the hospital rate without any foundational changes to the clinic itself. It is a perverse incentive that has driven
+hospital consolidation
+in recent years, which in turn has increased Medicare spending and further driven up patient costs.
+Despite site-based reimbursement differences, studies consistently show that HOPDs do not provide
+higher quality
+care or significantly
+better outcomes
+for low-complexity services. Consequently, site-based billing leaves patients facing higher outpatient costs at hospital-owned clinics without receiving added value.
+People being treated for chronic conditions pay the highest price, both literally and figuratively. That is because those with multiple chronic conditions rely
+more on outpatient care
+for treatment than those without, which, due to site-based billing, often means paying disproportionately higher prices at HOPDs.
+This is even more pronounced for cancer patients, who tend to spend
+less on inpatient
+care and
+more on outpatient
+care than similar patients undergoing treatment for other conditions. Due to their greater use of outpatient facilities, these patients are left shouldering far larger individual proportions of the soaring costs from site-based payment disparities. Targeting high outpatient costs through site-neutral payments is thus a
+powerful tool
+that could directly lower costs for the Medicare program and for patients throughout the country, especially for those enduring some of the most difficult chronic diseases.
+Savings for Medicare beneficiaries
+Site-neutral reform would lower healthcare costs for Medicare enrollees in two primary ways:
+Cost-sharing: Medicare beneficiaries are typically responsible for 20 percent of what Medicare pays in a cost-sharing formula. Therefore, when Medicare pays lower service reimbursement rates in HOPDs under site-neutral payment policies, part of those savings are passed on to patients in the form of lower out-of-pocket expenditures. A report by Actuarial Research Corporation (ARC)
+estimates
+that patients could see $36.7 billion in savings from cost-sharing alone over the next decade.
+Premiums: Site-neutral reforms could also reduce beneficiaries’ Medicare Part B premiums as a result of their savings for the Medicare program itself. The ARC report estimates that Medicare beneficiaries could save $43.2 billion from premium reductions over 10 years.
+In total, Medicare beneficiaries are estimated to save between
+$80 billion
+and
+$134 billion
+over a decade through site-neutral payments. However, while all Medicare beneficiaries would benefit from lower Part B premiums and cost-sharing on many of their outpatient services, higher-need patients would see the greatest out-of-pocket savings.
+In a
+proposed rule
+for determining HOPD payment rates, the Centers for Medicare and Medicaid Services (CMS) notes the particular financial burden of how cancer patients undergoing chemotherapy treatment are “disproportionately harmed by the current state of drug administration payment. … A meaningful number of beneficiaries in this cohort are paying substantially more per year in cost sharing than they would have had they received the same treatments at freestanding facilities.”
+In our
+new report
+, we estimate a baseline amount that Medicare patients with common cancers could save in cost-sharing expenses in their first year of treatment. By compiling typical treatment regimens for lung, ovarian, prostate, and colon cancer patients and applying site-neutrality for the Medicare Payment Advisory Commission’s recommended outpatient services, we found that site-neutral reform could save cancer patients and Medicare thousands of dollars per patient (see Table 1).
+This pattern is observable in similar analyses of site-neutral savings for different types of cancer patients (see Table 1). With site-neutral payments, a patient with multiple myeloma blood cancer could
+save around $1,220
+, and a breast cancer patient around
+$1,550 in out-of-pocket costs
+over their first year of treatment. Site-neutral payment policies have the ability to reduce Medicare cancer patients’ annual cost-sharing by over $1,000 in many cases, offering measurable financial relief for a high-need population.
+Table 1. Estimated annual out-of-pocket savings that site-neutral reform could save patients with common forms of cancer
+Cancer Type
+Out-of-Pocket Savings (in 1st year of treatment)
+Source
+Lung
+$1,077
+Author’s Calculations
+Ovarian
+$918
+Author’s Calculations
+Prostate
+$764
+Author’s Calculations
+Colon
+$1,647
+Author’s Calculations
+Multiple Myeloma
+$1,220
+Leukemia and Lymphoma Society
+Breast
+$1,550
+American Cancer Society Cancer Action Network
+Savings for the privately insured
+Site-neutral payment reform would likely create additional ripple effects that spill over into the commercial healthcare market and other federal programs to lower costs for privately insured individuals. This is because the changes to Medicare rates from site neutrality
+could drive down
+negotiated commercial rates for private insurance plans and federal programs for veterans and service members.
+VA Community Care
+for veterans and
+TRICARE
+for service families tend to bill for health services at the Medicare reimbursement rates. Medicare rates have also
+been shown to influence
+private insurance payments, though there remains uncertainty on the extent to which lower federal rates would affect privately negotiated hospital service rates.
+Still, by aligning Medicare’s facility payment rates, site-neutral payment policies could, as a byproduct, help to resolve the site-based price disparities
+that those
+on military healthcare plans face and lessen differences in private outpatient rates.
+Private cost-sharing and premiums together are expected to decrease by an estimated
+$135 billion
+to up to
+$466 billion
+under site-neutrality over 10 years. For the
+180 million
+Americans on private insurance plans, individual savings could average over $75 each year. However, because cancer and other chronic disease incidence is more scattered in the younger, non-Medicare population, the individual variance in site-neutral savings among privately insured patients would likely be even more pronounced.
+What’s next for site-neutral payments
+America’s growing healthcare affordability crisis is, in part, due to
+the system’s inability
+to effectively manage the growing scope and costs of chronic diseases. Saving money for Medicare and patients by eliminating site-based disparities is critical to stem our system’s accelerating decline and avert deeper, systemwide consequences that will affect us all. As debates over the fiscal costs of healthcare continue, this policy presents a unifying opportunity for patient groups and other stakeholders to reduce costs for the people most affected.
+Policymakers have several levers at their disposal to advance site-neutral payment policies. The Centers for Medicare and Medicaid Services
+recently finalized
+a rule that applies site-neutral payments for drug administration services at off-campus HOPDs in their 2026 Outpatient Prospective Payment Schedule. They project this change will save $290 million in its first year of implementation, including $70 million for Medicare beneficiaries.
+Yet, the most significant impacts for patients would come from comprehensive site-neutral reforms that eliminate payment differentials in Medicare for all common outpatient services, regardless if they are delivered on or off campus. Senator John Kennedy (R-LA)
+introduced
+the Same Costs, Lower Care Act, which would make common outpatient services site neutral at all HOPDs. In 2024, Senators Bill Cassidy (R-LA) and Maggie Hassan (D-NH) released a
+framework
+for site-neutral payment reform detailing policy options and common-sense mechanisms to reinvest part of the federal savings from site neutrality into rural and high-need hospitals.
+The broad scope of expected patient savings from site-neutral payments reinforces the imperative for reform. Site-neutral payments are a straightforward correction to Medicare’s billing structure that can significantly reduce costs for cancer patients and other highly-impacted individuals disproportionately burdened by site-based rate differences. By lowering out-of-pocket costs for patients and reducing spending on chronic conditions, site-neutral payments would make the U.S. healthcare system more fair, more affordable, and more effective.

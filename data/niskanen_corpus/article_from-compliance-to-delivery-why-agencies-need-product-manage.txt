@@ -1,0 +1,96 @@
+TITLE: From compliance to delivery: Why agencies need product managers
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/from-compliance-to-delivery-why-agencies-need-product-managers/
+WORDS: 1483
+
+Software systems now underpin virtually every federal government operation. This is why meeting modern service delivery expectations requires
+a Product Operating Model
+— one that empowers dedicated product managers to set priorities, resolve ambiguity, and navigate trade‑offs. Absent these roles, government services too often devolve into costly and ineffective systems.
+The rise of product managers
+In the late 1990s and early 2000s, post-dot-com companies such as Amazon, Google, and Yahoo were dominated by small, autonomous software engineering teams that owned their code end-to-end — writing, testing, deploying, maintaining it, and making strategic decisions.
+As the size and complexity of software grew, that model buckled under growing complexity. The widespread adoption of agile, lean, user-centered methods in the 2010s tech world cemented
+product management
+as a distinct discipline responsible for deciding
+what
+to build, so software engineers could focus on
+how
+to build it. Today, product management is an established career track, with hundreds of thousands of professionals guiding the development and delivery of digital products throughout the private sector.
+The need for product managers in government
+Over the past two decades, federal agencies have shifted from building software in-house to outsourcing most implementation work to private contractors. As a result, a compliance mindset has prevailed; one geared towards optimizing for legal and regulatory requirements, vendor oversight, and acquisition timelines.
+The costs of that approach are clear: between 2003 and 2012,
+94% of federal technology projects over $10 million failed
+, and many that did launch
+cost billions more than expected
+. The same recurring pitfalls, each solvable through strong product management, kept appearing:
+All‑at‑once scope creep
+under which projects tried to deliver every feature in a single, monolithic release.
+Multi‑year contracts
+that locked agencies into outdated requirements and solutions.
+Vendor‑driven execution
+which
+leaves agencies with limited leverage or insight.
+Limited user research,
+leading to products being built in a vacuum, without iterative testing or feedback loops.
+“Technology-centric” approaches
+that were treated as ends in themselves rather than as means to serve users and deliver services.
+The disastrous 2013 launch of HealthCare.gov illustrates how organizational breakdowns, not just technical flaws, can doom a federal IT project. Because no single person or team was given clear
+product ownership
+for the site’s end‑to‑end user experience, dozens of contractors worked in silos, integration and testing were deferred until the eleventh hour, and once critical problems surfaced, agencies had no way to pivot or correct course before the public rollout.
+A decade later, the Department of Education’s “Better FAFSA” initiative suffered a comparable fate. Despite an investment exceeding $300 million, the 2023 rollout was plagued by delays and usability failures that sharply reduced application submissions — especially among low-income students. For most of the project’s first year, there was no accountable product owner to manage priorities, maintain scope discipline, or ensure continuous user testing. The absence of that ownership produced shifting requirements, poor coordination across vendor teams, and limited usability testing.
+Software implementation at any scale involves countless incremental decisions that shape delivery outcomes. These judgments ultimately dictate whether the finished product meets real‑world needs, no matter how generous the budget or how detailed the requirements. If the result is a tool intended users cannot or will not utilize, or if nothing is delivered at all, the government has failed in its duty. Good product managers exist precisely to prevent that outcome, guiding every decision toward solutions that work for the people they are meant to serve.
+The role of product managers in government
+Product managers answer four essential questions:
+what
+to build,
+for whom, when,
+and
+why
+, yet they rarely appear in public-sector vendor-management team structures.
+Senior officials offer strategic vision, stakeholder management, and policy expertise, but they seldom have the technical knowledge or bandwidth to steer day-to-day development. Contracting officer representatives (CORs) or project managers, meanwhile, lack both the authority and the training to make product decisions. Asking a COR to serve as a product manager is like tasking a building inspector with designing a kitchen remodel: the oversight skills do not necessarily translate into the creative, user‑focused judgment required to deliver a successful solution.
+Sometimes vendors are tasked with product decisions, but they’re constrained by contract boundaries and lack the authority to make cross-team or cross-system decisions. Sometimes legislation is used as a substitute for product direction by mandating specific technical solutions, often restricting implementation flexibility. In other cases, agencies simply re‑label existing staff as “product managers” without giving them the skills, mandate, or support the role requires. The net effect is the same: most government programs lack an empowered person to focus teams on solving the right problems at the right times in the right ways.
+Leaders and appropriators often assume problems can be solved by pouring more money into IT or by mandating specific technologies. Yet technology delivers results only when someone identifies the right problems to address and matches them with the right tools. Simply “investing in technology” is not a solution. Product managers fill this gap by diagnosing needs, prioritizing solutions, and guiding teams to deliver measurable outcomes.
+Without product managers, projects drift: requirements shift, coordination breaks down, and user needs go unmet. With product managers in place, delivery improves: they define scope, set priorities, align stakeholders, and ensure services solve the right problems.
+The private sector has long understood this. As federal service delivery grows more reliant on outsourced technology and implementation teams, building internal product management capacity is essential. Product managers shift agencies from a compliance culture to a delivery culture and enable adaptive implementation across public‑private teams. They keep work on time, on budget, and within scope.
+Embedding product managers into delivery teams
+Product managers should be embedded in program teams, not siloed in IT. They belong where public services are designed and delivered, especially for digital systems and user-facing platforms. Ideally, every implementation has a product owner empowered to make and drive delivery decisions.
+They can sit within:
+Implementation teams within agencies
+Internal digital service units (e.g., pre-2025 USDS, TTS, agency digital service teams)
+CIO/CTO digital strategy offices, when those units are delivery-focused
+Product managers should be involved from the earliest stage of acquisition — before requirements are written — and remain engaged throughout the contract lifecycle. Their continuous involvement ensures agencies buy and build systems that deliver value, adapt over time, and reflect evolving user needs.
+Getting product managers into government
+Conflating
+product
+managers with
+project
+managers is a common, yet critical, mistake. While both roles are essential, they serve different purposes.
+Product
+managers define the problem and ensure the service meets public needs.
+Project
+managers coordinate execution — keeping work on time, on budget, and within scope. Simply relabeling a project manager as a product manager rarely works: deciding
+what
+to build requires different skills than managing
+how
+it gets built. Effective product managers are empowered, accountable decision makers.
+The private sector employs hundreds of thousands of product managers, and many are eager to serve in government. Recent tech layoffs have expanded the talent pool, making it easier for agencies to recruit. Agencies can hire externally or retrain internal staff, and robust resources to support this are available: the Beeck Center’s
+Digital Government Hub
+has great
+example product manager job descriptions
+; the Partnership For Public Service’s
+Mobilizing Tech Talent report
+explains how to recruit private‑sector professionals and upskill staff; and the
+Tech To Gov job fairs
+have helped technologists transition into state, local, and federal roles.
+Some agencies have already hired or retrained product managers under the Program Analyst (GS-0343) or IT Specialist (GS-2210) series, but many still assume the General Schedule doesn’t permit hiring of “product managers” and instead assume that they must post announcements with job titles like “Supervisory IT Specialist”. In fact,
+a 2024 OPM–OMB joint memo
+(M-24-16) and t
+he supporting FAQ
+explicitly support using plain-language, functional titles like “product manager” in hiring actions.
+From a workforce planning perspective, product management capacity may need to be
+comparable in scale to the Contracting community (1102)
+. In the private sector, product roles scale with team size and complexity. Startups may have one product manager for every 7–10 engineers; large firms like Meta or Google often have one for every 4–6 engineers.
+Conclusion
+To improve public service delivery, the federal government should adopt a
+Product Operating Model
+and build product management capacity across agencies. Product managers translate policy into working systems by aligning user needs, agency goals, and implementation. Their absence leaves siloed, vendor‑led projects that miss targets. The private sector has long used product management to drive iterative, user-centered delivery; the government should do the same. Agencies should recruit, embed, and empower product managers with real decision‑making authority. Effective government product management creates the feedback loops that ensure digital services deliver value, adapt over time, and reflect real‑world needs.
+Thank you for providing feedback for this article to: Rebecca Piazza, Anne Petersen, Jennifer Anastasoff, Gabe Menchaca, Christian Crumlish, Solitaire Carroll

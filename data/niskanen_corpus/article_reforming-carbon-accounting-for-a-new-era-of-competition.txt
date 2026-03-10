@@ -1,0 +1,272 @@
+TITLE: From green goals to black ink: Reforming carbon accounting for a new era of competition
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/reforming-carbon-accounting-for-a-new-era-of-competition/
+WORDS: 6967
+
+Executive summary
+As global rules on carbon emission shift from voluntary pledges to enforceable standards, the United States faces a pivotal decision: how to count carbon in a way that protects industrial competitiveness, reduces compliance costs, and supports its position in global trade. The current mainstream framework, the Greenhouse Gas Protocol (GHGP), was not built for this task. Designed two decades ago to support broad corporate disclosures, it has become more focused on reporting than on helping firms manage emissions in real time. Its reliance on estimates and industry averages makes it ill-suited for tracking emissions through complex supply chains or verifying product-level performance in export markets.
+A system that meets today’s demands, this paper argues, must satisfy four essential criteria: credibility, comparability, scalability, and interoperability. Credibility means every data point must reflect a real emission event, not a modeled estimate. Comparability ensures carbon data can be used across firms, sectors, and borders. Scalability allows the system to accommodate small firms and global supply chains alike. Interoperability ensures emissions data can plug into both private and public tools for compliance, disclosure, and investment.
+The paper evaluates two strategies for building such a system: incremental changes to GHGP and a full-system redesign. While incremental fixes can offer marginal improvements, they will not address issues of double counting and unverifiable claims. A system redesign, by contrast, could treat emissions like financial liabilities. In this approach, each company maintains a ledger that records the emissions it generates and the emissions passed on to it from suppliers. This information is transferred forward, creating an unbroken chain of accountability from raw material to finished product. Emissions are assigned once and only once, recorded, and passed along like cost.
+This approach, sometimes referred to as E-ledgers, provides both precision and interoperability. It offers a credible foundation for border adjustments and lays the groundwork for bottom-up, entity-level emissions accounting. As more information becomes available, the market can begin to differentiate products based on their carbon profiles, putting pressure on firms to decarbonize their operations. But there are practical challenges: Small suppliers may lack the infrastructure to participate, end-of-life emissions will remain difficult to trace, and data confidentiality must be protected. These challenges must be addressed to ensure that adoption is both feasible and effective.
+If the U.S. wants to lead in low-carbon manufacturing and protect itself in a world of carbon-based trade, it needs carbon accounting that keeps pace with business. It needs a system that tells the truth about emissions, reflects how companies actually operate, and rewards real outcomes. The current system is burdensome, but promising alternatives are emerging, though they still require harmonization and refinement. To stay competitive, the U.S. must consolidate its position on carbon management through credible and consistent leadership.
+Key Terms
+Download the full PDF here
+Introduction
+As global markets begin to reward cleaner production, the United States has an opportunity to lead with low-carbon manufacturing. The U.S. carbon advantage is driven by a cleaner energy mix, proximity to key markets, and growing industrial efficiency. Many firms now recognize that reducing carbon emissions yields operational and strategic benefits. These include lower energy costs, stronger supply chain resilience, faster innovation, improved recruitment, and greater customer loyalty. According to PwC’s “
+2024 Global Investor Survey
+,” over three-quarters of investors say they would increase investment in companies that are taking certain climate-related actions.
+However, as corporations’ climate ambitions rise, so too does the demand for accountability. In the same survey, nearly 76 percent of investors say they trust sustainability information more when it is independently assured, and 73 percent believe it should be verified at the same level as financial statements. Together, these expectations point to a future where credible carbon reporting is not just a compliance burden, but a competitive asset.
+Governments are also seeking accountability with policies that impact global markets. The European Union’s Carbon Border Adjustment Mechanism (EU CBAM), set to take effect in 2026, will require importers to disclose the carbon intensity of their products.
+The United Kingdom
+and
+Taiwan
+have announced their own CBAM regimes, both slated to begin in 2027, signaling that product-level carbon disclosure is becoming a global trade expectation. In the United States, lawmakers are beginning to explore similar measures.
+The Foreign Pollution Fee Act
+,
+the MARKET Choice Act
+, and
+the America’s Clean Future Fund Act
+reintroduced in the 119th Congress, all would impose a fee on high-carbon imports to protect domestic industries and reward cleaner production. As the U.S. rethinks its role in global supply chains and responds to new demands from abroad, carbon data is quickly becoming a core requirement for participating in international commerce.
+This shift presents a strategic opportunity for American industry, if firms are equipped with the right measurement and liability allotment tools to prove what they can do. The conversation is no longer just about disclosing climate risks and overall carbon intensity to investors. It is now also about transmitting trusted carbon data across borders, integrating that data into procurement and pricing decisions, and defending the carbon advantage of U.S.-made goods.
+Many large companies already report greenhouse gas emissions using GHG Protocol or similar standards, but these disclosures were designed for internal risk management, not for pricing emissions embedded in a batch of steel or a ton of fertilizer. There is a structural mismatch between the emissions data that companies are accustomed to and the kind that are now required by international trade policies. As trade policies begin to demand verifiable carbon intensity at the product level, a different kind of accounting system is needed.
+When carbon intensity can be traced and verified at the product level, it unlocks new ways to align industrial policy, consumer choice, and climate action. Regulators can enforce fairer border measures. Buyers can prioritize lower-emission inputs. Manufacturers can differentiate based on carbon performance, not just price. Such a regime must be not only sophisticated, but also standardized. Absent a common framework, each jurisdiction will make its own rules, creating uncertainty, transaction costs, and compliance barriers for exporters. A shared framework would reduce duplication, improve comparability, and enable cleaner products to compete on their merits in global markets.
+This paper makes the case for why it is time to rethink how we account for carbon. We explore the GHGP and a range of alternatives, ultimately recommending the E-ledgers method, which adopts financial principles to offer more accurate, auditable, and comparable data.
+Table 1
+Comparison of carbon accounting frameworks and reform proposals and their core characteristics
+Feature
+GHGP (status quo)
+Supplemental fixes
+Systemic redesign
+Theory of change
+Disclosure pressure will drive accountability.
+Improve GHGP’s accuracy and comparability within existing logic.
+Detailed emissions tracking would allow markets to drive accountability.
+Structure
+Scope 1-2-3 structure, entity-level inventory.
+Scope 1-2-3 structure, but with clarified categories, tighter inputs, or added disclosures.
+Direct emissions from the reporting firm and indirect emissions transfer with products across firms.
+Scope ambition v. practical result
+High in theory, but uneven in practice.
+High in theory, closes some gaps in practice (e.g., electricity and finance).
+High in theory but need more complete standards to ensure effective practice.
+Granularity
+Annual entity-level summaries.
+Categorical granularity (e.g., hourly, asset specific).
+Product or transaction level.
+Comparability
+Low (methods vary widely across firms).
+Medium to high within a scope (depends on tool, e.g., PCAF, Scope 2 modernization).
+High (standardized carbon flows support cross-firm/product comparison).
+Use cases
+Designed for supply chain risk assessment and sustainability reports.
+Intended to span sustainability, compliance, finance, and carbon credits claims.
+Intended for trusted use across all cases at left plus trade, procurement, and financial audit.
+Examples
+GHGP Corporate Standards and Product Standard.
+PCAF, 24/7 CFE, Scope 2 modernization.
+E-ledgers framework, Comprehensive Carbon Accounting System.
+The conventional framework is misaligned with today’s needs
+The dominant framework used by companies and standard setters is the Greenhouse Gas Protocol (GHGP). Originally designed for entity-level disclosure and internal risk management, the
+GHGP has become the default structure for many voluntary reporting systems
+. Its widespread adoption has introduced key concepts of carbon accounting to a broad set of stakeholders, but it now poses the risk of trapping us in what is familiar rather than what is fit for purpose. As climate policy begins to move from broad commitments to specific pricing and procurement decisions, GHGP’s entity-centered logic is increasingly misaligned with the demands of product-level accountability.
+Status quo: Greenhouse Gas Protocol & ISO 14060 series
+The
+GHGP
+was launched in 1998 as a collaboration between the World Resources Institute (WRI) and the World Business Council for Sustainable Development (WBCSD). They were responding to a growing need for standardized, internationally recognized methods for measuring and reporting greenhouse gas emissions at the corporate level. This initiative emerged in the wake of the 1997 Kyoto Protocol, which set binding emission reduction targets for countries but left a gap in guidance for corporate emissions accounting.
+When the GHGP introduced its first Corporate Standard in 2001, it marked a major step in organizing how businesses measure and disclose their climate impact. Its three-scope framework quickly became the global default, shaping the way corporations, investors, and regulators structure emissions inventories (Figure 1).
+Scope 1
+includes emissions from sources that a company directly owns or controls, such as on-site combustion or company vehicles.
+Scope 2
+accounts for indirect emissions from purchased energy, mainly electricity, heating, and cooling used in operations.
+Scope 3
+encompasses all other indirect emissions—those that occur across the value chain, including upstream activities such as raw material extraction and downstream impacts such as product use and disposal. This three-scope framework is also called “cradle-to-grave” or “full lifecycle” assessment when applied to a specific product. Scope 1 emissions tend to be the most directly measurable, while Scope 3 emissions involve the greatest uncertainty due to the many assumptions required about supplier behavior, customer usage, and system boundaries.
+Adapted from
+the GHGP Product Life Cycle Accounting and Reporting Standard
+.
+The Protocol is now used by
+97 percent
+of disclosing S&P 500 companies and by hundreds of governments (from cities to countries). The International Standards Organization (ISO), responding to the same international pressures that led to the formation of the GHGP, established the ISO 14060 series in 2006 with its own set of reporting categories. Those categories initially differed in terminology and scope, but
+ISO has since aligned them with the GHGP’s definitions
+of direct, energy indirect, and other indirect emissions. The two are generally deemed equivalents now. It is important to note that the initial intent of the series is for corporations to calculate their emissions as an entity. In 2011, WRI and WBCSD expanded the entity-level protocol to include guidance for product-level emission counting.
+Though GHGP is a voluntary standard by design, regulatory institutions have adopted its methodology as a template. In the U.S,
+California’s 2023 climate disclosure laws
+draw directly on GHGP scopes, and
+federal guidance for emissions reporting
+and procurement frequently uses the same three-scope structure. Despite their widespread adoption for disclosure, the current rules were not designed to meet the growing demands for comparable data and for emissions reporting for carbon taxes or tariffs, and thus, they do not capture the full potential for emission reductions.
+Drawbacks of the GHGP
+Global markets are assigning economic value to emissions through carbon border adjustments and procurement preferences, highlighting the limitations of the GHGP.
+Efficiency and cost of reporting
+The GHGP’s mandate for companies to disclose emissions across their value chain has significantly increased the administrative burden on companies while diverting attention from actual decarbonization.
+These high-revenue companies are expected to engage thousands of suppliers’ suppliers and consumers’ consumers to estimate their upstream and downstream Scope 3 emissions. While the Protocol permits the use of estimated or secondary data, assembling even these inputs across complex supply chains often results in fragmented and unreliable assessments.
+The burden is especially acute for small and medium-sized enterprises
+, which are increasingly expected to participate in their larger clients’ disclosure efforts without adequate support or infrastructure. The result is a mismatch: Large companies are held responsible for emissions that they cannot directly measure, while smaller firms are pushed to make measurements they are not equipped for.
+Such inefficiencies lead to compounding inaccuracies when firms that disclose their emissions using GHGP do business with one another. A single ton of carbon may be counted multiple times—first as direct combustion in Scope 1 and many more times as an upstream emission in the supply chains as Scope 3. This structure
+leads to widespread double and triple counting
+. In theory, more data should mean more insight. But in practice, more data from interconnected firms makes it harder to determine who actually caused the emissions, who should pay for them, and who can reduce them most efficiently. This not only raises compliance costs but also creates confusion for researchers, regulators, and decision-makers trying to track global progress and communicate clearly with the public.
+The result is a misallocation of corporate effort. According to a
+2023 survey conducted by ERM
+, a sustainability consultancy, large, publicly traded companies already spent an average of $677,000 annually on climate-related risk disclosure, spanning both ESG reports and regulated financial-risks disclosures. Additionally, if a company’s product is subject to a carbon border adjustment—which is setting its own specific rules at the product-level—this cost is likely to increase. These firms maintain dedicated teams to track emissions across 15 categories of Scope 3, manage electricity accounting systems, and stay current with evolving methodological guidance. Time and capital that might be used to retrofit facilities, redesign products, or fund low-carbon procurement are siphoned into expanding ever-more broad but coarse disclosure exercises whose marginal climate value is unclear.
+Incomparability and misleading transparency
+Beyond inefficiency, the GHGP’s greatest liability may be its failure to produce emissions data that is consistently comparable across firms and supply chains. The protocol allows companies to make a series of discretionary choices, such as selecting whether to count emissions based on their share of ownership in a facility or based on whether they operate it. They also set their own rules for what levels of emissions are considered significant enough to report. Another weakness is in
+Scope 2 design
+, where
+companies can report reduced electricity emissions based on contracts rather than the actual grid they draw power from
+. These flexibilities undermine the ability of regulators, investors, and trading partners to interpret emissions disclosures.
+Downstream Scope 3 emissions are another source of inconsistency due to the wide discretion allowed in modeling parameters, especially the use phase, which could be prolonged over decades. An example from the automotive sector illustrates just how malleable Scope 3 estimates can be. As reported by
+S&P Global
+, automakers and suppliers frequently apply different assumptions when calculating emissions from driving a vehicle. One might assume a vehicle lifetime of 150,000 miles and a fuel economy of 30 miles per gallon, producing a total of roughly 50 metric tons of CO₂. Another could assume 200,000 miles and a slightly lower efficiency, raising the figure to nearly 70 tons. The result is a 40 percent difference in reported emissions for the same product, driven not by actual performance but by discretionary modeling inputs. Because Scope 3 disclosures allow companies to choose from a wide range of estimation methods,
+firms can adjust key assumptions to present lower footprints
+. In reality, vehicles are sold across dozens of markets with vastly different usage patterns and fuel mixes. Estimating a “typical” scenario is not just difficult, it is inherently subjective. And this is just one of 15 Scope 3 emissions categories.
+Even if the Protocol can standardize modeling parameters, a deeper challenge remains when it asks every manufacturer to estimate the long-term climate impact of their products. Some pollutants have long-lasting but modest effects, while others, like methane, exert a stronger warming influence over a shorter time frame. Methane stays in the atmosphere for about 12 years, which means its warming effect is concentrated in the near term. A ton released today therefore carries a different “value” for the climate than a ton released decades from now, much like how a dollar today is not the same as a dollar in the future because of discounting. Yet under Scope 3,
+companies are expected to estimate and compress all future emissions from a product’s use into a single present-day figure
+. In robust modeling frameworks, such aggregation would typically require a transparent discounting (or compounding) approach to reflect the timing of climate damages. However, the GHGP offers little to no guidance on how such temporal weighting should be applied. The Global Warming Potential 100 metric was developed to support broad comparability across gases and scenarios, but it assumes simultaneous and contemporaneous emissions. Applying it without accounting for the timing of a release distorts the measure and undermines accountability. The result is a figure that may be informative in aggregate but difficult to act on in specific business or regulatory decisions.
+The GHGP itself
+acknowledges
+that its Scope 3 framework is not designed to support comparisons between companies. Yet as emissions data becomes increasingly central to regulatory enforcement and cross-border trade, such comparability is no longer optional.
+Regulatory landscape highlights the need for reconsideration
+GHGP was originally intended to help companies and investors understand and manage climate-related financial risks. But even for that purpose, its Scope 3 guidance introduces a high degree of uncertainty. And for two other market-driven goals—carbon pricing and product-level differentiation—it offers little support:
+Financial institutions need reliable emissions data to evaluate portfolio risk. Yet Scope 3 disclosures, based on estimation and inconsistent boundaries, are too uncertain to be fully adopted into mandatory frameworks.
+Governments aiming to charge carbon fees need verifiable, product-level data. GHGP’s product standard, which is based on the same life-cycle assessment methodology described above, can vary dramatically depending on input assumptions.
+Market actors seeking to favor cleaner goods face similar roadblocks. Without standardized product footprints, buyers cannot distinguish one ton of steel from another.
+Despite these limitations, GHGP is becoming embedded in regulatory systems worldwide. Financial regulators in the EU, U.K., and U.S. increasingly treat GHGP-based disclosure as the default, but they are taking different approaches to addressing its flaws. The European Commission’s final
+European Sustainability Reporting Standard
+, adopted in July 2023, shifted Scope 3 disclosure from mandatory to “report-if-material.” The U.S. Securities and Exchange Commission’s March 2024
+Climate Disclosure Rule
+excluded Scope 3
+entirely, citing evidence that the compliance burden would outweigh its climate value. Although the SEC has recently halted its legal defense of the rule in court, a future administration may revive or strengthen it as pressures for international alignment and investor transparency continue to grow.
+Without fit-for-purpose alternatives, regulators will continue codifying uncertainty into law, leaving companies navigating multiple standards and making duplicative compliance efforts. These efforts often come at a high cost and offer limited benefit for actual emissions reductions.
+What we need from a modern carbon accounting system
+A modern carbon accounting system should support businesses in tracking emissions accurately and consistently, while also enabling policymakers to implement effective and enforceable decarbonization policies. To meet these objectives, four core characteristics should guide the design and implementation of any new framework.
+Table 2
+Foundational criteria for carbon accounting frameworks
+Principle
+Core aim
+Key design elements
+Credibility
+Reported numbers are trustworthy and resistant to manipulation.
+Fixed, auditable rules for drawing boundaries of analysisMandatory disclosure of methods and data sources
+Comparability
+Emissions figures measure the same thing.
+Standard unitsStandardized reporting periods and acceptable dataMutually exclusive and collectively exhaustive product categories
+Scalability
+Practical for organizations of all sizes to participate and improve over time.
+Alignment with existing enterprise systems (Enterprise Resource Planning, procurement, inventory)Low-cost digital tools and clear guidance for small and medium enterprises
+Interoperability
+Data can travel smoothly across borders and policy regimes.
+Conformance with WTO-consistent measurement rulesCompatibility with emerging mechanisms such as EU CBAM and other border-adjustment schemes
+Credibility through auditability
+Carbon disclosure will earn trust not through rulebooks alone, but through transparency and traceability. A credible system must allow users to follow the data trail from reported emissions back to the meters, invoices, or activity records that generated them. This requires standardized methods, mandatory disclosure of calculation approaches, and independent verification.
+Flexibility can be permitted, but only within clear constraints. If a company uses customized data or advanced tools, it should be required to document those choices, explain how they improve accuracy, and verify the result through a qualified third party. Such supervised discretion enables innovation without weakening confidence in the results.
+When disclosures are auditable and consistently applied, regulators can enforce the rules more easily, investors can compare companies without manual adjustments, and trading partners can trust that a product’s carbon label reflects real performance. In short, credibility depends on what can be demonstrated and verified, not just what is reported. That credibility must be the bedrock that makes carbon accounting dependable for policy, investment, and global commerce.
+Comparability through consistency
+For carbon data to support investment decisions, regulatory enforcement, and international trade, it must be comparable across firms, sectors, and jurisdictions. That requires more than rhetorical alignment; it requires methodological uniformity. A modern accounting system must adopt a single playbook with four essential components:
+Common units:
+Emissions should be reported in physical terms, such as kilograms or metric tons of CO₂-equivalent, using globally accepted conversion factors. All entities should apply the same global warming potential (GWP) time horizon and include a timestamp when values are recorded. Because the Intergovernmental Panel on Climate Change (IPCC) may update its GWP factors as science advances, timestamps make it possible to track which set of values was used and to adjust records consistently if standards change. This ensures that reported emissions are physically and scientifically comparable across disclosures.
+Common time frames:
+Reporting must occur over standardized periods. Companies should follow an annual accounting cycle, with consistent start and end dates, and they must apply clear rules for when emissions are recognized. For example, emissions from purchased goods should be recorded in the year they are received, not when contracts are signed. Aligning time frames makes it possible to evaluate emissions performance across businesses and geographies on a truly comparable basis.
+Common boundary:
+Disclosures must reflect a shared definition of what gets counted. Today, some treat emissions from leased assets as direct, others as indirect. A modern system should define the boundary of responsibility for each emissions category, require disclosure of which boundary is applied, and limit the ability to shift categories arbitrarily. This clarity is essential for comparing performance and enforcing standards.
+Common allocation rules:
+To move from facility- or entity-level emissions to product-level carbon intensity, firms must apply standardized allocation methods. These rules should define how to assign emissions across co-products (jointly manufactured items of value), shared infrastructure, or different production cycles. Just as all carbon emissions should just be counted once, all emissions should also be allocated once to ensure no double counting.
+By locking in common units, timelines, boundaries, and allocation rules, carbon accounting will become a structured discipline rather than an interpretive exercise. This consistency will transform carbon accounting into a tool that market participants can actually rely on.
+Scalability through practical boundaries and system alignment
+For carbon accounting to scale across industries and economies, it must be grounded in what companies can credibly report. Requiring full value-chain disclosure often results in rough estimates, overlapping claims, and excessive costs, particularly for smaller firms. A more effective approach sets a focused reporting boundary that captures direct emissions, purchased energy, and key upstream activities where reliable data and business influence exist. This creates a strong foundation without overwhelming the system with unverifiable or duplicative figures.
+Scalability also depends on aligning carbon reporting with tools that companies already use. When emissions data can be drawn from financial, procurement, or operational systems, reporting becomes less burdensome and more consistent. Standardized formats, simplified guidance, and expectations that are proportionate to company size can bring more participants into the system. A scalable framework would begin with rules that are accessible now and flexible enough to improve as data infrastructure and capabilities evolve.
+Interoperability with international trade rules
+As more governments incorporate carbon constraints into trade policy, they will need emissions data to cross borders. The EU Carbon Border Adjustment Mechanism and similar proposals elsewhere are setting precedents for how carbon intensity affects market access. While these systems currently focus on Scope 1 and Scope 2 emissions and often rely on average or estimated emissions intensities for a given sector or country, they signal a growing expectation that emissions disclosures must be credible, transparent, and tied to specific products.
+The GHG Protocol was not designed to support the kind of scrutiny emerging in global trade regulations. A modern accounting system should aim to bridge this gap by aligning units, boundaries, and verification practices with internationally recognized standards. This would allow carbon data to move with goods and to be trusted by customs officials, trading partners, and regulators alike.
+From modern accounting to real incentives
+One of the core failures of today’s carbon accounting frameworks is that they often reward appearances over impact. Under current rules, companies can improve their reported emissions profiles without making meaningful operational changes, whether by exploiting reporting flexibility or by shifting emissions outside their direct footprint. In theory, Scope 3 should capture those outsourced emissions, but in practice the data is incomplete, inconsistent, and impossible to implement fully. A modern framework built on consistency, credibility, and trade-rule interoperability must reverse these incentives by anchoring disclosures in outcomes that are measurable and verifiable. When firms cut emissions by switching sources, upgrading equipment, or redesigning products, those gains should be clearly visible in their reporting. With such information, policymakers and market participants could design smarter regulations and create conditions that reward real decarbonization instead of creative counting.
+The landscape: What’s out there?
+As demand grows for carbon disclosures that are accurate and useful, a wave of reform proposals has emerged. Most proposals build on and strengthen the GHGP’s Scope 1, 2, and 3 framework. Some tools focus on improving financial disclosures and risk assessments. Others aim to align reporting with trade rules or strengthen claims of market leadership. Understanding which tools serve which function is critical to assessing their value.
+Supplemental plug-ins: Keeping the frame, rewriting the rules
+One cluster of proposals focuses on electricity-related emissions under current Scope 2 rules. The
+24/7 Carbon-Free Energy Compact
+, whose founding members include Google, encourages firms to match renewable energy procurement to the actual time and grid location of their electricity use. This makes claims of “carbon-free operations” far more accurate and transparent, though it remains a voluntary commitment. A related concept is
+consequential accounting
+, which differs from today’s attributional rules. Attributional accounting assigns emissions to a company based on what it directly consumes, regardless of broader effects. Consequential accounting instead
+asks how a company’s decisions change total system emissions
+. For instance, shifting freight from trucks to electric rail would not just alter the company’s Scope 1 and 2 footprint, but also register a negative value for the emissions avoided by that switch. Both approaches move closer to real-world impact, but neither is a corporate disclosure standard.
+The
+Scope 2 Modernization
+proposal attempts to reform disclosure standards. Developed by the Clean Air Task Force and NorthBridge Group, it would bring the logic of 24/7 matching and consequential estimation into the formal reporting framework. It would require that clean electricity claims be backed by real-time, grid-specific data, and introduce a separate disclosure showing the actual system-level impact of power procurement. In doing so, it would turn voluntary best practices into minimum reporting standards. Scope 2 Modernization directly improves credibility and comparability, while also making reported emissions more interoperable with trade policies such as carbon border adjustments.
+Other proposals address nonelectricity sectors.
+The Partnership for Carbon Accounting Financials
+, or PCAF, provides a methodology for calculating financed emissions, closing a longstanding gap in one category—investments-associated emission—under Scope 3. PCAF is notable for its clarity and practicality. It offers specific calculation methods based on asset class, data quality tiers, and clear attribution rules. These characteristics increase the comparability and auditability of financial risk disclosure. Hundreds of financial institutions have already adopted it to support internal risk assessments, net-zero portfolio strategies, and climate-related reporting under frameworks such as those issued by the
+Task Force on Climate-Related Financial Disclosures
+and
+International Sustainability Standards Board
+. However, its application beyond the financial sector remains limited. PCAF was not designed for supply chain coordination or product-level trade compliance. Its strength lies in improving credibility and comparability within one of the Scope 3 categories.
+Together, these tools bring much-needed discipline to carbon accounting without altering the GHGP’s categories, methods, or boundaries. They therefore require only minimal retraining of internal teams. However, this low-friction appeal comes with limits. These tools serve as useful enhancements, but they are not substitutes for a more coherent or enforceable carbon accounting system. Each addresses a piece of the problem, and often only within a single scope or category. Even in combination, they do not fully solve the deeper challenges of double counting, broken data chains, or incompatible reporting boundaries. Over time, the accumulation of parallel fixes may reinforce fragmentation rather than resolve it. The gap in foundational design simply cannot be patched. That is where systemic proposals like E-ledgers begin to matter.
+Systemic fix: A novel framework that follows accounting rules
+Where GHGP approaches rely on inventories calculated within firms, the ledger-based method introduces a fundamentally different model. The first such system, E-ledgers, was elaborated in
+a 2021
+Harvard Business Review
+article
+by Karthik Ramanna and Robert Kaplan and since developed into a proto-standard by the nonprofit E-ledgers Institute. It treats emissions as transactional liabilities that move through the economy alongside goods and services. As such, the framework is designed to enable real-time, product-level emissions tracking across complex supply chains. The resulting data could be used to calculate the emissions of a product or a corporate entity from the bottom up​. Table 3 lists the key features of the E-ledgers framework.
+Table 3 Key features of the e-ledgers method and their policy relevance
+Feature
+Description
+Why it matters
+Ledger-based accounting
+Tracks emissions using accounting principles. Each firm records emissions it generates and inherits from suppliers, then passes them along with goods and services sold.
+Allows emissions to be traced across firms and products, enabling real-time, product-level carbon information that support operational decisions, dynamic procurement, and compliance with emissions-based pricing.
+Full emissions allocation
+All emissions recorded in the ledger must be fully allocated to outputs, whether goods or services. Shared emissions from office operation and manufacturing processes are distributed using standardized allocation rules.
+Ensures that no emissions are double counted or left unassigned. This improves comparability, prevents inflation or erosion of carbon footprints, and aligns emissions accountability with real-world production flows.
+Missing data triggers a conservative default value
+Companies are responsible for passing verified emissions data downstream. When data is missing, they must apply a conservative maximum value from a standard lookup.
+Strongly incentivizes participants to engage with their upstream suppliers to measure and disclose their emissions, improving data quality across the supply chain.
+The central mechanism of this approach is the ledger. Every entity, whether a manufacturer, utility, logistics firm, or retailer, maintains its own E-ledgers, recording both the emissions it directly generates and those cradle-to-gate emissions it inherits from upstream suppliers. These emissions, known as embedded emissions, must be passed along when a good or service is sold, just as a liability is in general accounting standards. The structure mirrors a value-added tax (VAT) system. Just as VAT is calculated and paid at each stage of production, so too are E-liabilities tracked and transferred with each economic transaction.
+Consider the example of a steel beam:
+A mining company extracts iron ore and burns fuel in the process. It records these direct emissions in its E-ledgers, associating them with each unit of ore produced. This includes not only combustion-related emissions but also those from mining equipment, site operations, and capital goods such as trucks and drilling rigs. Emissions from administrative activities, like office operations or IT systems, must also be included if material. When the ore is sold to a steel mill, the fully attributed emissions are passed along through the invoice or digital ledger.
+The steel mill then uses that ore in smelting and shaping operations. It records its own process emissions, adds them to the upstream liabilities received from the mining firm, and attributes the combined emissions to each ton of steel it sells. If the mill produces a uniform batch, this can be done on a per-ton basis. If the production is more varied, the companies need to allocate the emissions according to clear principles.
+When a construction company buys a steel beam, it receives not only the physical product but also a digital record of all upstream emissions associated with its production. If the beam is later used in prefabricated components or sold again, the emissions record can be further transferred downstream.
+At every step, emissions are verified to a reasonable assurance level, either through direct measurement or reasonable estimation, and fully allocated to outputs to ensure emissions are not double counted or lost. If a manufacturer cannot obtain emissions data from a supplier, it must record a conservative estimate for that component on its ledger. Specifically, it must assign emissions corresponding to the 60th percentile of the relevant product category in the first year. If data remains unavailable, this default value rises each year, reaching the 99th percentile by the fifth year. This escalating penalty incentivizes data sharing and builds a traceable chain of carbon accountability tied to actual goods and services rather than statistical averages.
+One proposal envisions this system resulting in an
+E-ledgers Statement
+(Figure 2), a set of auditable records that resemble a company’s financial statements but are focused on emissions.
+1
+These statements summarize the emissions a company generated directly, the emissions embedded in its purchases, the emissions it passed downstream through sales, and any emissions that remain in unsold inventory or capital equipment.
+This carbon ledger example shows a car-door manufacturer’s emissions over one reporting period. The opening balance reflects emissions liabilities carried over from previous periods. Added to this are new emissions from the company’s own operations and those passed on from suppliers, including emissions embedded in capital goods. As products are sold to car assemblers, the associated emissions are transferred out. The closing balance represents the firm’s remaining carbon liability at the end of the period. The lower number of “E-liabilities transferred to customers” compared to the total E-liabilities embedded in the materials represents remaining carbon liability tied to unsold inventory and unfinished products at the end of the period. Source:
+Ramanna and Kaplan, 2021
+This approach addresses several persistent problems under the GHGP by eliminating the need for scopes altogether (Figure 3). Rather than segmenting emissions into direct and value-chain categories, the E-ledgers method treats all emissions as flows traceable through the supply chain. Companies no longer estimate supplier emissions based on industry averages or assumptions. Instead, they receive direct, auditable data from upstream actors. The use of
+escalating default values in the absence of verified data
+also incentivizes each entity to engage their suppliers and share the data.
+Figure 3. Direct comparison between GHGP and E-ledger from a company perspective
+Another key difference is temporal precision. Unlike GHGP, which relies on annual reporting cycles, the E-ledgers would track emissions in real-time, as products are manufactured, sold, and delivered. This immediacy is essential for enabling operational decisions, informing carbon border adjustments, and supporting climate-aligned procurement in both public and private sectors. For example, imagine a federal agency tasked with buying low-emissions cement for highway construction. Under the GHGP, the agency might rely on a supplier’s prior-year disclosures. Under the E-ledgers system, each batch of cement comes with a certified emissions tag showing the actual emissions associated with its production.
+Importantly, this system is modular and scalable. A company can begin by using it to track its own direct emissions and apply conservative values for supplier inputs until broader adoption occurs. Because emissions are systematically recorded and transferred with each transaction,
+the data naturally accumulates at the entity level
+. This structure allows firms to generate high-fidelity, facility-specific carbon accounts without additional modeling. Unlike current frameworks that rely on estimation for corporate totals, this approach produces bottom-up roll-ups aligned with actual operational data. Over time, governments could use these entity-level records to complement existing programs like the U.S. Environmental Protection Agency’s Greenhouse Gas Reporting Program, supporting more accurate national inventories and facilitating policies tied to carbon intensity, such as tax credits or border adjustments.
+In sum, the E-ledgers approach replaces the inventory model with a transaction model. It shifts carbon accounting from an annual estimation exercise to an active record-keeping tool that can shape procurement, investment, and policy in near real-time. It offers the auditability of financial systems, the flexibility of market mechanisms, and the rigor needed to avoid the accounting loopholes that have plagued carbon reporting for decades.
+Practical considerations for the E-ledgers system
+While the E-ledgers method offers a promising alternative to conventional carbon accounting, it also presents several practical challenges that must be addressed to ensure successful adoption and broad applicability.
+First, the system relies on a high degree of data granularity and coordination across supply chains.
+For carbon emissions to be accurately assigned and transmitted with each unit of output, companies must collect real-time emissions data and integrate it into digital enterprise systems. Many small and medium-sized enterprises that do not have this capability may struggle to participate fully without directed support and standardized tools. Additionally, the increasing penalties for missing data might make larger companies hesitant to participate. The government can help with funding for digital infrastructure, the development of plug-and-play accounting software, and phased compliance schedules.
+Second, E-ledgers frameworks face technical challenges in allocating emissions within complex production systems, particularly when shared infrastructure is used to produce multiple outputs.
+Many industrial facilities produce multiple outputs using shared equipment, feedstocks, or thermal processes. In sectors like chemical refining, steelmaking, or cement production, emissions from a single process often contribute to several distinct products. This poses a challenge for E-ledgers systems, which require emissions to be precisely assigned to individual outputs. The complexity is especially pronounced when intermediate products are stored and later recombined or processed in separate batches, making it harder to trace the exact emissions footprint of each final product. Without clear and consistent allocation methods, firms may adopt arbitrary practices, undermining comparability across the system. E-ledgers advocates have begun addressing these issues by conducting pilot studies with
+automobile
+,
+steel
+,
+tire
+, and other
+service
+companies, but refining these approaches will take time, technical consensus, and collaboration across industries.
+Third, participants need assurances of data confidentiality.
+Sharing operational emissions data across company boundaries may be seen as a competitive liability, particularly in industries in which production methods are closely guarded or margins are tight. Participation will depend not only on the accuracy of the system, but also on the presence of legal safeguards, anonymized reporting protocols, and industry governance models that prevent misuse of sensitive information. Neutral third-party platforms or decentralized ledgers may offer a way forward.
+Quasi-governmental or industry-wide voluntary organizations could also serve as standard setters
+while providing institutional trust and oversight.
+These considerations suggest that the E-ledgers method, while conceptually sound, will require careful policy design, government investment, and engagement with firms of all sizes to realize its full potential.
+Conclusion
+How do we count emissions in a way that supports decarbonization progress? The Greenhouse Gas Protocol, developed to promote transparency and corporate responsibility, has played a vital role in making carbon data part of mainstream business practice. Its emphasis on broad disclosure helped launch an era in which companies began to account for their emissions voluntarily and at scale.
+But the world it was built for has changed. Carbon accounting is no longer just a reputational exercise. It is becoming an input to regulation, investment, procurement, and trade. As these demands grow, the tools designed for early-stage awareness often fall short. The Protocol’s original architecture, rooted in flexibility and estimation, was never intended to support product-level carbon claims, enforceable disclosures, or international border adjustments. As a result, today’s system struggles to produce data that is comparable, verifiable, and actionable across complex supply chains.
+That challenge has prompted a new generation of proposals aimed at strengthening or complementing the existing framework. From Scope 2 Modernization to standardized financed-emissions methods, these efforts bring needed clarity. Others go further, introducing such designs as E-ledgers that rebuild carbon accounting from the ground up. Though each approach differs in scope and ambition, they all reflect the same insight: that the infrastructure for counting emissions must evolve to support real accountability.
+What unites the most promising reforms is not ideology, but function. They are designed to serve businesses that are actively working to decarbonize. They provide regulators with data they can use and consumers with claims they can trust. And they offer a pathway to align U.S. standards with global norms in ways that strengthen, rather than weaken, the competitiveness of domestic industry on the world stage.
+Whether the goal is to strengthen voluntary climate markets or to enforce mandatory disclosure, the underlying system must be credible, comparable, scalable, and interoperable. Updating our carbon accounting standards is not a minor technical correction. It is the foundation for emissions management that delivers results and a low-carbon economy that leads.
+There are updated versions of the statement examples that the company will actually use. Although they may look messier, they have greater integrity, as explained in the following paper. Robert S. Kaplan and Karthik Ramanna, “
+E-Ledgers Carbon Accounting
+,”
+Social Science Research Network
+, August 2, 2025, https://doi.org/10.2139/ssrn.5376839.
+↩︎

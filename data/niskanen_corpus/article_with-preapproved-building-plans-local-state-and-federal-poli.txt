@@ -1,0 +1,78 @@
+TITLE: With preapproved building plans local, state, and federal policymakers take aim at soft costs
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/with-preapproved-building-plans-local-state-and-federal-policymakers-take-aim-at-soft-costs/
+WORDS: 1352
+
+Despite unsteady economic winds, housing remains unaffordable in many parts of the country, with high soft costs — expenses for planning, zoning approvals, and engineering — bearing much of the blame. Recent efforts in Michigan and Ohio, however, aim to reduce these costs through statewide catalogs of preapproved building plans for homes and small multifamily buildings. These follow locally led efforts in places like
+South Bend, Indiana
+, and Kalamazoo, Michigan, which built out their own catalogs of preapproved residential buildings, enabling a growing number of homes built to be open to source specifications.
+Are these statewide plan catalogs the right approach to affordability? And is there a helpful federal role in all this?
+Local efforts to reduce soft costs
+Soft costs have the greatest impact for one-off infill projects where a developer must recoup all costs with only a small number of units. These
+costs
+can represent 20 percent to 30 percent of total
+project costs
+, with higher shares for designated affordable projects. As
+interest rates
+and
+tariffs
+exact their own toll on housing starts, infill projects and small developers need more help than just zoning permission to break ground. They need the kind of help that preapproved catalogs can offer.
+Source: Author’s chart using data from the
+Harvard Joint Center for Housing Studies
+.
+Preapproved plan catalogs are a promising part of a broader suite of supply-side reforms that enterprising local governments are undertaking to spur residential construction. By some
+estimates
+, preapproved building plans can save $10,000 per infill project compared with custom plans. Savings are welcome on any project, but they are especially valuable in regions or scenarios in which $10,000 can mean the difference between a new unit and an empty lot. Projects in South Bend and Kalamazoo are good examples with a growing record of successful projects.
+A catalog of options
+In 2022, South Bend developed one of the country’s first comprehensive
+preapproved plan catalogs
+for infill housing. The booklet started with just a few models but has since grown to include an assortment of options, from Accessory Dwelling Units (ADUs) to a six-unit apartment building. The booklet notes the zoning district each plan is allowed in, the minimum lot size required for each plan, and even shows multiple exterior design options for many plans. In less than four years, South Bend has permitted 79 new housing units in 64 buildings.
+In Kalamazoo,
+nine projects
+have been completed under the city’s preapproved plan catalog, allowing designated affordable homes to be built more economically by a local
+nonprofit developer
+.
+Also significant, these catalogs have allowed residents already living in a community an opportunity to express sincerely held aesthetic preferences in a constructive direction that gets more housing built. Rather than litigate individual projects, they can advocate to fast-track designs they want to see in their communities. A
+recent study
+affirms this theory, showing that voters are more amenable to new buildings that match their aesthetic preferences.
+Statewide initiatives vs. local leadership
+While most preapproved plan catalogs are locally led efforts, opportunities also exist for state leadership. For the
+Michigan Municipal League
+(MML), the goal is to lower the entry barrier for small and midsize developers so that more projects “
+pencil
+” in the state — that is, they are financially viable. The MML’s effort to help communities adopt building plans from their statewide pattern book is intended to be an opt-in for local governments. These localities would work with the MML’s experts to adapt the standard plans to their local rules and lot geometries, or they could make special exceptions from local rules to allow generic plans to be built as they are.
+The Greater Ohio Policy Center
+, a nonprofit, smart-growth advocate, is leading an effort to develop a similar pattern book in the Buckeye State. The group is working with 10 cities to adopt its standard plans into local preapproved housing options. Like South Bend, Greater Ohio is starting small, with a single, detached home and another plan that can be built as either a detached home or a duplex within the same structure.
+Investing locally
+Preapproved catalogs encompass more than full-sized houses. Over a dozen cities and counties in California have developed plan catalogs for ADUs. California’s
+AB 1332
+requires local governments to develop preapproved ADU plans that meet state and local regulations.
+By establishing these plan catalogs at the local level, the California policy ensures that local ADU plan catalogs comply with the particular aesthetics and engineering requirements of their home jurisdictions. Using locally tailored blueprints helps the preapproved plans make the most of what is buildable under local zoning and other rules. This minimizes the amount of floor area left on the table compared with custom plans, making the preapproved plans more viable than if they were generic to the whole state.
+While California’s ADU plans rely on the state’s plenary authority to compel local government action, MML and Greater Ohio use an approach that’s quasi-governmental and voluntary. Localities can draw on centralized technical assistance from organizations like the MML and Greater Ohio, which undertake the effort and expense of creating standardized building plans on their behalf.
+Under this approach, individual communities don’t need to reinvent building designs to suit their own conditions and regulations, as they can simply adopt them from the statewide catalog. Yet as statewide plans cannot anticipate the zoning and other regulations for every community in the state, the plans are necessarily generic enough to comply with the most common combinations of local zoning rules and lot geometries for each building type offered.
+Compromise or maximize?
+This compromise, however, means that developers face a choice: Maximize buildable space under a given lot’s zoning rules, as is the case with full custom plans; or use preapproved plans, which save time and cost up front but may give up some otherwise buildable space because the plans are meant to work on a wider range of sites. Based on $10,000 of
+expected savings
+from using preapproved plans and a $154.70
+median sale price
+per square foot of a new home, preapproved plans need to be within 64.6 square feet of a home built to custom plans to make economic sense.
+Source: Author’s chart using data from the
+National Association of Home Builders
+and
+U.S. Census Bureau
+.
+With this narrow margin, it is important that preapproved plans be optimized for the regulatory environment where they may be used. Compared with the costs and delays they prevent for each project, plan catalogs are cost-efficient at the scale of a city. South Bend’s original five-plan catalog cost the city only $115,000 to implement in 2022. At that price, preapproved building designs optimized to the city’s regulatory requirements compare favorably to statewide generic designs, and would induce more developers to use them instead of drafting custom plans.
+State and even federal policymakers can support preapproved building plan programs by offering financial or in-kind assistance to enterprising local governments that want to develop their own locally tailored plan catalogs. Given their low cost and high savings potential, combined with the political buy-in they can create, locally tailored plans help justify the modest cost for individual community design and implementation benefits.
+A federal role to support local leadership?
+Indeed, the federal government is already funding some preapproved plan efforts through the
+CDBG-PRO
+grants made in 2024. Detroit recently issued a
+request for information
+to develop preapproved plans under its CDBG-PRO grant. This would make Detroit the biggest American city with a preapproved plan catalog. The
+Accelerating Home Building Act of 2025
+, a provision in the U.S. Senate’s
+ROAD to Housing
+package, and the standalone House version (
+HR 5907
+) would also support local preapproved plan catalog efforts through a competitive grant program.
+This provision, as well as state and local efforts, could help expand the reach of preapproved building plans, allowing infill projects to pencil on parcels where they don’t today. In doing so, they would play a meaningful part to help communities meet housing demand by speeding approvals for the housing types and styles they want to see more of.

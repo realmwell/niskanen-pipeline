@@ -1,0 +1,70 @@
+TITLE: When Trump’s immigration raids become foreign policy
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/when-trumps-immigration-raids-become-foreign-policy/
+WORDS: 1859
+
+In early September 2025, United States immigration authorities carried out
+the largest workplace enforcement action in the history of the Department of Homeland Security
+. At a Hyundai–LG electric vehicle battery plant in Savannah, Georgia, agents
+detained nearly 500 workers
+. More than 300 were South Korean nationals employed by subcontractors or on temporary business visas.
+Images of handcuffed workers
+being led to buses circulated widely, prompting Seoul to dispatch diplomats and announce a charter plane to bring its citizens home. The raid had come just days after
+a summit meeting between U.S. President Donald Trump and South Korea President Lee Jae Myung
+in which Lee pledged billions of dollars in new U.S. investment.
+For Washington, the operation was presented as the routine application of immigration law. For Seoul, it was a national crisis that required emergency diplomacy. The episode exposed the uneasy intersection of U.S. domestic enforcement and international alliance politics and underscored a larger reality: Labor mobility produces cross-border dependencies that can, in turn, reshape how states behave.
+This is what I describe as
+migration interdependence
+: the potential political and economic consequences generated when two states are bound together by cross-border labor mobility. The costs and benefits of disruption are rarely symmetrical. In some relationships, the stronger state is constrained because it cannot afford to lose access to migrant labor. In others, the stronger state is relatively insulated and can act coercively. At times, weaker states may have no option but to accommodate, while in other circumstances they can assert leverage over their more powerful partners.
+The Hyundai raid illustrates this dynamic in real time. The United States, materially stronger and less exposed, was able to carry out the enforcement action with limited immediate cost to itself. South Korea, by contrast, was highly exposed: Its firms had billions of dollars invested in U.S. manufacturing and were dependent on specialized workers to deliver on tight construction schedules. The asymmetry left Seoul with little option but to negotiate for the workers’ release, promise administrative reforms, and recommit to completing the project, while Washington
+sought to contain diplomatic fallout through high-level reassurance
+.
+Migration as political leverage
+The Hyundai case is not an anomaly. Around the world, labor migration is shaping interstate relations in ways that conventional foreign policy analysis often overlooks. We tend to think of labor migration as a humanitarian concern, or as a matter of economic management. Yet with millions of people crossing borders for work, remittances sustaining their home countries’ economies; and host countries relying on foreign workers to staff critical sectors, migration is also a source of political leverage.
+The concept of migration interdependence captures this. It refers to the reciprocal but often uneven political and economic consequences that come from cross-border labor mobility. States tied together by these flows are not free to act unilaterally. Each must consider the potential costs of disruption. Where those costs fall determines the balance of power in the relationship.
+The pattern can be mapped along two dimensions. The first is relative material power: Some states are clearly stronger, with larger economies, greater institutional capacity, and more diplomatic bandwidth. The second is exposure: Which state would bear the greater costs if migration flows were disrupted? Combined, these dimensions produce four distinct configurations:
+Stronger states that are themselves heavily exposed to migrant labor often pursue cooperative strategies
+Stronger states that are less exposed have the ability to coerce weaker partners
+Weaker states that are highly exposed usually find themselves in accommodationist postures
+Weaker states that are less exposed are sometimes able to assert leverage over their more powerful counterparts
+Migration diplomacy on the march
+This framework helps explain why some migration relationships are marked by collaboration and stability, while others are punctuated by threats, bans, and retaliatory measures. It also helps us understand why migration diplomacy is no longer confined to Europe or the Middle East. Asia, with its sharp demographic shifts and intensifying competition for migrant workers, is becoming a key arena in which migration interdependence is likely to shape state behavior.
+When a stronger state is more exposed, cooperation tends to prevail.
+New Zealand’s relationship with Pacific Island states
+illustrates this logic. Despite its economic and institutional dominance, New Zealand depends heavily on Pacific seasonal workers to sustain its horticulture and viticulture industries. The Pacific states, for their part, benefit from remittances, but they also maintain diversified migration portfolios that include Australia and the United States. By cultivating multiple labor-migration corridors, they avoid overreliance on New Zealand and retain bargaining power when negotiating access or visa conditions. Mutual vulnerability is reinforced by deep institutional frameworks, such as the
+Recognised Seasonal Employer scheme
+. Even when COVID-19 disrupted flows, New Zealand extended visas and chartered repatriation flights to preserve the relationship. The stronger state, highly exposed to disruption, had little incentive to coerce.
+By contrast, when a stronger state is less exposed, coercion becomes more likely.
+Russia’s engagement with Central Asian states
+falls into this category. Tajikistan, Kyrgyzstan, and Uzbekistan are among the most remittance-dependent economies
+in the world
+, with a significant share of their citizens working in Russia. Moscow, however, can draw on multiple labour sources across the post-Soviet space, from Central Asia to the Caucasus and beyond, and exercises discretionary control over entry and deportation. It has
+repeatedly used
+migration as leverage, whether by threatening mass expulsions to secure political concessions or by conditioning legalization on alignment with its regional projects, such as the Eurasian Economic Union. The United States’ raid on the Hyundai–LG plant in the U.S. state of Georgia reflects the same logic. The United States, materially stronger and structurally insulated from dependency on South Korea, was able to act with limited cost to itself, while Seoul was left scrambling to mitigate the fallout.
+Nepal and the Gulf Cooperation Council, Indonesia, and Malaysia
+When the weaker state is more exposed, constrained accommodation is the typical outcome.
+Nepal’s migration relationship with the Gulf Cooperation Council states
+is emblematic. Remittances
+constitute a quarter of Nepal’s GDP, and more than 80 percent of its labor migrants work in the Gulf
+. The host states, by contrast, enjoy wide substitutability: If Nepal imposes restrictions, they can recruit from Bangladesh, Pakistan, or the Philippines. Kathmandu has occasionally announced bans or moratoria, particularly in response to reports of abuse, but these measures are largely symbolic. The Gulf states have little incentive to alter their recruitment practices, and Nepal has little choice but to preserve access.
+Finally, when the weaker state is less exposed, it may engage in coercive assertion. Indonesia’s relationship with Malaysia demonstrates how structural positioning can invert expected hierarchies. While Indonesia is the weaker country materially, it has a diversified migration portfolio across Asia and the Gulf, which lowers its reliance on Malaysia. Malaysia, however, depends heavily on Indonesian labor in domestic work, plantations, and construction, with limited substitutes. Jakarta has periodically imposed moratoria,
+most recently in 2022
+, to press for stronger protections for its citizens. These suspensions carry weight precisely because Malaysia cannot easily fill the gap, while Indonesia can redirect flows elsewhere. Here, a weaker state
+leverages its lower exposure to extract concessions
+in worker protections from a stronger neighbor.
+The United States has long engaged in
+migration diplomacy
+, though it is rarely labeled as such. Washington has repeatedly linked migration management to aid, trade, and security cooperation in the Americas. Successive administrations have conditioned development assistance to Central American states on their willingness to police emigration and accept deportees. The 2019 “safe third country” agreements with Guatemala, Honduras, and El Salvador, though short-lived, exemplified the logic of a materially stronger and less exposed state extracting concessions from highly dependent partners – the U.S. provided increased aid in return for cooperation on migrant controls. Mexico has also been drawn into this dynamic. In 2019, threatened with tariffs on its exports, it agreed to deploy its National Guard to restrict northbound migration, illustrating how economic pressure can be channeled through mobility.
+At the same time, the U.S. is deeply exposed in other areas. Its reliance on immigrant labor in agriculture, construction, elder care, and technology is substantial. Episodes such as the Trump administration’s 2017 “
+Buy American, Hire American
+” executive order and the more recent 2025 presidential proclamation imposing a $100,000 fee on new H-1B visa applications have underscored how abrupt regulatory shifts can unsettle entire industries. When earlier restrictions on H-1B visas were introduced, the technology sector mobilized swiftly in protest to emphasize the risks of disrupting access to skilled migrant labor. During the COVID-19 pandemic, agricultural and care-sector shortages exposed similar vulnerabilities, leading to emergency regularization schemes for essential workers. In these contexts, the U.S. behaves less like a coercer and more like a state constrained by its own dependencies.
+Policy contradictions on display
+The Hyundai raid underscores the contradictions of U.S. policy at a time when Washington is ostensibly pursuing large-scale domestic industrial renewal. On the one hand, the administration is courting foreign direct investment in semiconductor fabrication, electric vehicle batteries, and advanced manufacturing. On the other hand, aggressive immigration enforcement creates uncertainty for precisely the firms and workers being asked to deliver these projects. South Korea’s emergency diplomacy after the Georgia raid demonstrated how domestic enforcement actions can reverberate through alliance politics. If Washington insists on treating labor mobility purely as a legal or security matter, then it risks undermining its broader economic and geopolitical goals.
+Policymakers should recognize migration interdependence as a central dimension of foreign policy. That means aligning industrial and immigration policy so that allies investing in American production facilities have predictable access to the labor and technical expertise required. It also means institutionalizing cooperation with partners, rather than relying on discretionary enforcement actions that generate diplomatic friction. More broadly, it requires a shift away from viewing migration solely as a vulnerability to be controlled and toward understanding it as a structural feature of international politics that can either stabilize alliances or destabilize them.
+Recommendations
+First, the United States should create predictable mobility channels for workers tied to major foreign direct investment projects. Visa categories for technical specialists, subcontractors, and temporary construction teams need to be expanded and insulated from sudden enforcement swings in order to reduce the risk of incidents like the Hyundai raid becoming diplomatic crises.
+Second, Washington should move toward institutionalized bilateral frameworks with key partners. Structured agreements with South Korea, Mexico, and other major labor-sending or investment partners allow disputes to be managed through regular channels rather than emergency diplomacy.
+Third, policymakers should incorporate measures of
+migration interdependence
+into foreign policy planning. Just as energy dependence or trade flows are tracked as strategic variables, so too should reliance on foreign labor, remittance ties, and migration portfolio diversification. Officials need to be able to anticipate where leverage lies, and where vulnerabilities might emerge.
+Finally, immigration enforcement should be calibrated to foreign policy goals. Of course, law enforcement is important, but raids that create big alliance costs should be thought of more carefully in relation to the wider strategic consequences. A more coherent approach should try to connect enforcement priorities with industrial strategy and alliance management, instead of always seeing them as completely separate.

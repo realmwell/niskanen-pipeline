@@ -1,0 +1,80 @@
+TITLE: Spotting ‘concrete boats’: Why ‘solicitation sins’ doom contracts to struggle (part 1)
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/spotting-concrete-boats-why-solicitation-sins-doom-contracts-to-struggle-part-1/
+WORDS: 1314
+
+As described in
+“
+The How We Need Now
+,
+” a “concrete boat” is a project that’s doomed to fail from the outset due to misguided requirements and inappropriate processes. These problems are often visible during the solicitation process for new contracts. Seafaring vessels are christened; concrete boats are born into solicitation sin.
+This is the first article in a series about government solicitations — and how they can go wrong. Solicitations are formal requests the government puts out for proposals or quotes from prospective suppliers of goods and services. Each installment will discuss common patterns in solicitations that may indicate a project is unlikely to deliver the intended outcomes — solicitation sins.
+To help practitioners, policymakers, and the public spot these sins before they’re committed, each article will feature examples from solicitations that are posted on
+SAM.gov
+, the federal government’s bulletin board for advertising contract opportunities. We’ll also use the examples to teach a large language model how to identify solicitation sins, in order to estimate how common each sin is — and help contracting officers repent before they buy a concrete boat.
+The series is based on the article “
+Alchemy for Aliens
+,” published on the author’s personal blog.
+Solicitation Sin #1: Requirement sprawl
+The federal government spends
+$750 billion annually
+on contracts with private businesses. A lot of contracts start with a
+solicitation
+, which asks vendors to explain how they would complete the contract and why the government should hire them. Solicitations are a roadmap, so if too many
+billion-dollar contracts
+don’t get us where we want to go, part of the problem is solicitations that send us down the wrong path
+.
+What does that look like? One trap snarling solicitations is requirement sprawl, when interested vendors have to address long lists of niche, ambiguous, and misguided requirements. The basic mistake here is prejudging how a task should be accomplished. Quick example: a performance work statement for an Army call center lists 11 bullets detailing exactly how Application Liaisons “shall provide ongoing support,” then another paragraph dictating that liaisons should monitor call center reps’ service by “comparing the solution provided in the Incident entered by the CSR and the solution provided in the Knowledge Database.”
+That’s a lot of ink to say “make sure the reps are doing their job.”
+The problem isn’t just length, although long RFPs do
+scare away potential responses
+. Sprawling requirements prejudge the solution rather than invite vendors’ best ideas. Instead of Application Liaisons manually reviewing files, you could automate data validation, or have reps provide peer reviews to their coworkers. Here, the government will only allow one “how.” This “how” will add cost: vendors are incentivized to price a lot of application liaisons into their proposal to be responsive to the requirements.
+Even worse, a “how” that makes sense now might not hold up to policy changes, new tech needs, or a million other “unexpected” (entirely predictable) implementation challenges. Line up enough funding behind the wrong “how,” and that billion-dollar boondoggle isn’t so hard to imagine.
+Specificity isn’t always a sin — for example if you’re building a safety-critical system or there are legal obligations like accessibility or environmental protections. More often, though, requirement sprawl is a symptom of organizational culture:
+Solicitation packages driven by consensus, where everyone can add requirements
+in
+but no one’s trying to keep them
+out
+. Everyone has well-intentioned advice for how to do something, but that doesn’t mean they should be written into the contract on stone tablets.
+Since procurement can take a long time, with funding
+doled out in one big lump
+, one contract is asked to support multiple projects, all with very different goals.
+Anchoring on an existing contractor’s services — even copying the same RFP they won five years ago — if there’s no expertise in-house to reassess the government’s needs. Change is hard within a bureaucracy, especially if no one knows what “better” looks like, so it’s safer to seek refuge in the status quo.
+If the goals of a contract are vague or nonexistent, holding a vendor accountable means asking “did you follow the process?” If the process is spelled out in black and white, at least it
+looks
+like you have a grading rubric.
+Want to defeat requirements sprawl, the first deadly solicitation sin? Stick to the outcomes you’re trying to achieve and any hard constraints — but excise the “how.”
+Solicitation Sin #2: QA without Q&A, aka compliance over outcomes
+Sprawling requirements might start you down the wrong path, but the next sin means you stick to bad directions even as they’re leading you into a dark forest. Solicitations err when they mandate QA (quality assurance) processes that assess compliance instead of outcomes. When a quality assurance process assures low quality, it’s time for some Q&A:
+question
+whether the “how” is achieving an agency’s goals, and
+answer
+by changing course if necessary.
+QA without Q&A generates copious documentation that a vendor stuck to the plan, but doesn’t ask whether the key outcomes would be achieved. There might not even
+be
+outcomes to target. Take “Task Area 1” (of 9) for
+modernization
+of the Defense Transportation System’s Integrated Booking System. There are regular weekly, monthly, and quarterly meetings, each demanding specific reports. The weekly reports by themselves need to talk about personnel, development, maintenance, audit readiness, and cyber activities.
+Management-by-status reports can make sense if the tasks that need doing can all be specified in advance, and one phase neatly proceeds from another. Projects structured this way follow the “
+waterfall” model
+. Waterfall has plunged out of use, and the popular alternative
+Agile
+prioritizes “responding to change over following a plan.” QA that centers compliance over outcomes is a remnant of the waterfall era, when “responding to change” was a transgression against the sacred, sequential plan.
+That’s too bad, because over the years it takes to buy and build big systems, change
+will
+come. When users are baffled by your new interface, and refuse to switch off the old system, marking “done” on the spreadsheet doesn’t get you anywhere. As new cyber risks pop up, even the best-laid software designs have to adapt. Besides the cost of paying vendors to spend hours collating reports, those reams of reports don’t assure quality. They measure progress towards project milestones, but not progress towards meeting anyone’s needs.
+Weekly-monthly-quarterly compliance check-ins incentivize sticking to the plan, to the detriment of
+learning
+about what’s working and
+experimenting
+to see how we can do better.
+Requirements sprawl and old-school QA processes are linked – with a lot of requirements, you need a lot of paperwork to show compliance – and they arise from similar organizational norms. One common factor is sparse technical expertise inside government, both to say
+what
+is needed and assess
+how well
+a task is being delivered. Relatedly, when the people doing technical work are organizationally isolated from anyone responsible for outcomes, reports are the easiest form of communication between siloes. Burdensome QA requirements have an added benefit, though: the government feels bulletproof against accusations of waste and mismanagement. Maybe your system took years to build and no one uses it, but hey,
+you were just following the plan
+– and here’s a small forest’s worth of paper reports to prove it.
+To break the paperwork trap, drop mandated reports from the solicitation, and substitute in real accountability. Take those weekly/monthly/quarterly business reviews and reallocate some time to listen to customers. Start the solicitation with a clear end-goal, like “raise user satisfaction with the booking system 10%,” and use that to evaluate success. A well-defined target and regular input will keep everyone from “following the plan” straight into a paperwork-padded ditch.
+–
+In Part 2 of this series, we’ll dig into how two more solicitation sins – one structural and one stylistic – scare away competition for government contracts.

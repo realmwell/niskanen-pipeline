@@ -1,0 +1,57 @@
+TITLE: The winter of our grid’s discontent: Hardening the grid once and for all after Winter Storm Fern
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/the-winter-of-our-grids-discontent-hardening-the-grid-once-and-for-all-after-winter-storm-fern/
+WORDS: 773
+
+With much of the country still digging out from Winter Storm Fern, one thing is clear: Severe winter storms continue to stress-test the grid’s reliability, and the system is repeatedly falling short. Fern has made the case once again for expanded interregional transmission to provide the power system with much needed resilience while lowering consumers’ energy costs.
+After Winter Storm Uri in February 2021 and Winter Storm Elliott nearly two years later, policymakers and grid operators took steps to improve the ability of both power plants and fuel delivery infrastructure to withstand harsh weather. Yet despite those measures, Fern knocked out power to more than a million people and caused dozens of deaths, with most of the damage in the South.
+Nearly 300,000 customers
+are still without power.
+Ice damaged local distribution networks, but
+power outages
+tied to mechanical and fuel-related failures exposed deeper vulnerabilities. Above all, Fern’s impact underscores that exclusive reliance on natural gas infrastructure leaves the grid ill-equipped to meet conditions during severe weather, let alone able to accommodate projected growth in demand over the next 10 years, including from the rapid expansion of AI. To make the grid as resilient as possible, it is essential that policymakers and grid operators couple near-term upgrades with longer-term interregional transfer capacity increases.
+Post-Uri and Elliott grid fixes
+Fern wreaked so much havoc despite the warning signs from Uri and Elliott, which together claimed more than 300 lives as natural gas delivery failures left vulnerable customers without heat or electricity. Matters were made worse when many so-called
+black start
+generators, which are used to restart the grid after outages, failed to perform in two large grid networks, the Electric Reliability Council of Texas (
+ERCOT
+) and the
+PJM Interconnection
+.
+Operators took steps to strengthen both systems, tightening
+coordination
+with generators and fuel suppliers and
+hardening equipment
+against the elements. Yet without new major transmission lines, grid regions remain constrained in their ability to access lower-cost power from areas unaffected by winter weather.
+Fern: The same, but different
+Uri, Elliott, and Fern occurred under different circumstances, but they revealed the same underlying pressure point: the power grid’s dependence on natural gas during winter storms. Fern has caused natural gas prices to increase
+beyond
+those from Uri in some areas. These market-driven price swings complicate efforts to maintain affordable and reliable power during brutally cold weather, prompting renewed debate over the optimal fuel mix for winter reliability.
+Substituting coal for natural gas
+may appear
+able to reduce storm-related price volatility, but it will simply introduce new fuel supply issues. That’s because coal plants are just as vulnerable to cold because
+coal piles can freeze
+in low temperatures. Strengthening the transmission system through
+interregional transfer capacity
+is a more resilient solution than depending on locally available and weather-vulnerable fuel under crisis conditions.
+Building toward long-term grid resilience
+To address reliability during Fern, U.S. Energy Secretary Christopher Wright issued
+emergency orders
+providing an immediate stopgap. Over the longer term, however, long-range, high voltage transmission is essential to building a more resilient grid by linking regions and allowing power to flow where it is needed most. Efforts
+in Congress
+to streamline and speed the permitting of these lines are encouraging.
+In the meantime, the Department of Energy’s
+Speed to Power initiative
+offers a promising path for practical interim solutions. The agency can provide technical assistance and funding to help utilities and grid operators identify where additional grid capacity can be added and establish best practices for grid flexibility. Increasing the capacity of the existing transmission system through
+reconductoring
+, including the use of advanced materials such as carbon fiber, can relieve grid congestion during periods of high demand without requiring additional infrastructure to be built. Large electricity users that can
+temporarily curtail
+their power demand when resources are limited can further improve reliability by easing pressure on the grid and reducing the
+risk of blackouts
+.
+But even if implemented, these solutions still won’t produce the
+most
+resilient grid possible. That can only be accomplished with long distance, high voltage transmission.
+Winter Storms Uri, Elliott, and now Fern have removed any lingering doubt about the grid’s limitations. They have also clarified the path forward: grid operators must make sustained investments in transmission that strengthens interregional connections and reduces reliance on local, weather-vulnerable resources. This is essential to building a grid that is both more reliable and more affordable in the face of severe winter storms and that delivers a level of resilience that Jonathon Monken, a senior partner at Converge Strategies and a former senior official at PJM Interconnection, calls “
+bigger than the weather.
+”

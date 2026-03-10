@@ -1,0 +1,143 @@
+TITLE: The case for enhanced wage records: Lessons from states
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/the-case-for-enhanced-wage-records-lessons-from-states/
+WORDS: 3231
+
+Introduction
+When it comes to better understanding present labor market trends or catching unemployment benefit fraudsters, the devil is in the details. States collect quarterly unemployment insurance (UI) wage records from employers that can be applied for these analyses. However, most states do not request key categories of information — such as occupational details, work location, or hours worked — to make more comprehensive assessments possible. This dynamic is starting to change. A growing number of states are beginning to collect or expand use of enhanced wage records (EWRs), which include additional categories of data as part of employers’ quarterly UI wage record submissions.
+We interviewed UI agency officials to better understand how their states are using EWRs. This policy brief summarizes those conversations, the benefits of EWRs to states, and potential future uses of EWRs. Based on our conversations, there is already wide recognition among states of the value of additional data categories for analyzing state labor market dynamics. It appears less common for states that collect EWRs to use the enhanced data categories to reinforce UI program integrity, although there may be opportunities to apply the EWRs for this purpose.
+Download the full PDF here
+Background
+In 1984, the President’s Private Sector Survey on Cost Control, known as the Grace Commission, issued thousands of recommendations to promote more efficiencies in government.
+1
+In the wake of that report, Congress added language to Section 1137 of the Social Security Act to require employers to submit quarterly tax reports to their state unemployment insurance (UI) agency that include each employee’s name, Social Security number, and wages paid.
+2
+State UI agencies primarily collect these wage records to assess employer State Unemployment Tax Act (SUTA) taxes and to help verify wages when American workers apply for unemployment benefits.
+Policymakers are becoming increasingly aware that these quarterly UI records can be used for other administrative and analytical purposes. Several states have adopted use of Enhanced Wage Records (EWRs), through which UI agencies request more data across additional categories from employers. This can include details pertaining to each worker’s occupation, their work location, or total hours worked. The additional information can be of significant use to state workforce agencies’ Labor Market Information (LMI) divisions because it tells them more about where the state workforce is working, what they are doing, and more precise information about their hourly earnings. LMI divisions can then fine-tune education and training interventions to help workers find good jobs and employers meet their staffing needs. Facilitating better job connections this way could have the added benefit of a lighter load on the UI program downstream.
+Another promising application of EWRs relates directly to the UI agencies tasked with collecting the data: improved UI program performance. Organized crime syndicates committed over $100 billion in unemployment benefit fraud during the pandemic, and the average state UI agency still remains unable to pay UI benefits in a timely and accurate manner.
+3
+By tracking additional data points — specifically, job titles, hours, and work location — agencies could have information on hand that organized crime lacks and cannot easily falsify.
+Our interviews with state officials and other stakeholders focused on the implementation challenges with EWRs, including best practices to make the process less burdensome and information to help policymakers make the case for EWRs. These conversations show that states are recognizing EWRs as a valuable tool that should be paired with other administrative reforms to improve workforce programs and overall state performance.
+States interviewed
+We reached out to states according to whether they were listed as EWR adopters in Strada Education Foundation’s State Opportunity Index. States whose officials responded to our requests for information about their EWRs were Alaska, Colorado, Connecticut, Idaho, Indiana, Iowa, Louisiana, Maryland, Michigan, Minnesota, North Carolina, Ohio, Oklahoma, South Carolina, Washington, and Wyoming.
+4
+In our discussions, we sought to clarify their use of EWRs and how they were evaluating EWR implementation.
+Some state officials indicated that their current state data collections should not be considered enhanced. Agency staff in Colorado, Idaho, Iowa, Maryland, Michigan, and Ohio clarified that their collection and use of EWRs has been more limited than we initially thought, or non-existent.
+5
+The most often discussed benefits of EWRs
+Better understanding labor market trends and outcomes
+UI and LMI agency officials emphasized the value of collecting data in more categories. The primary enhancements they discussed were job title, hours worked, and job location, with each collection category providing useful insights:
+Individual job titles enable state agencies to track labor market trends for a range of occupations, thereby improving recommendations to jobseekers, and to better evaluate the success of training and educational interventions.
+These were key benefits mentioned by officials in states such as Alaska and South Carolina. More accurate administrative records about the kinds of jobs that are lost and created could also help states assess the scale and causes of job displacement. A good example of this is the increased interest in job displacement attributable to AI. Higher quality wage data could help facilitate displaced workers’ transitions into other career paths. Right now, employer industry codes in most states don’t necessarily indicate individual workers’ jobs, making it critical for agencies to collect and document job titles.
+The collection of total hours worked can help a state know whether a person is working part time and being paid a decent hourly wage, or if they are working full time at a lower hourly rate
+. Tracking total hours worked each quarter can also show which workers and industries are expanding or reducing hours worked, as is the case in Washington state.
+Job location can elevate regional analyses, such as where sectors are growing or shrinking, and help determine which kinds of training are in demand in different regions.
+This type of collection could facilitate shorter periods of unemployment by improving reemployment assistance. Indiana officials told us that this data can help determine where grant funds are invested within the state. There are a mix of factors at play, but in 2024, states with operational EWRs whose officials we interviewed had a combined average UI benefit exhaustion rate four percentage points below the national average.
+6
+Pipeline of knowledge: How EWRs help support the Alaskan oil and gas industry
+Alaska arguably has had the longest-standing state effort on EWRs. Beginning in the 1980s, the Alaskan UI agency began collecting Standard Occupational Classification (SOC) and geographical codes to better understand the types of jobs residents hold to help train them for higher paying jobs in the oil and gas industries.
+7
+The data has helped the state track long-term outcomes of training and education programs. It also supports annual workforce reports by industry, region, and wage rate that help inform employers and jobseekers alike. The University of Alaska, for example, sends the state UI agency student records that the agency matches with EWRs to analyze outcomes.
+8
+This data could assist in state efforts to retain their skilled workforce. Other states can adopt the use of EWRs to gain similar insights on their major industries.
+Better Unemployment Insurance program integrity
+In our discussions with state UI agencies, officials described ways that EWRs could improve program integrity. Agency officials in Connecticut cited fraud prevention as an important benefit of EWRs. By collecting additional details on wage records, the UI agency would have data that criminals often lacked. The information could flag fraudulent claims earlier in the process, saving time and effort for the agency and deterring crime.
+9
+Indiana officials also cited this application of EWR data for program integrity. They noted that their use of hiring and rehiring dates and ZIP codes helped reduce improper payments.
+Other states whose officials we spoke with were not currently applying their enhanced data toward program integrity were intrigued by the idea. Legitimate claimants could respond to simple, yet critical, questions about their work location or job title in order to screen out criminals without relying on more cumbersome verification methods.
+Supporting the larger data environment
+The quarterly UI wage records from states contribute to a robust federal data ecosystem. The Bureau of Labor Statistics relies on these collections for its Quarterly Census of Employment and Wages. The Census Bureau applies the data for the Current Employment Survey and Business Employment Dynamics data. State UI wage records also inform child support collection efforts and the National Directory of New Hires.
+10
+As of this writing, the federal agencies responsible for producing and publishing these data sets have experienced a decline in funding from the peak levels of the early 2010s.
+11
+Rising concerns about the quality of federal employment data come just as AI and other early-stage industries stand to reshape labor trends, the workforce, and the economy. Administrative wage data categories such as occupation, hours worked, and job location can help better gauge employment dynamics, inform policy, and serve American workers.
+In our interviews, state UI agency officials said they recognized how EWRs could strengthen the quality of federal data despite current funding constraints. For instance, the use of enhanced wage records has already allowed the South Carolina Labor Market Information division to assess supply gaps within key occupations and evaluate the wage premium South Carolina college graduates earn for certain academic degrees.
+12
+These types of analyses could be replicated nationally if the proper data was collected.
+The importance of stakeholder engagement
+From what we learned in our state-agency interviews, one of the most important steps to make EWRs work was for the state agencies to engage with employer groups. Depending on the source of funding for the wage record expansion, states do not always have the legal authority to require responses from employers. High response rates and accurate reporting required effective outreach from the UI agencies to employers in the state. Employers may respond better to a variety of encouragements, reminders, and incentives, as South Carolina has done.
+Employers need to know the value of the process for them in order to be motivated not only to participate, but also to report data accurately. When employers are not engaged early and often, they may ignore EWR reporting, submit inaccurate reports, or even lobby to eliminate use of EWRs altogether. More successful EWR rollouts, as in South Carolina, were made possible by proactively informing employers of the effort and supplying comprehensive FAQ documents. Other states, such as Indiana, have gone a step further and statutorily required an employer-outreach campaign to help with the rollout of EWRs.
+13
+Even in EWR states with high response rates, the job is not finished. While EWR data is already supporting analyses by state Labor Market Information departments, coding issues still limit the full value of the collections:
+States that added occupational categories to their wage records frequently mentioned the problem of “top-coding,” in which businesses list every employee under the same occupational code. For example, a hospital listing all of its employees under the technical codes for doctors despite employing nurses, cleaners, and other maintenance staff.
+States that added work location fields to their wage records mentioned that businesses could list workers at the incorrect office. Employers may list all employees as working at the headquarters when many are based at other locations. It’s also possible that workers split time across multiple locations, and the employers do not list them at the location where they spend the majority of their time.
+Fixing these types of inconsistencies requires strong communication between UI agencies and employers. UI agencies will need to reach out to employers who are entering information incorrectly and walk through exactly what is needed. Permanent changes may also be needed in how information is documented. Some state agencies are already considering whether it is more effective to ask for each employee’s job title rather than requesting the SOC code.
+14
+These types of adjustments require strong communication.
+15
+Looking ahead: Policy guidance to consider
+The collection of enhanced wage records — namely, job titles, total hours worked, and job location — could generate nationwide benefits related to workforce analysis and policy if scaled across all states and implemented at the federal level. These data categories could allow federal agencies to better track labor market trends across occupations, evaluate the effectiveness of training and education programs, and provide tailored recommendations to jobseekers across the nation. EWRs could make it easier to assess the impact of economic shocks, whether due to AI or more cyclical factors, and could improve the implementation of programs needed to mitigate the effects of subsequent job displacement.
+To ensure EWRs are implemented nationally, federal policymakers could require additional categories of data as part of the periodic wage-data collections state unemployment agencies perform. Short of a national mandate, federal policymakers could help states build out EWR collections by developing model legislation for enhanced wage records that provides for funding authorization to implement EWRs. Such guidance could help to simplify the process, minimize reporting burdens for employers, provide a starting conversation for state agencies and legislatures, and maximize standardization across states, thereby increasing the usefulness of the data across state borders.
+16
+This template and funding could be established via a U.S. DOL Unemployment Insurance Program Letter in the same way that Short Time Compensation or Work Sharing is done.
+17
+Collaboration with a range of stakeholders will be necessary to ensure success. As we noted, the most important step that states can take is to engage with employer groups. Employers must be well-informed on the benefits of additional wage record categories and how to properly document the information. More uniform practices across states will make this a smoother process for businesses as additional states collect EWRs. A major objection to EWRs from multistate employers — human resource software providers and third-party administrators (TPAs), in particular — is the confusing patchwork of reporting requirements across states.
+18
+TPAs like ADP will play a significant role in whether an EWR effort is successful or not, so consulting with them early on — prior to implementing anything — and throughout the process will help to maximize acceptance and reportability.
+Input and support must also be received from the executive and legislative branches of government. A huge part of South Carolina’s EWR success was by involving all interested parties, including the UI and LMI divisions of the state workforce agency. Officials from both divisions were given the opportunity to discuss their needs and concerns. As more states consider EWRs, it will be crucial to listen to what their agency staff require, especially as it pertains to funding.
+In our interviews with state officials, they frequently cited administrative funding as a key barrier to implementation. The congressional allocations on which state UI agencies plan their fiscal years have dropped by a third since the mid-2000s after adjusting for inflation.
+19
+This erosion has made it harder to efficiently process benefit claims, let alone modernize state UI systems. Legislative buy-in, ideally in the form of improved administrative grant funding, could strengthen the durability and accuracy of EWRs over time.
+Stakeholder engagement shouldn’t end there. Outreach to labor groups and universities can play a role in building durable support for EWRs and maximizing the impact of the data collections. Just as feedback from employers can help reduce unnecessary reporting burdens and redundancies, input from researchers and claimant-facing organizations can help maximize the usefulness of the EWR collections and sustain ongoing appropriations.
+Our conversations with state officials, as in Alaska and South Carolina, demonstrated just how directly EWRs can support a state’s higher education system and inform reemployment efforts. Iterative feedback, ongoing user testing, and efficient information sharing via the Labor Market Information divisions can boost the application of EWRs.
+Given the importance of data collection and program performance, policymakers must view EWRs as an ongoing investment rather than a one-time effort. It won’t be enough to require that businesses submit additional wage-record categories. Unemployment agencies will need to commit consistent time and resources to perfect execution, and maintain strong partnerships with employers, TPAs, and key data users.
+Conclusion
+Implementing enhancements to wage records is a challenge for underfunded state agencies. However, on balance, the juice is worth the squeeze. Aside from elevating the ability to track job training performance, enhanced wage records can promote integrity and provide greater context about the state of the job market during times of uncertainty. Federal policymakers should consider requiring that all state UI agencies collect valuable data across additional wage record categories. Absent a coordinated federal mandate, model legislation could be developed via an Unemployment Insurance Program Letter.
+States, and the federal government, should work with employers to maximize the accuracy of enhanced wage records and their response rates. To avoid unnecessary variation in reporting requirements, states should collaborate to ensure as much uniformity as possible and maximize the usefulness of EWRs. State efforts to adopt EWRs will only succeed with widespread stakeholder buy-in.
+Ronald Reagan Presidential Library and Museum,
+President’s Private Sector Survey on Cost Control
+(Simi Valley, CA: Ronald Reagan Presidential Foundation and Institute, 2025).
+↩︎
+42 U.S.C. §1320b–7
+.
+↩︎
+Michele Evermore,
+States Still Challenged in Making Timely Unemployment Payments to Laid Off Workers
+(Washington, D.C.: The Century Foundation, 2024).
+↩︎
+We conducted virtual interviews with Alaska, Connecticut, Louisiana, Minnesota, North Carolina, Oklahoma, South Carolina, Washington, and Wyoming. Our conversation with Indiana was by email.
+↩︎
+The Ohio and Maryland agencies were in the process of determining how to roll out enhanced data collections. Ohio received a state grant for the expansion, while Maryland was thinking through how to collect an additional data category in state law.
+↩︎
+U.S. Department of Labor,
+Unemployment Insurance Financial Data Handbook
+(Washington D.C.: 2025).
+↩︎
+The occupational and geocode details can also be important when verifying residents for their annual dividends from the Alaskan Permanent Fund.
+↩︎
+University of Alaska, UA’s Impact on Alaska’s Workforce: An In-Depth Analysis of 11 Key Industries (Fairbanks, AK: 2025).
+↩︎
+In addition to our state interviews, a
+2023 Cicero Institute study
+looking into EWRs in Florida cites fraud reduction several times throughout its report as a key reason to implement enhanced elements.
+↩︎
+Congdon, William and Katz, Batia. March 2023. Urban Institute. Job Quality and Wage Records: The Potential Role of Administrative Wage Data for Understanding Job Quality.
+↩︎
+USA Facts, How much does the Bureau of Labor Statistics Spend? (Bellevue, Washington: 2025).
+↩︎
+South Carolina Department of Employment and Workforce,
+Coordinating Council for Workforce Development Publications
+(Columbia, SC: 2025).
+↩︎
+Indiana General Assembly,
+Public Law 138
+(Indianapolis, IN: 2025).
+↩︎
+With this approach, the job title could be plugged into an auto-coder to generate the relevant SOC code.
+↩︎
+This means strong communication between divisions within the state UI agency as well. The UI staff in charge of administering benefits are generally tasked with collecting the quarterly wage records, even though the Labor Market Information divisions expressly valued EWRs more for their work.
+↩︎
+The recent statutory
+reforms
+in Indiana explicitly require efforts to reduce employer burdens by streamlining definitions and requirements, and adopting user friendly interfaces.
+↩︎
+See
+Unemployment Insurance Program Letter 22-12 change 1
+.
+↩︎
+U.S. Chamber of Commerce Foundation, Developing and Using Public-Private Data Standards for Employment and Earnings Records (Washington, D.C.: February, 2021).
+↩︎
+Will Raderman,
+Getting the job done on unemployment insurance: How Congress can reinforce program administration and integrity with finance reform
+(Washington D.C.: Niskanen Center, 2024).
+↩︎

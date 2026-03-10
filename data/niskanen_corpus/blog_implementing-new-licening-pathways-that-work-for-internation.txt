@@ -1,0 +1,720 @@
+TITLE: Implementing new licensing pathways that work for international doctors and American patients
+FORMAT: blog
+SOURCE: https://www.niskanencenter.org/implementing-new-licening-pathways-that-work-for-international-doctors-and-american-patients/
+WORDS: 11000
+
+Key Takeaways
+Over one-third of U.S. states have created alternative licensing pathways for internationally trained physicians (ITPs) to address the worsening physician shortage.
+Medical boards play a crucial role in the success of these new laws and should honor the legislative intent of a true alternative pathway by removing unnecessary barriers and providing consistent guidance to employers and doctors.
+States should ensure these licensing pathways enable ITPs to find sponsors, get hired, and practice fully to maximize workforce impact and patients’ access to quality medical care.
+Download the full PDF here
+Introduction
+In the last five years, more than a third of U.S. states have created alternative licensing pathways for experienced doctors from around the world to address the nation’s large and growing shortage of physicians. Once licensed by state medical boards, these internationally trained physicians (ITPs) are ready to practice right away. This is one of the reasons that many healthcare facilities that cannot attract enough talented doctors are excited about hiring ITPs.
+Yet enacting laws is only the first step in a lengthy process that also entails implementation by state licensing boards; a willingness of employers to hire and acclimate foreign doctors; and years of hard work by ITPs themselves before they are fully positioned to meet the medical needs of their communities.
+As urgent as the need is to expand Americans’ access to medical care, and despite widespread recognition that the problem is only getting worse, the medical system itself at times can limit patient access to care through restrictive licensing mandates. As a result, critical implementation work remains to ensure that these new pathways actually increase physician supply when and where it is most needed. In this paper, we will outline how states can design laws that better attract highly trained international doctors and that can be implemented without unnecessary, restrictive, and burdensome mandates. We also detail how medical boards tasked with implementing and interpreting these laws can adopt clear licensing standards, remove unnecessary barriers, and provide consistent guidance to employers and doctors; make it easier for employers to attract, recruit, and hire ITPs to treat their patients; and thereby ensure successful implementation of state legislatures’ aims to create true alternative pathways.
+The physician shortage remains a challenge
+The United States continues to face a critical shortage of physicians. This doctor–patient gap widens each year as the need for medical care increases faster than the rate at which new doctors enter the workforce.
+There are several overlapping factors at play, some that can be addressed through policy changes and others that are more deeply rooted in demographic trends. The most prominent and persistent challenge stems from simple demographic realities: Americans are aging, and so are our doctors. As Americans age, their demand for healthcare grows in both quantity and complexity, prompting the healthcare system to invest more resources and to allocate them more effectively. Forty-two percent of our physician workforce is over 55 years old. In the next 10 years, many of these doctors will begin transitioning into retirement or cutting back their work hours.
+1
+Compounding the inexorable demographic forces that we have long foreseen, our federal and state policies have failed to create the dynamic, flexible, and sufficient workforce needed to meet the demographic demand — that is, the needs of an aging population. Our regulatory system and training infrastructure have impeded our ability to increase the supply of doctors. With regard to ITPs, instead of allowing these fully trained, experienced physicians to treat patients, we continue to funnel them through the same bottlenecked system as recent graduates. While federal policymakers lag in devising a longer-term solution, states have been rising to the challenge. Setting aside redundant residency-training requirements, legislatures are plowing new paths for internationally trained physicians to apply their proven expertise here. What is remarkable is that it hasn’t already been done.
+2
+The physician shortage is a policy choice
+By 2036, the United States is projected to be short 86,000 doctors.
+3
+If American patients in rural and underserved areas began using healthcare at levels similar to their fellow citizens in suburban and affluent areas, the Association of American Medical Colleges predicts a shortage of well over 100,000 doctors. In other words, to simply maintain the status quo shortage, starting next year, the United States would need to produce roughly 8,600 more doctors than those who retire each year.
+Even then, merely graduating from medical school isn’t enough to begin treating patients; doctors must develop their specialization and complete their residency. As a result, a dearth of residency slots is the main supply constraint. Until more doctors complete residency than retire, the shortage will not subside.
+Yet in 2025, over 9,500 medical graduates failed to match to a residency program — an all-time high — and will sit on the sidelines during this shortage instead of entering medical practice and treating patients (see Figure 1).
+4
+International graduates constitute more than half of those who failed to match, including many ITPs who completed a residency in their home country and already have years of experience practicing medicine. Rather than allow ITPs a pathway to demonstrate their skills, the clear majority of states still require them to repeat their residency training in the U.S. or Canada to obtain a license to practice here.
+5
+This restrictive licensing policy has forced qualified, seasoned doctors to either get in the same line as newly graduated MDs or, more likely, take jobs that require less education and training, such as medical coding or serving as medical technicians.
+6
+In fact, many ITPs are under- or unemployed due to states’ restrictive licensing regimes, with some working service jobs instead of using their extensive training and highly specialized skills to heal and cure.
+7
+Figure 1. The residency bottleneck in 2025
+By the numbers
+In 2025, 47,193 applicants, including 31,141 domestic and 16,052 foreign graduates, competed for just 37,657 first-year residency slots in the United States (see Figure 1). To obtain a residency, applicants must complete medical school and pass the first two steps of the United States Medical Licensing Exam (USMLE). Then they apply, interview, and compete to be “matched” with a residency somewhere in the United States.
+Although U.S. graduates and international medical graduates (IMGs) all passed the same exams, their matching rates in the National Resident Match Program vary widely. In 2025, U.S. MD seniors and U.S. DO (Doctor of Osteopathic Medicine) seniors had match rates of 94 percent and 93 percent. By contrast, just 68 percent of U.S. citizen IMGs and 61 percent of noncitizen IMGs matched to first-year residency programs. While the process is intended to ensure the most qualified doctors match, it is not clear that the doctors who fail to match are the weakest medical school graduates or will perform any less capably as doctors.
+This residency bottleneck is a major source of the physician shortage. Producing new residency slots would require more or expanded medical schools and training hospitals, which are determined largely by federal financing. The vast majority of residency slots are supported through Medicare — funding that has been capped at a per-institution level since 1997.
+8
+Thus, any significant increase in slots would require a similarly significant increase in federal support. But this is unlikely — Congress has only funded an additional 1,200 slots since the cap was instituted.
+9
+Because of the length of residency training, even if Congress were to fix the residency bottleneck today and thousands more medical students were to begin their residencies each year, it would take seven to 10 years before patients begin seeing any significant improvement in their access to care due to the length of training. This is why some of the most important, near-term solutions are underway in the states, which are best positioned to immediately begin closing the doctor–patient gap.
+States’ approaches
+State policymakers have pursued several paths to address physician shortages over the years. Some have targeted licensing and regulation, such as scope-of-practice reform to expand the range of services that nurse practitioners, physician assistants, and other nonphysician healthcare professionals can perform;
+10
+others have focused on subsidizing residency programs.
+11
+But even with more states stepping up to fund additional residencies, the number of slots still lags behind the number of MD graduates we are producing. This is why many states are turning to fully trained ITPs who are already equipped, ready, and anxious to resume treating patients. This approach makes residency openings available to trainees who have not previously completed a residency, and opens up additional residency slots for recent graduates who have previously competed with ITPs for residency slots.
+Historically, state and federal policies have created licensing pathways for ITPs through selective academic credentials or recognition of world-class expertise.
+12
+These early pathways were narrow and limited to a few select individuals with special qualifications. However, the worsening physician shortage and residency bottleneck have prompted states to explore other options for ITPs, aiming to integrate these qualified clinicians more broadly into the healthcare workforce. One of those options is creating an alternative licensing pathway, allowing ITPs who have completed residency training and are licensed in their home country to begin practicing at a state-licensed facility that employs other fully licensed doctors. Some states initially opted for temporary or limited licensing pathways. Washington, for example, allows international graduates to practice under a limited license for up to eight years with no pathway for conversion to a full, unrestricted license.
+13
+But now, 20 states have full, permanent ITP licensure paths.
+A survey of state licensing pathways for international physicians in 2025
+Figure 2. Legislative progress by state
+Click on states for additional information
+As shown in Figure 2, a critical mass of states has either enacted pathways into law or has legislation in progress to do so, showing promising momentum toward widespread state recognition of the validity of ITP training.
+These laws vary in the precise requirements an ITP must meet for both the initial “provisional” license and to convert it to a “full, unrestricted” license. Differences include type and quantity of required foreign practice and residency training; minimum testing; employer sponsorship and supervision; required rural practice; and license length and conversion. We discuss these differences below.
+On top of varying qualification criteria, a critical difference across states is the level of authority delegated to state medical boards to make rules implementing the legislation. How the board uses its delegated discretion — and how faithfully it follows the legislature’s intent — determines whether the statutory criteria operate as written or become narrowed by additional board-imposed specifications.
+Legislature-driven vs. board-driven
+Several states require or are in the process of implementing board rulemaking to operationalize licensing pathways for ITPs. Of the states that require board rulemaking, board rules are now in effect for Illinois, Tennessee, and Colorado, while other states are still drafting or planning rules. In Texas, Florida, and North Carolina — where rulemaking is required — implementation is already underway.
+In a few states, statutes do not mandate rulemaking but allow boards to develop rules, leading to a mix of implemented and pending regulations across jurisdictions. In several states, including Wisconsin, Virginia, and Oklahoma, statutes do not require board rulemaking but explicitly authorize the boards to make rules if they choose. In Iowa, Minnesota, and elsewhere
+,
+bills don’t mention rulemaking authorization, but their boards have the ability to create rules based on existing authority. Some of these boards have enacted rules to clarify licensure requirements, while others have yet to initiate rulemaking despite having the authority. Boards in Iowa and Wisconsin created rules that are now in effect. In Virginia, rulemaking is in progress, with draft language released in September 2025.
+14
+In states including Idaho, Oklahoma, and Minnesota, no rulemaking is in process. Idaho declared its law sufficiently clear and has declined to promulgate any rules. In sum, regulation and regulatory development vary from state to state.
+Qualifications differ by state
+Each of the 20 states with an alternative pathway for permanent ITP licensure has developed its own qualifications for which doctors can access the pathway. This section details differences across the following key criteria:
+required time practicing medicine abroad
+allowed length of time out of practice before applying
+required tests and certifications
+kinds of foreign residency recognized
+sponsorship and supervising physician requirements
+length of provisional licensure
+whether provisional licensure requires rural practice
+whether the provisional license automatically converts to full licensure or requires an additional application
+Appendix 1 breaks down the differences between each state’s approach in detail, in both their legislative text and implementation strategies.
+Years of practice abroad
+Current laws focus on attracting and licensing
+experienced
+, fully trained doctors, not doctors who have merely completed their training abroad. Thus, most states require applicants to have practiced medicine abroad, proving their competency through practical experience. The required length of posttraining practice, however, varies greatly by state. These pathways generally require a combination of years of clinical practice abroad — ranging from one to five years depending on the state
+15
+— and completion of postgraduate medical training or additional years of practice in cases in which the licensing country does not require residency training. Some states allow a doctor to substitute residency training abroad for years of practice
+16
+, but the majority with permanent pathways require at least three years of previous practice experience abroad in addition to postgraduate residency training.
+Length of time out of practice
+One impetus for ITP laws is that some doctors trained abroad and currently living in the United States are underemployed and that licensing them could allow them to transition from their current nonmedical roles to begin serving patients again. But those doctors are not generally actively practicing in their licensing country, so their foreign licenses may have lapsed. To address this situation, some states have created a “lookback” period that allows doctors already in the United States but unable to practice the opportunity to enter the ITP pathway. The lookback time frame typically ranges from one to five years.
+17
+Some states specify continuous or multiple years of recent practice, while others allow substitution of postgraduate training or supervised clinical experience for part of the required practice. Additionally, several states require applicants to hold an active foreign medical license, sometimes mandating that this license be maintained for a certain number of years immediately prior to application.
+18
+In some cases, if recent practice requirements are not met, applicants may face additional requirements such as exams, though they may seek waivers from medical boards.
+19
+These regulations vary widely but share the goal of balancing the practical reality that some doctors may have skills that are not being used today with ensuring that ITPs have recent, relevant clinical experience before practicing in their home state.
+Required tests/certifications
+The United States Medical Licensing Examination (USMLE) is a three-step exam that nearly every doctor in the United States must pass before licensure. These tests assess medical knowledge and are required nationwide for traditional state licensing pathways.
+20
+Typically, medical students in the U.S. take the first two steps during medical school and the third during residency. International medical school graduates who want to apply for a residency at a U.S.-based school must have a passing score on the first two steps to be eligible to apply.
+Most states require ITPs to pass certain steps before obtaining licensure, with the majority mandating all three steps for limited or full licenses.
+21
+Some states accept alternative or additional exams such as state board tests or internationally recognized medical licensing exams.
+22
+Several states impose limits on the number of times the tests can be taken, and failure to meet the requirements may result in additional testing or review by licensing boards.
+23
+Certification by the Educational Commission for Foreign Medical Graduates (ECFMG) is also commonly required, with some states allowing waivers under special circumstances.
+24
+Foreign residencies that states recognize
+Though alternative pathways waive U.S. residency training requirements for ITPs, these initiatives include provisions to ensure that ITPs who are granted waivers are qualified and competent. Many states, for example, require proof of clinical training experience gained elsewhere, often through a residency program completed abroad. States differ in how they handle this foreign residency training requirement, though. Some require completion of a foreign residency or comparable postgraduate program, while others impose stricter standards that deem training acceptable only if it closely matches or is substantially similar to the residency experience required domestically, often leaving the determination of similarity to the discretion of the medical board.
+25
+Some states accept years of active medical practice in a foreign country as a substitute for residency training, with required experience ranging from roughly three to 10 years, depending on the jurisdiction.
+26
+Four states — Illinois, Virginia, Minnesota, and Arkansas — do not specify any foreign residency training requirements.
+27
+Sponsorship/supervising physician requirements
+States require ITPs who are seeking limited licensure to have an offer of employment from a healthcare facility serving as a sponsor, supporting the ITP during the limited-license period and assessing clinical competency. States differ substantially in their rules on sponsoring ITPs. Some allow any healthcare facility to serve in the role, while others limit sponsorship to facilities owned or operated by licensed hospitals, federally qualified health centers, or facilities offering approved training programs that meet medical board criteria.
+28
+Many states require sponsoring entities to implement structured assessment and evaluation programs of the ITPs’ clinical skills that comply with board-approved standards, ensuring competency before full licensure.
+29
+Several jurisdictions further stipulate that sponsors must operate or be affiliated with accredited residency programs.
+30
+Some states require a U.S.-licensed physician at the sponsoring facility to directly supervise ITP practice during the limited-license period. Rules on supervision during limited-licensure also vary, with some requiring supervisors to be board-certified physicians licensed in the state, department chairs, or practitioners with experience in the same specialty.
+31
+Length of provisional license
+The ITP license pathways all include at least two steps: 1) a provisional license valid while employed by a healthcare provider; and 2) a full license period in which the doctor can practice fully independent of an employer. The provisional license period for ITPs varies across states. This period commonly lasts between two and four years, though some states require or allow for longer or shorter terms.
+32
+The renewability of limited licenses also differs, with some states offering only a single renewal or restricting renewals to specific specialties; others tie renewal duration to recognized residency program lengths, or don’t permit renewal at all.
+33
+In some cases, states require ITPs to hold more than one form of limited licensure before becoming eligible for full licensure, necessitating initial practice under a provisional license followed by additional years serving under a restricted license, sometimes with mandates to work in underserved areas or approved specialties.
+34
+Rural practice requirement
+Many states attempt to address provider shortages by requiring that ITPs practice in a rural or medically underserved area for some or all of the provisional license period.
+35
+Others do not mandate such a practice but permit it as one of several options to fulfill limited-license requirements. In some jurisdictions, eligible sponsoring entities can include physician group practices in underserved populations or service in federally qualified health centers, state or local government facilities, nonprofit organizations providing mental health or primary care, or medical practices and hospitals in rural areas. Additional criteria sometimes relate to population density or the presence of licensed physicians practicing on-site.
+36
+Automatic conversion
+All of these pathways give ITPs an opportunity to convert their limited license to a full, unrestricted license to practice in the state. The extent of board review and approval required to make the conversion varies by state. In some states, limited licensure for ITPs automatically converts to full licensure once all provisional requirements are met, usually after a defined period of practice in good standing.
+37
+Elsewhere, the holder of a limited license must formally apply for full licensure, and boards are required or authorized to issue a full license if all standards and evaluation criteria have been satisfied. These sometimes include positive recommendations or evidence of passing licensing examinations.
+38
+In other states, conversion to full licensure remains at the board’s discretion, contingent on successful completion of practice requirements, board review, and sometimes additional steps such as supervisor recommendations or multiyear employment reviews.
+39
+Temporary and other pathways
+In addition to these emerging full, permanent pathways to licensure, many states offer more restrictive options to certain ITPs. These include pathways to limited licensure that cannot be converted to full licensure, and pathways to full licensure that only apply in special circumstances or at the discretion of the boards.
+Temporary pathways with no pathway to full license
+Some states issue temporary limited licenses to ITPs who have not completed U.S. residency, but these licenses cannot convert to permanent licensure. These authorizations often confine practice to certain facility types, such as nursing homes, state institutions, nonprofit centers for the chronically ill, psychiatric hospitals, or board-approved specialty centers, and are typically valid for one or two years with limited renewability.
+40
+Some states restrict temporary permits to physicians from specific countries or place further conditions such as supervised practice or limitations on renewal.
+41
+A handful of states offer limited licensure to physicians with exceptional credentials or abilities, which may be renewed indefinitely as long as the license holder remains with the sponsoring institution; however, these licenses do not permit conversion to full, unrestricted practice status.
+42
+And still other states allow ITPs to practice at particular facilities such as particular nonprofits or universities.
+Other pathways to full licensure
+Some states waive the U.S. residency requirement for full medical licensure under specific conditions, often when an ITP demonstrates exceptional ability or unique qualifications. For example, some states offer full licensure to foreign-trained physicians who possess exceptional scientific ability or who can make unique contributions not readily available locally.
+43
+Others accept foreign residency training completed in certain countries recognized for their accredited postgraduate programs or training affiliated with international organizations like the World Health Organization.
+44
+Additionally, many states give their medical boards discretion to accept foreign residency training if the board finds the residency substantially similar to U.S. residency requirements based on training content comparisons.
+45
+Several states also provide licensure pathways exclusively for international doctors serving in academic faculty positions, with some permitting conversion to full licensure and others restricting these academic licenses to temporary, nonconvertible status.
+46
+Implementation challenges
+With these new pathways, patients might wonder when they will see their wait times go down, doctors might wonder when they will have new colleagues to lighten the load, and hospitals might wonder when they will be able to fill their many provider vacancies. Unfortunately, the wait is not yet over. Many state medical boards still need to issue regulations and create a clear application process for ITPs. Other boards and providers are hesitant to implement their legislatures’ wishes and are willing to grant a license only when foreign training and experience look nearly identical to their locale’s. And finally, some healthcare employers are the proverbial dog that catches the car — unsure whether they truly want to go through the hoops necessary to hire ITPs despite supporting these reforms as they went through the legislature.
+Timely guidance
+For the states that have directed their licensing boards to promulgate regulations detailing how ITPs qualify for full, unrestricted licenses, several challenges remain to ensure ITPs are able to practice without unnecessary delays and barriers. The period in which delays currently appear most likely is between bill passage and rule promulgation, when licensing boards have to write their regulations for the first time.
+In Illinois, where lawmakers delineated very little in legislative text and instead directed nearly all qualification decisions to the board — in this case, the Illinois Department of Financial and Professional Regulation (IDFPR), it took 26 months to open the application portal.
+47
+This was not unexpected, however. The legislation gave the IDFPR two years to develop the rules, meet with stakeholders, request public comments, hold biweekly meetings, and receive approval from the legislative rules committee. Similarly, Virginia passed its alternative pathway in March 2024, yet as of this writing has not published a proposed rule for public comment.
+48
+In Wisconsin, it took a year and half between the governor’s signature enacting the law and a final, published rule.
+49
+See Figure 3 for a full timeline of each state’s implementation process.
+Figure 3. Implementation status for states with recently enacted alternative pathways
+A. States with fully implemented laws
+B. States with implementation still in progress
+These efforts do take time, but as more states finalize their rules, and as national groups like the Federation of State Medical Boards, attempt to bring consistency across the country, state boards should be able to promulgate future rules more expeditiously. As Figure 3 shows, Rhode Island, Indiana, Idaho, and Iowa — none of which require medical boards to write additional rules — were able to implement their programs within a few months of their bill’s passage. Texas passed its new alternative pathway in June 2025 and expects to adopt rules in December — a six-month timeline.
+50
+But both Florida and Louisiana required board rulemaking, and as a result, their implementation timelines are more lengthy. Many factors determine the length of the time between legislative passage and practical implementation, but the faster that states can begin soliciting applications from ITPs, the faster they can begin serving patients. As it stands, nine states now have fully implemented laws (including Colorado and Montana) and 11 states are currently in the process of implementing their new statutes.
+States also have the option of establishing the temporary license that requires supervision first, allowing ITPs to begin applying for positions, and would still have at least two years to develop rules for qualification for the unrestricted, permanent license. This would allow boards more time to develop and promulgate rules for the most time-intensive changes to current law without unnecessarily delaying the date of initial application availability.
+Consistent evaluation of foreign credentials
+A major challenge stems from boards’ inconsistent and sometimes overly restrictive interpretations of the term “substantially similar” with regard to foreign medical training. Even when legislation recognizes postgraduate programs from an applicant’s home country as equivalent, boards frequently redefine “substantially similar” to mean only programs approved by U.S.-centric accrediting bodies, effectively narrowing the statute’s reach. This creates hurdles for physicians trained in reputable but different systems and can force redundant retraining. For example, the ACGME international body accredits over 200 residency and fellowship programs across 12 countries in three continents, each of which it considers to meet its standards for training quality. Boards must resist redefining residency equivalence to mirror U.S. programs; doing so contradicts legislative intent and perpetuates workforce bottlenecks. Instead, boards should adopt a flexible approach that validates the previous training of ITPs.
+Risk-averse behavior by largest potential sponsors
+Many large healthcare organizations, including hospitals, clinics, and federally qualified health centers, may be hesitant to hire ITPs due to the complex and uncertain licensing, insurance, and reimbursement landscapes they face. For example, a CEO of a major hospital system must invest considerable resources to navigate state medical board approval processes and potentially even secure an H1-B visa. And after provisional licensure, ITPs may be required to serve in rural areas for several years before joining the hospital’s workforce, with no guarantee of return or reimbursement. Additionally, concerns about denial of malpractice insurance coverage may further discourage these organizations from pursuing ITP hires.
+These challenges underline the importance of board rules that are clear, timely, and consistent with legislative intent to create a true, effective alternative pathway that works for employers and payers as well as patients and ITPs themselves.
+Next steps and recommendations
+In this section we look ahead to each state’s opportunities to expand its physician workforce and address its current and future doctor shortages. Some states still need to adopt a pathway that permits experienced ITPs to obtain a license without repeating residency training. Other states should quickly permit qualified ITPs to enter the pathways to licensure that their elected leaders codified in statute. Those states with laws already on the books need cooperation among their medical licensing boards, providers, and payers to ensure that experienced ITPs can find jobs, obtain licenses, and get paid for the care they provide.
+States without a pathway should create one
+States that have not yet passed legislation to create a pathway to full licensure for ITPs should act now. Ideally, states would build on successful models in Wisconsin, Idaho, and Virginia. Those states should consider the lessons learned from the recently enacted laws and ensure that healthcare employers in their states can compete for physician talent against states that have already created pathways. But even those unwilling to go that far should create waiver programs, as those in California and North Carolina, that allow ITPs (even if only from certain countries) to practice at particular facilities, even without completing a U.S.-based residency.
+I. Create a full-licensure pathway for internationally trained physicians
+The ideal next step for a state is to create a legal and regulatory pathway that allows internationally licensed physicians who have completed rigorous training abroad and have sufficient experience to obtain full, unrestricted medical licenses without completing a U.S. residency program. This pathway should include:
+Minimum credentials
+such as medical school graduation; completion of postgraduate; hands-on clinical training similar to residency; foreign licensure to practice medicine; Educational Commission for Foreign Medical Graduates (ECFMG) certification; clinical practice; and exam passage.
+51
+Provisional practice period
+while sponsored by a healthcare provider employer. During the provisional license period, the internationally licensed physician’s work would be more carefully scrutinized by both their employer and the state medical board.
+Conversion to full licensure
+after successful completion of the provisional period and demonstration of clinical competence. State boards should retain authority to deny this conversion but should only use that authority for demonstrated lack of fitness to practice in the state, not a lack of traditional credentials.
+This model respects patient safety while removing unnecessary barriers that prevent capable doctors from serving their communities.
+II. Look to leading states for inspiration
+Several states have already enacted legislation or implemented programs that offer strong models for others to follow – Wisconsin, Idaho, and Virginia in particular.
+Wisconsin
+In 2024, Wisconsin passed AB954 to create the state’s pathway to full licensure for internationally licensed physicians.
+52
+To be eligible, an ITP must:
+have an offer of a full-time job from an eligible employer (federally qualified health center, community health center, hospital, ambulatory surgical center, or other board-approved healthcare facility)
+possess a medical school degree
+complete residency or some other substantially similar postgraduate medical training program outside the United States
+be licensed to practice abroad for at least 5 years after completing residency at the time of applying
+have practiced continuously for at least 1 of the past 5 years
+be in good standing with regard to the foreign license, with no pending disciplinary actions
+possess ECFMG certification
+pass all steps of the USMLE
+be legally authorized to work in the United States
+possess basic English fluency
+Under Wisconsin’s law, after three years of provisional licensure, the ITP’s provisional license converts to a full license and the individual can practice at any facility or independently anywhere in the state. During the three years of provisional practice, the ITP must be supervised by a Wisconsin-licensed doctor and must submit semiannual reports to the medical board to confirm that they remain employed by their sponsoring entity and supervised by a Wisconsin-licensed doctor.
+Idaho
+Idaho’s HB 542 expanded a licensing pathway originally designed for refugee doctors who had fled their war-torn countries.
+53
+The new law, enacted in 2024, allows doctors licensed anywhere in the world to substitute a three-year provisional license for Idaho’s U.S.-based residency requirement and then apply for full licensure. To be eligible for the pathway, an ITP must:
+possess a medical school degree
+have completed a residency or postgraduate medical training program outside the United States
+be licensed abroad for at least 3 years after completing a residency
+have practiced abroad within the last 5 years
+be in good standing with respect to the foreign license, with no pending disciplinary actions
+possess ECFMG certification
+pass all steps of the USMLE
+possess basic English fluency
+be legally authorized to work in the United States
+conduct 500 hours of clinical practice in the United States under direct supervision
+Idaho’s approach uniquely requires the ITP to find a training program to obtain the 500 hours of U.S.-based clinical experience, but upon completion of that training, the ITP’s provisional license is merely tied to employment at any healthcare provider in Idaho that also employs another fully licensed physician.
+Virginia
+Virginia’s 2024 HB 995 created a slightly longer four-year path to full licensure (slightly longer than in other states) that also requires the ITP to commit to work in a rural or underserved area before obtaining a full license.
+54
+Virginia requires ITPs to complete a two-year provisional license at any healthcare provider in Virginia followed by a two-year restricted license in an underserved Virginia region. Similar to most other states, Virginia requires the ITP to meet the following criteria:
+possess a medical school degree
+be licensed and have practiced abroad for at least 5 years after completing residency
+possess ECFMG certification
+pass all steps of the USMLE (Steps 1 and 2)
+Virginia allows the vast majority of healthcare facilities in the state to sponsor an ITP for a provisional license but requires the sponsoring employer to provide a program of assessment and evaluation of the ITP’s skills. After the two-year provisional license, the ITP must also pass USMLE Step 3 before obtaining the restricted license. After the conclusion of the restricted license period, the ITP is eligible to apply for full, unrestricted licensure.
+These states prove that reform is not only possible but that it’s already happening. Other states should study these models and adapt them to their own healthcare landscapes. And as they do, they should recognize that the provisional license under the sponsorship and employment of a healthcare facility in their state provides many safeguards of patient safety.
+III. Expand existing waiver and faculty practice programs
+Some states already have programs to allow limited practice by ITPs. Tennessee, for example, has long allowed ITPs to practice at St. Jude’s Children’s Research Hospital without completing a U.S.-based residency.
+55
+Several states maintain a process by which their boards may waive particular requirements, including residency, for highly qualified applicants.
+56
+California: The Doctors from Mexico Pilot Program
+California currently allows physicians licensed in Mexico to practice in certain underserved communities under a special waiver program called the Physicians from Mexico Pilot.
+57
+While this program is geographically and nationally limited, it provides a strong foundation for broader reform. California recently expanded the program to include pediatricians and OB-GYNs, but can expand the program to include physicians from other countries and for a longer duration, especially in rural and underserved regions.
+58
+The infrastructure for credentialing, supervision, and oversight already exists. Expanding eligibility would be a low-cost, high-impact way to increase access to care.
+In states without any such program, identifying particular countries for a licensing pathway may be an intermediate step toward the more fulsome reforms discussed above.
+North Carolina: Leverage the faculty practice model
+North Carolina has long allowed ITPs to join the faculty of any medical school in the state and to practice medicine even if they never completed a U.S. residency.
+59
+This model recognizes the value of foreign training and experience, especially in academic settings. As university hospitals have bought up local practices, this faculty licensing allows large university hospitals to hire ITPs to serve in practice faculty roles in which their main academic responsibility is to supervise students on rotations, leaving them with ample patient practice time as well.
+States that do not want to adopt a full ITP pathway could adapt this model or slightly broaden it by:
+allowing faculty practice licensees to serve in affiliated teaching hospitals and clinics
+creating parallel pathways for nonacademic providers such as large hospitals or clinics to sponsor ITPs under similar terms
+IV. Policy design principles for new legislation
+For states that are ready to create a full pathway for ITPs, legislators should evaluate the bills that other states have passed, consider the pros and cons of various requirements, and build a pathway that best serves the needs of their state. To do this, they should consider these design principles:
+A. Clarity matters
+– The legislation should clearly define eligibility criteria. Most states require an ITP meet the following criteria:
+graduate from a recognized international medical school
+ECFMG certification or equivalent
+recent clinical experience
+sponsorship by a licensed provider or institution
+B. Level of supervision
+— The more supervision a state mandates, the less likely the healthcare facilities in the state will be able to attract high-level experts from abroad who may recoil from a required direct supervision regime. Depending on the needs of the state, the legislature may want to impose less stringent supervision requirements and allow the board and employer to develop a mix of supervision and autonomy based on ITPs’ skills, training, and experience. Regardless of how closely supervised the ITP may be, employers should ensure that the ITP is acclimating to medical practice in the United States and is integrating into the care team effectively.
+C. Pathway to full license
+— Provisional licenses cannot be dead ends. Every pathway should include a clear process to convert to full licensure after successful completion of the provisional period. Nor should ITPs be required by state law to remain employed by the original sponsoring facility or provider after they achieve full licensure. These two principles will give physicians a meaningful career path and encourage long-term retention of the practitioner in the state.
+60
+By following the lead of Wisconsin, Idaho, and Virginia — and by creating or expanding programs like those in California and North Carolina — states can release a new wave of medical talent and deliver care to communities that need it most.
+States with pathways should ensure ITPs can find sponsors and practice
+Even after states create a statutory pathway for ITPs to join the medical practice, boards, healthcare providers, and payers need to take many other steps to put policy into practice for the patients who need care and the ITPs who are willing and able to provide that care. This section provides recommendations for each stakeholder group, grounded in legislative intent, implementation experience, and real-world workforce needs.
+I. Recommendations for boards of medicine
+1. Remember legislative intent: A true alternative pathway
+State medical boards should begin their rulemaking process by accepting the vision of their state lawmakers. Legislatures enacted these reforms to create an alternative to the traditional U.S.-based residency pathway to licensure. Just as states in past decades overcame hesitation to license physicians trained abroad and began permitting noncitizens to practice medicine, this recent set of reforms stems from a willingness by the legislature to consider foreign graduate medical training as substantially similar to U.S.-based training.
+61
+Fundamentally, this means the legislature concluded that patients’ access needs may trump marginal concerns about strict equivalence in training. The intent of these laws is clear: expand access by recognizing foreign training and experience, especially when that foreign training is also being evaluated by the hiring entity in the United States.
+No matter the details of their final regulations, boards should not impose requirements that mirror the status quo. Rather, if the law allows for provisional licensure based on foreign credentials, boards must resist the urge to require U.S. residency or a foreign residency accredited by the identical institutions that accredit U.S. residencies. While postmedical school training is likely to remain a prerequisite to medical practice, the legislature knew it was authorizing licenses for doctors who trained in different training locations, and whose content in training may vary from American residency programs. To require absolute similarity or equivalence, or to mandate that foreign programs offer identical training structures for their residency or residency equivalent would undermine the reform and perpetuate the very bottlenecks the legislature sought to eliminate.
+2. Implement laws by welcoming qualified applicants
+Boards should adopt a posture of openness to skilled applicants and assess eligibility based on objective criteria. Obviously, doctors who want a license should be able to demonstrate their proficiency, but boards would do well to recognize that many of today’s top American doctors would themselves have difficulty passing the USMLE since their practices have become sufficiently specialized that they no longer remember details unrelated to their own practice and that more generalist medical students, more recent med school graduates, or experienced specialists would have top of mind. In addition, ITPs often face unfamiliar bureaucracies and uncertainty about eligibility. Boards should proactively publish guidance, host webinars, and designate staff to assist applicants. And when a qualified applicant is able to find a sponsoring employer and submits an application, boards should work with the sponsoring employer to find the best path toward granting a provisional license.
+3. Don’t erect barriers the legislature didn’t raise
+Boards must resist the temptation to add new hurdles under the guise of “implementation.” If the legislature did not require a specific exam, credential, or documentation, the board should not impose it unilaterally. For example, if a legislature grants a board authority to ensure that applicants are qualified, a board should not create a new test in addition to the USMLE, which likely would be seen, correctly, as intended to reduce the number of qualified applicants rather than to ensure patient safety or physician quality.
+The definition of an eligible “residency” program is particularly important. Most state ITP laws enacted in the last few years merely require that an ITP complete a “residency or substantially similar postgraduate training program.” A board that wants to oppose the law’s principles and thwart its aims could define a “residency” as a program with the approval of the Accreditation Council for Graduate Medical Education, knowing that ACGME only accredits U.S.- and Canada-based residency programs. Similarly, the board could focus on the “substantially similar” language and posit, without textual basis, that the legislature wants the board to strictly limit eligibility to doctors whose training abroad is nearly identical to a U.S.-based residency. The intent behind such language is clearly to limit eligibility for the pathway and boards should instead ensure regulations adhere to legislative intent to expand the physician workforce. For example, the Iowa board’s rules define what “substantially similar” training entails, requiring training to be approved by the ACGME, American Osteopathic Association, or comparable Canadian agencies — or applicants can submit their own evidence that their training meets substantially similar requirements.
+62
+Adding new requirements post hoc could undermine the legislature’s intended reforms and, more importantly, may invite costly, unproductive legal challenges. Boards are administrative bodies, not legislative ones. And while medical boards are charged with protecting the public, once the legislature decides that certain kinds of training or credentials will be acceptable in the state, the board should remember that their role is to implement, not rewrite, the laws.
+4. Provide clarity to sponsors
+Sponsors — healthcare providers who will employ, supervise, and support ITPs — are essential to the success of these reforms. Doctors may need to take time away from their current workloads to consult with a new provisional license holder about how to overcome a particular challenge or navigate a difficult patient situation. Facility staff may need encouragement to treat ITPs with the respect owed to any other doctor. Boards must provide clear, accessible guidance to sponsors about their responsibilities, liabilities, and expectations.
+Ambiguity discourages participation and success. Clarity empowers them. Boards should publish sponsor FAQs, sample agreements, and points of contact for support. They should also clarify how sponsors can help provisional licensees transition to full licensure. And boards can encourage facilities that offer the most robust programs to integrate ITPs into their practice to share those programs with peer institutions. The Federation of State Medical Boards could also help facilitate a program that lets facilities share implementation best practices across states.
+5. Trust the process and trust your members
+Boards should trust that healthcare providers are capable of identifying qualified candidates. If a hospital or clinic is willing to sponsor an ITP, that endorsement should carry weight. Boards can and should evaluate performance once the doctor begins practicing, but they should not block applicants preemptively unless there is clear evidence of risk. The provisional period exists precisely to allow for real-world evaluation. Boards should use it productively on behalf of patients and the public rather than circumvent it. Trust your members. Trust your process.
+II. Recommendations for healthcare providers
+Healthcare providers have been sounding the alarm about physician and healthcare professional shortages for years. By enacting ITP laws, state legislatures have chosen a path that enlarges the pool of physicians. For doctors and other providers who are worried about expanding healthcare provider scope of practice, this policy should come as a welcome alternative to increase the number of doctors in the state.
+63
+Now that legislatures are giving healthcare providers the opportunity to access more talent, the next step is for these providers to actually find, hire, train, integrate, and ultimately release ITPs to serve patients day in and day out.
+1. Find qualified, eligible providers and hire them
+Healthcare providers must take initiative. The new laws open the door to hiring, but an open door needs someone to walk through it. Hospitals, clinics, and health systems should seek out ITPs who meet the eligibility criteria and offer them positions.
+FSMB offers guidance on evaluating international credentials. And peer academic institutions that have been allowed to hire international faculty have built systems to evaluate credentials as well. Providers should use these tools to identify strong candidates and begin recruitment.
+2. Develop systems to integrate new providers
+Hiring ITPs is an important step, of course. Providers must also build systems to support their integration once hired. That includes orientation programs, mentorship structures, cultural competency training, and peer support networks.
+One of the biggest challenges facing states with large numbers of internationally trained healthcare practitioners is helping them assimilate into daily life in America. Shopping, cooking, cleaning, and other daily tasks most Americans take for granted can be immensely difficult for someone with a high-stress job who is having to learn entirely new behavior patterns and cultural norms. The American Medical Association’s ITP Toolkit offers resources on integrating international medical graduates into clinical practice.
+64
+Providers should consider how to adapt these tools to their local context.
+ITPs bring immense skill, but they may need help navigating U.S. clinical norms, documentation systems, and patient expectations. A thoughtful onboarding process and regular check-ins benefit everyone.
+3. Build rural partnerships early
+Some state ITP laws allow doctors to shift seamlessly from provisional license to full license without spending time in rural or other underserved areas. But in others — Massachusetts, Texas, and Virginia, for example — the doctor must practice in a rural or underserved facility before receiving a full license. In such states, providers should begin building partnerships with rural facilities immediately. Waiting until after hiring to secure a rural placement risks delays or license revocation. This is especially important since a facility in an urban area in Massachusetts or Virginia may hope to bring that ITP back to their urban facility to work after the doctor completes the rural limited-license period. But failing to help the ITP find placement will undermine efforts to lure back those doctors after they complete the required rural practice.
+Urban hospitals can collaborate with rural clinics to create rotation programs, telehealth partnerships, or shared staffing models. The Health Resources and Services Administration (HRSA) maintains a database of Health Professional Shortage Areas (HPSAs) that can help identify eligible rural sites HRSA.
+These partnerships should be formalized early — ideally before the provisional license is issued. That ensures continuity of care and compliance with state law.
+III. Recommendations for payers
+1. Pay provisional licensees as physicians
+Payers — especially Medicaid programs and private insurers — must recognize provisional licensees as physicians for reimbursement purposes. These doctors are performing physician-level work under state authorization and should be treated equally for payment purposes with doctors licensed under traditional pathways. Denying them physician-level payment is both unfair and counterproductive.
+2. State payers should lead
+State Medicaid programs should take the lead in updating reimbursement policies. As public entities, they have both the flexibility and the responsibility to model best practices. By recognizing provisional licensees and reimbursing their services appropriately, state payers can pave the way for private insurers to follow.
+If the state Medicaid program has autonomy to set pay rates, it should define ITPs on provisional and other limited licenses as doctors for purposes of Medicaid billing. Otherwise, legislators who are interested in promoting the ITP policy should consider passing clarifying language that ensures ITPs are paid as physicians, not as an allied health professional with a different title.
+Private insurers should follow suit. If a doctor is authorized to practice by the state and the state’s Medicaid program also pays for their services, they should be reimbursed accordingly in the private sphere as well. Anything less undermines the reform and discourages hiring. Reimbursement is not just a financial issue. It’s a signal of legitimacy. If the state pays these doctors as physicians, others will follow.
+Legislative reform is only the beginning. To truly unlock the potential of ITPs, states must ensure that their boards, providers, and payers implement these laws with fidelity, clarity, and courage.
+Conclusion
+Innovative policy approaches such as new, alternative licensing pathways for internationally trained physicians are reshaping how states respond to physician shortages, benefiting both patients and the many underemployed physicians currently on the sideline. However, truly expanding the clinical workforce requires much more than just new laws. It takes a well-designed regulatory framework that balances patient safety needs with lawmakers’ explicit intentions to open new pathways for ITPs. States that choose to act boldly in developing these new solutions will enjoy the greatest gains for their communities: expanded access to high-quality medical care, better and more attractive employment opportunities, and a stronger healthcare system overall.
+At the Niskanen Center, we are excited to partner with state policymakers and regulators as they navigate these new pathways to better serve their patients.
+Appendix 1
+About the authors
+Jonathan Wolfson
+is a Senior Fellow at the Niskanen Center, where he focuses on healthcare workforce policy reforms at the intersection of healthcare, labor policy, and occupational licensing regulation. He previously served as Chief Legal Officer and Chief Policy Director at the Cicero Institute, where he spearheaded state-level reforms to expand patient access to healthcare providers across the country among other major projects across the state policy landscape. His writing has appeared in outlets including the Wall Street Journal, STAT News, The Hill, National Review, and Governing. Wolfson earned his J.D. from the University of Virginia School of Law where he was an Olin Law & Economics Fellow and his A.B. in Economics, Magna Cum Laude, from Washington University in St. Louis.
+Lawson Mansell
+is a health policy analyst, who works on supply-side health care solutions. Previously, he was a research associate at the Milken Institute where he authored reports on regional and health economics. He also previously served on the staff of South Carolina’s 1st congressional district. Mansell holds a Master of Public Policy from Pepperdine University School of Public Policy and a Bachelor of Arts in political science from Thomas Edison State University.
+Katherine Hall
+was a health policy intern with the Niskanen Center’s Social Policy team. She currently serves as a Research Assistant at the Paragon Health Institute. Her background is in wealth management, and served as a licensed assistant to a financial advisor at Quadrant Financial Services. This past spring, she completed a fellowship with the Health Reformers Academy. She holds a B.S. in Quantitative Economics with minors in Finance and American Politics from Tufts University.
+Footnotes
+“
+The Complexities of Physician Supply and Demand: Projections From 2021 to 2036
+,” Association of American Medical Colleges, 2024.
+↩︎
+This legislative movement is in part the result of hard work from the policy teams at the Cicero Institute and World Education Services, both of which have been advocating for ITPs as a solution to the doctor shortage for many years.
+↩︎
+“
+The Complexities of Physician Supply and Demand: Projections From 2021 to 2036
+,” Association of American Medical Colleges, 2024.
+↩︎
+Author’s calculations based on: “
+Results and Data: 2025 Main Residency Match
+,” National Resident Matching Program, May 29, 2025.
+↩︎
+Jonathan Wolfson, “
+Cutting the American Physician Shortage With International Doctors
+,” Cicero Institute, January 2025.
+↩︎
+Jonathan Wolfson, Maqbool A. Halepota, Lisa A. Robin, and Jeffrey A. Singer, “
+Coming to the Rescue: How International Medical Graduates Can Increase Access to Health Care
+,” Cato Institute, April 23, 2024.
+↩︎
+Michael Nedelman, “
+Why refugee doctors become taxi drivers
+,” CNN, August 9, 2017.
+Lucy Berrington, “
+The US Needs Foreign-Trained Physicians: Why Are We Making It So Tough for Them?
+,” Massachusetts Medical Society, November 8, 2019.
+↩︎
+Lawson Mansell and Jared Rhoads, “
+Evaluating a new Senate proposal to reform residency funding
+,” Niskanen Center, January 29, 2025.
+↩︎
+“
+Graduate Medical Education (GME)
+,” Association of American Medical Colleges.
+↩︎
+One of the most successful state efforts to bridge the gap between the doctor shortage and patient needs has been to allow nondoctors to perform more services. Highly skilled, nonphysician healthcare professionals including  nurse practitioners, pharmacists, and physician assistants often
+cannot perform
+treatments they are trained for without physician supervision. In 2024 alone,
+34 states enacted
+more than 120 bills to address health professionals’ scope of practice.
+↩︎
+Some states have also recently invested in the infrastructure needed to support the creation of more doctors: medical schools and residency positions. MD-granting medical school matriculants have
+increased by 38 percent since 2003
+, reaching a new high in 2025. Texas, for example, has been aggressively building medical schools over the last couple decades, increasing their medical school graduates by
+20 percent since 2015
+.
+Arkansas
+,
+Florida
+,
+California
+,
+Virginia
+, and
+New Mexico
+are other states recently spending new money to directly support the creation of more doctors.
+↩︎
+These are sometimes referred to as “
+eminence pathways.
+”
+↩︎
+WA SB 5118 (2025).
+↩︎
+“
+Legislative Committee Meeting
+,” Virginia Board of Medicine, September 5, 2025.
+↩︎
+Iowa
+,
+Virginia
+, and
+Wisconsin
+require five or more years,
+Florida
+requires four,
+Oregon
+and
+Tennessee
+require three, and
+Massachusetts
+requires at least one.
+Texas
+does not specify any years of practice abroad.
+↩︎
+Louisiana
+allows completion of a training program similar to residency to substitute for the required five or more years of experience abroad.
+Oklahoma
+requires either three years of postgraduate training program in the ITP’s licensing country or medical practice for at least three of the last five years.
+Idaho
+accepts 500 hours of supervised clinical experience in the U.S. as a substitute for the required three or more years of practice abroad.
+↩︎
+Minnesota
+requires at least 60 months of practice within the last 12 years.
+Arkansas
+requires active medical practice within the four year period before application, but the length of practice is not specified.
+Wisconsin
+requires at least five years of practice, with continuous practice for at least one out of the five years before application.
+↩︎
+Florida
+requires an active license to practice in a foreign country, while
+Iowa
+further requires applicants to have held an active license for the five years immediately preceding application.
+North Carolina
+requires applicants to either have an active license or have had this license expire no more than five years before applying.
+↩︎
+In
+Nevada
+, if an ITP has not continuously practiced medicine for the 24 months prior to applying, the board may require additional testing. In
+Idaho
+, if an ITP has not practiced medicine within the last five years, they must obtain a waiver from the board.
+↩︎
+“
+About the USMLE
+,” United States Medical Licensing Examination.
+↩︎
+Illinois
+and
+Wisconsin
+require ITPs pass all three Steps before obtaining a limited license. Others, including
+Massachusetts
+and
+Minnesota
+, require only Steps 1 and 2 for limited licensure.
+↩︎
+North Carolina
+accepts a passing score on USMLE exams or a State Board exam, FLEX, NBME, or other board approved exam, or a nationally recognized standard MLE from a member country of the International Association of Medical Regulatory Authorities.
+Texas
+requires ITPs pass the Texas Medical Jurisprudence Exam in addition to either USMLE examinations or other examinations listed as acceptable by the board.
+↩︎
+In
+Minnesota
+, ITPs must pass the first two levels of USMLE or COMLEX-USA within three attempts to obtain a limited license. In
+Idaho
+, failing USMLE Steps 1 and 2 twice may require further examination by the board.
+↩︎
+Virginia
+and
+Rhode Island
+allow the board to waive ECFMG certification in special circumstances.
+↩︎
+Oregon
+requires a training program substantially similar to an approved training program determined by the board.
+Indiana
+requires a residency program that is substantially similar to an ACGME accredited residency program.
+Florida
+requires its board to define what non-residency programs are sufficiently similar to a US-based residency. In all three cases, depending how lenient the board is when defining similarity to U.S. residency, this requirement could be unnecessarily restrictive.
+↩︎
+North Carolina
+accepts active medical practice in the ITP’s country of licensure for at least 10 years after graduation in lieu of its foreign residency requirement,
+Louisiana
+accepts five or more years of experience abroad,
+Oklahoma
+accepts medical practice for at least three of the last five years, and
+Nevada
+accepts the performance of physician duties in a foreign country within five years before applying.
+↩︎
+Illinois
+,
+Virginia
+,
+Minnesota
+, and
+Arkansas
+don’t specify foreign residency training requirements.
+↩︎
+In
+Iowa
+and
+Idaho
+, any healthcare facility can sponsor an ITP. In
+Louisiana
+, sponsoring facilities must be owned or operated by a hospital licensed in the state. In
+Oregon
+and
+Wisconsin
+, sponsors must be a healthcare facility approved by the board.
+↩︎
+Virginia
+,
+Rhode Island
+,
+Oregon
+, and
+Massachusetts
+specify that this program must comply with board approved standards.
+↩︎
+In
+Tennessee
+and
+Oklahoma
+, a sponsoring facility must have an accredited residency program, and in
+Florida
+, a sponsor must have at least one residency position. In
+Texas
+, a sponsor must have an ACGME or AOA residency program or be ACGME or AOA-affiliated.
+↩︎
+In
+Idaho
+, a supervising physician must be licensed in the state and board certified. In
+Oklahoma
+, the limited license holder must be supervised by the chair of the department of their intended practice. In
+Nevada
+, the supervisor must be a licensed physician who has practiced in the same or substantially similar specialty as the ITP for at least two years. In
+Oregon
+, the supervisor must be a licensed physician and meet board established requirements for supervision.
+↩︎
+Florida
+, and
+Louisiana
+have a two year limited license period,
+Idaho
+,
+Iowa
+,
+Wisconsin
+, and
+Tennessee (board rules)
+require three, and
+Oregon
+and
+North Carolina
+require four.
+Indiana
+’s is valid for up to six years, and may be converted to full license after a minimum of five years.
+↩︎
+In
+Arkansas
+, a limited license lasts one year and is renewable for a second year. In
+Rhode Island
+, a limited license lasts one year and is renewable with restrictions based on specialty. In
+Minnesota
+, a limited license lasts 24 months and is nonrenewable.
+↩︎
+Illinois’ board
+requires ITPs practice under a two-year renewable limited license, then requires at least two years of practice with a restricted license.
+Virginia
+and
+Massachusetts
+require completion of a provisional license, then a renewable restricted license to practice in a medically underserved or shortage area.
+↩︎
+Massachusetts
+and
+Illinois
+(board rules) require at least two years of practice in a physician shortage area under a restricted license, while
+Idaho
+requires at least three years.
+Minnesota
+,
+Arkansas
+,
+Texas
+and
+Indiana
+generally require some form of practice in an underserved area.
+↩︎
+In
+Nevada
+, a sponsoring entity can be a physician group practice in a medically underserved area, or it can be either a federally-qualified health center, the State or a political subdivision, a nonprofit facility providing mental health or primary care services. In
+North Carolina
+, a sponsoring entity can be either a medical practice in a rural county with population less than 500 people per square mile and a licensed physician practicing on-site, or it can be a state-licensed hospital.
+↩︎
+In
+Wisconsin
+, limited licensure automatically converts to full licensure after three years of full-time practice in good standing, and proposed bills in
+Kansas
+and
+South Carolina
+state that provisional licenses automatically convert to full licenses after three years of active practice in the state.
+↩︎
+Texas
+and
+North Carolina
+require limited license holders to apply for full licensure, but state the board shall issue a full license upon application given good standing and completion of requirements.
+↩︎
+Jonathan Wolfson, “
+Cutting the American Physician Shortage With International Doctors
+,” Cicero Institute, January 2025. In
+Oklahoma
+, the board may grant full licensure after three years of practice, given good standing and passing scores on the USMLE. In
+Nevada
+and
+Arkansas
+, the board may grant full licensure after two years of practice in good standing. In
+Indiana
+, limited licensure may be converted to full licensure at the discretion of the board after at least five years.
+↩︎
+Florida
+offers a temporary 1-year license under supervision in a training program at a board approved cancer center.
+South Dakota
+offers a one year, renewable limited license for supervised practice at a state institution that has an urgent need for physicians.
+Mississippi
+offers a one year limited license to practice in a state-supported institution, renewable for up to five years (but the board can waive this limit).
+↩︎
+California
+has a temporary 3-year licensure program for up to 30 physicians from Mexico practicing in primary care specialties.
+Arkansas
+and
+Louisiana
+offer a temporary, nonrenewable permit to physicians licensed in the Philippines.
+↩︎
+Washington, D.C.
+offers a limited license “for foreign doctors of eminence and authority.” It can be renewed indefinitely as long as the license holder remains employed by the sponsoring institution, but it cannot be converted into a full license.
+↩︎
+Washington
+offers full licensure to ITPs “of exceptional ability in the sciences.”
+North Dakota
+allows the board to waive U.S. residency requirements if it determines that an applicant is uniquely qualified “or will make a unique or special contribution to the practice of medicine not readily available to the citizens of the state.”
+↩︎
+Maine
+recognizes postgraduate training programs from England, Ireland, and Scotland, while
+Oklahoma
+recognizes training from England, Ireland, Scotland, Australia, and New Zealand.
+Montana
+accepts three years of postgraduate training education done in a program approved by or affiliated with the World Health Organization.
+↩︎
+New York
+regulations
+give the board the ability to accept foreign residency training in lieu of U.S. residency training on a case by case basis.
+Utah
+offers full licensure to applicants without U.S. residency training if the division determines that the applicant’s education and training were substantially similar to current requirements in the state.
+↩︎
+These licenses for faculty can be converted to a full license in states like
+Arizona
+and
+California
+, while in
+Hawaii
+this academic license is only temporary.
+↩︎
+“
+IDFPR Announces New Pathway to Licensure for Internationally Trained Physicians to Work in Illinois
+,” Illinois Department of Financial and Professional Regulation, September 12, 2025.
+↩︎
+https://townhall.virginia.gov/l/GetFile.cfm?File=meeting%5C26%5C40043%5CMinutes_DHP_40043_v1.pdf
+.
+↩︎
+Rule text
+and
+legislative text
+.
+↩︎
+“
+September 2025 Bulletin
+,” Texas Medical Board, September 2025.
+↩︎
+For more details on these requirements and the pros and cons of including different requirements, see: Jonathan Wolfson, “
+Cutting the American Physician Shortage With International Doctors
+,” Cicero Institute, January 2025.
+↩︎
+Wisconsin AB954 bill text
+.
+↩︎
+Idaho HB 542 (2024).
+↩︎
+Virginia HB995 (2024)
+.
+↩︎
+Tennessee Code § 63-6-207 (2021).
+↩︎
+In
+Alaska
+, the board can waive residency requirements for full licensure if applicants demonstrate “proof of competency and professional qualifications.”
+North Dakota
+allows the board to waive U.S. residency requirements if it determines that an applicant is uniquely qualified.
+West Virginia
+lets the board issue a restricted license “in extraordinary circumstances” to applicants with exceptional credentials, waiving typical licensure requirements.
+↩︎
+California Bus & Prof Code § 853 (2024).
+↩︎
+California AB2860 (2024)
+.
+↩︎
+North Carolina Gen Stat § 90-12.3
+(2024).
+↩︎
+For a more detailed discussion of the pros and cons of these various requirements and options, readers should consult the section “Pathways to Full Medical License” in the Cicero Institute’s white paper: Jonathan Wolfson, “
+Cutting the American Physician Shortage With International Doctors
+,” Cicero Institute, January 2025.
+↩︎
+Irene Butter and Rebecca G. Sweet, “Licensure of Foreign Medical Graduates: An Historical Perspective,” Health Manpower Policy Studies Group, School of Public Health, The University of Michigan, 1977.
+↩︎
+Iowa Admin. Code r. 653-10.6
+(amended 2025).
+↩︎
+ITPs will join the state’s medical association and are likely to advocate for their fellow physicians, unlike allied health professionals who have their own unique associations and may be more interested in advocating for that branch of the healthcare field whose public policy interests may not always align with those of the doctors.
+↩︎
+“
+International Medical Graduates (ITP) toolkit: Practicing medicine in the U.S.
+,” American Medical Association, May 16, 2025.
+↩︎

@@ -1,0 +1,99 @@
+TITLE: Capability-based budgeting meets the real world: Navigating today’s pressures, reforms, and risks
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/capability-based-budgeting-meets-the-real-world-reforms-and-risks/
+WORDS: 2509
+
+This is the third in a series on how agencies can adapt the federal IT budget to support a
+Product Operating Model
+. For a quick recap, modern product operating models shift the focus of investments in digital systems from individual, time- and budget-bound projects to one in which cross-functional teams focus on meeting users’ needs through
+continuous, iterative development.
+Capability-based budgeting is a key part of the process. It provides steady, incremental investments managed by a product team accountable for continuous, end-to-end delivery. Results are judged by measurable public experiences and outcomes rather than by internal metrics tied to on-time, on-budget delivery.
+From theory to reality
+My first two Niskanen articles explored
+what capability-based budgeting means
+and
+how it was put into practice at the Department of Veterans Affairs
+(VA). Those stories showed that reform isn’t theoretical; it can work inside one of the federal government’s most complex and sprawling IT environments.
+The harder question is what happens when a lofty theory meets actual conditions? Agencies are being asked to do more with less: less money, fewer people, and higher expectations for modernization, under increased pressure from the administration to “use AI.” How do you keep reform alive under constraints that seem impossible?
+This article looks squarely at those real-world pressures, which together reveal why capability-based budgeting may be even more necessary now than when VA first began implementing it in 2021.
+Pressure point 1: Doing more with less money
+The first and most familiar constraint is financial. Budgets are tightening even as demand for IT services continues to rise.
+In practice, that means leaders are being told to cut spending but continue supporting ever-expanding missions: modern digital service delivery, secure cloud infrastructure,
+zero-trust adoption
+, AI experimentation, and a better customer experience. But those expectations aren’t tenable.
+That’s where capability-based funding becomes useful. It forces an honest conversation about priorities and creates a clearer way to communicate them upward. When resources are tight, leaders have to determine what is essential to sustain and what can be halted, and then win the support of agency leadership, the White House, and Congress. By framing budgets around enduring capabilities (the work that is core to your team and mission) and measurable outcomes rather than compliance, agencies gain a language for that negotiation.
+Capability-based funding helps show decision-makers and oversight bodies that discontinuing an investment isn’t abandonment of the mission, but a deliberate, responsible shift toward higher-value capabilities that better serve the mission.
+The post-COVID tech hangover
+After COVID, most agencies dramatically increased their use of digital tools. The rapid shift to remote work and virtual collaboration drove a wave of
+Software as a Service (SaaS)
+contracts, pilot tools, and platform subscriptions. Many were funded with short-term money through the
+American Rescue Plan
+or other emergency mechanisms. It produced a remarkable burst of innovation but not one built for sustainability.
+Nor for efficiency. As those one-time funds dry up, agencies are waking up to what I call the “tech-stack hangover
+”
+:
+hundreds of products performing overlapping functions
+, licensed under separate contracts, managed by small teams whose members don’t always talk to one another or even know the others exist. For example, an organization might incur higher subscription costs when individual teams establish separate Slack workspaces instead of utilizing a single enterprise license.
+Capability-based budgeting helps cut through that noise. By grouping those investments under the capabilities they serve — “customer engagement,” “case management,” “identity and access,” for example — leaders can see, often for the first time, where the overlap is. In one VA exercise, consolidating duplicative enterprise licensing saved tens of millions of dollars without cutting a single service.
+The short-term vs. long-term trap
+Austerity creates its own kind of tunnel vision. Under pressure, leaders often reach for the quickest cuts — canceling projects or deferring upgrades, for instance — without considering the long tail of those decisions.
+At VA, we faced a situation in which a legacy platform’s licensing costs were rising every year because of the vendor’s new pricing model. A newer alternative offered a better cost curve and stronger alignment with our long-term goals. But to test it, we would have to run a pilot, build a minimum viable product, and fund a data migration. We would spend more in the short term to save substantially more over time.
+Capability-based budgeting gives leaders a structure to make those trade-offs visible. It helps them see not just the cost today, but the trajectory — what a capability will cost and deliver over the next five years.
+I think about this the way my father, an economics professor, taught us to think about trade-offs at home. Every year, he practiced an “annual moratorium” — a pause to reassess goals, see what was working, and make deliberate course corrections if needed. That habit stuck with me. It’s a reminder that progress isn’t continuous. It’s cyclical.
+Economists call it the
+Juglar cycle
+: roughly seven years between peaks and troughs in investment and output. If it takes about that long to see the full effect of a change in the economy, I’d argue it takes about the same time to see the impact of a scaled change inside a large organization.
+We’ve now had roughly seven years since the federal pivot from waterfall to Agile and product management in IT delivery commenced. It’s time to pause and look back. Where did spending grow too fast or unevenly? Where can we consolidate without losing mission-critical capabilities? That’s the kind of systemic clarity that capability-based budgeting makes possible: strategic realignment instead of across-the-board cuts.
+Pressure point 2: Doing more with fewer people
+The second pressure is personnel. Not even the best funding model can run without people, and right now, federal agencies are stretched thin.
+The 2025
+federal workforce
+is smaller, increasingly eligible for retirement, and under pressure to master new skill sets. Over the next five years, retirements alone will drain institutional knowledge faster than hiring can replace it. Meanwhile, the work itself has changed. Data science, AI operations, and cyber resilience demand very different skill mixes than many legacy programs were built for.
+For agency leaders responsible for getting more done with less, it may be tempting to think that artificial intelligence will fill the knowledge gap and that automation will replace the workforce capacity agencies are losing. But that’s a false comfort. AI can streamline processes or enhance decision-making, but it can’t replace judgment, accountability, or mission understanding. These technologies still need humans who know what the system is supposed to achieve, how to measure success, and when to intervene.
+The real challenge isn’t replacing people; it’s equipping the remaining workforce with the skills to work with the new tools and manage more complex systems. Capability-based budgeting helps by clarifying which skills are truly critical to sustain those capabilities, ensuring that limited training and hiring dollars go to the roles that matter most.
+Clarifying skill priorities
+When you map your work to enduring capabilities, you can see where you’re strong and where you’re exposed. For example, you might find your product management bench is solid but your cybersecurity coverage is weak. Or that you have deep legacy expertise but too few data engineers to modernize analytics pipelines. With that information, workforce planning becomes evidence-based: you can explain to leadership or Congress why your next 10 hires should be cyber specialists, not another layer of program analysts.
+Of course, this is not a magic fix. Restructuring budgets requires staff bandwidth, and that bandwidth is already scarce. And if institutional knowledge has already eroded, capability mapping can expose weaknesses faster than it can fill them. But that’s not failure. That’s feedback and the first step toward easing workforce strain and better long-term outcomes.
+Reducing churn through structure
+From the outside, shifting to a new budgeting model might sound like adding more work. But in practice, capability-based budgeting can reduce the administrative churn that eats up staff time.
+Traditional line-item budgeting turns every minor course correction into a bureaucratic event, with each adjustment requiring new approvals, crosswalks, and submissions back through the CFO chain. Those changes may seem insignificant, but at scale, they result in a substantial time burden in the dynamic reality of a fiscal year in motion.
+Funding by capability shifts the focus from managing microtransactions to delivering meaningful outcomes. Instead of 20 separate accounts for one integrated service, capability-based budgeting allows teams to manage trade-offs within that boundary. It’s not the kind of reform that grabs headlines, but it’s the kind that quietly changes how work gets done — reducing paperwork, easing operational friction, and freeing teams to focus on outcomes that actually move the mission forward.
+Pressure point 3: Doing more with AI
+Every agency feels it. The expectation is clear:
+find a way to use AI.
+The assumption is that automation and large language models can help the government do more with less — and in many cases, they can. But only if you know
+what problem you’re solving.
+AI can do everything and nothing at the same time. The difference is the definition. Without clarity on the underlying capability and the outcome you’re chasing, AI simply accelerates whatever process already exists, good or bad.
+The migration paradox
+Consider code migration: moving software from one environment to another to improve performance, integration, or security. Vendors promise that AI-assisted tools can rewrite legacy code for modern platforms faster and cheaper; which is attractive when budgets are tight. But unless someone evaluates what should be migrated, which data sets are relevant, which workflows are obsolete, and which features no longer serve users, you risk automating inefficiency. You end up moving bad code and low-value functionality faster.
+Modernization isn’t just about adopting new frameworks; it’s about rethinking the product itself. Understanding what capability a system supports and the outcome it delivers is the foundation for using AI responsibly. That clarity reveals where automation or large language models can add value, and where human judgment still matters. Without it, AI becomes a blunt instrument rather than a strategic tool.
+Measuring value in the age of AI
+The same discipline applies to investment. Too often, modernization is treated as a technology project when it’s really a strategy decision. The question isn’t only,
+“How do we build this faster?”
+It’s also,
+“Is this still the right thing to build?”
+In the private sector, ROI means profit. In the public sector, it means outcomes: speed, access, trust, security. The measure isn’t efficiency for efficiency’s sake but effectiveness: Are we delivering higher-value capabilities that serve today’s mission, not the one we inherited a decade ago? Capability-based budgeting anchors that analysis. It shifts focus from “AI for AI’s sake” to where AI genuinely strengthens a capability — triaging veteran claims faster or scanning health records for safety alerts — and helps assess whether those gains justify the cost.
+But not every part of an agency is ready for AI. Data is often fragmented, messy, or bound by privacy rules. In those areas, the smartest move may be to wait. A capability-based approach helps leaders distinguish where AI will add lasting value and where it would only add complexity.
+The fully burdened cost is also rarely simple. Traditional development budgets fund people and infrastructure. AI adds per-use economics — tokens, API calls, inference costs — that scale with adoption, much like cloud computing. At pilot scale, that’s minor; at enterprise scale, it’s a material budget line.
+That doesn’t make AI a bad investment. It makes it one that demands structure. Agencies need a disciplined way to weigh AI’s long-term cost curves against other modernization priorities. Capability-based budgeting provides that structure, helping leaders focus AI where it creates enduring value and avoid where it merely adds expense.
+Pressure point 4: Should you even do this now?
+There’s understandable hesitation about embarking on an ambitious workplacewide assessment. Reform fatigue is real. Agencies have seen framework after framework rise and fall. Over the last several years, federal IT delivery organizations have had to contend with Agile, Scale Agile Framework, and Technology Business Management to name a few. Each brought some good ideas, but also a wave of unintended bureaucracy.
+When to wait, and when not to
+There are legitimate reasons to wait. If your agency is in a substantial leadership transition or redefining its core mission outcomes, jumping into a full-scale realignment may be premature. Capability-based budgeting takes time, workforce attention, and sustained executive sponsorship to succeed.
+But waiting has its own cost. Agencies that move early can shape how policymakers and appropriators interpret capability alignment rather than wait for the next mandate to define it for them. Early movers get to frame the story: how their budgets connect to mission outcomes, what trade-offs were made, and why those choices serve the public interest.
+And while there’s no law preventing agencies from adopting capability-based budgeting now, reprogramming thresholds and oversight reviews still apply. That’s why the strongest implementations treat capability-based budgeting not just as an internal reform, but as an external communication strategy — a way to build trust and transparency with OMB examiners, congressional staff, and auditors who want to understand why something was cut or consolidated.
+The lesson: Reform isn’t just about structure. It’s about persuasion. The best budgeting model won’t survive if it can’t be explained.
+The fundamental question
+Across all these pressures — fiscal, workforce, and technological — the same accountability test holds:
+What did I get for the money I spent, and did it make things better?
+That question has outlasted every framework, acronym, and administration. While the definition of “better” continually shifts among speed, security, trust, and equity, the responsibility to answer that question never goes away.
+Capability-based budgeting gives agencies a way to build that accountability into their structure. It doesn’t matter if the next reform wave focuses on AI, infrastructure, or personnel. If your budget aligns with the capabilities that drive your mission, you can adapt.
+That’s the difference between reform as compliance and reform as capacity.
+The road ahead
+Agencies today operate in a paradox. They’re asked to modernize faster than ever while facing tighter budgets, thinner workforces, and louder expectations. That environment will not get easier. But it does make the argument for capability-based budgeting stronger.
+The danger isn’t reform itself. It’s reform for the wrong reason. Moving too fast for political optics can create fragility. Moving too slow can lock in structural misalignment for another decade.
+The middle path is deliberate experimentation. Start with one capability. Map its costs, people, outcomes, and systems. You’ll learn more from that exercise than from any top-down mandate. Build your funding model to answer the fundamental question: What did I get for the money I spent, and did it make things better?
+That’s how the government sustains accountability, no matter how expectations evolve.
+The final article in this series will look ahead to the
+how
+: what agencies and Congress can do right now to start putting capability-based budgeting into practice, and what it will take to make reform durable this time.

@@ -1,0 +1,136 @@
+TITLE: The impact of reassigning 6,700 federal workers to immigration
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/the-impact-of-reassigning-6700-federal-workers-to-immigration/
+WORDS: 1429
+
+Immigration enforcement has become a marquee priority for the Trump administration. To meet its stated goal of
+one million deportations
+a year, the White House has redirected considerable federal manpower: at least 6,700 employees have been reassigned—or had their duties shifted—to support deportations and related investigations. The true number is almost certainly higher, because neither the
+U.S. Citizenship and Immigration Services
+(USCIS) nor the
+Federal Bureau of Prisons
+(BOP), both known to have redeployed staff, have released detailed counts. The diversion of 6,700 federal workers to immigration comes at the expense of the enforcement of white-collar crime, national security, drug and firearms trafficking, tax compliance, and protecting children from exploitation.
+According to anonymous sources cited by
+The New York Times
+, approximately
+2,000
+Department of Justice (DOJ) agents have been reassigned to support the Department of Homeland Security (DHS) in immigration enforcement efforts. This includes the Federal Bureau of Investigation (FBI), the Drug Enforcement Agency (DEA), the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), and the US Marshals. Notably, the FBI is required to contribute
+45%
+of the total–about
+6.6%
+of its entire workforce.
+The reallocation is even more pronounced in major urban field offices, where higher concentrations of migrants have led to a greater share of agents being diverted. In New York City,
+8%
+of the agent workforce has been reassigned; in Los Angeles, the number is estimated to be
+93 agents
+.
+FBI field offices have reportedly directed agents to spend up to
+one-third
+of their time on illegal immigration-related work. They often serve as “
+force multipliers
+,” securing locations to enable Immigration and Customs Enforcement (ICE) agents to conduct raids.
+In addition to those formally reassigned to DHS, other ATF agents have also been redirected from their
+primary responsibilities
+of investigating “criminal misuse of firearms and explosives, firearms trafficking, acts of arson, and the diversion of alcohol and tobacco products.” Some have reportedly been tasked with acting as
+“fugitive hunters”
+targeting undocumented immigrants.
+FBI Director Kash Patel is said to have considered reassigning
+1,000
+ATF agents to the FBI to focus on immigration, but ultimately deployed around 125 agents to the southern border. Still, approximately
+80%
+of the ATF’s
+2,563 agents
+—roughly 2,050 individuals—have been instructed to add immigration enforcement to their duties.
+The DEA has also shifted its operational focus. Beyond agents formally assigned to DHS, the agency has reportedly redirected about a
+quarter
+of its workload to immigration, pulling resources away from its traditional mission of combating
+drug cartels
+.
+Beyond the Department of Justice, other federal agencies have been drawn into immigration enforcement. At the
+request
+of DHS Director Kristi Noem, at least
+250
+IRS agents—who typically focus on tax and financial crimes—have been tasked with investigating employers, seizing assets, and even apprehending and detaining individuals.
+Homeland Security Investigations (HSI) has redirected
+1,800 agents
+—who normally do not arrest noncriminal immigrants—to support broader immigration enforcement efforts. Similarly, the Diplomatic Security Service (DSS) has assigned approximately
+600
+special agents, or about 24% of its workforce, to assist in these operations, despite their usual
+focus
+on passport fraud and the protection of diplomats.
+USCIS personnel have also been asked to
+assist
+ICE with
+processing
+detainees and managing records. In addition, the
+Federal Bureau of Prisons
+has been authorized to investigate and detain undocumented migrants—expanding its role beyond incarceration.
+In total, 6,700 federal workers have been reassigned to immigration enforcement or had immigration added to their responsibilities. This figure does not include the DEA, which has shifted a quarter of its workload—nor USCIS and the Bureau of Prisons, which have not disclosed how many staff are now supporting ICE.
+This sweeping reorganization marks the most
+significant
+since September 11th and underscores the administration’s deep commitment to its immigration agenda. However, it raises serious concerns about opportunity costs: as agents are redirected, core missions like investigating white-collar crime, safeguarding national security, combatting drug and firearms trafficking, ensuring tax compliance, and protecting children from exploitation risk being deprioritized or neglected.
+FBI agents are reportedly
+uncomfortable
+with the change in priorities. The focus on immigration
+draws resources and attention
+from other top FBI issues, such as counterterrorism, cyber crimes, and white collar crimes. Both the
+FBI
+and
+the Justice Department
+have been directed to scale back enforcement of white-collar crime.
+In a recent
+memo
+, Matthew Galeotti, head of the Justice Department’s Criminal Division, argued that “Overbroad and unchecked corporate and white-collar enforcement burdens U.S. businesses and harms U.S. interest.” White collar prosecutions as of March 31, 2025, are down
+10%
+compared to this time in 2024. This number will likely only increase as the reprioritization towards immigration hasn’t yet taken full effect by March.
+The decline isn’t limited to white collar crimes;
+prosecution rates
+across all non-immigration-related offenses are down.
+“Federal Prosecution of White-Collar Crimes Receiving Less and Less Attention.” 2025. Transactional Records Access Clearinghouse. May 23, 2025. Figure 2. Comparing Prosecution Rates by Program Area, FY 1986 – FY 2025 (March)
+https://tracreports.org/reports/760/
+.
+While the administration has publicly stated its efforts to decrease white collar crime enforcement, FBI agents have been told to
+hide
+their shift towards immigration work. Supervisors have allegedly directed agents to avoid leaving a paper trail documenting the shift away from national security priorities—a level of secrecy that may reflect internal recognition that a return to those priorities could soon be necessary.
+The reorganization has coincided with the dismissal of several top security officials previously involved in investigations related to the January 6th attack under the Biden administration. Combined with the reassignment of agents to immigration duties, this has contributed to a “
+Brain Drain
+” in national security departments. For example, the system that tracks foreign espionage in the U.S., the counterintelligence and export control section of the DOJ, has lost a
+third
+of its personnel.
+In recent weeks, some agents have reportedly been reassigned back
+to counterterrorism
+in response to elevated concerns about Iranian retaliation following U.S. strikes on Iranian nuclear facilities, suggesting that security risks are beginning to force a recalibration of enforcement priorities.
+Weapons prosecutions from the ATF were already
+down 5%
+in March compared to the same time in 2024, and
+30.6%
+compared to 5 years ago. This was before the significant public shift in resources to immigration came into effect, although it was likely already more of a priority compared to the previous administration. As of March, DEA drug prosecutions are
+down 10.7%
+compared to last year, and
+35.4%
+compared to 5 years ago.
+The redirection of IRS agents toward immigration duties also poses significant fiscal risks. Diverting personnel away from tax enforcement could result in
+billions
+in lost revenue. Moreover, collaboration between IRS agents and ICE on immigration detainment may
+deter
+undocumented individuals from filing taxes, out of fear that doing so could expose them to deportation. According to the Yale Budget Lab, the IRS-ICE information-sharing agreement alone could cost the federal government an estimated
+$313 billion
+in lost tax revenue over the next decade. The broader reassignment effort may only deepen public mistrust in the IRS and further erode compliance.
+Many of the HSI agents reassigned to immigration enforcement were
+previously focused
+on combating child sexual exploitation. In just the past two years, these agents have helped rescue or support more than 3,000 victims. According to Matthew Allen, a former senior HSI official and current head of the Association of Customs and HSI Special Agents, the reassignment will likely leave some victims without critical protection—meaning, in his words, that “some children will continue to be
+harmed
+.”
+These pressures are likely to intensify as new data releases and emerging crises continue to strain an already overextended federal workforce. While some FBI agents have already
+returned
+to non-immigration duties, the situation remains fluid. The recently passed
+One Big Beautiful Bill
+allocates funding for
+10,000
+new ICE agents—raising the possibility that many of the 6,700 federal workers currently diverted to immigration enforcement could eventually return to their original roles.
+However, there are
+serious doubts
+about ICE’s ability to meet this ambitious hiring target. The agency has historically struggled to meet its recruitment goals, and even if it succeeds in hiring at scale, the new recruits may fall short of current
+qualification standards
+. If hiring falls short or quality suffers, existing personnel—many with expertise in areas like tax enforcement—may remain stuck supporting immigration operations, either in specialized roles or through general assistance.
+At minimum, until this funding translates into actual hires and deployable agents, at least 6,700 federal employees will continue working on immigration—at the expense of other critical public safety and national security priorities.

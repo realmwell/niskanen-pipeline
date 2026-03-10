@@ -1,0 +1,108 @@
+TITLE: Modernizing the H-2A visa: practical reforms to fuel American farms
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/modernizing-the-h-2a-visa-reforms-to-fuel-american-farms/
+WORDS: 1671
+
+Immigrant labor has been the backbone of U.S. agriculture for decades. However, recent increases in
+immigration enforcement
+and
+ongoing slowdowns in legal immigration processes
+threaten the stability of that workforce and the American farms that rely on it.
+The H-2A visa is the temporary visa designed for agricultural workers. Although American farmers have steadily increased their usage of the H-2A
+over the past 20 years
+, farmers also rely on unauthorized workers when the domestic workforce and the H-2A do not or cannot meet their needs. Unfortunately, for many American farmers, the costs and restrictions of the H-2A keep the program out of reach. In fact, between 2020 and 2022,
+42 percent
+of crop farmworkers hired outside of the H-2A process did not have valid work authorization. As a result, many American farmers are feeling the first-hand effects of President Trump’s immigration agenda. As the lack of workers forces farmers to
+downsize or delay harvest
+, American consumers may end up paying the price.
+On the surface, it may seem straightforward to suggest that farmers should simply replace unauthorized workers with H-2A visa-holding workers if Americans are not willing or available. However, the reality is not so simple. For instance, one Pennsylvania dairy farmer reported selling off
+100 cattle
+due to a lack of workers. He could not have leveraged the H-2A to replace his missing workforce because
+dairy is a year-round industry
+, and the H-2A only permits
+seasonal work
+.
+The H-2A is not beyond repair, though, and Congress can enact meaningful changes that can make the program work better for farmers, immigrants, and Americans alike. These changes can make a legal workforce accessible to the American farmers that need it while protecting American workers.
+The H-2A program should be accessible to all agricultural sectors.
+Currently, the H-2A program is only open to employers offering
+temporary or seasonal
+employment, typically meaning a job lasting no more than 10 months. While this provision accommodates the planting and harvesting of many seasonal crops, it excludes other essential agricultural sectors.
+Dairy
+and
+pork farms
+, for instance, operate year-round and sustain an
+unmet
+year-round need for labor. They are not eligible for the H-2A due to the lack of seasonality.
+Similarly,
+controlled-environment agriculture
+, as in greenhouses, offers an innovative alternative to outdoor farming, providing better protection against harsh or unpredictable weather conditions. This type of farming can also occur year-round,
+reducing American dependence on seasonal foreign imports
+. However,
+without access to H-2A visas
+, these indoor farms have little recourse when the domestic labor supply fails to meet their demand.
+The H-2A visa’s seasonality requirement unnecessarily blocks these key sectors from accessing legal foreign labor. Congress should allow year-round agricultural sectors to access the H-2A program if needed. The
+maximum periods of stay
+and the
+required return travel
+provisions of the visa can be retained to ensure that the program does not become a permanent visa pathway. This provision could also begin as a multi-year pilot with a limited number of year-round visas, allowing for the development of any additional administrative capacity needed as the program expands to new sectors.
+The H-2A program should be affordable for American farmers.
+The H-2A program is not, and should not be, a source of cheap labor. Still, its costs should reflect the needs of the people it is intended to serve — American farmers.
+The H-2A program was rightfully designed to protect American workers. One of the protections included was the
+Adverse Effect Wage Rate
+(AEWR), or the minimum wage that an employer must pay H-2A workers and any similarly employed U.S. workers. While well-intentioned, a few key flaws in the wage calculation have led to skyrocketing labor costs that have undermined the ability of the H-2A to adequately supply American farmers with a legal workforce. In addition to paying the AEWR-driven wages, participating farmers must provide their workers with housing, food, and transportation, adding to the costly obligations of the H-2A. In Michigan, for instance, an AEWR of $18.15 per hour increases to
+around $30 per hour
+when accounting for housing and transportation costs.
+Rather than ensuring that American farmers can legally access the labor they need, these prohibitive costs have forced some farms to turn to
+unauthorized workers
+,
+reduce production or close
+, or even
+relocate
+to
+Mexico
+.
+Congress should review the AEWR calculation methodology to ensure that it continues to protect American workers without pricing American farmers out of the legal labor market. Congress should establish a threshold for the share of employee tasks that determines the applicable occupational wage, ensure that comparative wages are derived from the base wages of non-H-2A workers before overtime, and set annual increase limits to prevent AEWR growth from outpacing inflation.
+H-2A program applicants should be reasonably prioritized for timely adjudication and visa issuance.
+Before an H-2A worker can come to the U.S., the employer must file a labor certification application with the Department of Labor (DOL) and an employment petition with U.S. Citizenship and Immigration Services (USCIS). Then, the employee must apply for a visa at a U.S. consulate (or at a port of entry in some cases).
+Given the time-sensitivity of planting and harvesting, efficiency at all involved agencies is paramount. Processing times typically fluctuate with demand, often spiking ahead of the summer season. At present, both
+DOL
+and
+USCIS
+report H-2A processing times of less than 20 days per agency despite
+ongoing capacity challenges
+. On the other hand, appointment wait times at U.S. consulates are far less stable, ranging from
+less than 15 days to 10 months
+for petition-based applications, depending on the consulate.
+Recent policy changes may also exacerbate consular wait times. Returning and renewing workers will no longer be eligible for the waiver previously allowing them to
+bypass a repeat interview
+. While this alone is likely to increase
+appointment demand
+, other new rules also require employees to complete interviews
+in their home country
+, regardless of the wait. Previously, H-2A employers had the option of sending workers to request discretionary interviews at other U.S. consulates with shorter wait times. Now, employers have little flexibility and little recourse to manage unpredictable timelines.
+Even seemingly minor delays can have costly implications for American farmers. Just a three-day delay could cost a midsize North Carolina farmer
+over $33,000
+, in addition to any perishable-crop loss. When appropriate, DOL and USCIS should expedite the processing of H-2A applications, and consulates should prioritize scheduling H-2A appointments. The returning worker interview waiver should be reinstated, and H-2A workers should be allowed to conduct interviews at third-country consulates if necessary to ensure timely arrival in the U.S.
+The H-2A program should do more to protect American workers and communities.
+The H-2A’s requirements protect American workers by ensuring that the hiring of foreign workers does not negatively affect their wages or working conditions. Still, more can be done to ensure that current practices continue to prioritize that protection. Although multiple agencies conduct robust vetting of employers and employees
+prior
+to an H-2A worker’s arrival in the U.S., oversight
+during
+the work period is also critical to ensuring that promised wages are paid and that working conditions are as described.
+DOL has previously reported that declining staff numbers have undermined its ability to carry out worksite
+investigations and inspections
+to the extent desired, meaning that only a small portion of H-2A employers are ever subject to an investigation. Congress should ensure that DOL prioritizes building and maintaining adequate oversight capacity.
+Additionally, in December 2024, the Biden administration
+finalized a rule
+eliminating the H-2 eligible country list. Prior to the rule change, only designated countries’ nationals could participate in the program. This allowed the U.S. government to leverage the H-2 program as a diplomatic tool, given the economic benefits a country could receive by sending its seasonal workers to the U.S. The list also incentivized home country oversight, thus mitigating some risk for the U.S. Countries with visa overstay rates over 10 percent or that did not cooperate with deportations were typically ineligible. While the Biden administration’s rule eliminated the list in an effort to
+reduce administrative burdens
+, the U.S. may have inadvertently sacrificed an important oversight and enforcement mechanism at the same time.
+Congress should consider reinstating the eligible country list with public standards for inclusion and removal. Alternatively, Congress could enact similar policies that would allow the U.S. government to continue leveraging the H-2A as a diplomatic tool while simultaneously discouraging and appropriately penalizing visa overstays.
+Under limited circumstances and heightened oversight, the H-2A program should facilitate the transition of unauthorized labor to temporary legal work.
+If all the above actions are pursued, the H-2A program should be an attractive and accessible option that serves both farmers and Americans alike. However, some farmers may have an unauthorized workforce that they have relied on during times when the H-2A program was inaccessible to them. These workers may have developed familiarity with complex farm equipment or otherwise provided valuable contributions to American agriculture, and farmers may wish to retain the workers they already know.
+In limited cases, these American farmers should be able to bring their workers into the legal system, restarting the circular nature of temporary agricultural migration and ending their reliance on unauthorized workers. Any request for this kind of regularization should require robust background checks, heightened oversight, and the payment of fines where appropriate. Bringing these workers into the legal system reduces risks for the workers themselves, for farmers, and for Americans by facilitating better enforcement and should therefore be considered following or alongside other H-2A reforms.
+Domestic agriculture provides Americans with homegrown food, generates
+over $170 billion
+in yearly exports, and employs
+millions of Americans
+on farms and in related industries. However, American agriculture relies on the H-2A visa as a critical source of labor, and the program is in desperate need of reform. The H-2A should be accessible to all agricultural sectors, affordable and efficient for farmers who need it, and include ample protections for the American workforce.

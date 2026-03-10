@@ -1,0 +1,87 @@
+TITLE: Niskanen’s Abundance-related policy work
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/niskanens-abundance-related-policy-work/
+WORDS: 800
+
+Ezra Klein and Derek Thompson wrote that
+Abundance
+was a “lens, not a list” in the conclusion of their book. While abundance certainly is more than just a list of policy ideas, advocates and policymakers are paying more attention than ever to issues like the housing shortage, our inability to build infrastructure, our broken government, and how healthcare supply constraints drive up costs. With multiple bestselling books, months of conversations, and a recent conference dedicated to addressing these challenges, we hope to create forward momentum on the concrete ideas that will make more of the things that matter most.
+For anyone who wants to explore how the abundance lens can apply to today’s biggest challenges, here’s a set of our reports that outline the highest-impact levers policymakers and advocates can pull to lower costs and reform broken systems:
+Housing
+Housing is at the core of the abundance agenda as costs soar. These reports identify how federal policy can target the regulations that restrict density and hold back housing production.
+An agenda for abundant housing
+by Alex Armlovich and Andrew Justus
+Manufactured housing: the Ugly Duckling of affordable housing
+by Alex Armlovich and Andrew Justus
+Leveraging LIHTC for housing abundance
+by Alex Armlovich, Christopher Elmendorf, and Sam Jacobson
+How to build more family-sized apartments
+by Andrew Justus
+Making federal transit dollars work: Two reforms for better value
+By Rohan Aras
+Sprawl can be good, actually: Expand the metropolitan commute zone to grow housing supply
+by Andrew Justus
+State capacity
+Abundance depends on governments that can deliver big projects to build the infrastructure and housing that the moment calls for. These resources examine the obstacles and reforms to personnel, procedure, technology procurement, and the government’s ability to test and learn.
+The how we need now: A capacity agenda for 2025 and beyond
+by Jennifer Pahlka and Andrew Greenway
+The procedure fetish
+by Nicholas Bagley
+How to save a billion dollars
+by Ann Lewis
+Legislative guide: Crafting laws to improve effective implementation
+by Amanda Patarino
+The product operating model: How government should deliver digital services
+by Ann Lewis and Jennifer Pahlka
+Beyond the checkbox: Unlocking skills-based-hiring under the Chance to Compete Act
+by Cassandra Madison and Gabe Menchaca
+How to fix the Paperwork Reduction Act
+by Alexander Mechanick
+From Gore to DOGE: The bipartisan history of failed workforce reform
+by Gabe Menchaca
+State capacity: What it is, how we lost it, and how to get it back
+by Brink Lindsey
+Climate
+Producing more energy will make everything cheaper and unlock new industries. These resources focus on reforms to two important levers to getting more clean energy on the grid: building more transmission lines to fill out a woefully inadequate grid and deploying clean energy at scale.
+Transmission Policy:
+Unlocking HVDC: How Congress can enable a more resilient grid
+by Robin Allen and Rachel Levine
+Transmission stalled: siting challenges for interregional transmission
+by Liza Reed
+How are we going to build all that clean energy infrastructure?
+By Liza Reed et al
+The market efficiencies of high-voltage transmission
+by Kenneth Sercy
+Clean Energy Deployment:
+Siting, leasing, and permitting of clean energy infrastructure in the United States
+by Kenneth Sercy and Johan Cavert
+Geothermal policy reform: Bridging the gaps
+by Swad Sathe and Kenneth Sercy
+Streamlining permitting: A layered approach to accelerate wind and solar deployment
+by Kenneth Sercy
+Healthcare
+Healthcare costs are driven up by patterns that would be familiar to anyone who follows housing policy: our supply of doctors and medical facilities are artificially constrained. Building on “Healthcare Abundance,” these resources ways to train and credential more doctors, open up new hospitals and other places to receive medical care, and reform perverse incentives in the payment and patent system.
+Healthcare abundance: An agenda to strengthen healthcare supply
+by Lawson Mansell
+The U.S. has much to gain from more doctors
+by Robert Orr
+Unmatched: repairing the U.S. medical residency pipeline
+by Robert Orr
+Reforms targeting “patent thickets” would speed up the arrival of lower-cost drugs
+by Lawson Mansell
+Innovations in care delivery can improve access to primary care for Medicaid beneficiaries
+by Lawson Mansell and Daphne Hansell
+Addressing Medicare spending and hospital consolidation with site-neutral payments
+by Lawson Mansell
+Immigration
+Shortages of workers constrain housing, health care, and infrastructure, especially in rural areas. The reforms outlined here can use immigration policy to make the most out of investments in rural areas and alleviate our healthcare workforce shortages.
+The case for updating Schedule A
+by Cecilia Esterline
+Green card backlogs block billions in rural investments
+by Cecilia Esterline
+The bipartisan immigration policy that helps rural Americans get access to local physicians
+by Matthew La Corte and Gil Guerra
+Immigration as a solution to healthcare workforce shortages
+by Cassandra Zimmer
+Unlocking potential: How states can remove barriers for internationally trained physicians
+by Lawson Mansell and Cecelia Easterline

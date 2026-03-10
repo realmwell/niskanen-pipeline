@@ -1,0 +1,87 @@
+TITLE: Why are utilities building tomorrow’s grid with yesterday’s technology?
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/why-are-utilities-building-tomorrows-grid-with-yesterdays-technology/
+WORDS: 1139
+
+The U.S. must rapidly expand its
+high-voltage transmission system
+to keep electricity affordable and reliable over the coming decade. After years of nearly
+stagnant development
+, any interest in transmission buildout among grid operators is encouraging. Yet, even amid this renewed momentum, utilities nationwide continue to embrace alternating current transmission, a 19th century innovation, instead of embracing modern and commercially viable high-voltage direct current (
+HVDC
+) technology.
+Of the nation’s seven regional grid operators, four have recently announced or approved initiatives to expand transmission capacity using 765
+kilovolt (kV)
+high-voltage alternating current (HVAC) lines. But by favoring HVAC lines almost exclusively, planners risk leaving benefits on the table by overlooking opportunities where HVDC could deliver greater value.
+A resilient, least-cost grid will almost certainly require both technologies working in tandem. To understand why today’s buildout skews toward 765 kV HVAC, it’s helpful to consider the technical differences — and institutional forces — that keep alternating current lines dominant in U.S. transmission planning.
+Members only: The exclusive 765 kV club
+Alternating current is the dominant transmission technology of the U.S. grid, with transmission lines ranging in voltage from 100 kV to 765 kV. While the North American grid
+is composed
+of over 500,000 miles of HVAC, there are only 10,000 miles of 765 kV lines, less than 1 percent of all transmission. One utility in particular, American Electric Power (AEP), controls the largest network of 765 kV lines, with more miles
+than all other U.S. utilities combined
+.
+Given this extensive network, it’s unsurprising that all four regional operators with expansion plans embracing the 765 kV solution already have AEP assets in their territories. PJM Interconnection recently
+approved
+construction of more than 400 miles of new 765 kV lines. The Electric Reliability Council of Texas
+opted to build
+new 765 kV lines rather than expand its existing 345 kV network. The Southwest Power Pool has
+announced plans
+for a 765 kV overlay spanning the Plains. And in the Midwest, the Midcontinent Independent System Operator (MISO) evaluated multiple approaches for its Tranche 2 expansion before
+ultimately selecting
+765 kV lines as the preferred path forward.
+These approaches can take advantage of AEP’s ready-made 765kV foundation to overlay new, and cost-effective, plug-and-play HVAC infrastructure. While this will give grid operators a valuable head start on future expansions, simplify operational challenges, and minimize their financial risk — key concerns of this traditionally risk-averse sector — it also comes with inherent limitations.
+HVDC’s technical advantages in practice
+The core advantage of alternating current is its ability to easily increase or decrease in voltage, depending on the application. This makes these lines the natural choice to serve homes and businesses, which require low-voltage power, as well as a reasonable option for moving high-voltage power between cities or rural areas.
+Though uncommon on the U.S. grid, direct current projects provide distinct benefits of their own. In
+comparing
+HVAC and HVDC, MISO notes direct current’s strengths, including greater controllability of power flow, which is increasingly important as more diverse power-generating resources are added to the grid.
+But the case for HVDC becomes undeniable when it comes to stitching the components of the grid together or contending with challenging line configurations. As the table below shows, HVAC technology doesn’t always cut it.
+Applications best suited to High Voltage Direct Current (HVDC) transmission
+HVDC application
+Technical explanation
+Long distances
+HVAC is
+less stable
+than HVDC along very long distances. That’s because long HVAC transmission lines produce reactive power, which is power from the system that’s recycled through grid equipment without ever reaching end users. In small amounts, this reactive power is useful. But in excess, it can cause voltage instability, leading to shorts and power outages.
+Narrow corridors
+HVDC systems use more
+compact
+towers than HVAC because
+fewer
+wires are required to transmit the same amount of energy. HVDC electricity can be transferred using two wires vs. the three wires needed for HVAC transfer.
+Cross-interconnection transfers
+The
+three
+grid interconnections in the U.S. — Eastern, Western, and the Electric Reliability Council of Texas — run at the same frequency: the current oscillates back and forth
+60 times per second
+. But these oscillations don’t perfectly match up on the three grids, complicating power transfers among them. Converting power to DC to transfer it between two AC systems
+prevents the need
+to align the frequencies.
+Underground or underwater
+Engineers almost
+exclusively
+use HVDC for long-distance underground and underwater transmission applications. HVAC lines can typically only be buried in stretches extending
+no longer than
+40 miles. This is because power lines that are designed to be buried need an outer shell of insulation separating the lines from the ground. This insulation constantly absorbs and releases some of the power flowing through the system. This can lead to issues with voltage control in insulated HVAC cables at longer lengths that are not present in HVDC cables.
+Systemic obstacles to HVDC deployment
+Despite its advantages, HVDC technology has struggled to gain widespread adoption among regulated utilities in the U.S. This is mainly due to a significant
+knowledge gap
+among utilities, coupled with an inherent resistance to competition.
+The regulatory record reveals a systemic bias as well. In a recent regional transmission planning
+proceeding
+, some utilities argued that third-party transmission lines would disrupt grid management and infringe on utility-controlled rights-of-way. But these claims don’t apply to most HVDC lines, which can operate independently of AC-grid conditions and rarely traverse utility rights-of-way.
+The absence of federally mandated planning for interregional transmission also erodes the viability of HVDC projects, despite their
+necessity
+. Such interregional projects raise
+challenging questions
+about which customers pay for the asset.
+HVDC lines are well suited for projects that span hundreds of miles, which are likely to cross more than one utility service territory or grid planning region. Utilities often prefer
+regionally sized projects
+where costs and benefits are straightforward: ratepayers cover the costs and the utility’s investors reap the returns. Where long lines are unavoidable — MISO’s
+Multi-value Projects
+, for instance — grid planners and utilities tend to break up HVAC lines into chunks that fit neatly within each utility or state footprint. Such project designs fit outdated regulatory and business models that prevent innovation to modernize the grid.
+A playbook for the 21st Century
+Regulators and market planners have an opportunity to expand
+the playbook
+with smart reforms, particularly by enabling third-party line developers to participate more fully in planning processes, making HVDC eligible for market mechanisms other grid components enjoy, and putting in place an interregional planning framework.
+As grid operators look to serve increasing electricity demand, they will inevitably need all the options in the toolbox to generate and deliver power. Without correction, an enduring tilt toward HVAC technology could cause the 21st century grid to be constrained by the assumptions of the past.

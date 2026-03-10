@@ -1,16 +1,17 @@
 /**
  * AWS Lambda handler for the Niskanen content pipeline.
  *
+ * Dynamic model routing: Haiku for 4 analysis agents, Sonnet for content writer.
  * Multi-agent pipeline: Research Analyst -> (Audience Mapper | Citation
  * Checker | Style Analyst) -> Content Writer.  Returns all intermediate
- * agent outputs alongside the final 7-format content package.
+ * agent outputs alongside the final 9-format content package.
  *
  * Deploy behind API Gateway HTTP API or Lambda Function URL.
  */
 
 import AnthropicBedrock from "@anthropic-ai/bedrock-sdk";
 import { S3Client, PutObjectCommand, GetObjectCommand } from "@aws-sdk/client-s3";
-import { fetchArticleText, runAgentPipeline } from "./pipeline.js";
+import { fetchArticleText, runAgentPipeline, regenerateSingleFormat } from "./pipeline.js";
 
 /* ------------------------------------------------------------------
    Async job pattern via S3.
@@ -50,10 +51,9 @@ const client = new AnthropicBedrock({
   awsRegion: process.env.AWS_DEFAULT_REGION || "us-east-1",
 });
 
-const BEDROCK_MODEL =
-  process.env.BEDROCK_MODEL_ID ||
-  process.env.SONNET_MODEL_ID ||
-  "us.anthropic.claude-3-5-haiku-20241022-v1:0";
+// Dynamic model routing: Haiku for analysis agents, Sonnet for content writer
+const ANALYSIS_MODEL = process.env.BEDROCK_MODEL_ID || "us.anthropic.claude-3-5-haiku-20241022-v1:0";
+const WRITER_MODEL = process.env.SONNET_MODEL_ID || "us.anthropic.claude-sonnet-4-20250514-v1:0";
 
 const TAVILY_API_KEY = process.env.TAVILY_API_KEY || "";
 
@@ -97,9 +97,11 @@ export async function handler(event) {
       body: JSON.stringify({
         status: "ok",
         backend: "lambda-bedrock",
-        model: BEDROCK_MODEL,
+        analysis_model: ANALYSIS_MODEL,
+        writer_model: WRITER_MODEL,
         agents: ["research_analyst", "audience_mapper", "citation_checker", "style_analyst", "content_writer"],
         tavily: TAVILY_API_KEY ? "configured" : "not_configured",
+        langsmith: LANGSMITH_API_KEY ? "configured" : "not_configured",
       }),
     };
   }
@@ -143,7 +145,7 @@ export async function handler(event) {
     const startTime = Date.now();
     try {
       const article = await fetchArticleText(url);
-      const result = await runAgentPipeline(client, BEDROCK_MODEL, TAVILY_API_KEY, article);
+      const result = await runAgentPipeline(client, ANALYSIS_MODEL, WRITER_MODEL, TAVILY_API_KEY, article);
       const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
 
       const responseData = {
@@ -205,6 +207,45 @@ export async function handler(event) {
       headers: { ...corsHeaders(origin), "Content-Type": "application/json" },
       body: JSON.stringify(job),
     };
+  }
+
+  // ---- Regenerate single format (HITL reject flow) ----
+  if ((path.endsWith("/regenerate") || path === "/api/regenerate") && method === "POST") {
+    let body;
+    try {
+      body = typeof event.body === "string" ? JSON.parse(event.body) : event.body;
+    } catch {
+      return {
+        statusCode: 400,
+        headers: { ...corsHeaders(origin), "Content-Type": "application/json" },
+        body: JSON.stringify({ error: "Invalid JSON body" }),
+      };
+    }
+    const { formatKey, article, research, audience, facts, style } = body || {};
+    if (!formatKey || !article) {
+      return {
+        statusCode: 400,
+        headers: { ...corsHeaders(origin), "Content-Type": "application/json" },
+        body: JSON.stringify({ error: "formatKey and article are required" }),
+      };
+    }
+
+    try {
+      const result = await regenerateSingleFormat(
+        client, WRITER_MODEL, article, research, audience, facts, style, formatKey
+      );
+      return {
+        statusCode: 200,
+        headers: { ...corsHeaders(origin), "Content-Type": "application/json" },
+        body: JSON.stringify({ success: true, content: result }),
+      };
+    } catch (err) {
+      return {
+        statusCode: 500,
+        headers: { ...corsHeaders(origin), "Content-Type": "application/json" },
+        body: JSON.stringify({ error: err.message }),
+      };
+    }
   }
 
   // ---- Evals endpoints: LangSmith proxy + AI assessment ----
@@ -475,7 +516,7 @@ Return ONLY valid JSON.`;
 
     try {
       const resp = await client.messages.create({
-        model: BEDROCK_MODEL,
+        model: ANALYSIS_MODEL,
         max_tokens: 2000,
         messages: [{ role: "user", content: prompt }],
       });

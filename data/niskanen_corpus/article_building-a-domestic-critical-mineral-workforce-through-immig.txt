@@ -1,0 +1,147 @@
+TITLE: Building a domestic critical mineral workforce through immigration
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/building-a-domestic-critical-mineral-workforce-through-immigration/
+WORDS: 1360
+
+In April, China
+halted
+exports of seven rare earth metals, reportedly in
+retaliation
+to Trump’s tariffs. The move triggered global
+shortages
+, underscoring the geopolitical leverage China derives from its dominance in critical minerals. Despite growing
+awareness
+of this vulnerability, the United States remains heavily reliant on Chinese extraction and refining.
+Building a resilient domestic supply chain will require more than infrastructure—it demands a skilled workforce across the entire critical minerals sector: mining, refining, and research. We need experts to locate deposits, design and operate mines, improve refining processes, and drive innovation that positions the U.S. competitively in this global market. Developing that talent pipeline will take years; in the meantime, the U.S. must draw on foreign expertise to fill urgent gaps.
+The Energy Act of 2020
+defines
+critical minerals as as those “essential to the economic or national security of the United States; [that] have a supply chain that is vulnerable to disruption; and serve an essential function in the manufacturing of a product, the absence of which would have significant consequences for the economic or national security of the U.S.”
+Critical mineral production has two main stages:
+mine production
+—extracting the mineral from the ground—and
+refined production
+—separating the mineral from the surrounding rock after extraction.
+These minerals are needed in essential technologies related to
+defense
+and
+energy
+. Considered “
+the backbone of national security
+,” nickel, lithium, germanium, and gallium are
+used
+in guided munitions, missiles, communication technologies, radars, tanks, and have nuclear applications. Battery technologies
+rely on
+lithium, nickel, cobalt, manganese, and graphite; electricity networks depend on aluminium and silicon. Demand for critical materials related to energy may increase by
+6 or 7 times
+, and cobalt, graphite, and lithium by as much as 450%.
+The United States remains heavily dependent on China for many minerals essential to achieving energy independence. China controls between
+65–90%
+of the key metals supply globally and over
+two-thirds
+of the rare earth elements supply. In 2022, the U.S. relied on imports for over half of its supply of 31 out of 50 critical
+minerals
+listed by the U.S. Geological Survey—and China was the sole source for
+nine
+of them.
+This dependence has direct national security implications:
+78%
+of U.S. military weapons systems require Chinese-sourced critical minerals. China has invested in its mining and in myriad mining projects
+globally
+, which provide much of its mined critical minerals supply. At the same time, it has poured resources into universities and research institutes, filing more
+patents
+in critical mineral technologies than the rest of the world combined. These efforts have allowed China to
+dominate
+the world in refining capacity, using
+cutting-edge technology
+to supply processed minerals to global markets.
+Relying on a geopolitical competitor for the building blocks of essential technologies is a strategic vulnerability—one the U.S. aims to address by creating a domestic critical minerals supply chain. Yet the country is woefully unprepared. Across all three stages of the supply chain, the U.S. faces severe workforce shortages.
+At the
+mine site
+alone, there is urgent demand for mining engineers, geologists, metallurgists, and environmental and safety specialists. Since 2016, the number of U.S. mining engineering graduates has fallen by
+39%
+. In 2023, only
+162
+students graduated—far short of the 400–600 needed annually.
+China
+, by contrast, produces roughly 3,000 graduates from 45 mining engineering programs each year. The disparity is even greater in
+metallurgy
+: while only a few thousand U.S. students are enrolled in related programs, China graduates tens of thousands annually.
+The second stage of the supply chain—
+refining
+ore into metals, alloys, and oxides—requires specialists in rare earth processing. In the U.S., this stage is a “
+critical bottleneck
+” due to a severe shortage of
+domestic expertise
+. Even if new
+processing plants
+were built, there are too few qualified professionals to operate them. Across the U.S., Europe, and Japan combined, only a few
+dozen
+people have expertise in rare earth separation and refinement; in China, the number is in the thousands.
+These human capital shortages are already
+preventing
+mining companies from meeting production targets. Without policy intervention, the problem will worsen: more than
+half
+of the current mining workforce—about 221,000 people—will retire or need replacement by 2029. Over the past decade, the sector has already seen a
+20.4%
+workforce decline. Building a domestic critical minerals supply chain will require an even
+larger
+workforce than exists today, making the challenge even more urgent.
+China’s dominance in the
+research stage
+is an additional area of potential vulnerability. While the U.S. may never match China’s production scale, it can reduce its risk by developing technologies that make production more efficient. Rare earth recycling, which involves
+recovering
+rare earth elements from end-of-life technologies for new uses, provides an avenue for
+decreased dependence
+on Chinese imports.
+However, making recycling viable requires both
+technological advancements
+and a highly
+skilled workforce
+specialized in resource recovery that includes chemical process engineers, materials scientists, recycling plant technicians, and logistics experts. At present, China
+leads
+the world in rare earth recycling. With the right talent and investment, the U.S. could refine and commercialize recycling processes, turning them into an economically competitive alternative to reliance on imports.
+In the long run, increased investment in education programs and incentives will likely fill these gaps in a critical minerals workforce. In the short term, this gap can be
+filled
+by foreign experts coming to the U.S. Already,
+12.5%
+of all workers in the mining industry are foreign-born, as are
+23.7%
+of petroleum, mining, and geological engineers.
+International
+competition
+among other Western countries for critical mineral talent complicates using immigration as a tool. While the U.S. debates inviting foreign talent, countries with established mining industries like Canada and Australia are already attracting workers. Canada
+plans
+to use the Rural and Northern Immigration Pilot program, and the territory of Ontario has
+discussed
+using the Ontario Immigrant Nominee Program to grow its critical mineral workforce. Australia has
+added
+crucial minerals-related occupations to the Priority Migration Skilled Occupation List. A mining engineer will likely qualify for the
+critical skills visa
+in South Africa.
+To compete globally, the U.S. must treat immigration as a strategic tool for building domestic expertise—even when that expertise comes from China. While some may raise national security
+concerns
+, it makes sense to recruit from China both strategically and politically. By inviting critical mining experts from China, America not only
+benefits
+from their expertise at home but also deprives China of valuable expertise.
+This approach mirrors the U.S. strategy in the 1990s, when the
+Soviet Scientists Immigration Act of 1992
+enabled the defection and
+integration
+of Soviet experts,
+bolstering
+American scientific leadership. Attracting Chinese mining and refining experts could yield similar benefits. The Chinese government itself has recognized this risk, by
+cracking down
+on Chinese mining experts working for foreign companies, accusing them of espionage.
+In Congress, the bipartisan
+Critical Minerals Workforce Enhancement Act
+seeks to strengthen the workforce by creating a
+national interest waiver
+under the Immigration and Nationality Act. This provision would allow foreign engineers specializing in critical minerals to work full-time in the U.S. for private companies or government agencies, advancing domestic expertise in production and recycling.
+A
+national interest waiver
+lets EB-2 employment visa applicants—reserved for professionals with advanced degrees or exceptional ability—bypass the usual job offer and labor certification requirements. The bill, along with
+other proposals
+from the Critical Mineral Policy Working Group, aims to start a domestic critical minerals industry to reduce reliance on China. Policy advisers have also discussed broadly
+fast-tracking visas
+for experts in critical minerals. While these measures are a promising start, they are likely insufficient in scale to meet the nation’s long-term expertise needs.
+Building a domestic critical minerals supply chain would weaken China’s ability to wield coercive power over the United States and the global economy. While the U.S. may never match China’s production volume, it can achieve greater long-term independence by investing in workforce development and research. Achieving this will require casting the net widely for talent—including sourcing expertise from around the world, China included. In such a strategically vital sector, the U.S. cannot afford to be overly selective in who it brings into the fold.

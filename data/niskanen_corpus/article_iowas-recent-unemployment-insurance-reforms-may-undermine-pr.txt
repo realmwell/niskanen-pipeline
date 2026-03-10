@@ -1,0 +1,59 @@
+TITLE: Iowa’s recent unemployment insurance reforms may undermine program solvency
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/iowas-recent-unemployment-insurance-reforms-may-undermine-program-solvency/
+WORDS: 889
+
+State policymakers must carefully manage benefit spending and tax revenue to keep Unemployment Insurance (UI) programs financially stable. UI benefits help workers and their families stay afloat while they search for suitable work, but it’s difficult to maintain robust benefits without comparable tax contributions. Unless lawmakers proactively update tax contribution rules, the risk of program insolvency grows.
+When unemployment rates surged during the COVID recession,
+22 states
+had to take out federal loans to continue paying out UI benefits. States with low taxable wage bases—the amount of each employee’s wages subject to unemployment taxes—struggled the most to cover costs. Lawmakers across the country have been working to replenish their UI trust funds, and states like
+Connecticut
+have opted to expand and index their wage bases to raise sufficient revenue and maintain their existing benefit provisions.
+Iowa is moving in the opposite direction. In 2022, the state reduced the
+maximum benefit duration
+from 26 weeks to 16. More recently, with the passage of
+Senate File 607
+in June 2025, Iowa has reduced the amount of program tax revenue that will be raised. The legislation scales down the size of both the state taxable wage base and the highest possible tax rate that employers may be charged on those taxable wages. Even with the reduction in available benefit weeks, the most recent reforms could threaten the program’s long-term solvency.
+Iowa’s UI program has been impressive
+Unlike many other states, Iowa maintained UI solvency through both of the last major recessions, demonstrating the importance of taking a
+balanced
+financing approach. By raising enough program revenue, Iowa has been able to provide robust benefits—higher than the national
+average
+—without relying on additional federal loans.
+Going into the 2020 recession, Iowa’s program performed well above that of the
+average
+U.S. state, providing larger average benefits ($501.72 vs $438.95 national average) and replacing a greater proportion of beneficiaries’ previous wages (44.1% versus 32.7% national average).
+At the start of 2020, Iowa had enough reserves to cover 82% of the cost of its
+highest benefit year
+, compared to 49% nationally.
+By the end of 2023, Iowa’s trust fund could cover 95% of the state’s highest benefit cost year. Other states, on average, only had enough reserves to cover 19% of their highest cost year.
+Iowa built up a sizable
+$2 billion
+UI trust fund in large part because its annual tax revenue has generally exceeded benefit payouts (Figure 1). The state was well supported by its trust fund when it ran a program deficit during the 2020 recession, and the program bounced back quickly with a revenue surplus the following year.
+Figure 1. Revenues exceed benefit costs for Iowa’s UI program nearly every year except during the 2020 recession.
+Johnson, Evan (2025) SF 607 – Unemployment Benefits, Contribution Rates (LSB1022SZ.2) Fiscal Note; Fiscal Services Division, Iowa Legislative Services Agency
+https://www.legis.iowa.gov/docs/publications/FN/1528889.pdf
+Iowa’s taxable wage base has played a critical role in maintaining program solvency. Though the
+Federal Unemployment Tax Act
+(FUTA) sets a minimum wage base of $7,000, Iowa has set its state UI taxable wage base equal to 66.7% of the average weekly wage, equal to
+$39,500
+as of January 2025. By indexing the UI wage base—that is, automatically adjusting for wage or cost growth as is current law in twenty-two total states—Iowa lawmakers ensure a steady proportion of wages are taxed over time to cover benefits during downturns.
+Recent reforms threaten Iowa’s program solvency down the road
+However, Iowa’s recent UI reforms may undermine program solvency in the future by scaling back the state taxable wage base and maximum tax rate, among other provisions. SF 607 specifically limits the amount of program revenue raised by:
+reducing the taxable wage base from 66.7% to 33.3%. This will likely decrease the wage base to
+$19,800
+, half of its previous amount;
+reducing the top employer tax rate from 9% to 5.4%.
+By reducing both the wage base and maximum tax rate, fiscal experts
+project
+that costs will regularly surpass revenue, even when assuming low unemployment (see Figure 2).
+Figure 2. Once tax rate and wage base cuts are enacted, Iowa’s UI program is expected to run an annual deficit.
+Johnson, Evan (2025) SF 607 – Unemployment Benefits, Contribution Rates (LSB1022SZ.2) Fiscal Note; Fiscal Services Division, Iowa Legislative Services Agency
+https://www.legis.iowa.gov/docs/publications/FN/1528889.pdf
+Although Iowa’s trust fund will technically stay positive in the near future, it will shrink over time. The recent reforms have set Iowa’s UI taxable wage base to its lowest level since
+2003
+, while leaving current benefit levels unchanged—an imbalance that will have negative implications for program solvency. Despite favorable economic conditions over the next five years, the trust fund is predicted to decrease by at least
+$266.3 million
+, lowering reserves to $1.7 billion by 2030. The immediate fiscal impact raises concerns about the long-term health of Iowa’s UI program and its ability to sustain itself through recessions.
+Conclusion
+Historically, Iowa has had one of the most well-balanced unemployment insurance programs in the country, demonstrating how to balance benefit adequacy with fiscal responsibility. Recent reforms threaten that stability. By shrinking its taxable wage base and lowering employer tax rates, Iowa risks undoing the very system that kept it solvent while other states faltered. If the trust fund continues to erode, Iowa may once again face the prospect of federal loans in the next downturn.

@@ -1,0 +1,350 @@
+TITLE: The libertarian prophet of the abundance movement, with Virginia Postrel
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/the-libertarian-prophet-of-the-abundance-movement-with-virginia-postrel/
+WORDS: 9936
+
+The intellectual-political discussion of the so-called abundance movement typically is described as a debate taking place almost entirely on the left. But in fact many of its major themes were being discussed in right-leaning circles decades ago. Virginia Postrel, a libertarian thinker and journalist who was the former editor-in-chief of
+Reason
+magazine, anticipated much of the current discourse around abundance in her classic 1998 book
+The Future and Its Enemies: The Growing Conflict Over Creativity, Enterprise, and Progress
+. Even earlier, in 1990, Postrel was among the first to see that the most important ideological division that was emerging in American politics was not between left and right but between what she called “the proponents of economic dynamism and the advocates of stasis.”
+The power of Postrel’s prophecy is evident from even a cursory examination of current politics, in which debates over issues like trade, immigration, housing construction, energy production, and environmental conservation inevitably produce odd-bedfellows coalitions of left and right. Postrel generally approves of center-left advocates of abundance like Ezra Klein and Derek Thompson — since, as she puts it, they share “the convictions that more is better than less, and that a good society is not zero-sum.” But she recently criticized the Klein-Thompson bestseller
+Abundance
+for its essentially technocratic mindset, in which change proceeds from central planning without what Postrel regards as sufficient feedback from market mechanisms or public input. She envisions a more libertarian-inflected version of abundance characterized by what she calls “a more emergent, bottom-up approach, imagining an open-ended future that relies less on direction by smart guys with political authority and more on grassroots experimentation, competition, and criticism.”
+In this podcast conversation, Postrel analyzes different approaches to what she considers to be the linked causes of abundance and progress — although she notes that progress “tends to code a little right and tends to be more libertarian, more Silicon Valley people” — along with the basic political division between advocates of stasis and dynamism. She talks about her South Carolina origins and her study of the Renaissance, “when dynamism was invented.” She points out that her analysis of dynamism in some measure derived from her love of — and worries about — her adoptive state of California. She discusses some of the thinkers who influenced her analysis, including innovators like Stewart Brand, writers like Jonathan Rauch, Daniel Boorstin, and Henry Petroski, and economists including Friedrich Hayek, Michael Polyani, Mancur Olson, and Paul Romer. And she describes how her interests in dynamism and human invention relate to her interests in textiles, design, fashion, and aesthetics.
+Transcript
+Virginia Postrel:
+I think if we can make housing more abundant — and therefore less expensive and more reachable — it won’t cure everything that ails us, but it would make a huge, huge difference, especially for young people.
+Geoff Kabaservice:
+Hello! I’m Geoff Kabaservice for the Niskanen Center. Welcome to the Vital Center Podcast, where we try to sort through the problems of the muddled, moderate majority of Americans, drawing upon history, biography, and current events. And I’m very pleased to be joined today by Virginia Postrel. She’s an author, journalist, and speaker whose scholarly interests include emerging technology, politics, design, fashion, aesthetics, history, culture, healthcare and bioethics, to name a few.
+She has written four books including the 1998 classic
+The Future and Its Enemies
+, and more recently 2020’s
+The Fabric of Civilization: How Textiles Made the World
+. She’s the former editor-in-chief of
+Reason
+magazine and a contributing editor for the
+Works in Progress
+magazine. She writes a Substack called
+Virginia’s Newsletter
+and she has been a longtime advisor for the Niskanen Center. Welcome, Virginia!
+Virginia Postrel:
+Thank you. Great to be with you.
+Geoff Kabaservice:
+Great to be with you as well. I wanted to talk to you because as you know, the Niskanen Center is an interested participant in the dialogue around what’s being called the Abundance movement, the manifesto for which is Ezra Klein and Derek Thompson’s recent bestseller,
+Abundance
+. And we’re also interested in the related State Capacity dialogue.
+Abundance is being presented as a dispute taking place almost entirely on the left. Jonathan Chait, writing in the
+Atlantic
+, recently described the debate over Abundance as a preview of “
+The Coming Democratic Civil War
+.” But at least in theory, the political right should have as much to contribute to the Abundance movement as the left. Tyler Cowen, one of the most respected libertarian economists, called for his movement to evolve into “
+state capacity libertarianism
+.” That term implied an alliance between Silicon Valley Hayekians, who were interested in overcoming barriers to market-based problem-solving, and liberals, who were interested in becoming barriers to government-based problem solving.
+Peter Thiel, the Silicon Valley billionaire who has funded much of this current iteration of the New Right,
+addressed
+the first National Conservatism convention in July 2019. I was there, and I remember him advocating for what has been
+described
+as “a conservatism that seeks to build up American state capacity in order to dire solve social problems and push the technological frontier.” And when Ezra Klein put forward his approach along similar lines, he called it “supply-side progressivism” — and it
+has been pointed out
+that the words “supply-side” typically are coded in American politics as right-wing.
+So I thought about this recent bipartisan input into the Abundance debate when I came across your
+review
+, Virginia, in a recent
+Reason
+magazine issue, of the Ezra Klein/Derek Thompson book on abundance. And I was curious to talk with you about your views of the Abundance movement since your 1998 book,
+The Future and Its Enemies
+, seemed prophetic in its analysis of many of the concerns underlying the current Abundance debate. So I guess the first question is; Do you see some of your lineage in this current debate over Abundance?
+Virginia Postrel:
+Well, first of all, when I talk about this, I talk about it as the Progress and Abundance movement, or the Abundance and Progress movement — because people who are more to the left of center (though they’re not very far left) tend to use the word “Abundance,” which has a great progressive lineage as I discussed in the
+Reason
+magazine article that started off talking about Samuel Gompers, the famous labor leader, saying, “What does labor want? We want more.”
+“Progress,” interestingly, tends to code a little right and tends to be more libertarian, more Silicon Valley people. Again, this is a generalization, but I think they’re part of one thing. That Ezra Klein/Derek Thompson book represents one piece of a larger intellectual movement, which includes people who agree with them on some things and disagree with others; people who vote Republican as well as Democrat; people who are lost, politically homeless people; people who are worried a lot about defense; people who are not worried a lot about defense; people who are worried about housing. There’s a lot going on here.
+It reminds me in some ways of some of the things that went on in the late ‘70s, where you had left-right crossovers on things like airline deregulation, trucking deregulation (being a couple of the ones that had long-term effects on the economy), some things about fiscal responsibility, even a constrained vision of what government should be able to do. You go from Pat Brown to Jerry Brown, and Jerry Brown sounds a little more like his predecessor Ronald Reagan in some ways. So it reminds me of that in terms of being a left-right phenomenon created by the circumstances of the times.
+Now, in
+The Future and Its Enemies
+, what I do is I create a dichotomy. I say that our political and cultural landscape is better understood not by the traditional divisions of left and right — many of which were over things like income redistribution — and more by what I call “stasis versus dynamism.” And dynamism is what I’m for as this bottom-up experimentation and feedback, emergent orders (whether you’re talking about science or whether you’re talking about markets). It’s a certain vision of the world making progress, society making progress through trial and error, through constant discontent and improvements or attempts at improvements. And it’s an open-ended vision of progress. I’ll get back to that in a minute. And dynamism puts learning at the center of its agenda. I have in more recent times sometimes described it as a form of liberalism that centers learning as opposed to centering justice or centering freedom. It likes all those things too, but it’s a matter about what is first and foremost.
+On the other side, you have stasis. And I divide people who want stasis into two categories. One is your classic reactionary “Things were better in the olden times,” whether the olden times are the 1950s or the Middle Ages or before the invention of agriculture. These people value stability. And we’ve had a resurgence of that, particularly on the right. It has been an element of the environmental left since forever — not necessarily the dominant element, but definitely there and very influential — and it’s had a resurrection on the right in the Trump era.
+And then I have this much larger group, which I also classify as being pro-stasis, of what I call technocrats. And these are people who are for progress, for the future, but they want it to look exactly according to their 16-point plan. And it’s very much not an evolutionary vision of how you make progress or how you get to a better future, but more of a planning mentality. And this has been the dominant form of governance in liberal democracies for a hundred plus years. Technocrats are very influential and there are a lot of them. And they are at least a plurality and, in my view, where they decide to ally matters a lot in terms of whether we get dynamism or not.
+In the late 1990s when I was writing the book, a lot of the technocrats of the center-left were allied with dynamists on the issues of the internet, and this is why we had this freewheeling era, with not a lot of successful efforts to restrict the evolution of the internet. I would put Ezra and Derek more in the technocratic camp than in the dynamist camp. Well, Ezra Klein told me — and this is at the end of my review — he told me he’s a technocrat. He read my book and he’s a technocrat. And I think that’s true. I don’t know whether Derek Thompson would say the same thing. It is a co-authored book and it has many strands in it.
+Interestingly, recently, since all of this has been bubbling up on my Substack, I went back and found the original April 1990
+article
+in the
+Washington Post
+in which I first put out this sort of dynamism-versus-stasis dichotomy — not nearly as developed as it would later be in the book, which I wrote quite a number of years later.
+In that original piece, I didn’t have technocrats, I just had stasis and dynamism. And in that dichotomy, the Abundance movement would have been put on the dynamism side. So whether you think my magnum opus,
+The Future and Its Enemies
+, is more correct, or you think my first attempt in 1990 is more correct, might shape somewhat how you think of the current debate.
+But I would say definitely on many, many issues there is a strong alliance between what I call dynamism and the Progress-and-Abundance folks. And a lot of the ideas that I put forward at the turn of the century, which got a certain amount of attention — and then everybody started paying attention to foreign policy after 9/11 and this sort of went dormant — they’re definitely having a revival.
+Geoff Kabaservice:
+Yes, it’s interesting, because there certainly have been movements like the Atari Democrats (to whom you allude) who presented themselves as being in favor of technology and progress. But you began your review of the Klein/Thompson book, as you said, with a set of quotes from an 1890 speech by labor leader Samuel Gompers, who answered the question of “what labor wants” with one word:
+more
+. And you go on to write that “
+More
+was once the essence of progressive politics in America: more pay for factory workers; more roads, schools, parks, dams, and scientific research; more houses and education for returning G.I.s; more financial security for the elderly, poor, and disabled. Left-wing intellectuals might bemoan consumerism and folk singers deride ‘little boxes made of ticky-tacky,’ but Democratic politicians promised tangible goods. The New Deal and the Great Society were about
+more
+.”
+So in that sense, the Klein/Thompson thesis is returning to an older vision of the Democratic Party. But at the same time, I got a sense that you were saying two things in that review. On the one hand, there was a sense of qualified approval. You concluded that “What we share are the convictions that more is better than less and that a good society is not zero-sum. These days those beliefs make us allies. We can fight about the rest later.” But at the same time, you clearly evince a certain exasperation with the technocratic mindset that does color much of the book.
+Virginia Postrel:
+Yes. Well, I think, first of all, as an author, I think that a reviewer should review the book that the authors have written and the purposes for which they wrote it. So I don’t think, even in
+Reason
+magazine, I should review
+Abundance
+as if it were a very poorly done letter to libertarians. That would be a disservice to the reader and also to the authors. It would be kind of stupid. This is a book — explicitly they say it early on— written for their fellow progressives. And so I wanted to review it in that spirit.
+That said, I think that they have dodged… It is a manifesto. It’s deeper than many, but manifestos by their nature are not especially deep. And they have dodged some very difficult questions. Josh Barro, on his Substack,
+pointed out
+that they completely ignore the political problems around energy. They just sort of tell this happy story and don’t pay attention to the fact that Americans and Latino men swing voters, among others, really like their internal-combustion-engine cars.
+And I point out in the review that they point out how California has spent all this time and money on its supposed high-speed rail project and has no high-speed rail to speak of, just a lot of studies, whereas in the same amount of time China has built some huge number of high-speed-rail mileage. But they don’t think about whether building high-speed rail is a good idea or not. They just take for granted that it’s something that California should do — it should just do it competently quickly and more cheaply.
+Even in the issue of housing, where I think it’s… First of all, the strongest alliance in this burgeoning intellectual and political movement is the YIMBY alliance. But even in housing, they don’t really take on board the price system, which is very useful. I mean, you can be a traditional redistributional New Deal/Great Society progressive and still think that prices can tell us something about what the demand for housing is and what type of housing or what the demand for transportation is. And what you do if you’re doing it outside the price system raises really difficult questions of planning. And are there things where it necessarily has to be governmental? Or if it has to be governmental, can it be with something like a carbon tax — the government intervening to introduce prices in a way that can then function as a communication system? They don’t go there. And partly they don’t go there because the questions are hard, and partly they don’t go there because they’re writing a different kind of book. But I think those questions don’t go away, even if you can get everybody to decide.
+And it is a big decision, especially in the Democratic Party, that more is good: more houses are good, more energy is good. The purpose of trying to address climate change is to address climate change, not to make people consume less. And that’s a big divide on the left, addressing climate change about a serious technical/environmental problem that might lend itself even to technocratic solutions. But it is about a specific problem. Or is climate change an excuse to introduce an agenda that isn’t even really about the climate? It’s really about “Developed countries consume too much. We should get back to the land.” It is a really reactionary agenda.
+And somebody like Bill McKibben, who’s very influential on the left in the climate debate… That’s his agenda. He’s not about solving climate change. I read him when I was working in the 1990s and he wasn’t writing about it. Well, he was writing a little about climate change because that was
+The End of Nature
+: We were changing the atmosphere. But he has this broader agenda. And so the reason the
+Abundance
+book is controversial within the Democratic left is that it is going after some assumptions that have shaped Democratic politics since the 1970s, and particularly in the last, say, twenty years or so.
+Geoff Kabaservice:
+It’s interesting how scrambled these political discussions are, because the rhetoric you use really in some ways sounds more of the left. You say that instead of technocracy, you prefer a bottom-up approach, relying upon the wisdom of the common people. You imagine an open-ended future that relies less on direction by smart guys with political authority and more on grassroots experimentation, competition, and criticism. But at the same time, part of what Ezra and Derek are talking about as having caused the current stasis and scarcity is too much of the wrong kind of input in the form of vetocracy by interest groups.
+Virginia Postrel:
+Right. Yes, vetocracy is a huge problem in
+The Future and Its Enemies
+. It appears through my citations of Jonathan Rauch’s
+Demosclerosis
+, which was early on that topic, drawing on the work of Mancur Olson. What happened is — and they explained this very well in the
+Abundance
+book — in the 1970s, drawing on some ideas from the New Left about participatory democracy, you had this growth of public interest law firms — sort of Naderite firms — that would take something like the National Environmental Protection Act or the California Environmental Quality Act, which were passed by legislators who had relatively minor agendas in mind. And by litigating they would create many more barriers to development and to doing things, whether by the government or by private actors.
+One of the things, for example, was CEQA, the California act. This litigation expanded a law that specifically applied to government to apply to private actors as well — and they explain this in the book — under a very, let’s say, aggressive definition of what makes you entangled with the government. If you need a permit, you might as well be government — which is bizarre.
+But anyway, you had this rise of this vetocracy, which I would say is a top-down or minoritarian form of governance masquerading as a bottom-up or grassroots governance. Because essentially what you have is that people who are in activist groups, and people who have a lot of time to go and protest in hearings, get a voice. And the vast majority of people, whether they could be exercising their choices in markets or in elections, are not part of that conversation.
+And so whether you’re for democracy — in which case, let’s have an election and let the voters decide on this thing — or whether you’re for markets, both of which are emergent processes, this is an evil. It’s not the classic technocracy ideal that developed in the early twentieth century, where it was really this notion of expertise that gave us things like the Federal Trade Commission or the Federal Communications Commission, the Federal Reserve, the idea that you would have these agencies that would be composed of people who are politically insulated and expert in their system. It’s not that. But the effects are very similar.
+Geoff Kabaservice:
+You’ve made clear your disagreements with that part of the left which is against Abundance. But I’m curious to know… There are other ways in which the term “dynamism” has been applied. My friend
+Ned Phelps
+, who won the Nobel Prize for Economics and then engaged on a second career leading up to his 2020 magnum opus,
+Dynamism
+— was that something that you have ever incorporated into your analysis?
+Virginia Postrel:
+I was there before Ned, actually, and I have the clips to prove it. Because I wrote about… I can’t remember was it
+Forbes
+or
+Forbes ASAP
+, because I was writing for both at the time. But
+I wrote about him
+, and then he won the Nobel Prize. So it’s all because of me.
+Geoff Kabaservice:
+Well done!
+Virginia Postrel:
+But definitely… I think it’s not the same, but I think we very much are thinking along similar lines. He emphasizes the importance of dynamism in terms of human flourishing: the idea that in a dynamic economy there are more ways for people to find personal satisfaction. And that is an element in
+The Future and Its Enemies
+; it’s in a chapter about play, actually. But yes, we’re definitely on the same general wavelength, although obviously he has other accomplishments that are nothing like mine, or mine are nothing like his.
+Geoff Kabaservice:
+He has other accomplishments.
+Virginia Postrel:
+Yes, he has other accomplishments of a far more technical nature.
+Geoff Kabaservice:
+But there’s also a contemporary movement on the right that also goes under the name of dynamism. It’s often associated with the tech right, people like
+Katharine Boyle
+and Marc Andreessen, as well as with Sam Bowman and the other people who run the
+Works in Progress
+website. What would you say is your difference, if any, from that kind of definition of dynamism?
+Virginia Postrel:
+Sam Bowman and the
+Works in Progress
+crowd are different — they’re more like me, basically — from the tech right sort of people. What “American dynamism” codes, because of Andreessen Horowitz’s use of it, is as technological dynamism addressing national security and law enforcement needs. So it’s sort of the Palantir part of the world. These are essential government services — they are important to maintaining the United States as a free and independent society — and it would be better if we could inject more dynamism into their procurement compared to the sort of classic military-industrial complex, with fifty million forms and mini-procedures and cost-plus contracting and all of that.
+I recently did attend a
+conference
+that was in Austin that was focused mostly on that. And one of the interesting moments was when Bobby Ray Inman — who is quite old, but still sharp as a tack, and who spent his career, ultimately, in high-level positions in the national security part of the world — contrasted the way decisions were made… I wish I could remember the specific example, but the way decisions were made when he joined the military in the ‘50s versus the way things were made in his later years in high government levels.
+Because you get this accretion of: nobody wants to make a mistake. And so once nobody wants to make a mistake — and that was what he talked about — no one can make a decision. And so you get this lack of dynamism — in the colloquial use of the term, less the precise Postrelian use — in the Pentagon, in the CIA, all of the apparatus of national security. And the same thing you might see in law enforcement. So that’s why it codes right and it’s also… I mean, that’s what that term means. Again, the
+Works in Progress
+crowd, they’re really more like the Niskanen Center and like me. For one thing, they’re mostly in Britain. They’re not writing a lot about U.S. national security procurement.
+Geoff Kabaservice:
+Virginia, I always ask people who come on this podcast to tell me something about themselves and where they come from. And frankly, I detect a bit of a Southern accent still in your voice. So could you give me something about your upbringing and your education?
+Virginia Postrel:
+I grew up in South Carolina. I was born in North Carolina, lived in Georgia, but all that happened before I was four. So I grew up in South Carolina in Greenville, South Carolina. I’ve
+written about this
+a little bit on my Substack. I grew up in a very religious (but quite liberal for the context) family: college-educated, they valued education, but very parochial in the sense of deeply, deeply rooted in the South, although my mother was from Arkansas, farther west. She went to Atlanta to go to college.
+And to put it bluntly, I got a very high score on my SAT, which changed my college search in ways that probably wouldn’t happen today, and I ended up going to Princeton. And then out of Princeton, I went to work as a business journalist. I worked for the
+Wall Street Journal
+in their long-defunct Philadelphia bureau, having been an intern there, and later for
+Inc
+. magazine. And then in 1986, with my new husband (formerly old boyfriend), I moved to Los Angeles and I joined
+Reason
+.
+Geoff Kabaservice:
+I’ve been to Greenville, South Carolina to visit the Greenville County Museum of Art, which is this big ugly 1970s brutalist building…
+Virginia Postrel:
+I worked there one summer.
+Geoff Kabaservice:
+Well, it’s a fantastic collection, I must say. But I was also curious about that area because I went looking for Greenville and I couldn’t find it. I mean, there are these big buildings surrounded by large swaths of grass and large streets, but there didn’t seem to be much in terms of an urban center.
+Virginia Postrel:
+When were you there?
+Geoff Kabaservice:
+This was just a few years ago.
+Virginia Postrel:
+Because that would’ve been an accurate description of downtown when I was living there, at least in my high school years. But today there’s quite a bustling downtown, but it’s not in that complex where the library and the art museum are. It’s in the historic downtown, where there were stores. And they’ve revitalized the river. Greenville was a textile town. It is in the Piedmont where there was water power and then later other forms of cheap energy. So when I was growing up, it was a textile town that was transitioning to being a more general industrial town. My father worked for a multinational that made polyester film — so not textiles.
+And since then, by the end of my high school years — I graduated from high school in 1978 — you were starting to see big multinationals like Michelin come in to manufacture there. And now there’s BMW in the area. It’s a big manufacturing area — the kind that the Trump administration pretends does not exist in America and does not count because it is not in Ohio and it is embedded in the international economy. But the people who have those jobs might beg to differ.
+Anyway, Greenville, like many cities, its downtown kind of died out and it developed on its fringes in the suburbs — although there always were residential areas that were near to the downtown core. But maybe twenty years ago, maybe more, the city developed the way the river presented itself, because it used to just back up to warehouses. And so now it’s very scenic and there are parks and a lot of restaurants and shops and that sort of thing. So there’s a nice little… People always say, “Oh, Greenville is so nice downtown.”
+Geoff Kabaservice:
+What did you study in college?
+Virginia Postrel:
+I was an English literature major — and I say English literature because it really was that. I primarily focused on the English Renaissance, Elizabethan and Jacobean periods. And I also studied a lot of economics. Princeton does not have minors, but I had what would at another school be the equivalent of a minor in economics.
+Geoff Kabaservice:
+I could see how economics could get you to the study of dynamism. Does the Renaissance do anything for the same?
+Virginia Postrel:
+Absolutely! The Renaissance is when dynamism is invented. For that, you might want to read
+The Fabric of Civilization
+. I don’t know about the literature that I studied so much being the origin, but the Italian Renaissance is the first place that we see modern ideas of progress start to emerge. I mean, they don’t really emerge until a few centuries later. But the first artifact that you can point to that suggests an idea that we are doing better than our predecessors — progress is not just about recovering the lost wisdom of the ancients — is Vasari’s
+Lives of the Artists
+, which is about the art in Renaissance Italy.
+But you have a bit later, Galileo, born the same year as Shakespeare, interestingly — 1564, a big year. Also the first Frankfurt Book Fair, which is still going on today. And Christopher Marlowe, a favorite of mine, was also born that year — it was a big year. So you have these early stirrings of what later becomes dynamism. Obviously it’s very different from what we have today, the world we live in today. But you have the beginnings of a society that is commercially based; not so much industrial yet, but commercial and bourgeois and creating new things and valuing the new — which is a new thing in Western culture.
+Geoff Kabaservice:
+So you moved to Southern California in 1986. In the same year that you became editor-in-chief?
+Virginia Postrel:
+No, I became editor-in-chief in 1989. Marty Zupan was editor when I joined
+Reason
+. I didn’t join
+Reason
+as the boss, I joined
+Reason
+as an assistant editor.
+Geoff Kabaservice:
+Got it. But your piece “The Left-Right Shuffle” came out in the
+Washington Post
+in 1990, four years after you had moved to Southern California. And then of course you were writing
+The Future and Its Enemies
+mostly in Southern California. And it does seem to me on rereading this book that there’s a kind of California boosterism going on in the book that reminds me of some other people I had known who were big California boosters: Paul Fussell, for example, who once said that if America had been settled west to east instead of the other way around, New England would be a deserted wasteland.
+Virginia Postrel:
+Well, I lived in Boston before I moved to California. I used to say: Forget terraforming Mars, let’s terraform Boston.
+Geoff Kabaservice:
+And I also knew Kevin Starr, who was, well, first the California librarian and then the California historian, with his great eight-volume series,
+Americans and the California Dream
+. But they’re both not with us anymore. I think Paul Fussell died in 2012 and Kevin Starr in 2017.
+Virginia Postrel:
+I once worked as an assistant catering a party at Paul Fussell’s house in my college days, serving drinks or whatever.
+Geoff Kabaservice:
+But it does seem that the California dream is no longer what it once was. Has it seemed to you that you have witnessed a change in California over the time since you were first writing about this subject? And would you still write about California with the same sense of optimism toward the future as you did then?
+Virginia Postrel:
+Yes, I think California has changed. And some of my concerns at the time I was writing
+The Future and Its Enemies
+, both in that book and in other things I wrote, stemmed from what I could see. I mean, go back to that
+Post
+piece… I was very aware that there was in California — and particularly in Los Angeles, but it was throughout the state — an explicit anti-growth movement. That’s what they called themselves, and they succeeded. It took a long time, but they passed so many restrictions on being able to build houses and do things that lo and behold, now the state is shrinking. It took a generation, but they succeeded magnificently in stifling California’s growth and shutting off some of its forms of dynamism and also in making it very difficult for — I don’t know what to call them — non-winner-take-all industries to succeed there.
+It’s still a good place if you’re a genius technologist or a brilliant filmmaker or you make video games. There are still some big industries there that are highly mentally based — although filmmaking has a lot of craft involved in it, physical stuff too. But the kinds of small manufacturing industries that used to be all over the place, particularly in Southern California, have largely gone away because of expensive energy, expensive housing that makes it hard to have labor, expensive labor, and extreme environmental regulations that are stricter than what you find in the rest of the country.
+Geoff Kabaservice:
+In that 1990
+Washington Post
+piece you wrote: “Although it has major implications for domestic and foreign policy, this new division between proponents of economic dynamism and advocates of stasis is now particularly pronounced at the state and local level. Ultimately, it will define the most contentious issues of the coming decade: trade, immigration, urban growth, and above all, environmentalism.” And that seemed, again, quite prophetic of the debate we’re having right now.
+Virginia Postrel:
+Exactly. The debates we have now are very much the debates that cut across that dynamism versus stasis — or, if you will, Abundance versus stasis, Abundance versus rationing. Those are very much the debates we’re having now. And this is, at the electoral level, not a very good time for those of us who want Abundance and want dynamism or want all those things.
+However, the way politics works is ideas come up and first they’re in the world of ideas, and then only later do they become the world of policy. So one can imagine that if we were having this conversation in ten years, things could look very different — but they could also look very bad. I’m agnostic. I try to focus on the positive, but there’s certainly plenty of very bad things going on.
+Geoff Kabaservice:
+People now probably will not remember E. F. Schumacher’s book
+Small Is Beautiful
+, but it seemed to me in reading this book that he was perhaps your principal antagonist.
+Virginia Postrel:
+People may not remember this book, but it was a huge, huge bestseller in the early 1970s. I worked in a bookstore in ‘75, ‘76, somewhere in there, and it was still selling lots of copies as a little mass-market paperback. It was sort of like the evil twin of the
+Whole Earth Catalog
+. I am a big fan of Stewart Brand and like his view of the world and his general personality; I just like the man as well. But this was kind of the opposite of that. This guy, Schumacher, he’s on the Coal Board in England, but his whole idea is that we should roll back industrial progress. We should go back. We should not have trade, we should not have industry. We should be self-sufficient, small, independent communities. And it is a very anti-Renaissance view. Maybe if he were around today, he’d be joining the Catholic Integralists looking for a resurgence of the Middle Ages.
+I don’t know if I would say he was the principal antagonist, but his ideas are far more pervasive, even today, than anyone would realize — because they don’t know where they came from. It’s like people who wake up in 1982 and wonder where all these free-market ideas came from. People were writing about them for years and years and years and years, but if you weren’t paying attention you didn’t know.
+And a lot of the
+Small Is Beautiful
+idea — which, again, it was a monster bestseller in the ‘70s, which permeated the thinking of a whole generation of baby-boomer and slightly younger environmentalists — went together with a general anti-consumerist view. And while very few people would say they really want what is described in that book, the urge toward it is still quite pervasive in elements of the environmental left.
+And this is why you see such a crazy reaction to what I would say are quite sensible climate change policies. If you were really worried about climate change, you would think they were good and you would embrace Ezra Klein and Derek Thompson as your allies, and people at the Breakthrough Institute as your allies, and these sorts of people — if you’re worried about climate. But if you really want E. F. Schumacher’s world, those sorts of things won’t get you there.
+Geoff Kabaservice:
+There is a sense in which this is a debate within the left. But you also were very prescient in pointing out in your book on
+The Future and Its Enemies
+that there were also strange-bedfellow coalitions that extended across issues as well. You had an example… Paul Weyrich and Phyllis Schlafly opposed the General Agreement on Trade and Tariffs along with Ralph Nader and Gloria Steinem. The Sierra Club came out against immigration. FAIR, which is a sort of right-wing anti-immigration advocacy group, was founded by population control advocates from the Green movement. So there is a sense in which all of these issues, as you said — trade, immigration, and environmentalism — were coming together and crossing the traditional political boundaries.
+Virginia Postrel:
+Yes. Over time the groups like the Sierra Club have purged their anti-immigration people and views, because the identity politics and that sort of general agendas of the left have become more important. But that was generally… The whole idea of population being bad, whether you’re talking about the population explosion or you’re talking about immigration or you’re talking about people moving to Southern California from places like Massachusetts… If you think people are the problem, then you’re going to get together with other people who think the people are the problem — perhaps for different reasons.
+Some people think people are the problem because they consume resources, and other people think people are the problem because they don’t speak English, or they are from different cultures, or they’re poor, or whatever. But you do get these alliances. And I suspect — I don’t know, this is complete speculation — that some of the anti-immigration voters, particularly in the older categories, are people who once upon a time would have considered themselves on the left. I don’t know that, it’s a complete speculation, but there was certainly back in the 1990s more of an alliance there.
+And of course trade… By the end of the ‘90s, you could definitely see that that was one of those causes that was rallying the nationalist right of Pat Buchanan and Ross Perot and Donald Trump with the anti-corporate left of WTO protests in Seattle and Naomi Klein and people like that. This is later than when I wrote the book or when I was writing the book… maybe when the book came out.
+Geoff Kabaservice:
+So we’ve talked about some of the people you were arguing against. But who were your more positive influences in formulating your vision of dynamism versus stasis?
+Virginia Postrel:
+I’ve mentioned a few along the course of the conversation: Stewart Brand, Jonathan Rauch… Obviously Hayek was a huge influence, particularly on the idea of dispersed knowledge. There are some that you wouldn’t necessarily expect. There was this guy named Henry Petroski — he has since passed away — who was a civil engineering professor who wrote a lot of books about the evolution of useful everyday things, as one of his
+books
+was called. He had an idea of “form follows failure,” and the idea that the future perfect can only be a tense, not a thing. That I think is a really important idea, that the reason we have a demand for progress is that whenever we have something — whether it is an artifact or an institution or a recipe or an article, whatever — as soon as we have it, we see what’s wrong with it and we want to correct it. So there’s this never-ending demand for progress.
+And then on the supply side, Paul Romer, another Nobel laureate in economics, I use his idea of the power of combinations as the reason there isn’t an infinite supply of progress. It’s not about limits to resources, it’s about all the different ways those resources or ideas or whatever can be recombined — and therefore, while it technically may not be infinite, it might as well be.
+So there are a lot of influential people on me. I talk about Michael Polanyi. When I read his book
+Personal Knowledge
+while I was researching the book, I thought, “Oh my God, this book is so amazing. There’s a new idea on every page.” And all anybody remembers is “tacit knowledge” — and now all I remember is “tacit knowledge”! So one of the things on my agenda — and I may do it as some sort of reading group for my paid Substack subscribers — is to reread
+Personal Knowledge
+, which is a brilliant book.
+Geoff Kabaservice:
+I really enjoyed all of the ways in which one could see your influences being brought into the book: everything from Ronald Coase, who talked about the London School of Economics when it was at its creative peak because it was bringing together economists from Europe, England, the United States in the period when people were fleeing persecution around the world — and also Daniel Boorstin with his concept of “the fertile verge.”
+Virginia Postrel:
+It’s a brilliant idea of the fertile verge — it’s very vague, but it’s very powerful. It’s the idea that places where different things that come together are particularly creative. And so those different things can be different landscapes — it can be where the prairie meets the desert, meets the mountains — or they can be different groups of people or different disciplines. But I think it’s very true. It’s a funny thing, because it’s this little idea that I think he tossed out for a speech or something. He wrote about it in a speech but as far as I know he didn’t write about it in his other works. But I think it’s a very powerful idea.
+The general idea of “hybrid vigor” — of things that are different from each other creating strength and creating powerful new ideas — I think is very important. And it is always bumping up against the desire for purity, whether it’s the purity of your population or the purity of your disciplinary boundaries or the purity of the landscape, whatever it might be. That’s one of these eternal struggles that’s part of the dynamism-versus-stasis struggle; that is one of the many components.
+Geoff Kabaservice:
+And your appreciation of blending and cultures coming together as part of your appreciation of popular music and the movie industry, Franglais and Spanglish…
+Virginia Postrel:
+English! You don’t need Franglais and Spanglish — you just need plain old English. It’s full of foreign words, words that were once foreign. John McWhorter has this far more recent book than
+The Future and Its Enemies
+, a book called
+Our Magnificent Bastard Tongue
+about the history of English. And that’s one reason it’s such an expressive and rich language.
+Geoff Kabaservice:
+So how did conservatism morph into what is now the Trump administration and everything that seems to define it? Because it very much seems that your enemies of the future are now to be found in the White House and its various administrations.
+Virginia Postrel:
+Yes indeed, very much so. Well, there are many books to be written on how did this happen? In some ways, I think 9/11 broke America. I think that the terrorists won. Many things followed from that that made us end up where we are today. One of which, talking about immigration… If 9/11 hadn’t happened, probably we would have had comprehensive immigration reform — because Bush was for it and Democrats were for it. But then once we started to be afraid of foreign terrorists, all the people who really were afraid of Guatemalan gardeners pulled out their anti-immigrant forums and we went down that path.
+That’s just one. The Iraq war clearly disillusioned many people about institutions. And there’s also the dark side of the internet. I mean, I think the internet is a net positive; I think that criticizing it as the source of all evil is a problem. But I also, having studied the period, I’m well aware of the negative effects of the printing press as well. And sometimes in the immediate aftermath of a new communications technology, you have a very, very difficult time in reestablishing appropriate institutions. And I think some of that has happened as well; part of it is that the faults of institutions, that were not necessarily covered up but just not known, have become more apparent.
+Also, the fact that your fellow citizens strongly disagree with you on important issues has become more obvious than it used to be. We talk about people living in information bubbles now, but I think that’s not really what’s happening. I think what’s happening is that people do inhabit these bubbles where they reinforce each other, but they’re also far more aware of the people that they don’t like than they used to be. When I was growing up in South Carolina, you would see these letters to the editor that would rail against the Supreme Court taking prayer out of the public schools. And as somebody whose every day in public schools started with a Christian devotional, I would be very confused by those letters to the editor. You could kind of live in your own little cultural bubble in a way that we can’t now. And that causes friction as well as creativity.
+Geoff Kabaservice:
+It just so happened that I was recently
+talking with Alan Ehrenhalt
+, who’s a sociologist and journalist at
+Governing
+magazine, and he wrote what I consider to have been another classic work of the 1990s in
+The Lost City
+, which is a study of Chicago in the 1950s. But I think his book proceeds from a very different assumption about human nature perhaps yours. Because he, in the course of criticizing the libertarians, wrote that they don’t see that the progress of modernity is what erodes communities and that “the uncharted life, the life of unrestricted choice in eroded authority, is one most ordinary people do not enjoy leading.” Whereas there’s really a sense in your book that people like novelty and choice and difference and change.
+Virginia Postrel:
+Well, I think people like both. One of the things that distinguishes my idea of dynamism from modernist ideas of progress is that it assumes that people want to conserve elements of the past. It’s not about starting with a blank slate. “
+There is no scratch
+” is another quote I use from the philosopher Stephen Toulmin. We build on the past. And also people don’t want just the future; they want a future that preserves what they like about the past.
+I write about this in
+The Fabric of Civilization
+. I write about Mayan
+traje
+— I’m probably pronouncing it wrong — which is the traditional dress of indigenous women in Guatemala. And what’s interesting is that it has evolved. This is a living tradition. It is not a dead tradition. And so as people have become more aware of how people in other villages dress, they no longer have distinctive dress for their village. They mix and match. They create new style. They use machine-manufactured things as well as hand-loomed garments that are used for special occasions. But they still maintain that distinctive Maya look. They preserve the things that are essential to the style. And that’s a seemingly trivial example, but it’s not trivial to the people involved.
+And it’s also, I think, indicative of how human beings really relate to the past and the future. People don’t like the idea of progress if progress means sweeping away everything that you’ve known and loved. And so part of what a dynamist or dynamic society needs to do is to allow people to make commitments. I have a whole chapter about rules, different kinds of dynamist rules, and one of those is the ability to make commitments. And being from a liberal tradition as opposed to a communitarian intellectual tradition, I do see that as something that emerges from individual yearnings — but I think those yearnings include social yearnings.
+And there is a problem when people talk about libertarians. They talk about this very twentieth-century tradition, but there’s a longer, deeper tradition of classical liberalism. If you look at the Scottish Enlightenment thinkers, people like Adam Smith and David Hume, they put a tremendous emphasis on our social natures and the ways in which we interact with other people — all of which is perfectly compatible in their minds, and I would say in my mind as well, with things like freedom of trade, freedom of movement, those sorts of things.
+Geoff Kabaservice:
+One of the excellent aspects of your book is the way that you hit upon topics to illustrate your thesis that I think very few other people would have thought about. As you say, there’s a whole chapter on play. And in your book, you are yourself demonstrating a sense of play in the sense that you go from Silicon Valley to the Stone Age in a way that will actually point the way forward to your book on textiles twenty-two years later.
+You write: “Five thousand years ago, unimaginably poor Stone Age women living in Swiss swamps were weaving intricate, multicolored patterns into their textiles and using fruit pits to create beaded cloth. … Even in the most difficult of subsistence economies, mere utility — in this case, plain undecorated cloth — does not satisfy human imaginations. We need to learn, to challenge ourselves, to invent new patterns.” I was really taken by that.
+Virginia Postrel:
+Yes, that was my first reading of Elizabeth Wayland Barber’s
+work
+on ancient textiles. And that probably is the origin of
+The Fabric of Civilization
+, which I wrote many, many years later. I have since met her and talked to her.
+Geoff Kabaservice:
+The Trump administration in many ways has weaponized nostalgia. I think that really lies behind the appeal of the motto “Make America Great Again,” with the “again” period purposefully left undefined. What do you think it will take for people on the left and the right to actually put forward a more positive vision of progress to counter that sort of dour sense of weaponized nostalgia?
+Virginia Postrel:
+Cheap housing. This is a
+Works in Progress
+thing. I subscribe to “
+The Housing Theory of Everything
+.” I think if we can make housing more abundant — and therefore less expensive and more reachable — it won’t cure everything that ails us, but it would make a huge, huge difference, especially for young people. Because being able to have a home and set down roots and think about a family and all of those things are very tied into where you live, into your dwelling place.
+And the fact that we have, in our most productive, richest areas, made that off-limits to most young people is just terrible. And it has all kinds of horrible effects, and it has horrible effects on the economy, but it also has horrible effects on people’s lives because it makes them pessimistic and bitter and mad. And I can’t blame them. I was there saying “Don’t do this!” back when I was young, and now that I’m old and own my own place that’s ridiculously expensive if I put it on the market, I’m still saying it — against my personal financial interest. It’s just terrible.
+And I think that part of the problem of Abundance is that so far, while the YIMBY movement has been the most effective part of the Abundance movement, it hasn’t been effective enough. It hasn’t had big, big wins. Maybe it will come from the Trump administration: maybe they’ll roll back NEPA and some of these things in ways that you don’t eliminate environmental regulation but you go back to more what people were picturing when they voted for the thing and you get rid of some of these veto points. I don’t know.
+But I think people — average, normal people, not intellectuals in Washington — want abundance. They don’t use the word, they don’t have the wonky views. But they know this is why they don’t like inflation, because inflation is the opposite of abundance. They want to be able to feel like their lives are getting materially better. There’s more to life than material things, but if you don’t feel like your life is getting materially better, and especially if you feel like it’s getting materially worse, it reflects badly on the non-material aspects of your life as well.
+Geoff Kabaservice:
+The Abundance people on the center-left feel that they’ve made a big step toward the center in acknowledging the need for deregulation, which is a concept usually associated with the right. Can they, should they expect there to be a big step made by those on the center-right toward embracing a strong state — not a tyrannical state, but a state with a high level of state capacity?
+Virginia Postrel:
+I think a lot of more thoughtful people — I don’t know whether you call them the right, but… I was just reading something the other day — sorry, author, I can’t remember who wrote it — but it was differentiating between the two types of libertarians. And so here we’re just talking about libertarians, not people on the right who come in all flavors. This is something I’ve said for ages… One type is anti-state and the other type is pro-liberty. And then he went further to point out that Hayek had talked about liberty as something to be striven for. It’s almost like you have a dynamic process of discovering liberty over time. And I think that’s right.
+The purpose of my politics, even at my most libertarian, was never to destroy the state. I’m not an anarchist, and I don’t think that the state is the enemy. As a general concept, I think it’s something that in one form or another emerges from the issues of living in social groupings. It may not be the nation-state as we know it in 2025, but there’s various kinds of governance that emerge, and there are better and worse versions. And I think right now we’re headed towards some versions of the worst versions, when we need to be headed towards versions of the better versions.
+And part of the reason that people are so upset is the loss of state capacity. It is the feeling that nothing works. It is the feeling that in some mythical periods or even real periods… When I moved to Los Angeles in 1986, there weren’t a whole lot of people sleeping on the sidewalks. In fact, we wondered why they didn’t all move there because the weather was so much better than it was in the Northeast. The housing was cheap and abundant. In fact, when I moved from Boston, you got more for your money in Los Angeles than you did in Boston.
+There was a tremendous sense of openness. If we look at crime figures, they were worse than they are today — but people don’t necessarily feel that as much. They tend to focus on what’s salient in their everyday experience. It was cheap to go to the institutions of higher education, whether that was a community college or UCLA. There were lots of things that felt more abundant then, and therefore things felt both better governed and freer.
+And I think that the idea that striving for better governance is something that you need to do is true. The question is: How do you get there and what do you mean? And so talking about state capacity is interesting, although a very nerdy term…
+Geoff Kabaservice:
+Guilty as charged.
+Virginia Postrel:
+It’s better than “good government,” although good government is really what you’re talking about, but “good government” has other meanings in our discourse. But I think yes, people would like to know that if they need to register their car, it’s going to be easy and not involve a long line. And they would like to know that if they call 911, somebody will show up quickly. And they would like to know that if warfare moves toward drone warfare, the U.S. Pentagon isn’t frozen in its ability to adapt to that.
+Different people have different senses of what’s important. But I think the idea that the government is incompetent is something that is a bad thing, regardless of what you think about the government. And partly what you need to do — and this is where a lot of the ideas of privatization originated — is to try come up with ways to inject some forms of competition. Because when you start a new agency or a new government program, more often than not it’s pretty efficient at the beginning. But — the same thing happens in private entities as well — over time, inefficiencies and layers build up and state capacity erodes.
+So the question is: What do you do to make that process less likely and even more difficult? What do you do to reverse it? Because if you go back to Mancur Olson’s work, one way is you can lose World War II, and then you get to reboot Japan. Well, that’s not a very practical approach. We’d like to have something that’s better than that. So those are very hard questions, and I’m afraid I don’t have an easy answer or even a difficult one.
+Geoff Kabaservice:
+Well, you certainly have helped in sorting through the issues underlying the Abundance debate. So thank you very much, Virginia Postrel for joining me today, and thank you for allowing me the chance to revisit your classic work,
+The Future and Its Enemies
+.
+Virginia Postrel:
+Thank you.
+Geoff Kabaservice:
+And thank you all for listening to the Vital Center Podcast. Please subscribe and rate us on your preferred podcasting platform. And if you have any questions, comments, or other responses, please include them along with your rating or send us an email at contact@niskanencenter.org. Thanks as always to our technical director, Kristie Eshelman, our sound engineer, Ray Ingegneri, and the Niskanen Center in Washington, D.C.

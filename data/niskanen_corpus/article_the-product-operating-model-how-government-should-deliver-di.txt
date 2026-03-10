@@ -1,0 +1,136 @@
+TITLE: The product operating model: How government should deliver digital services
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/the-product-operating-model-how-government-should-deliver-digital-services/
+WORDS: 2023
+
+Too many federal digital projects arrive
+late, over-budget, or never work
+as promised. When that happens, Americans pay the price.
+It doesn’t have to be this way. While the government has fundamental differences from the private sector, best practices used by private firms can also work for government’s unique structures and requirements. One such practice with significant promise is the
+product
+operating model
+.
+An operating model is the blueprint for how an organization is structured that turns strategy into real-world value. Today, government treats investments in digital systems as
+projects
+–
+with rigid scopes, time-limited work, and success metrics tied to on-time, on-budget delivery. This approach rewards
+output
+, not
+outcomes–
+and often leaves users with brittle, quickly-outdated systems.
+A modern
+product
+operating model
+works differently. Persistent, cross-functional teams measure success through delivery of outcomes, rather than merely project completion. This model enables continuous, user-centered delivery through iterative development, ongoing funding, empowered product teams, and supportive leadership. This is how most successful digital-native companies operate, like Google, Amazon, and Spotify.
+Shifting to the product model requires more than just new software management practices; it touches budgeting, staffing, procurement, and oversight processes. When Congress and the executive branch realign these levers around outcomes rather than milestones, federal digital services can become more responsive, resilient, and effective for the American public.
+The product operating model
+Outstanding digital services aren’t born from rigid, one-and-done plans. They require rapid iteration and steady feedback from real users–and they require ongoing care. Left static, software decays and eventually fails. The essential task for any organization delivering digital services is therefore to enable continuous development and improvement.
+A
+Product Operating Model
+meets this need. It replaces one-off, time-boxed “projects” with durable, cross-functional product teams that own outcomes from idea to retirement.
+A strong Product Operating Model aligns:
+Funding mechanisms
+Team structure and roles
+Roadmapping and prioritization practices
+Decision-making authority
+Success metrics
+This model emerged in the private sector in response to the limits of traditional project-based delivery–which organizes work as time-bound efforts with rigid scope, staff, and handoffs.
+Project-based models often:
+Are not responsive to customers
+Lack long-term ownership or accountability for outcomes
+Are difficult to pivot once a project starts
+The private-sector shift from “project” to “product” thinking began in the early 2000s.
+The Agile Manifesto of 2001
+popularized an iterative, risk-reducing approach that quickly became standard at leading tech firms and, over the next two decades, spread across most industries. Agile workflows are now the norm.
+Combined with the rise of cloud computing and modular cloud-based software offerings, these changes have paved the way for new organizational models. Agile, as a way of structuring teams, exposed the limitations of project-based delivery, and organizations saw the need for persistent, outcome-focused teams. The Product Operating Model emerged as a structure to operationalize Agile principles at scale.
+The federal government’s current model: Projects, not products
+The U.S. federal government still largely operates within a
+project-based, functionally siloed model
+, in which:
+Congressional appropriations fund specific projects with pre-defined scopes, and often pre-defined technical requirements, timelines, and deliverables.
+Oversight bodies (OMB, GAO, CBO) often evaluate performance based on spending, milestones, and fidelity to process, not user outcomes.
+Large one-time budget appropriations are managed by agency CIOs, program leaders, and vendors through rigid procurement cycles.
+Federal Acquisition Regulations (FAR) and requests for proposal (RFPs) reinforce fixed-scope work, discouraging iteration or adaptation.
+Change is difficult once baselines are set, so incentives push agencies to finish the plan, even if it’s wrong.
+Decision-making is broadly dispersed and slowed by oversight layers, and end-of-project handoffs break continuity and accountability.
+This project model often leads to long delays, failed implementations, and poor user experiences — yet it remains embedded in both legislative and executive branch processes.
+Principles for adopting a product model for government
+Product model principle 1: Continuous, outcome-based budgeting
+Instead of pouring money into large, one-time projects, Congress should back steady, incremental investments that are judged by measurable public outcomes. Contracted products and services can still play a role, but only after agencies staff up with the right internal talent—people who shape product strategy and user value, not just manage contracts and compliance. (More on the required staffing mix below.)
+Project-based funding
+often leads to ballooning costs and failed systems
+, followed by costly “emergency” modernizations. In contrast, ongoing, product-based funding:
+Supports continuous delivery and improvement
+Encourages early validation and user feedback
+Reduces risk and enables adaptation over time
+Product model principle 2: Cross-functional product teams
+After secure, ongoing funding is in place, the next priority is structuring the workforce around
+product teams
+– cross-functional groups charged with developing and improving services over time.
+Consider a team that focuses on “Eligibility Experience.” Millions of Americans apply for federal benefits each year through assorted application portals. When the process works, applicants are judged accurately and with minimal friction. When it doesn’t, eligible people are wrongly rejected or forced through unnecessary paperwork and in-person visits.
+That end-to-end journey—the collective experience of every applicant to a given program—is the “Eligibility Experience”, which can be considered a ‘product’. Absent a dedicated team overseeing it, decisions that impact the ‘Eligibility Experience’ of a benefits program fall to scattered vendors working within siloed systems. The result is the kind of complexity and failure that plagued HealthCare.gov: processes that are inconsistent, error-prone, and slow.
+A public sector product team may counter this risk by focusing on user-centered outcomes, e.g.,: “all eligible Americans who apply receive an accurate eligibility determination within 24 hours, with clear next steps.” Product teams can coordinate across implementation teams to streamline and prioritize work to deliver these outcomes. They can improve services across government, including digital identity, veterans’ claims processing, immigration and visa systems, online census submissions, and beyond.
+Effective product teams:
+Own outcomes end-to-end
+Are persistent, not project-based
+Include the cross-functional skillsets necessary for end-to-end delivery, including: policy, tech, product, acquisition, legal, customer service, frontline workers (IMPORTANT: not every team composition will be exactly the same because not every product is the same)
+Are empowered to prioritize, make tradeoffs, and deliver
+To deliver an end-to-end service, product teams must work across users, government stakeholders, and vendor implementation teams. Most agencies still lean on fragmented, vendor-led delivery models. Even when vendors do most of the technical implementation work (which is necessary in most government agencies), agencies need in-house product teams to guide, prioritize, and make decisions.
+At the heart of any product team is an empowered product manager. This role leads implementation, resolves ambiguity, drives prioritization, and weighs tradeoffs. Yet product managers are conspicuously scarce across government. In their absence, teams default to compliance checklists instead of delivering true value.
+Building a modern digital government therefore starts with building
+product management capacity
+–across agencies and inside OMB–so that every product team has the leadership it needs to succeed.
+Product model principle 3: Work iteratively
+Effective product operating models hinge on small, empowered teams that can iterate quickly and make key decisions in real time.
+In software, this ethos is captured by the contrast between “agile” and “waterfall” approaches. Waterfall locks in all requirements at the onset and marches rigidly through a pre-set plan. Agile, by contrast, starts testing and building immediately, and refines the product as new information emerges—acknowledging that you can’t foresee every detail before the work begins.
+Agile
+Waterfall
+Iterative and incremental
+Linear and sequential
+Adaptive – plans evolve during the project
+Predictive – detailed plan created at the beginning
+Continuous, iterative customer involvement
+Limited customer involvement, typically only at the beginning and end
+Frequent delivery, working software delivered in short cycles
+“Big bang” delivery, all at once at the end of the project
+Issues identified and resolved early
+Risks often discovered late in the process
+Agile and waterfall represent two very different ways for teams to organize their work. A product is a solution that delivers value to users or customers, continuously improved through iterative feedback and aligned with business goals. A product team delivers this solution. The Product Operating Model is the overarching concept for structuring organizations and teams.
+Many agencies use agile terminology, yet remain waterfall in practice. Because funding, oversight, and contracting are still tied to milestone compliance, teams are rarely empowered to ship iteratively or to act on user insights.
+To move from agile-in-name to agile-in-practice, agencies must build off Continuous, Outcome-Based Budgeting (Principle 1) and Cross-Functional Product Teams (Principle 2), and change how they manage work. That means:
+Fewer waterfall-style procurements; more modular, outcome-driven buys
+Fewer fixed requirements; more user-centered problem statements
+Less performative reporting; more functional demos
+Less deferred risk; more early validation through user feedback and iteration
+Agency leads should tailor their agile approach to the realities of their mission—there’s no single framework that fits everyone. What
+is
+universal is the need for empowered, cross-functional teams with embedded product managers who steer priorities and protect user focus. The hallmark of effective agile practices isn’t a checklist or a certification; it’s a relentless, iterative rhythm of build-test-learn that turns new insight into better service. Making that leap is less about process mechanics than an overarching mindset shift.
+Product model principle 4: Supportive, effective leadership
+Leaders at all levels can enable a Product Operating Model for government by:
+Setting outcome-oriented goals and measuring success by user impact, not just compliance
+Advocating for flexible, ongoing funding and modular contracts
+Ensuring teams have the right roles and staff, and the authority to make decisions
+Rewarding iteration and learning, not just adherence to plans
+When teams are empowered to work iteratively, leaders can ask to review demos instead of static status reports. Seeing real, working increments–rather than just reading about them–makes progress easier to assess and course-correct. It also grants users and stakeholders more visibility into progress, and more opportunities to offer feedback that truly shapes the product.
+Leaders must also champion the move from projects to products–publically and repeatedly–explaining the benefits and lessons to Congress, OMB, and other stakeholders. Shifting into a product model is a long-term organizational transformation effort, not a one-time fix. Leaders should treat it as a sustained investment.
+Product Model Principle 5: Legislation That Empowers Delivery
+To fully adopt a Product Operating Model, Congress and executive agencies must work together to reform how services are funded, staffed, and governed.
+Congress can:
+Provide multi-year, incremental funding tied to outcomes
+Enable modular contracting and portfolio budgeting
+Shift oversight to focus on team performance and user results, not milestones and paperwork
+Ask for demos, not just reports
+Critically, Congress should avoid overly prescriptive language that dictates specific features, systems, or timelines. Such requirements lock agencies into flawed solutions before the problems to solve are fully understood.
+Instead, legislation should:
+Define problems to solve, not prescribe solutions
+Fund teams that deliver products, not specific technologies
+Focus on outcomes, not features
+Encourage pilots and iteration
+Enable ongoing funding and learning
+Define success through evidence and user impact
+Prescriptive legislation turns delivery into compliance. Outcome-based legislation turns delivery into impact.
+To build a responsive, modern government, Congress must focus on the “why” and “what,” and trust empowered teams to figure out the “how.” Less prescriptive legislation doesn’t mean Congress blindly trusts agencies to deliver. It means that Congress creates accountability in more effective ways: like asking to see working demos of solutions instead of legislating the specifics of solutions or requiring lengthy reports.
+It is time to scale adoption
+Delivering critical government systems depends on delivering software effectively, which requires a shift in how government works. First, in expectations: excellence is possible. Then, in mindset: great digital services are built through continuous testing and learning. Finally, in structure: cross-functional teams must be empowered to deliver.
+Pioneering leaders at places like the U.S. Digital Service, Department of Veterans Affairs, General Services Administration, Internal Revenue Service, and Centers for Medicare & Medicaid Services have already proven this is all possible inside government.
+There’s no silver bullet for scaling the Product Operating Model. But by defining it clearly, Congress and executive branch leaders can align around the language and practical tools they need to institutionalize success. With partners in civil society, we are committed to providing actionable playbooks, real success stories, and implementation guidance for leaders.

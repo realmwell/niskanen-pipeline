@@ -1,0 +1,68 @@
+TITLE: Conway’s Law at Government Scale
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/conways-law-at-government-scale/
+WORDS: 1234
+
+“Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.”
+—Melvin E. Conway, 1968
+Introduction
+Conway’s Law offers a simple but powerful insight: organizations inevitably design systems that mirror their own structure. When government agencies are siloed, or poorly coordinated, the services they deliver carry the same flaws. Multiple logins, duplicative forms, and conflicting eligibility rules are not accidents—they are reflections of the agencies’ internal divisions.
+This isn’t mere coincidence; it’s causation. Conway’s Law acts as a design force, with organizational structures, communication patterns, and reporting lines directly shaping service outcomes. The opportunity for leaders is clear: harness this force intentionally to build better systems. The risk of ignoring it is equally clear—dysfunction will keep showing up in the services people rely on.
+Lessons from the Private Sector
+In the private sector, Conway’s Law is often shortened to: “you ship your org chart.”
+Successful organizations reshape their internal structures to achieve their goals. Amazon, for example, broke itself into small, autonomous “
+two-pizza teams
+,” each responsible for a distinct component of its platform. This shift allowed the company to scale its architecture and delivery capacity. Spotify followed suit with its
+Squad model
+—independent cross-functional teams aligned to user needs.
+Adidas reorganized
+around product delivery instead of function, dramatically accelerating its digital timelines.
+Conway’s Law also helps explain high-profile failures.
+Corporate governance researchers at Stanford
+attribute the failure of the Boeing 737 MAX aircraft to silos between engineering and finance teams that led to fragmented software and safety review processes, design flaws, and catastrophic consequences.
+As architect Ruth Malan observed: “If the architecture of the system and the organization are at odds, the architecture of the organization wins.”
+Three Design Principles: Communication, Incentives, Feedback
+The most effective organizations intentionally align three critical elements:
+1. Communication Structures
+Organizations should be shaped by communication needs, and
+team design should follow the flow of information
+. High-performing teams are small (5–9 people), cross-functional, and aligned around outcomes. Cross-team communication should be curated, structured, and intentional.
+Silos stifle communication. When departments prioritize their own goals and tools over shared outcomes, fragmentation ensues. The best teams organize around user value, not function.
+2. Incentive Structures and Accountability
+You get what you reward. When organizations reward process adherence instead of delivery, outcomes suffer.
+Private firms increasingly align incentives around team outcomes, not just individual outputs. They reward thoughtful risk-taking, learning, and clarity. This requires giving delivery leads real decision-making authority—and holding them accountable for results.
+3. Feedback Loops and Adaptability
+Feedback is how organizations learn. In fast-changing environments, the speed and quality of feedback determine success.
+Effective organizations treat feedback as infrastructure: user research, analytics, retrospectives, incident reviews. Feedback loops must be fast, visible, and actionable—and they must influence decisions.
+The Public Sector Challenge
+Government isn’t a tech company, but it builds and runs complex digital systems that people depend on every day. Its scale, complexity, and accountability demands make alignment both harder—and more essential. Because government systems are often essential to people’s lives, the cost of failure is far higher and risk tolerance is lower. In the public sector, Conway’s Law is a matter of public trust.
+Yet agencies are too often organized into silos, with fragmented budgets, mandates, and timelines. Communication between the legislative and executive branches is sporadic. Vendors frequently operate with incentives that diverge from public priorities. The result is predictable: systems shaped by bureaucratic boundaries rather than by the needs of the people they are meant to serve.
+Reforming for Delivery
+To improve, government must intentionally redesign around these same three principles:
+Communication
+Government should adopt a
+Product Operating Model
+, with cross-functional teams focused on streams of user value. Marina Nitze and Nick Sinai’s
+Hack Your Bureaucracy
+recommends that agencies should build “scaffolding” for better communication: standing check-ins, shared dashboards, and working groups. Leaders must model a shift from “need-to-know” to “need-to-share.”
+As U.S. Army General Stanley McChrystal notes in
+Team of Teams: New Rules of Engagement for a Complex World
+, small, high-performing teams are essential, but in complex environments, these teams must also work as part of a larger, cohesive network. This means redesigning communication, leadership, and organizational structures to operate more like a network than a machine.
+Incentives
+In Congress, incentives center on reelection, party loyalty, and control of funding and oversight. Lawmakers often prioritize visible wins and minimize political risk, leading to prescriptive legislation and adversarial interactions with the executive branch. This, in turn, reinforces a culture of compliance and risk aversion rather than adaptive, user-focused service delivery.
+Within the executive branch, officials are rewarded for avoiding mistakes and adhering to process, not for improving outcomes. Civil servants face personal liability for missteps, deterring innovation. Budget rules like the Impoundment Control Act penalize cost savings, further discouraging efficiency and modernization, even as emerging technologies lower delivery costs.
+To change this paradigm, government must realign incentives around delivery. Oversight should be paired with positive reinforcement—rewarding innovation, cost savings, and continuous learning. Budgeting should move toward flexible, outcome-based models that support iterative progress and real impact. Procurement processes should explicitly value performance, not just compliance or lowest cost.
+Congress, for its part, should legislate outcomes while granting agencies the autonomy to decide how best to achieve them. Leaders should recognize teams who deliver impact—and give them the authority to act. Together, these shifts can restore initiative, improve service delivery, and rebuild public trust.
+Feedback
+As Jen Pahlka and Andrew Greenway note in
+A State Capacity Agenda For 2025
+, “Solving complex problems requires tight feedback loops—the ability to test, learn what works in the real world, and act on that knowledge.“ Strengthening feedback loops is essential to improving adaptability, responsiveness, and public service delivery.
+Agency leaders can embed fast, visible feedback into governance: they can use user data, frontline input, and operational metrics to guide iteration. Leaders can model better feedback loops by doing leadership ride-alongs in service operations, set service-level agreements (SLAs) for critical systems, and participate in hotline reviews to stay close to real user experiences.
+The VA has adopted many of these practices. By engaging veterans through advisory boards and listening sessions, analyzing call center data, and using shared dashboards, the VA creates fast, actionable feedback loops. Leadership visits to clinics and daily use of feedback in governance processes allow for continuous learning and adaptation. Embedding continuous feedback into daily workflows and governance is essential to create an organizational culture that learns and adapts quickly.
+At the legislative level, budgeting and oversight are key feedback mechanisms. Congress can support more adaptive delivery by adopting modular budgeting, funding tied to milestones, and outcome-based legislation that sets goals without dictating the means.
+To close the feedback loop between Congress and agencies, oversight should emphasize learning and responsiveness—not just punishment for failure. Real-time progress updates, working demos, and shared roadmaps build trust and allow for earlier course correction. Strengthening feedback loops across all levels of government shortens the distance between public experience and public decisions—making government more agile, accountable, and effective.
+Conclusion
+As Pahlka noted in
+Recoding America
+, system failures usually aren’t the result of bad actors—they stem from structures and incentives that make failure likely. Conway’s Law reminds us that delivery reflects design. If we want more adaptable, effective public systems, we must intentionally align structure to strategy.
+Put simply: to deliver something better, start by building a better org chart.

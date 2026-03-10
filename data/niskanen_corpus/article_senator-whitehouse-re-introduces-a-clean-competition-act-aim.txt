@@ -1,0 +1,41 @@
+TITLE: Senator Whitehouse reintroduces a Clean Competition Act, aiming to link industrial competitiveness and carbon advantage
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/senator-whitehouse-re-introduces-a-clean-competition-act-aiming-to-link-industrial-competitiveness-and-carbon-advantage/
+WORDS: 796
+
+As carbon border adjustments move from European experiment to broad global trade and climate strategy, momentum is building for the U.S. to define its own rules. Done well, a U.S. approach could protect domestic manufacturers, strengthen America’s carbon advantage, and establish global leadership in clean manufacturing.
+In recent months, the European Commission has formally
+adopted a simplified
+and
+strengthened version
+of the Carbon Border Adjustment Mechanism (CBAM) and accelerated final decisions on
+implementing regulations
+, making the 2026 effective date more tangible than ever. Meanwhile, Brazil pushed beyond simple domestic carbon pricing by
+proposing a global coalition on harmonized carbon markets
+and border-adjusted fees while hosting COP30.
+Against this backdrop, Senator Sheldon Whitehouse (D–RI) has
+reintroduced
+the
+Clean Competition Act of 2025
+(CCA). This bill, with minor changes from
+a 2023 version
+, would price industrial greenhouse gas emissions and apply equivalent charges to goods imported to the United States based on their carbon intensity. The bill’s goal is simple: reward cleaner manufacturing, hold foreign producers to the same standard, and make U.S. industry more competitive in a world moving toward carbon accountability.
+How it works
+The CCA would establish a narrowly based, border-adjusted carbon charge on energy-intensive industries, applying to both domestic and foreign producers. Rather than a broad, economy-wide carbon tax, the policy focuses on the most carbon-intensive sectors, including steel, aluminum, cement, and certain chemicals. Each covered industry would receive an emissions baseline, determined by its industry’s average carbon intensity in 2025 based on facility data already reported to the Environmental Protection Agency’s
+Greenhouse Gas Reporting Program (GHGRP)
+. Producers that emit more than the baseline would pay a fee starting at $60 per ton of CO₂, increasing each year by 6 percent plus inflation.
+The baseline would be the average from the first year. That means only half of the manufacturers performing worse than the average would need to pay. Over the next 20 years, this coverage would gradually expand to include every company in the covered sector, incentivizing them to
+accurately and verifiably account for their carbon emissions from electricity they purchased
+.
+To ensure fair trade, the same charges would apply to imports of similar products, depending on the carbon intensity of their production in the country of origin. If exporters cannot provide proof of cleaner manufacturing, or if they are located in a country that lacks credibility for verification, they would be subject to the average carbon intensity of that nation. On the other hand, U.S. exporters of taxed goods could receive rebates when selling to foreign markets.
+By applying the same standard to both domestic and foreign goods, the CCA would ensure that U.S. producers are no longer penalized for operating under stronger environmental rules.
+Investing in industrial innovation
+One feature of the bill is that it would direct the revenue generated from the carbon intensity charge to be reinvested into decarbonization programs. Seventy-five percent of the funds would go toward a Domestic Industrial Decarbonization Program administered by the Department of Energy. These funds would support grants, loans, and contracts for difference to help industries deploy low-carbon technologies, improve efficiency, and reduce process emissions. The remaining part would be directed through the State Department to help developing countries adopt cleaner manufacturing systems and participate in cooperative trade arrangements that reward low-carbon production.
+The program’s budget would start at $100 billion, a level that
+Resources for the Future
+estimates would be reached within 10 years. By reinvesting both domestically and internationally, the policy aims to turn carbon charges into engines of innovation and global collaboration.
+Building carbon clubs
+Acknowledging that the responsibility for decarbonization cannot rest solely on the United States, the section on the “carbon club” agreement has been retained and expanded into a full section. To avoid potential violations of the WTO’s nondiscriminatory rules, the proposal also includes added conditions that the preferential treatment, such as grant reception or charge waiver, would be available only to countries that adhere to labor and environmental standards and adopt comparable industrial decarbonization policies. This cooperative approach would strengthen U.S. partnerships with like-minded economies and reinforce American leadership in shaping a fair, low-carbon global market.
+A foundation for fair and measurable climate policy
+The proposal, however, is not a simple, economy-wide carbon tax, an approach that would cover far more emissions and minimize administrative complexity and compliance disputes. While the CCA advances carbon accountability in trade-exposed industries, its narrow scope and reliance on sector-specific baselines leave major gaps in efficiency that a straightforward upstream carbon tax would resolve.
+Nonetheless, the Clean Competition Act of 2025 represents a practical step toward aligning decarbonization ambition with economic strategy. By pricing carbon where jobs are most at risk of moving overseas, it drives cleaner growth in the world without sacrificing the U.S. industrial competitiveness.

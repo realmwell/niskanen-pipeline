@@ -1,0 +1,346 @@
+TITLE: Abundance and the Democrats, with Jonathan Chait
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/abundance-and-the-democrats-with-jonathan-chait/
+WORDS: 9666
+
+On this episode of The Permanent Problem podcast, host Brink Lindsey welcomes Jonathan Chait of The Atlantic to discuss the abundance movement and the future of the Democratic Party. Chait sees a major role for abundance-based ideas in challenging the agenda-setting power of “the groups,” or progressive activists, and pulling the party back toward the cultural mainstream; Niskanen, meanwhile, has been a leader in developing the synthesis of libertarian ideas (housing deregulation, permitting reform) and liberal ones (expanding state capacity, prioritizing the clean energy transition) that underlies the abundance agenda. Lindsey and Chait review the intellectual journeys that led to this convergence of perspectives — from Lindsey’s early attempts at a “liberaltarian” synthesis and Chait’s sharp rejection of it, to their discovery of common ground against the backdrop of rising illiberalism on both the right and left.
+Transcript
+Brink Lindsey
+: Hello, everybody. It’s a great pleasure to welcome to the podcast Jonathan Chait, a writer with the Atlantic Magazine covering American politics and policy. Before that, he was at New York Magazine for a number of many years, and before that at the New Republic. On just a purely personal level, I’m tickled pink that this conversation’s about to take place because the two of us, Jon and I, have some personal history that goes back a couple of decades, and I think where both of us have ended up relative to where we were back then would have blown our minds if somebody back then had told us how the story was going to go. We’ve conversed a number of times over the years, but it’s going to be fun to do this in public, so Jonathan Chait, welcome to the Permanent Problem.
+Chait
+: Thank you. So glad to be here.
+Lindsey
+: I’ll get into our first encounter, the beginning of our shared history shortly, but first let me just set the stage. When we first encountered each other back in 2006, you were at The New Republic. When did you start there?
+Chait
+: I started at The New Republic in 1995.
+Lindsey
+: Were you coming straight out of school?
+Chait
+: Not quite. I went to the American Prospect. I wanted to go to The New Republic straight out of school, but they turned me down for their internship twice. I got an internship at the American Prospect, and then on my third try I got The New Republic internship and I went there and then I was hired as a staff writer after that.
+Lindsey
+: Okay, and so that was in ’95?
+Chait
+: Yeah.
+Lindsey
+: You graduated college and you went to the University of Michigan, right?
+Chait
+: University of Michigan in 1994.
+Lindsey
+:
+Okay, so we’re exactly, I’m 10 years older than you. And so coming from Michigan, which is an excellent school, but a public university and not Harvard, did you feel like a gatecrasher working at TNR?
+Chait
+: It’s interesting. I don’t think I felt that way, but they felt that way and I didn’t really learn that until years later. Honor Rosen, who’s a great friend of mine, was the staff writer who picked my application out of the pile, and she thought that, and she was promoting me as sort of a diversity hire in a way at The New Republic. Back then, if you went an Ivy that wasn’t Harvard, you were a diversity hire.
+Lindsey
+: Yes. That was a stretch.
+Chait
+: Yeah, so like a public university, I mean, I always thought of myself… We grew up in Michigan. We thought the University of Michigan was the greatest place on earth, and so I didn’t think of myself as coming from someplace that was less special than anybody else. I thought I was extremely privileged.
+Lindsey
+: There’s still a publication that exists called The New Republic, but the magazine you wrote for is gone with the wind. It’s from another era, seems like another world now, but a very, very cool thing to have been a part of, I think. These things crop up from time to time, these tiny magazines that on their own become their own little chapter in a country’s intellectual history. I think The New Republic under Marty Peretz qualified as that. Just such an interesting cast of characters. When you got there, who was editor? Was Andrew Sullivan still the editor?
+Chait
+: That’s right. Andrew was the editor. Then we went through a period of instability. Andrew was fired toward the end of my internship and then replaced by Michael Kelly, who lasted less than a year, who was replaced by Chuck Lane who only lasted a couple years, who then was replaced by Peter Beinart, who managed to last a few years and kind of keep things going for a while. Then that had its own issues and problems, and then he was replaced by Frank Foer, who I thought was the best editor who I worked for.
+Lindsey
+: He’s the one I wrote my piece for. And Stephen Glass was there earlier in your tenure, right? I’ve never seen the movie. Are you in it?
+Chait
+: I am sort of in the movie. They turned my character into a composite female, so the character isn’t entirely me, but actually utters lines that I uttered to Steve Glass in the movie. Yeah, Steve Glass was part of my intern class, so we were very close.
+Lindsey
+: Okay, so just reflect a little bit on having been a part of that scene and how it shaped you as a writer and as a thinker?
+Chait
+: Yeah. The New Republic was the place that I was desperate to be hired into when I was in college because it was smarter, funnier, more interesting than any other publication that I could read. It published a diversity of opinion. The writers disagreed with each other. That was the thing I liked. They would become furious with each other, with the editors and express that in print. That was also something that attracted me to the publication. It didn’t really have a line, it had a center of gravity, which was sort of center left, but that could be anything from left to conservative and it went through iterations.
+I think it’s been subject to a withering critique from the left retrospectively, that was really an attempt to dismiss everything that was produced by the magazine during that period. I think that’s really unfortunate because the way I took the magazine’s ethos at the time was in the spirit of dispute. Even when it published things that were wrong, I think the readers were able to learn from that experience.
+Lindsey
+: During the years where I was a regular New Republic reader, the New Republic center of gravity, and my center of gravity had no overlap, but I loved the magazine because it was interesting and it was diverse and there was argument in it. It was just a lively, vital place.
+Chait
+: Yeah, I mean, I don’t want to delve too far into it, but the prime example that critics seize on is the publication of an excerpt of Charles Murray’s Bell Curve book.
+Lindsey
+: Right.
+Chait
+: Now that happened before I was there.
+Lindsey
+: That was probably ultimately Andrew’s downfall at TNR.
+Chait
+: A horrible and completely wrong book that in fundamental ways strikes at the core of what I disagree with about the right, because I think the ability to improve human beings through environment is the central mission of liberalism. I think that it is wrong in that fundamental way scientifically and socially, but the way I learned about what’s wrong with The Bell Curve was by reading the litany of articles in The New Republic in the center-
+Lindsey
+: There were a dozen critiques that came along with the article, right?
+Chait
+: Just about the entire staff published dissents to it, and I read everything and I came away more convinced of the wrongness of The Bell Curve than I was before I read it. I don’t really see that episode as a shameful one necessarily. I think Andrew Sullivan was attracted to The Bell Curve and I think very much wrongly so, but I don’t think the readers were ill-served by the product necessarily.
+Lindsey
+: No, I agree, so let’s skip ahead now to the George W. Bush administration. I feel like that’s the backdrop against which you really developed your prominence as a writer. I don’t know, maybe you had big pieces in the Clinton years, but you came to my awareness at least during the Bush years.
+Chait
+: I was young, I was coming up during the Clinton era, no question, but yeah, I probably got more-
+Lindsey
+: I think if there’s one word to describe your quality as a writer, pugnacious would be a good one, right? So you like scrapping and it seemed like being in opposition — that was your briar patch. You didn’t like George Bush one bit, you didn’t like his policies, you didn’t like him as a human being. That’s where the world came to know that you could put words together in a way that drew blood. You did a notorious piece, The Case for Bush Hatred — so had you been like that all along, you’d been a scrapper since you were a kid and just wrote like that and thought like that always, or did Bush particularly bring out the fighter in you, or how did your voice develop?
+Chait
+: Yeah, I’m not afraid of conflict. I’m not afraid of people saying mean things about me. I was a humor columnist by trade when I started. I wrote-
+Lindsey
+: Can I just break in here with something? I think you’ll find it funny. When I was just first typing, googling your name to find out something about you just recently, I typed in Jonathan and the first autocomplete was “Jonathan Chait sucks.”
+Chait
+: That’s great.
+Lindsey
+: Thought you’d like that.
+Chait
+: That’s fantastic. Yeah, no, I mean, I was a humor columnist in college and high school and then in college I started writing more serious things and in some ways blended some of the voice I learned as a humor writer into my work as a serious writer. Yeah, I don’t know. To me, that’s natural, being afraid of critique is unnatural. I had one experience early in my writing when I was a humor columnist that, I guess, maybe gives some insight into how I came to where I am. I wrote a humor column for the Michigan Daily, and this was the time the University of Michigan really was a pretty PC place in the late eighties and the early 1990s.
+I just wrote kind of light, funny piece about we had all these observances that just happened to be overlapping during this period, during this one week in the fall. It was like sexual assault awareness week and eating disorders awareness day and something else month. I just wrote a kind of a light thing about how I was trying to observe all these at the same time and not saying that there was anything wrong with the underlying causes. Then a couple of days later, I remember I was walking to my nine A.M. political science course and I opened up The Daily reading it while I’m walking and just splayed across the top of the letters page. It says, “Chait should be more sensitive,” and like 500 words just about how I was harming vulnerable communities. I felt this electric charge of excitement. This is great. This is what I want. I want the rest of my life to be like this, and basically-
+Lindsey
+: Constitutionally, I was exactly the same way. I was drawn to fights, what I wrote, I wanted to write about people that were wrong and ideas that were dumb. I changed over the years.
+Chait
+: I never grew out of it.
+Lindsey:
+Yeh, you’ve stuck with it. So let’s get now to where we first crossed paths while you were at The New Republic. During the Bush years, I was at the Cato Institute, the libertarian think tank. We didn’t like George W. Bush much either. As the second term unfolded, it seemed to a number of us that the conservative fusionism that had been developed and modeled by William F. Buckley at National Review – that combination of libertarian economics, traditional morality and hawkish foreign policy that had created a modern conservative movement – that fusionism, it seemed to a bunch of us that that fusionism was running out of gas.
+Already at that time, it seemed to me like anti-intellectual populism was starting to take over the right. That’s where the energy was in the conservative movement. That’s where the passion was by the early ‘00s. Looking back, the things that drove me away seem positively quaint by comparison to what’s been going on of late, but the ban on stem cell research, the Terry Schiavo case, opposition to gay marriage, the Harriet Myers Supreme Court nomination, –which seemed terrible, she seemed unqualified, and yet what we got instead was Sam Alito. We would’ve been a lot better off with Harriet Myers anyway.
+Then in particular, the coming to dominance of anti-immigration sentiment, displacing what had traditionally been libertarian and business pro-immigration sentiment in the conservative movement. Having never voted for anybody but a Republican in every election between 1980, when I turned 18 and 2004, I voted straight Dem in the 2006 midterm elections.
+I think there’s a parallel here between people who defected from the populist right and ex-communists, there are different vintages of ex-communists. The first crop were the people who bolted after the Kronstadt Rebellion in 1921, this group of sailors and workers rose up against the Bolshevik government in this one town. To see the Bolsheviks crushing workers just was too much for some people. Then there was a big wave in the thirties with the show trials. Then another big wave after Khrushchev denounced Stalin’s cult of personality, then the Hungary Invasion in ’56. Then I think finally Czechoslovakia in ’68, after that, you got nothing but bitter enders anyway. So for me, as someone who ran away from the right, I feel like I’m the equivalent of a Kronstadt guy. I was in the first crop.
+Chait
+: Good analogy.
+Lindsey
+: To signal my new orientation, I sought to write a piece for the New Republic, reaching out to my left and got in contact with Frank Foer and sold the piece to him and wrote something for him, proclaiming the death of conservative fusionism and holding up the idea of a liberal/libertarian fusionism. And whoever wrote the headline for the piece called it Liberaltarians, giving birth to the least euphonic political label ever devised. That piece, it got a lot of attention. It was the kind of thing that everybody wanted to write a column for or against, and that was, the blogosphere was still going strong back then, so it was just perfect fodder for that kind of thing.
+The only thing I remember that anybody wrote was your immediate response piece in the next issue of The New Republic, which stood out from the crowd in the sort of purity of its just sheer, unrelenting negativity. Your famous line was to quote Michael Corleone, “You could have my answer now, my offer is nothing,” right? You didn’t want anything from us. You said, “Sorry, you’re stuck choosing between the lesser of two evils, but that’s what you get for having weird ideas that nobody likes.” That was basically the gist of it.
+Chait
+: I hope I wrote that line. That’s a great line.
+Lindsey:
+For me, it wasn’t a big deal. We met, I think we were on a panel maybe a couple of weeks afterwards, and that was all fine. I never took it personally. It was fun. It’s important ,if you want to get attention, for people to really hate what you’re writing as well as people to like it.
+Chait
+: True. It was good.
+Lindsey
+: It was good for me. Anyway, so it was never a personal thing. But do you recall, you saw it in draft and said, “I got to say something about that shit”?
+Chait
+: I can’t remember when I probably saw it in draft. I mean, at that time I was-
+Lindsey
+: It was a weekly magazine back then, right?
+Chait
+: It was a weekly magazine, and at the time I was really involved with a lot of the editing and the editors. We were close. It was very communal, so we saw a lot of pieces before they ran. I often was brought into meetings to discuss and brainstorm headlines, and we talked about them in meetings. Yeah, I mean, I was probably aware of it all along, and I always knew like, “Hey, we’re going to run this piece, you’re going to hate it.” It’s like, “Great, can’t wait until it runs.”
+Lindsey
+: Yeah, so our intellectual journeys since that exchange have brought us much closer together, but I was the one who moved first. I encountered the illiberal right, and I went spinning off in the other direction.
+I think we have to skip ahead a few years to see you have a parallel encounter with the illiberal left. I’m thinking of your 2015 New York piece on the new political correctness. I don’t know if you wrote any stuff before, but I think that generated a firestorm and set you off. That was relatively early in this new wave of social justice radicalism and activism that people call woke, but you were there critiquing it from within the progressive ranks pretty early.
+Chait
+: Let me put it this way. So I was against this set of ideas in college…
+Lindsey
+: Yeah, you saw it then, right?
+Chait
+: Yeah, and it spiked hard.
+Lindsey
+: You were in college during the original PC late eighties, early nineties run.
+Chait
+: Which crested in the early 1990s, and it was already on the decline while I was still in college. The atmosphere in which I graduated was already different from the one that I came into. I was familiar with these ideas. I studied these ideas in class, on campus, seeing them on display, and I could see that they were in remission, and I could see that it was not an important influence on American life anymore. What I was basically saying in the 2015 piece is that this is becoming an important influence in American life again. That basically the ideas are out there, but they were very, very marginal and they’re no longer marginal. You could see them having power now.
+Lindsey
+: I think this wave was orders of magnitude more consequential than the PC 1.0, which was pretty much just a campus thing.
+Chait
+: Yeah, and in 2015 was at the beginning. And it was already, I could see that it was on the rise, and it absolutely was.
+Lindsey
+: You had been a heterodox New Republic guy from the get-go, you considered yourself a hawk, a liberal hawk, you were for the Iraq war at the outset, an Israel supporter. But still, by the first Obama administration, I’m thinking that you were feeling very optimistic about the state of American progressivism and very comfortable about your place in the progressive coalition. How have things changed for you over the past – I think, you’re running in parallel about 10 years behind me in terms of events – but seeing the lion’s share of energy and passion in your coalition going in what you consider to be unfortunate directions? There were two particular developments. There’s first, there’s the social justice radicalism, new political correctness, woke, whatever. And then second, there was the Bernie Sanders candidacy and movement and the return of socialist rhetoric and opposition to capitalism as such. Those were both going on and you tangled with both of them.
+Chait
+: My second book was about the Obama administration, which I consider a great success. It’s an argument for why Obama achieved almost everything he set out to do domestically and why the attacks on him were so misguided. The progressive movement was largely sidelined by this administration the entire time, which I think is one of the reasons why it was successful. They decided that Obama was a failure, and the conclusion the party made, which accelerated after Trump won in 2016, was that Trump had won because Obama was a failure and that they had to reposition the party to the left socially and economically. It’s followed that course ever since. I think in that sense, I’ve become more at odds with the left because I was in the position of supporting the Democratic presidency for eight years. Now, I still am a Democrat, and I’m still probably close to the center of the Democratic party ideologically, but there’s just a much more active group of people who are to my left on social issues and on economics than there was a decade ago.
+Lindsey
+: Right, so when the Sanders candidacy happened, you weren’t having it from the get-go. You were solidly in the Clinton camp, and you wrote a piece where you described… He was clearly an anti-system candidate. I think he was responding to the same demand that coughed up Donald Trump on the right, somebody that says the system’s rigged and broken, and we need somebody who will rise up the virtuous people and smash the system. You called him anti-pluralist. You referred to the kind of model of interest group pluralism where everybody, even business has a place at the table and you hash things out, and that’s the way things work. That’s the way you actually make improvement in democratic politics, whereas that’s not what Sanders was about.
+Chait
+: That’s always been what liberalism has been about. I mean, even during the Roosevelt era, liberals always quote this one speech Roosevelt gave in 1936, where he says, “I welcome the hatred of the rich.” And he did say that, but on the whole liberals, including Roosevelt have always been mediating between business and labor and markets and states. That’s been the definition of liberalism.
+Lindsey
+: That generated a whole new crowd of people that hated Chait.
+Chait
+: Yeah.
+Lindsey
+: Okay, so on the woke side of things, how about just personally? I don’t think there was any place where these passions and moral enthusiasms ran more white hot than in media organizations. Was that a kind of fraught time? I know for a number of people it was, right? A number of people left publications they founded because they didn’t fit in there anymore.
+Chait
+: There were a lot of people at New York magazine who hated my work. I don’t think they hated me. I think everyone I worked with personally liked me and got along with me, but no, there were people who wanted to get me out of there, who did not want New York magazine to publish criticism of the left, especially on social issues. My editors supported me and valued me, so it was fine. I mean, again, some people find it very, very hard to have that kind of hatred and being undermined, but to me, I saw it as just affirming the importance of what I was doing.
+Lindsey
+: Just what was your work environment? Were you working at home when you were working for New York magazine?
+Chait
+: Yeah, exactly. Yeah.
+Lindsey
+: There’s not an office that you’re in the hot house environment of, right?
+Chait
+: There’s an office, but it was in New York and I was in Washington.
+Lindsey
+: You weren’t in it, so that may have been helpful, right?
+Chait
+: That’s right.
+Lindsey
+: I want to flash forward to where we are now, but with one pit stop along the way. In 2015, when you’re first starting to scrap with people in your coalition, there was a new think tank called Niskanen Center that was started up by my old Cato colleague, Jerry Taylor. It was started as a kind of pragmatic libertarian think tank, actually trying to effect policy change on Capitol Hill, and therefore, with those shorter time horizons in need of pretty significant ideological flexibility.
+It was started with libertarian donors with that idea, and given the circumstances at the time, founded during the Obama administration and anticipating a Clinton administration, its mission was just straight up liberaltarian in everything but name. It wanted to be the Republican whisperer for the libertarian-ish parts of the Democratic policy agenda. A carbon tax to address climate, a child tax credit as a less paternalistic kind of welfare policy, and comprehensive immigration reform. On all of those, the idea was that because we could speak free market, we could find the moderate Republicans that would help those legislative initiatives get across the finish line.
+This was all before I got there. Then came the shock of the 2016 election. That whole game plan just went out the window and Jerry had to have a big think about what he wanted to do. He took about 48 hours to decide that he wanted to position Niskanen squarely against Trump and Trumpism. Niskanen became the only think tank with any connections right of center that was explicitly and institutionally opposed to Trump and his tendencies within the party. Therefore, we became in the early days of Trump 1.0 this kind of organizing node for the never Trump ranks.
+Meanwhile, over the course of 2016 and 2017, first Steve Teles joined as a senior fellow, and then Will Wilkinson joined the policy staff, and then I did. We were the only three people on planet Earth, I believe, that had ever called themselves liberaltarians. Now we were all working at the same place. Niskanen’s ideological profile underwent a pretty significant movement in those early years, lost all its libertarian donors, found new ones. What emerged was really a think tank dedicated to trying to develop a liberalism, a liberalism that spanned both the center left and center right incarnation of it. A liberalism that was responsive to the challenges of the 21st century, a moderate constructive alternative to the illiberal left and the illiberal right.
+Then during the first Trump administration, we also had this political project of trying to stand up a credible anti-MAGA faction within the Republican party and the conservative movement. That was completed and utter failure, but it was a game effort. We had to try it. We did. We did a big conference right after the 2018 midterms with Larry Hogan, the maverick governor of Maryland as our keynote speaker. You did a write up where the headline was, “I have seen the future of a Republican party that is no longer insane.” That was the first time strange new respect from Jonathan Chait came my way, but alas, that Republican party remains purely notional.
+Chait
+: Yeah, distant future.
+Lindsey
+: During the Biden years, then we came to the conclusion that if you want to defend liberal democracy in its time of peril, just appealing to people on principle just was not going to cut it. Most Americans like democracy fine, but for most Americans left and right, it’s downstream of their political identity and their policy preferences. If there’s too much conflict between their politics and democratic principle, principle’s going to bend. Certainly it shattered on the right. We thought that really the practical way for a think tank to defend liberal democracy is to try to improve the currently fairly woeful state of liberal democratic governance, not living up to expectations and its promises in a whole host of important ways. We started developing ideas on building up what wonks call state capacity, making government actually be able to follow through on what its policies are and deliver on them, and also, reforming this metastasizing vetocracy that makes it so hard to build anything.
+These ideas were coming from other sources as well, but Niskanen was a fairly important source of the ideas that Ezra Klein and Derek Thompson then brought together and framed as abundance, first in their respective publications, the New York Times and The Atlantic, now in this co-authored book that came out this year. Meanwhile, though, we had the disastrous 2024 presidential campaign and the return of Trump to power. When Ezra and Derek’s book come out in 2025, it’s against the backdrop of a catastrophe, A catastrophe for the country, a catastrophe for the Democratic party, and the beginnings of a really high-stake struggle for the future of the party. The book comes out, it’s a huge bestseller. I don’t think it would’ve been if Harris had won. I think it was because it was responsive to this dark night of the soul, but also, and I didn’t see this coming at all, it ran into a buzzsaw of opposition from the left.
+Chait
+: I saw it coming.
+Lindsey
+: I thought it would be a kind of polite golf applause because nobody can really hate Ezra or Derek, and then everything would be abundance. Everything would be defined as abundance, and then so abundance would be just one more topping on everything bagel. That’s how I thought it would die. But no, not at all – so this brings us to your recent article in The Atlantic, and you joined The Atlantic when, in 2022?
+Chait
+: No, no, no. Last November.
+Lindsey
+: Oh, very recently then. Okay. 2024.
+Lindsey
+: Okay. All right, so you’re new there. Okay, so this article is entitled The Coming Democratic Civil War. Tell me about the piece. Walk through it, flesh it out for our listeners.
+Chait
+: I actually started working on that piece for New York Magazine last summer.
+Lindsey
+: Interesting.
+Chait
+: It was greenlit, it was going in the magazine, but then came the debate with Biden. My editor said, “We’ve got this big feature for you on what you see as the future of the Democratic Party, but we need to write about the present of the Democratic Party. We’re putting this, we’re using your feature slot for, so we’re putting this on ice basically.” Then it was basically just like the closing stages of the campaign, and then I went to The Atlantic. It basically took a long time. The piece just moved over, but I absolutely saw that it would create havoc on the left. Unfortunately, I wasn’t able to predict that outcome. I could only describe that outcome because of the time it took to publish the piece.
+Lindsey
+: They did everything in their rhetorical power to not pick fights. I mean, substantively, their argument is a withering critique of progressive governance over the past 50 years, and especially in blue states, but rhetorically, it says everything in kid gloves, right?
+Chait
+: The implications are pretty profound, and also, so first of all, there are a lot of different iterations of abundance theory. There were three books.
+Lindsey
+: I’m just saying they didn’t go to start a fight, or at least they took pains to avoid a fight, and it came and found them anyway.
+Chait
+: Totally correct. Yeah, there’s also, Yoni Applebaum has a book, and Mark Dunkleman has a book. There’s also a lot of-
+Lindsey
+: Applebaum’s is called Stuck, and Dunkleman’s is called Why Nothing Works.
+Chait
+: In addition, there’s a large body of work from Niskanen and other places that you could call abundance theory. Ezra and Derek probably have the biggest names, but there’s a lot of people trying to sketch out the school of thought. One of the things I was trying to do in this piece is just tease out what is it? Because everyone has a version that’s a little bit different than somebody else’s, but what is the core that defines this that’s shared by everyone? My attempt to explain this was it’s an attempt to unfuck everything that Ralph Nader fucked up in the 1970s.
+Lindsey
+: That’s the standing on one foot version of it.
+Chait
+: When you conceive of it that way, then I think you can get around to understanding why it’s so controversial within the left. Because he really designed the structure not only of large segments of American law, but of American left-wing politics. They really bear the direct imprint of Ralph Nader and the movements and the groups he created. The whole idea of structuring the progressive movement around a series of discrete single issue groups was formed in the 1960s and exists to this day. What Abundance says is all these groups and the laws they’ve created and the style of politics that they followed since them have created enormous problems for liberalism itself. They’ve basically tied the state in knots. They’ve created a structure that makes it impossible for us to get anything done, and we’ve got to reverse all that, but when you’re doing that, you’re basically going to war with your own coalition. That’s why I think it’s impossible to just elide the internal problems.
+Lindsey
+: Ezra and Derek bent over backwards to avoid your pithiness in your critique of Nader. They present the rise of what call public interest liberalism. That’s what Paul Saban calls it in his book on the rise of proceduralist liberalism.
+Chait
+: I don’t know if they bent over backwards so much as they just…
+Lindsey
+: Anyway, by saying that it was this new style of trying to inject public voice and create opportunities for progressive groups to second-guess the government at various turns, that it came out of real abuses, and it came out at a time where there were very sound reasons for people on the left to be suspicious of state power. This anti-state mood that the right version of it had, “Okay, let’s restore power to markets.” The left version of it had, “Let’s take power away from centralized Washington bureaucrats and restore it to the people, power to the people,” the people being self-appointed representatives of the people in all these groups. They presented this as a noble idea, responding to real problems that then gradually got out of sync with the challenges facing the country. Rather than a bad idea from the get-go.
+Chait
+: Yeah, right. I think another difference is almost-
+Lindsey
+: I would say that, I mean, NEPA when it was passed was just … at that point, I think the Army Corps of Engineers, when they had a project they just refused to even think about would happen, they said, that’s not our job. The idea was to pass a law, you got to write a report, you got to at least look at this, right?
+Chait
+: Sure.
+Lindsey
+: Then the courts took it over and turned it into…
+Chait
+: Yeah, and that was really a revelation for me. I remember in the closing weeks of the passage of the IRA, Biden’s signature domestic law, I don’t think I was really even aware of this problem at all until at some point I started reading, oh, some 80% of the emissions reductions are actually not going to happen because you can’t build anything. I didn’t realize that. It’s like I couldn’t believe that no one had thought of this before. Once this came to light, this wasn’t the immediate priority to resolve it. Don’t you want to actually do the thing that you just bled all over the floor to pass? Do you want that to be for nothing?
+Lindsey
+: I mean, you had encountered this in the first Obama term with the stimulus package, right?
+Chait
+: Yes.
+Lindsey
+: The discovery that there’s no such thing as shovel-ready projects.
+Chait
+: Then we all just immediately forgot about it. That was one of the things I noticed, like, well, I guess that’s just life.
+Lindsey
+: Yeah. Yes, so the rise of the groups is one way to put a larger phenomenon, which isn’t restricted to the left, and that’s just the professionalization of politics that really geared up in the sixties. Before that, you had these mass membership organizations. You had unions, and you had chambers of commerce and various farmers organizations that had local chapters that people participated in and rose up through the ranks to become the national leaders of. All of that got marginalized by, not by any conspiracy, by the superior nimbleness of professionally managed single-issue organizations to raise money and get attention. Now, instead of having these organizations that had roots in communities, you had organizations run by professionals, the membership, the duties of a member were to write a check if they had members at all. Otherwise, it’s just a group of usually highly educated white liberals speaking in the name of much larger constituencies.
+Thomas Piketty, whose political science I like better than his economics, anyway, he refers to this as the Brahminization of the left. It’s happened not just in the United States, it’s happened in all the rich democracies. It’s just kind of a consequence of the service economy, explosion of college educated, white collar labor, and the shift of politics away from when poverty becomes this kind of tragic, exceptional thing rather than something that’s staring ordinary people in the face. The axis of politics shifted from have-nots and haves to cultural issues. That’s happened all over the place as well. That has served to put these professionalized groups, which have very different kind of culture than the people they say they represent. That’s introduced a big problem, I think, especially for Democrats, that the people who set their direction are so at odds with the people that they hope to speak for. You see that?
+Chait
+: That’s right. That’s one of the things I was trying to do in my piece was to connect this critique of the groups that has been bubbling up on the center left and the influence of the groups of the Democratic Party with the abundance agenda, and arguing that the abundance agenda, it has a historical theory that says, the groups put us in this dilemma in the first place. The groups are the problem. In order to get out of it, we needed to defy the groups. I think those had been largely separate ideas in progressive discourse that I was trying to connect.
+Lindsey
+: That’s fair, but not all the groups are necessarily implicated by the abundance agenda. A whole bunch of social issue stuff that’s irrelevant, but-
+Chait
+: Yes. However, the connection I was especially trying to draw is this ethos of solidarity. Part of the way that they operate is every group is expected to endorse the position of every other group.
+Lindsey
+: That’s it. You’ve got a NATO situation, like Article 5.
+Chait
+: Yeah, that’s exactly right.
+Lindsey
+: If any of the groups are being picked on, then all of them are offended.
+Chait
+: Right, so if you’re violating the positions of some of the groups, you’re going to find yourself against all of the groups and hence the progressive movement. That’s why I thought this conflict was going to extend more broadly within the Democratic Party, and that’s what I think has happened.
+Lindsey
+: How do you think it’s going?
+Chait
+: I would say-
+Lindsey
+: Early signs aren’t super promising, but-
+Chait
+: It’s very, very early. Look, I don’t think abundance is going to be a theme that people use to get elected primarily, I think it-
+Lindsey
+: I never thought of it that way at all, and so it surprised me that it emerged as having a kind of political function, that it serves as a positive agenda for the culturally moderate, anti-groups, more centrist center left people.
+Chait
+: That was part of my argument is that to this point, the moderates were just defined by their opposition to the progressive movement, or at least their lack of enthusiasm. You were only 50% or 75% on board with what the progressive movement wanted as opposed to having your own ideas. Now they do have their own ideas for what they want to do in office, and I think this is going to be a big part of that agenda.
+Lindsey
+: That’s happening, and there’s already a couple of caucuses, abundance-themed caucuses that have been formed. There does seem to be a hunger among not just so-called moderate Democrats, but Democrats that run in red states, winning-oriented Democrats, in these ideas. I find that heartening, but the Democratic Party, of course, is in opposition, it’s always tough. You don’t have a point person. The shock and awe of the first 50 days was hard to process, much less respond effectively to, but still, there’s a lot of signs that the same old bad ideas are still very firmly in the inside a whole bunch of people’s heads.
+Chait
+: That’s right.
+Lindsey
+: The first elevating David Hogg as vice chair of the DNC, that doesn’t seem to me like a lessons learned moment. Then defenestrating him because he’s run afoul of some bizarre procedural rule…
+Chait
+: That was a getting Al Capone for tax evasion sort of situation.
+Lindsey
+: Yes, and then to me, the one area where I feel like Trump could actually be vulnerable and could actually be subject to political gravity in a way he’s never been to date, is if he takes us into a real economic downturn that’s completely self-inflicted. The Liberation Day tariffs looked like they were going to do that until he’s got this lizard brain sense of just how crazy he can be without torpedoing, without cratering the economy, so he pulled back enough, but still that was a disastrous move. It changed the public perceptions of him quickly. Dems were terrible at capitalizing on it. A lot of them were, “Oh, tariffs are kind of a good idea, but he’s just not doing it right,” and so for a guy who swept into office for one reason, because people hated the high prices that were happening during the post-COVID inflation, to not be able to leap lustily on a guy driving up consumer prices seemed inept.
+Chait
+: Yes. Although, let me suggest another one, which is the Republican mega bill. It’s going to throw 10 people, 10 million people off their health insurance. In the first term, Trump was saved by John McCain voting that down. If he had succeeded, it would’ve created a huge backlash. I mean, he lost anyway, but we would’ve lost by more. I think if that goes into effect and people start to feel it, I think there will be a very significant backlash.
+Lindsey
+: I think the lowest his popularity ever got in the first term wasn’t Charlottesville or anything like that. It was like right after the tax cut passed. Yeah, I think I am very averse to “the worst, the better” kind of thinking. I think that’s driven the appeal of Trump: let’s just blow things up and then things will be better somehow. I do have the feeling that the Republican Party is not going to be satisfied until it produces some kind of catastrophe that is on its head and is clearly on its head. Everybody recognizes the catastrophe, everybody recognizes they did it and then are discredited for a generation.
+Chait
+: Well, they just keep running risks and eventually-
+Lindsey
+: Part of me wants to see them run it right into the ditch, especially I think on the tariffs thing, because it’s just purely unilaterally his decision as opposed to the legislation, but anyway.
+Chait
+: You know what, I think this actually connects to what I think is possibly a continuing area of disagreement between us that goes all the way back to the Liberaltarians piece. Can I propose my argument here?
+Lindsey
+: Sure. Yeah.
+Chait
+: I think one important source of disagreement I had is that I always saw the Republican Party’s version of libertarianism as a key element of its pathology, which is to say its commitment to its fanatical opposition to redistribution has been its core motivation.
+The conservative movement rejected the New Deal. They rejected the whole idea that majorities of the American public have any right to vote in governments that are going to tax the rich and use it to redistribute resources to the unrich. They see this as the most despotic thing that government can do. That’s why every time the Democrats talk about raising taxes on the rich, you’ll hear some Republican comparing it to Nazi Germany. Not because they think it’s literally quite as bad as that, but that’s the kind of model they have. This is totally and completely unfair, and this is an important source of their opposition to democracy itself. They think that’s the most dangerous feature of democracy. That’s what I think has led to this alliance between the traditional Republicans and Trumpists, they’re both threatened at a deep level by the possibility of democratic governments engaging in redistribution. I think that’s why they’re so committed to this anti-redistributionary project all the way through this administration. They’re racing to pass a bill that’s going to create a huge public backlash. It’s massively underwater, but they’re just so ideologically committed to it.
+Lindsey
+: Trump is the brakes on that. He is the one who has at various times had more recognition than the modal Republican that this is politically dangerous.
+Chait
+: That is the thing that ties them together. That is why the Republican Party, even if they’re uncomfortable with the corruption and even uncomfortable with the authoritarianism, they prefer it to liberalism because they think liberalism is fundamentally despotic, because they will tax the rich and give it to the non-rich.
+Lindsey
+: I think that’s going on. When I wrote Liberaltarians in 2006, I was a wet squish by Cato standards. I was a Hayekian classical liberal, not a hardcore anarcho-capitalist or a minimal state libertarian. I thought that we should have a safety net for the poor. I thought we should fund scientific research, but still, I was down on middle class entitlements back then. I thought that was sloshing a bunch of money within the middle class and we could figure out ways to privatize it. I’ve completely given up on that and come around to the idea that there’s a real deep complementarity between robust social insurance and robust entrepreneurial dynamic capitalism, that they both are good for the other. I have changed on that, but the Republicans haven’t, not one bit, and we’ll see what happens, but I’m inclined to want them to pull the trigger and face accountability for actually…
+Chait
+: Right, so just to put up a bow on what I’m trying to say here, I’m not sure I’ve been clear enough. Your account of what was going wrong with the Republican party 20 years ago is in some ways they were deviating from libertarianism.
+Lindsey
+: Yeah. I have a different view now than I had back then.
+Chait
+: Right, so that’s why I was disagreeing because my view was the libertarianism was the problem.Or at least their version of liberaltarianism.
+Lindsey
+: Their version of it. At some point, after joining Niskanen I wrote this three-part essay series on why I’m no longer an economic libertarian and why small government conservatism is a dead end and arguing that, you know what? Yes, I believed in that mission, and then it did not turn out how I expected. Then when I saw how it turned out, I decided I was wrong. I see that the introduction of libertarian rhetoric and libertarian ideas, which were never accepted on a principled basis by anything other than a really tiny sliver of people.
+The introduction of that rhetoric and those ideas into mass political discourse in the late 20th century, the effect of that was to bring together constituencies around a very partial and distorted version of libertarianism. Tax cuts ueber alles and anti-state intervention when it’s imposing health, safety, and environmental regulations on business, married to a cultural right-wing disdain for coastal elites, which can be expressed as anti-statism. That cropped up as a mass movement with the Tea Party, which then I think was a kind of dress run for Trumpism. A lot of Tea Party people ended up MAGA people, but so when I saw how things were going in the 00’s and then in the 10’s, I thought that I had been on the wrong train for a while.
+Chait
+: It’s don’t tread on me, I tread on you.
+Lindsey
+: If what we’re talking about is, if our diagnosis of the problem the Democrats face is right, it’s a really profound problem because it’s basically they have the wrong base. They need a new base. Their base is highly educated white liberals who are culturally so removed from the sensibilities of most of the rest of the country that hey can’t help pissing off people and repelling them from the aspects of the center left agenda that are naturally highly popular. Highly educated white liberals have always been disproportionately in positions of leadership in the progressive ranks, but their numbers were small once upon a time. Their mission back then, their self conception was to articulate the interests of the vast majority of ordinary workers and people. As their ranks grew to be a larger and larger share of the population and their dominance of political discourse became pretty absolute, then now the Democratic Party serves to advance the interests and priorities and cultural values of that base.
+Chait
+: Well, I’m not sure about the-
+Lindsey
+: They have the historic connections with minorities that keep them going, but with the ethnic majority in the country with white people, they’re outside of cities. They’re profoundly far away from being competitive.
+Chait
+: Well, I disagree-
+Lindsey
+: The path back seems to me feels like trying to put toothpaste back into a tube, but you tell me how it works.
+Chait
+: Well, the point I disagree with you is interests, because while the parties have swapped bases, to some extent, the Republicans are actually not representing the interests of their new voters, and Democrats are not abandoning-
+Lindsey
+: They’re representing the cultural interests of their voters. They’re not representing the economic interests.
+Chait
+: Exactly. It’s all cultural, but Republicans are saying, all these MAGAs are on Medicaid, and they just decided, well, who cares? We’re going to screw them anyway.
+Lindsey
+: We’re going to see how that works.
+Chait
+: Democrats are continuing to fight for these anti-poverty programs and Medicaid programs, even though they’re getting diminishing shares of those voters. That hasn’t changed, so that’s pretty interesting. I also think that maybe suggests a path back for Democrats is to use those issues to appeal to the people they’ve lost.
+Lindsey
+: I lived through the wilderness years for the Democratic Party in the seventies and eighties, at least at the presidential level, and the rise of the DLC and its diagnosis that the dominant voices in the party, especially on crime and social order issues and cultural issues as well, were out of touch with mainstream America. There needed to be cultural moderation. Bill Clinton proved to be the national vessel for that with ending welfare as we know it, and executing felons as governor, and saying abortion should be safe, legal, and rare.
+It was a real move to marginalize the left in the Democratic party and prioritize the views and sensibilities and priorities of the numerical majority of the party. That was under very different institutional and political conditions. There was much more regional variety in the party, much more capacity for regional variety in the parties. You could have Southern Democrats who were going to be weird anyway. I think internet, social media have nationalized political life and nationalized voting in a way far more than it was before. It seems to be harder to climb back than it was back then, but maybe you see things differently.
+Chait
+: No, that’s absolutely right. I mean, the nationalization has closed off the easiest way for Democrats to get regionally competitive. I think the solution is much more bracing than it might’ve been a generation ago. I think the party really does need to refashion itself and reposition itself in some much more fundamental ways in order to have a chance to actually have governing coalitions at the national level, especially given that the Senate map is so tilted to the right, that the median Senate state is significantly more conservative and Republican than the median voter.
+Lindsey
+: I’m afraid the New York mayor’s race isn’t giving us a preview of a hopeful Democratic future.
+Chait
+: No, it’s so grim. It’s so awful. It looks like the candidates who I think-
+Lindsey
+: It’s hard for me to imagine coughing up two more just profoundly unappealing candidates for-
+Chait
+: How is that it’s going to be my 10th choice against my 11th choice in the final round? How can that even happen? I will say that Mamdani gave an interview with Tim Miller where he was very friendly towards abundance themes and very, very soft on his own policies, and basically painting them as just like trial balloons that he was going to play with. If they didn’t work, he would walk away from them very quickly, so he’s either a clever politician or someone who…
+Lindsey
+: That’s pretty much the best we can hope for is that someone is just, Surprise! I’m completely different than what I ran on.
+Chait
+: Right. Because I think his ideas are all pretty dumb, but at least he’s not very committed to them, other than globalizing the Intifada, which is actually a really terrible idea.
+Lindsey
+: Yes, so we’ve gone through an hour here. I want to close up just on a personal level. I, constitutionally, ran out of gas being combative and pugnacious, and so I became somebody who was looking for people who agreed with me more than staying in the fight. You’ve stayed at it, so what keeps you sane? You’re throwing elbows and taking kicks to the shin fairly regularly. You’ve got to have something else going on in your life that has nothing to do with politics that keeps you grounded and happy and normal, don’t you?
+Chait
+: I do, so, right, so first of all, you quoted me quoting the Godfather earlier, so let me bring it back to another Godfather quote that I always use to describe how I feel about this. The great Jewish American Hyman Roth who said, “This is the business we’ve chosen.” This is the business we’ve chosen. Right? I don’t take it, it’s not personal. That’s your job, to say what do you think and to disagree with ideas that you disagree with and not act like you’re at a party trying to make friends with people. It’s never been personal for me. It’s never been upsetting for me. That’s just that-
+Lindsey
+: That’s fine. I would say in Clinton and Bush era political conflict, I felt that way too, but given how just dreadful, the dreadful turn the country and American politics has taken, doesn’t that tear you up? Just wallowing in it every day, isn’t that just hard? For me, I now live 9,000 miles from Washington DC, and I find that geographic distance provides psychological and philosophical distance. It’s just immensely beneficial to me that I’m surrounded by people who just don’t give a shit about the things that have me tied up in knots.
+Chait
+: I think the same thing that allowed me to just have everything bounce off of me when I’ve been scrapping with people and being called names, also, allows me to disassociate my mental state from what’s happening in the country as a whole. In some ways, I can think about it as an abstract problem, even though I am living right in the center of the capital where everything is happening. You asked me about my life. I have two college-age kids who I adore and are the most important thing to me, along with my wife. When I’m healthy, I like to exercise every day, and that makes me happy and trying to play basketball still, so yeah.
+Lindsey
+: No, anyway, you feel like you’re a pretty grounded guy at a time that has driven lots of people we know crazy.
+Chait
+: Yeah. Yeah. Maybe I’m just used to it. Right?
+Lindsey
+: Anyway, let’s just take it as a blessing. You’re a happy warrior, so thanks for coming on the show. It was a very fun talk, and I really appreciate it.
+Chait
+: Thanks, Brink. I’ve enjoyed it tremendously.

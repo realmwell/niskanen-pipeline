@@ -4,7 +4,7 @@ import AnthropicBedrock from "@anthropic-ai/bedrock-sdk";
 import dotenv from "dotenv";
 import { fileURLToPath } from "url";
 import { dirname, resolve } from "path";
-import { fetchArticleText, runAgentPipeline } from "./pipeline.js";
+import { fetchArticleText, runAgentPipeline, regenerateSingleFormat } from "./pipeline.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -14,14 +14,16 @@ dotenv.config({ path: resolve(__dirname, "../../.env") });
 
 const app = express();
 app.use(cors());
-app.use(express.json());
+app.use(express.json({ limit: "5mb" }));
 
 // Uses AWS credentials from ~/.aws/credentials (standard credential chain)
 const client = new AnthropicBedrock({
   awsRegion: process.env.AWS_DEFAULT_REGION || "us-east-1",
 });
 
-const BEDROCK_MODEL = process.env.SONNET_MODEL_ID || "us.anthropic.claude-3-5-haiku-20241022-v1:0";
+// Dynamic model routing: Haiku for analysis agents, Sonnet for content writer
+const ANALYSIS_MODEL = process.env.BEDROCK_MODEL_ID || "us.anthropic.claude-3-5-haiku-20241022-v1:0";
+const WRITER_MODEL = process.env.SONNET_MODEL_ID || "us.anthropic.claude-sonnet-4-20250514-v1:0";
 const TAVILY_API_KEY = process.env.TAVILY_API_KEY || "";
 
 /* ------------------------------------------------------------------
@@ -50,10 +52,11 @@ app.post("/api/generate", async (req, res) => {
     );
 
     console.log("[pipeline] Running 5-agent pipeline...");
-    console.log(`[pipeline] Model: ${BEDROCK_MODEL}`);
+    console.log(`[pipeline] Analysis model: ${ANALYSIS_MODEL}`);
+    console.log(`[pipeline] Writer model: ${WRITER_MODEL}`);
     console.log(`[pipeline] Tavily: ${TAVILY_API_KEY ? "configured" : "not configured"}`);
 
-    const result = await runAgentPipeline(client, BEDROCK_MODEL, TAVILY_API_KEY, article);
+    const result = await runAgentPipeline(client, ANALYSIS_MODEL, WRITER_MODEL, TAVILY_API_KEY, article);
 
     const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
     console.log(`[pipeline] Done in ${elapsed}s`);
@@ -93,6 +96,28 @@ app.get("/api/status/:id", (req, res) => {
 });
 
 /* ------------------------------------------------------------------
+   Regenerate a single format (HITL reject flow)
+   ------------------------------------------------------------------ */
+
+app.post("/api/regenerate", async (req, res) => {
+  const { formatKey, article, research, audience, facts, style } = req.body;
+  if (!formatKey || !article) {
+    return res.status(400).json({ error: "formatKey and article are required" });
+  }
+
+  try {
+    console.log(`[pipeline] Regenerating format: ${formatKey}`);
+    const result = await regenerateSingleFormat(
+      client, WRITER_MODEL, article, research, audience, facts, style, formatKey
+    );
+    res.json({ success: true, content: result });
+  } catch (err) {
+    console.error(`[pipeline] Regenerate error: ${err.message}`);
+    res.status(500).json({ error: err.message });
+  }
+});
+
+/* ------------------------------------------------------------------
    Health check
    ------------------------------------------------------------------ */
 
@@ -100,15 +125,17 @@ app.get("/api/health", (req, res) => {
   res.json({
     status: "ok",
     backend: "bedrock",
-    model: BEDROCK_MODEL,
+    analysis_model: ANALYSIS_MODEL,
+    writer_model: WRITER_MODEL,
     region: process.env.AWS_DEFAULT_REGION || "us-east-1",
     agents: ["research_analyst", "audience_mapper", "citation_checker", "style_analyst", "content_writer"],
     tavily: TAVILY_API_KEY ? "configured" : "not_configured",
+    langsmith: process.env.LANGSMITH_API_KEY ? "configured" : "not_configured",
   });
 });
 
 /* ------------------------------------------------------------------
-   Evals endpoints — LangSmith proxy + AI assessment
+   Evals endpoints -- LangSmith proxy + AI assessment
    ------------------------------------------------------------------ */
 
 const LANGSMITH_API_KEY = process.env.LANGSMITH_API_KEY || "";
@@ -121,7 +148,7 @@ function langsmithHeaders() {
   };
 }
 
-// GET /api/traces — list recent pipeline runs
+// GET /api/traces -- list recent pipeline runs
 app.get("/api/traces", async (req, res) => {
   if (!LANGSMITH_API_KEY) {
     return res.status(503).json({ error: "LangSmith API key not configured" });
@@ -164,13 +191,12 @@ app.get("/api/traces", async (req, res) => {
   }
 });
 
-// GET /api/traces/:runId — trace detail with child spans
+// GET /api/traces/:runId -- trace detail with child spans
 app.get("/api/traces/:runId", async (req, res) => {
   if (!LANGSMITH_API_KEY) {
     return res.status(503).json({ error: "LangSmith API key not configured" });
   }
   try {
-    // Fetch the root run
     const rootResp = await fetch(`${LANGSMITH_BASE}/runs/${req.params.runId}`, {
       headers: langsmithHeaders(),
     });
@@ -180,7 +206,6 @@ app.get("/api/traces/:runId", async (req, res) => {
     }
     const root = await rootResp.json();
 
-    // Fetch child runs
     const childResp = await fetch(`${LANGSMITH_BASE}/runs/query`, {
       method: "POST",
       headers: langsmithHeaders(),
@@ -209,7 +234,7 @@ app.get("/api/traces/:runId", async (req, res) => {
   }
 });
 
-// GET /api/evals — evaluation results from the eval project
+// GET /api/evals -- evaluation results from the eval project
 app.get("/api/evals", async (req, res) => {
   if (!LANGSMITH_API_KEY) {
     return res.status(503).json({ error: "LangSmith API key not configured" });
@@ -233,7 +258,7 @@ app.get("/api/evals", async (req, res) => {
   }
 });
 
-// POST /api/annotate — store feedback in LangSmith
+// POST /api/annotate -- store feedback in LangSmith
 app.post("/api/annotate", async (req, res) => {
   if (!LANGSMITH_API_KEY) {
     return res.status(503).json({ error: "LangSmith API key not configured" });
@@ -256,11 +281,10 @@ app.post("/api/annotate", async (req, res) => {
   }
 });
 
-// POST /api/assess — AI-generated assessment via Bedrock
+// POST /api/assess -- AI-generated assessment via Bedrock
 app.post("/api/assess", async (req, res) => {
   const { traceData, annotations, timeRange } = req.body;
 
-  // Validate that traceData actually contains runs before sending to Claude
   const runs = traceData?.runs || [];
   if (!traceData || traceData.error || runs.length === 0) {
     return res.status(400).json({
@@ -297,12 +321,11 @@ Return ONLY valid JSON.`;
 
   try {
     const resp = await client.messages.create({
-      model: BEDROCK_MODEL,
+      model: ANALYSIS_MODEL,
       max_tokens: 2000,
       messages: [{ role: "user", content: prompt }],
     });
     const text = resp.content[0]?.text || "{}";
-    // Try to parse as JSON
     const jsonMatch = text.match(/\{[\s\S]*\}/);
     const assessment = jsonMatch ? JSON.parse(jsonMatch[0]) : { raw: text };
     res.json({ assessment });
@@ -319,7 +342,8 @@ const PORT = process.env.BACKEND_PORT || 3002;
 app.listen(PORT, () => {
   console.log(`[backend] Running on http://localhost:${PORT}`);
   console.log(`[backend] Using AWS Bedrock (${process.env.AWS_DEFAULT_REGION || "us-east-1"})`);
-  console.log(`[backend] Model: ${BEDROCK_MODEL}`);
+  console.log(`[backend] Analysis model: ${ANALYSIS_MODEL}`);
+  console.log(`[backend] Writer model: ${WRITER_MODEL}`);
   console.log(`[backend] Tavily: ${TAVILY_API_KEY ? "configured" : "not configured"}`);
   console.log(`[backend] Agents: research_analyst, audience_mapper, citation_checker, style_analyst, content_writer`);
 });

@@ -1,0 +1,68 @@
+TITLE: Can the SPEED Act break transmission gridlock? We put it to the test.
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/can-the-speed-act-break-transmission-gridlock-we-put-it-to-the-test/
+WORDS: 1141
+
+Mounting frustration over the sluggish pace of energy infrastructure development amid surging demand is casting new attention on how project permitting will shape the nation’s ability to maintain grid reliability, sustain rapid AI-driven growth, and keep energy affordable for consumers.
+In response to calls for reform, lawmakers in Congress are rolling out a wave of new proposals to break through the permitting gridlock once and for all. One is the Standardizing Permitting and Expediting Economic Development Act (
+SPEED Act
+), introduced by Representatives Bruce Westerman and Jared Golden. The bill would revise the
+National Environmental Policy Act
+(NEPA) to exempt more projects from undergoing time-consuming and costly environmental review and limit the role of cooperating agencies. To accelerate court challenges, it would trim the authority of courts to overturn agency decisions and sharply limit the time in which opponents can challenge a project.
+A truly reliable and affordable energy future depends on a permitting system that is both standardized and streamlined. Yet whether the SPEED Act would actually deliver on its promise to “speed” development remains an open question. The saga of the TransWest Express (TWE)  transmission line, which Utah Governor Spencer Cox
+frequently spotlights
+, offers a telling case study in the obstacles that many transmission projects continue to face, and the need for greater standardization.
+TransWest Express: A case study
+TWE is a
+high-voltage direct current
+transmission line that will eventually
+span four western states
+. It began the permitting process in 2007 and didn’t receive final approvals until 16 years later, in
+2023
+. While this timeline is unacceptable, it is
+not unusual
+for long-haul transmission projects.
+Ironically, TWE was “
+fast-tracked
+” by the Federal Permitting Improvement Steering Council. Spanning multiple jurisdictions, wildlife habitats, and vast stretches of federal land, the project ultimately became a victim of the very process that was meant to help it progress quickly. Its drawn-out timeline reflects the inability of current permitting processes and safeguards to handle complex projects in a reasonably expedited manner.
+In TWE’s journey toward final approval, two factors stood out that prolonged the timeline: 1) a lack of coordination among the many local, state, and federal entities along the project route; and 2) litigation. Applying the SPEED Act’s proposals to both of these elements offers insight into whether or not they could have meaningfully shortened the permitting timeline for TWE.
+Coordination between jurisdictions
+For infrastructure projects on federal land, the highest hurdle is often completing a NEPA environmental review; TWE’s involved 49 entities and took
+six years
+to complete.
+While the SPEED Act would expand exemptions from NEPA review, these would primarily apply to projects that have already undergone environmental assessment under comparable federal, state, or tribal laws, such as the California Environmental Quality Act. These new carve-outs would very likely not have applied to TWE.
+The Wyoming Bureau of Land Management and the Western Area Power Administration
+jointly led
+the NEPA process for TWE. A
+retrospective analysis
+of the process showed that years’ worth of regular weekly and monthly meetings failed to resolve disagreements among the parties or move the project forward. The project’s developers
+attributed
+this to a lack of timely decision making and unclear decision-making authority among the coordinating entities.
+Reforms codified in the
+2023 Fiscal Responsibility Act
+could have influenced the decision-making hierarchy for TWE by mandating that only one agency lead the NEPA analysis. Going a step further, the SPEED Act would mandate agencies contributing to a NEPA review could only weigh in on issues directly tied to their responsibilities and areas of expertise. This would have removed some redundancies, but likely would not have had an impact on the sheer number of agencies involved. This is because the SPEED Act would not put a cap on the number of agencies that can participate; involvement is predicated on the placement of the project route.
+Litigation
+The SPEED Act would limit not only which parties can contest a NEPA analysis in court, but would also compress the time in which lawsuits must be brought and resolved. It would require potential plaintiffs to submit comments during relevant opportunities while agencies complete an environmental review, and would limit a lawsuit to the issues raised in the comments. These conditions are meant to stymie what the bill’s co-sponsors characterize as
+“frivolous litigation”
+brought by groups without a direct connection to the project or proposed route.
+However, in the case of TWE, it was the developer, not an opponent of the project, who brought the litigation that stalled the project. In 2019,
+TWE sued
+the Natural Resources Conservation Service, a part of the U.S. Department of Agriculture, over a Colorado conservation easement that barred the landowner from selling property directly in the proposed path of the transmission line. The parties took four years to
+resolve
+the lawsuit.
+The SPEED Act likely would not have protected TWE from this delay since the legislation centers on preventing legal actions that arise from disputes over a project’s environmental review itself, which was not a factor in TWE’s lawsuit. And although the SPEED Act would allow instances in which a court could overturn an agency decision, it could only do so if an agency
+“abused its substantial discretion”
+in complying with NEPA, which was also a nonissue here.
+That’s not to say other transmission projects wouldn’t have benefited from the SPEED Act’s litigation provisions. For example, the
+Cardinal Hickory Creek
+transmission line fell victim to a series of NEPA-related legal challenges after the project’s environmental review
+was finalized
+in January of 2020. Since the initial lawsuit was brought
+10 months later
+, the SPEED Act’s
+150-day deadline
+for filing challenges after a final NEPA decision would have prevented the case from being brought at all.
+The bottom line
+The TWE case suggests that the SPEED Act, while a meaningful attempt to streamline NEPA, would not have substantially shortened the project’s 16-year permitting timeline. Reforms under the Fiscal Responsibility Act have already eased many of the coordination issues that slowed the project, and the SPEED Act’s tighter agency limits would have likely offered only marginal gains. Likewise, because the key litigation challenge did not stem directly from a NEPA dispute, the SPEED Act’s judicial reforms would not have changed the outcome.
+However, transmission projects are not monolithic. How they progress is often heavily dependent on the project specifications as well as proper community engagement. In other cases in which these elements are more fraught, the SPEED Act may have delivered more cogent improvements to the progression of the project.
+While the SPEED Act could lead to incremental improvements in the timeline for certain projects, it is not a silver bullet to completely transform permitting processes. The underlying challenges of jurisdictional overlap, land use conflicts, and stakeholder disputes will likely persist without a standardized and streamlined federal siting and permitting process for transmission.

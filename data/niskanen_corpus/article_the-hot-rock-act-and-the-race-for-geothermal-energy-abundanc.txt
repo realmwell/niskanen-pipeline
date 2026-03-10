@@ -1,0 +1,48 @@
+TITLE: The Hot Rock Act and the race for geothermal energy abundance
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/the-hot-rock-act-and-the-race-for-geothermal-energy-abundance/
+WORDS: 771
+
+Geothermal policy is once again catching up to geothermal ambition, with major gains in energy abundance on the cusp of a breakthrough from new technologies being pioneered in the Western U.S. Whether they succeed will depend in part on whether startup companies can break through market-entry barriers. A new House bill, aptly dubbed the Hot Rock Act, could be the boost to make it happen.
+Introduced by Reps. Jake Auchincloss (D–Mass.) and Mark Amodei (R–Nev.), the Hot Rock Act (H.R.7568) injects both fresh ideas for new geothermal technologies and important benefits for those with longer track records. The bill is a sign that Congress is serious about leading America to the next frontier of the energy beneath our feet.
+Geothermal technology and policy: A brief tour
+“Superhot rock geothermal,” as it’s known, is the third wave of technology aimed at accessing the virtually unlimited supply of carbon-free energy encased in rock just beneath the Earth’s surface. Conventional geothermal technology draws heat from water that flows through underground channels to generate electricity at the surface. Geothermal power plants today generate approximately 4 gigawatts of clean electricity that way. It’s a substantial amount of power, but it’s a miniscule fraction of the potential, in part because there’s a limited number of underground channels and reservoirs and they’re hard to find.
+Startup Zanskar
+is using AI to locate otherwise hidden fields.
+The leading geothermal startups are developing engineered geothermal sources, also called next-generation geothermal. Companies such as
+Fervo
+and
+Eavor
+are simplifying the exploratory stage by engineering the subsurface to create the conditions for heat transfer to a fluid that can then generate power. By freeing the industry from dependence on naturally occurring reservoirs, these technologies would vastly expand electricity production potential. That’s because the heat source — the Earth’s interior — exists everywhere. It only needs to be accessed.
+Superhot rock geothermal harvests heat at 400 degrees Celsius, surpassing the critical temperature and pressure of water, and potentially unlocking up to 10 times more energy production per geothermal well. This approach could
+cut per megawatt-hour costs in half
+compared with conventional technology and boost market uptake. But the field is still early; more testing is needed for projects at these extreme temperatures. Texas-based
+Mazama Energy
+is an example startup pushing the superhot frontier.
+Federal policy catalyzed this promising new industry. Bipartisan bills such as the Energy Act of 2020 and the Infrastructure Investment and Jobs Act
+provided dedicated geothermal funding
+. And both the Inflation Reduction Act and the One Big Beautiful Bill Act included
+geothermal tax credits
+to reduce cost premiums while the technology matures. Along with research and innovation at the Department of Energy’s Frontier Observatory for Research in Geothermal Energy (
+FORGE
+) testing site in Utah, these policies have helped entrepreneurs develop projects and work together to advance a new industry.
+The Department of Energy’s FORGE initiative field site in Milford, Utah.
+Photo credit: FORGE.
+Now a next wave of enabling policy is needed to help unlock our energy future. As
+Niskanen analysis
+has shown, critical permitting reforms should be coupled with additional policy such as R&D support and financial tools.
+Enter the Hot Rock
+The new Hot Rock Act introduced by Representatives Auchincloss and Amodei would support geothermal workforce development and permitting streamlining, with specific benefits to superhot technology development through dedicated funding. The superhot-specific provisions include:
+grant programs for research and power production with superhot geothermal technology
+funding to establish a field laboratory for studying superhot tech (similar to FORGE for next-gen tech)
+technical assistance for permitting agencies reviewing superhot projects
+As a standalone geothermal bill, the Hot Rock Act recognizes the breadth of needs to commercialize the new technology. A more comprehensive approach would fill a key gap in current policy proposals, making this legislation an important step forward. It’s also a welcome addition to the geothermal legislation proposals pending in the 119th Congress.
+Late last year,
+nine geothermal bills
+discussed at a House Natural Resources subcommittee hearing drew support from both Republicans and Democrats, affirming ongoing bipartisan enthusiasm for these technologies. The bills address a critical area in need of improvement: geothermal permitting and leasing. Modest
+cross-technology packages of R&D and financial tools
+that have been suggested in the public policy literature would round out the legislative effort.
+We should pursue all avenues of new geothermal potential, and superhot deserves a seat at the table to help America build its next era of firm, domestic energy supply.
+The Hot Rock Act,
+H.R.7568, was introduced on Feb. 13, 2026, and was referred to
+the Committees on Science, Space, and Technology; Natural Resources; and Education and Workforce.

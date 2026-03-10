@@ -1,0 +1,134 @@
+TITLE: New census data: A true picture of America’s housing stock
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/new-census-data-a-true-picture-of-americas-housing-stock/
+WORDS: 2711
+
+For decades, policymakers, researchers, and the public have struggled to answer what seems a simple question: How many homes are cities permitting?
+In Los Angeles, for example, the
+federal building permit survey suggests
+that the state has issued around 15,000 housing permits annually in recent years. But California’s own Department of Housing and Community Development (HCD)
+tells a different story
+: closer to 20,000. This 30 percent gap isn’t merely a statistical quirk; it represents thousands of permits that don’t appear in our national housing data. These omissions make California’s ambitious reforms to legalize accessory dwelling units seem ineffective when other data suggests they are actually starting to work.
+As this example illustrates
+, policymakers, researchers, and the public have been operating on limited or incorrect information in the ongoing effort to expand America’s housing supply. The primary tool used to examine housing growth, the Census Bureau’s
+Building Permits Survey
+(BPS), has long been known to be an incomplete and often misleading measure given uneven local response rates. However, a little-known program from the Census Bureau’s Geography Division is now offering the most accurate, timely, and granular data on the nation’s housing stock ever made publicly available.
+The Census Bureau began releasing data from the program, known as the
+Address Count Listing Files, in
+January 2023. Data for
+2020, 2023, 2024, and 2025
+are now available. The program remained mostly under the radar until a
+recent demo video
+brought it to wider attention, largely because its creators did not realize the immense appetite for this data beyond local governments preparing for the decennial census.
+These files, which the bureau is now publishing every six months, are derived from the bureau’s Master Address File (MAF), the comprehensive, confidential list of every housing unit in the country. This public data offers a near-real-time snapshot of housing units down to the census block level, creating precise housing unit totals for any jurisdiction — from a sub-county municipality to an entire state.
+This granularity promises to dramatically improve housing policy transparency, research, and implementation. This new data fundamentally changes the possibilities for state and federal housing policy, enabling a more direct and results-oriented approach to encouraging housing growth. The federal government cannot reward jurisdictions with housing production incentives, nor can state governments penalize jurisdictions for violating state housing production laws, if those governments do not know how many houses have been produced in fine detail. For the first time, we have a reliable, frequent, and granular tool to measure what matters: the net change in our housing supply. This opens the door for smarter policy at all levels of government.
+Why our old data tools fall short
+Understanding the limitations of our old tools is key to appreciating the leap forward the availability of this data represents. The Census Bureau’s Residential Building Permit Survey (BPS) has been the most widely used metric for housing production, but it was never designed to be comprehensive. Its intent was to pick up the macroeconomic impacts of ground-up new housing construction. As the
+Census Bureau’s own documentation
+notes, it intentionally and systematically excludes whole categories of housing production that are critical to understanding supply dynamics in modern cities.
+Specifically, homes created through the alteration, addition, or conversion of existing structures are missing from the count. An accessory dwelling unit (ADU) converted from a basement or garage won’t be counted. Neither will a large single-family rowhouse subdivided into multiple apartments or condos. All the urban office-to-residential conversions — recently a
+major narrative focus
+in urban revitalization — are also left out of the BPS.
+This data gap creates real policy consequences — and real gaps in the public and research conversations on the results of reform efforts. In the federal BPS data, for example, California’s ambitious reforms to legalize accessory dwelling units and encourage infill development
+mistakenly appear to have had little or no effect
+: ADU legalization, the biggest single reform success in California to date, can’t be measured by data that excludes ADU conversions. This frustrates efforts to evaluate policy, reward pro-housing jurisdictions, and build political momentum for further reforms.
+Other public data sources come with statistical, rather than substantive, limitations for tracking annual local housing production. While major Census data sources like the American Housing Survey and the American Community Survey (ACS) draw their informational strength from the same continuously updated Master Address File, they are still
+sample surveys
+. For most municipalities below the county level, the margins of error on their housing unit estimates are larger than the typical 0 percent to 2 percent actual annual changes in a jurisdiction’s housing stock. In fact, 90 percent of jurisdictions have grown their housing stocks by less than 2 percent annually since 2020, and the U.S. as a whole has
+grown its housing stock by less than 1 percent annually since 2010
+.
+This statistical imprecision makes it impossible to confidently determine if a city’s housing stock actually grew or shrank in a given year. For smaller jurisdictions, the ACS problem is worse: only five-year rolling average data is available, which obscures year-to-year changes that are vital to understanding the impact of changes in housing policy.
+California’s ambitious but incomplete workaround
+Faced with these shortcomings in federal data, some states have tried to build their own systems. California’s Department of Housing and Community Development, for instance, has spent significant
+resources
+forming a high-capacity state housing agency with over 1,000 employees and responsibility for overseeing a complex data system that requires all local governments to report housing permits and their annual progress complying with state housing law.
+While a commendable effort, this approach is a heavy lift that smaller states may struggle to replicate. California’s own
+2022 Housing Data Strategy
+acknowledges these challenges, noting that many local jurisdictions submit “incomplete or inaccurate data” and that the state must invest heavily to “build capacity” for better reporting.
+Even California’s sophisticated system struggles with its most critical challenge: calculating the
+net
+change in housing stock. This reflects a national problem, as the primary federal source for detailed data on housing losses, the
+Components of Inventory Change (CINCH) survey
+, is designed to be reliable only at the national and large metropolitan levels. This has created a data vacuum for local policymakers that in some places is decades-long: The Census Bureau ceased collecting demolition data
+in 1995
+, and
+curtailed collection of other data in 2006
+because of “low response rates and significant data quality issues.”
+In California, this flaw in the measuring net production manifests in the state’s Regional Housing Needs Allocation (RHNA) framework. Despite state laws like the
+Housing Crisis Act of 2019
+that aim to replace demolished units, the underlying data reporting remains a challenge. The state’s own data strategy admits that its requirement for local governments to report only on “net-new” units “has caused confusion for jurisdictions” and makes it difficult to validate data against other sources.
+This accounting confusion also makes it impossible to evaluate the true net change in housing stock from the state’s own data. Not even the highest-capacity state housing agency in the country, though it has developed a strong reporting pipeline for gross new construction, can measure housing production net of demolitions at the local level.
+A new era of clarity: the address count listing
+The new Address Count Listing Files data from the Census Bureau’s Geography Division solves most of these problems. By providing a direct count of housing units from its Master Address File every six months, the bureau empowers researchers and policymakers alike to track the change in the total housing stock over time all the way down to the census block.
+It’s important to understand what this new data represents. It is not a direct measure of “
+housing completions
+” as defined by the Census Bureau’s Survey of Construction. Rather, it tracks when a housing unit’s address makes it onto the federal government’s master list. A developer typically registers new addresses with the U.S. Postal Service as a project nears completion, and the Census Bureau then cleans and integrates these updates.
+While this means that there is a short lag from physical completion to an address appearing in the data, it is a far more accurate proxy for
+new, habitable supply
+than either building permits, which can predate completion by years (and do not always complete), or the ACS. This approach implicitly captures
+net
+production — the combined result of all new construction, conversions, additions, and, crucially, demolitions.
+The quality of this new data is unparalleled because it’s based on multiple, reinforcing sources that the Census Bureau has been honing for years. The MAF is the ultimate,
+highly protected
+“ground truth” for
+administering all Census Bureau programs
+. Its primary sources include:
+The USPS:
+The foundational layer is the USPS address list. The Census Bureau holds this data in the highest regard because it is continuously vetted by postal employees who are physically on the ground every day delivering mail. When address data from other sources conflicts with USPS data, the bureau generally favors the USPS record, as it is the agency ultimately responsible for ensuring census forms reach the correct mailbox.
+Local governments:
+Submissions from state and local governments through the
+Local Update of Census Addresses (LUCA)
+program provide another crucial layer of information and a vital feedback loop.
+Commercial parcel data:
+More recently, the Census Bureau has begun using data from at least two different private parcel vendors. This augments its geospatial address mapping, allowing the bureau to connect addresses to specific building shapes and parcels, which vastly improves the accuracy of the data.
+The bureau has thus far found that there are diminishing returns to adding sources beyond these, as local governments often send the same data batches to LUCA, the private parcel vendors, and the USPS.
+Built-in quality control and continuous improvement
+The system is also designed for continuous improvement. The LUCA program is already an established workflow for local governments to submit corrections in the event of a data disagreement. While most governments have engaged with LUCA primarily for the decennial census, the infrastructure is in place for more frequent updates. If state or federal funding begins to rely on this more frequent data, local governments will have a strong incentive to ensure its accuracy, creating a virtuous cycle of data quality.
+This new level of MAF transparency provides a powerful co-benefit. Because the MAF is the sampling frame for the decennial census, the American Community Survey, and everything that relies on them, its accuracy is of paramount national importance. If wider use of this new data reveals errors in the initial data releases, it would be a co-benefit, not a problem: It would serve as an ongoing quality control and improvement mechanism for the nation’s core data infrastructure. An accurate census — and thus an accurate Master Address File — is not merely a statutory or policy goal, it is one of the few federal activities specifically required by the Constitution.
+Crucially for researchers and policymakers, this new data product has cleared the bureau’s Disclosure Review Board and is not subject to any
+differential privacy masking
+. This means it does not jeopardize any important privacy interests, and that we are getting the actual data essential for accurate analysis without privacy tradeoffs.
+Strengthening federal incentives, state housing law, and local knowledge
+A growing number of states have passed laws that either mandate or incentivize local housing production, but they have been hampered by a lack of reliable data. The Address Count Listing Files data provides a solid foundation for these programs.
+For states with mandates, like California’s
+RHNA
+or Massachusetts’
+MBTA Communities Act
+, this new data allows for robust monitoring and enforcement. States can now track the actual net change in housing units. This gives enforcement mechanisms like
+California’s “builder’s remedy”
+real teeth, based on outcomes rather than promises.
+For states with incentive programs, like New York’s
+Pro-Housing Communities Program
+, the Address Count Listing Files data ensures that rewards are tied to real results. This data can be used to create a “payment rail” for intergovernmental transfers, directly addressing the “fiscal zoning” dilemma articulated by
+economist William Fischel
+in which land use regulations are used to enhance the local tax base. While fiscal zoning does not explain all restrictive local zoning, as argued in the Niskanen Center’s “
+An Agenda for Abundant Housing
+,” the concept must be
+taken seriously, if not literally
+by housing thinkers and policymakers.
+Even if fiscal anxieties are often used as a pretext
+to block housing
+, the fiscal theory of zoning is not wholly implausible. If services do not scale with growth, a political backlash is inevitable. By providing what are essentially per-home impact fees from a higher level of government, Congress and state legislatures could ensure that pro-housing reforms don’t trigger a legitimate fiscal or quality-of-life backlash, aligning local incentives with the national need for more housing.
+Broader implications across the housing ecosystem
+Beyond state-level policy, this data empowers other key actors in ways that could accelerate housing production nationwide:
+Local governments can finally evaluate the real-world impact of their zoning reforms with a level of precision and timeliness that was previously unattainable, without having to build bespoke data systems like California’s. A city that changes its zoning to allow duplexes can now track every six months whether those changes are actually producing new housing units (though of course construction can take several years to complete after a rezoning occurs and a permit is issued). This creates a feedback loop that allows for rapid policy iteration and improvement.
+Researchers also now have a treasure trove of high-quality, longitudinal data to study housing markets, test the effects of different policies, and provide a much clearer evidence base for the
+housing abundance agenda
+. The ability to track housing production at the census block level opens up new research possibilities, from studying the hyperlocal effects of zoning changes to understanding how housing production varies within neighborhoods. In June 2025, the Census Bureau published a full, methodological white paper on the address maintenance procedures, including details on and the history of its
+Master Address File/Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) System
+underlying the new Address Count Listings data.
+Congress and federal agencies can now design and implement housing programs with reliable, outcomes-oriented precision. Instead of relying on outdated or incomplete data, lawmakers can directly provide infrastructure funding for housing production and agencies can target resources to areas where housing production is lagging and measure the effectiveness of their interventions in near real-time. Indeed Niskanen’s housing team,
+in collaboration with Mercatus Center and Harvard University Professor Edward Glaeser
+, helped Senators John Kennedy (R-LA) and Elizabeth Warren (D-MA) develop the first bipartisan legislation to leverage this new data source: the
+Build Now Act
+within the
+ROAD to Housing legislative package
+that just passed the Senate.
+The path forward
+With this powerful new data from the Census Bureau, we can finally measure our housing supply accurately. Informed by the
+detailed methodological white paper
+this summer, state governments, Congress, and executive branch agencies can begin using this data for measurement, research, incentives, and even the enforcement of state housing laws. California can now backstop its existing investment in state-level housing data collection with state-of-the-art federal data. States formerly daunted by the need to invest at Californian scale in data infrastructure now enjoy access to special tabulations from the best housing data platform our nation has to offer: The master dataset upon which all other Census surveys and federal programs rely.
+In the longer term, policymakers should still look for ways to improve the Building Permit Survey. Housing permits are often issued years before a project completes. Visibility into this “pipeline” of likely future production would provide the most immediate signal of a land use reform’s
+likely
+future success in expanding the housing stock, even though the final count of actual net production rests with the new data source.
+The housing crisis has persisted in part because we haven’t been able to measure our progress accurately. With the Census Bureau’s Address Count Listing File data, that excuse is gone. Now the question is whether policymakers will use this powerful new tool to finally build the housing America needs.

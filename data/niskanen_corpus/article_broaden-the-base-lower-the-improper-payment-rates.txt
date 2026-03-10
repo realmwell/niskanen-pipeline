@@ -1,0 +1,60 @@
+TITLE: Broaden the base, lower the (improper payment) rates
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/broaden-the-base-lower-the-improper-payment-rates/
+WORDS: 1488
+
+After years of deliberation, a
+bipartisan consensus
+is coalescing on the need for Congress to help states protect their Unemployment Insurance (UI) programs against improper payments and outright fraud, which cost the federal government, states, and taxpayers an estimated $135 billion during the COVID-19 pandemic alone.
+Past federal efforts to support program modernization have centered on one-off bursts of funds while the value of the appropriations for program administration has steadily eroded. State UI agencies have made productive use of occasional supplemental funding, but agencies
+cannot substitute
+those limited resources for more robust annual allocations for program administration. Adjusted for inflation, the administrative funding that UI agencies plan their fiscal years around is
+one-third
+smaller than two decades ago, hampering their capacity to assist workers.
+An effective reform package would focus on
+fixing
+how UI administration is
+funded
+and establish new program guardrails. Congress can ensure that state UI agencies make use of more federal revenue raised specifically for program administration while offsetting past administrative funding lost to inflation. Ensuring better application of
+existing data
+will also help enhance program integrity and accessibility, and the impact of new technology to verify claims and accelerate payments.
+One of the biggest unresolved questions is arguably how Congress should pay for administrative upgrades in a fiscally sustainable manner. Lawmakers don’t need to look beyond the UI system itself to find the necessary revenue.
+New estimates
+from the Yale Budget Lab present several straightforward options for updating the taxable wage base of the Federal Unemployment Tax (known as FUTA) to finance program integrity reforms.
+Decades of declining federal support for UI administration
+FUTA is a 6 percent federal tax that employers pay that applies to the FUTA taxable wage base. Congress set the FUTA taxable wage base equal to the first $7,000 of each employee’s wages in 1983, and hasn’t changed it since then. In states with a UI taxable wage base equal to or above the federal FUTA base, employers can claim a 5.4 percent credit against FUTA. All states have a taxable wage base that meets the FUTA standard, but most are much broader now. As a result, employers typically pay an effective tax rate of 0.6 percent, or $42 per employee making $7,000 or more. FUTA revenue is used to fund program administration and cover the federal government’s cost share of
+Extended Benefits
+, additional benefit weeks activated in periods of high unemployment.
+Unlike other parts of the tax code that adjust for inflation or wage growth, the FUTA wage base has remained unchanged at $7,000 since 1983. If it had been adjusted for inflation at that time, the FUTA wage base would be $23,188 today. The real value of FUTA revenue has steadily declined due to the stagnant wage base, severely restricting the amount of funding raised specifically for program administration and making it more difficult for UI agencies to invest in their program integrity. Back in 1983, the FUTA tax raised around $12 billion (in today’s dollars) while annual
+FUTA revenue
+has sat in the $6 billion to $7 billion range of late. Raising and indexing the FUTA wage base would offset past erosion and help establish a consistent real value moving forward.
+Small tweaks can make a big difference
+To understand the net impact of wage base reforms, we asked The Yale Budget Lab to model how much more revenue could be raised by adjusting different dimensions of the FUTA wage base. The Budget Lab made revenue projections for nominal adjustments to the wage base – i.e., simply increasing the taxable amount from $7,000 to a higher figure. It then ran scenarios where those wage base increases were indexed for inflation and for wage growth over time. Table 1 shows the full range of scenarios.
+Under current law, the FUTA tax is expected to generate $64 billion over 10 years, according to the Budget Lab. At the lower end of Budget Lab’s scored reforms, setting the FUTA wage base at $8,000 would raise an additional $6 billion between 2026 and 2035. Raising the FUTA wage base to $8,000 and indexing for inflation would generate an additional $11 billion over the next 10 years. Raising the wage base to $8,000 and indexing for wage growth instead of inflation would generate an additional $16 billion over the same period.
+At the higher end of options, raising the wage base to $14,000 without any indexing would generate $44 billion between 2026 and 2035. Raising the base to $14,000 and indexing for inflation would bring in $52 billion over the same period. Adopting a $14,000 wage base and indexing for wage growth would raise $59 billion more in revenue in the next decade.
+Table 1. Estimated 10-Year Budgetary Effects, CY2026-35
+To put the proposed increases in greater perspective, moving the wage base up to $8,000 without indexing — the smallest FUTA reform scored the Budget Lab assessed — would result in 9 percent more revenue than what is raised from the current $7,000 wage base. Raising the wage base up to $14,000 and indexing for wage growth – the biggest FUTA reform scored – would result in an 92% increase in revenue relative to what is expected with the current $7,000 wage base.
+It is critical that Congress opts for one of the indexed reforms in order to avoid the same pitfalls experienced now with FUTA. Since the FUTA wage base was last updated, its real value has dropped by around 70 percent: As the cost of living and wages has gone up, the amount raised for administration has dramatically lagged behind. Indexing ensures that the FUTA wage base maintains its value over time. By stopping the deterioration of the FUTA revenue stream, Congress can ensure that periods of high inflation do not undermine any reforms to how UI administration is funded. This way, state UI agencies can expect more reliable funding and be better equipped to protect program integrity and American workers.
+Impact on states would be limited — but positive
+Raising and indexing the FUTA wage base would serve another financial purpose as well. Congress would be able to reestablish a proper wage base floor and nudge states toward lower state unemployment tax rates. Importantly, state legislatures would maintain full discretion over the tax rates tied to their state UI wage bases and could still determine how much employers contribute overall.
+When Congress first established the $7,000 floor,
+over half
+of the states had to raise their own unemployment program’s wage base. The larger federal wage base ensured that more states followed
+standard
+best
+tax practice and raised enough revenue to cover the cost of their benefit outlays without overrelying on higher tax rates.
+Over four decades later, the federal wage base is outdated. Forty-six states plus Washington, D.C.,
+have independently raised
+their state unemployment taxable wage bases above the $7,000 FUTA baseline. The median state UI taxable wage base now sits at around
+$14,000
+, the top wage base level that the Budget Lab ran revenue projections on for FUTA.
+However, a subset of states continues to rely on excessively narrow wage bases given their programs’ costs. These lagging states have become too reliant on higher average UI tax rates, generate inadequate program revenue, and are more likely to face solvency issues.
+In practice, only a small number of states would need to make immediate adjustments (see Table 2). Five states — Arkansas, California, Florida, Tennessee, and Louisiana — would need to immediately adjust their own UI wage bases if Congress raised the FUTA wage base to $8,000 and indexed it to either inflation or wage growth. Alabama, Arizona, and Virginia would need to adjust their wage bases soon after as well since their wage bases currently sit at $8,000. Most other states would not be affected for years to come.
+Table 2. States with unemployment taxable wage bases closest to $7,000
+In states with healthy UI
+trust fund
+balances, lawmakers could lower their state unemployment tax rates to collect similar revenue levels after indexation. In contrast, states with systems prone to insolvency — such as
+California
+— could expand their taxable wage base without altering their tax rate schedule. These are state decisions under federal law.
+An opportunity to stabilize the system
+After decades of underinvestment, updating and indexing the FUTA wage base is a practical step to cover the cost of administrative upgrades designed to improve program performance. The Yale Budget Lab has shown that modest improvements to the FUTA wage base can generate billions of dollars in additional revenue over the next decade to fortify the nation’s unemployment insurance system. By restoring the real value of the FUTA wage base to the level seen even a few years ago and tying it to inflation or wage growth, Congress can put UI administration on a stable fiscal footing and give states the resources they need to deliver benefits efficiently and securely to qualifying American workers.

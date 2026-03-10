@@ -1,0 +1,61 @@
+TITLE: Permitting reform is back, and here’s how Congress can get it done this time
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/permitting-reform-is-back-and-heres-how-congress-can-get-it-done-this-time/
+WORDS: 757
+
+Permitting reform has reemerged as a priority in the 119th Congress as lawmakers seek to address the gap between stagnant energy supply and surging demand that is pushing
+prices higher
+. Today’s permitting processes are not streamlined, and reform has long eluded lawmakers seeking to cut red tape for new critical infrastructure builds. Negotiations on the
+Energy Permitting Reform Act
+(EPRA) got close to a deal, but
+collapsed
+toward the end of the 118th Congress.
+Despite the deepening partisan divisions that have led to a shutdown of the federal government, lawmakers still have an opportunity to score a trifecta of energy-related reforms that would promote
+clean-firm generation
+, common sense updates to the National Environmental Policy Act (NEPA), and streamline permitting for nationally significant transmission lines. To stick the landing, new legislation must rest on bipartisan support, which is already emerging with the release of the
+Problem Solvers Caucus’
+permitting reform framework
+.
+Federal siting for nationally significant transmission lines is essential
+One factor fueling reform is the relentless demand that Artificial intelligence (AI) is making on the power grid. The
+Trump
+administration, like the
+Biden
+White House before it, has emphasized the importance of AI to America’s future economic vitality. The Trump administration’s recent
+AI Action Plan
+points to the “increasing pressures on the grid” and calls for strategies that will “enhance and expand the power grid.” This will require addressing one of the most glaring shortcomings in current policy: the lack of permitting parity between pipelines and transmission lines.
+While interstate natural gas pipelines benefit from federal siting authority under the Natural Gas Act, transmission projects must navigate a patchwork of state and local approvals, a process in which a single actor can block progress on
+nationally significant projects
+. Legislation, therefore, should provide simple and clear thresholds to prioritize high-voltage, interstate transmission while avoiding unnecessary complexities like cost allocation. Targeted direct federal siting authority for these kinds of transmission lines is essential for achieving energy dominance and should be the cornerstone of any new permitting reform legislation.
+Interregional planning
+directives a
+re still essential
+EPRA sought to kickstart an interregional transmission planning rule that would have
+required
+“neighboring transmission planning regions to jointly plan with each other.” The Energy Systems Integration Group (ESIG), a nonprofit that supports grid transformation and energy systems integration, backed the
+benefits of power transfers
+between
+regional neighbors. It noted that “if there are plenty of surplus resources in a region but insufficient transmission capability, then expanding a region’s transmission capability can unlock important resilience benefits for neighboring grids.” However, a recent congressionally mandated study by the
+North American Electric Reliability Corporation
+found that there is a
+35 gigawatt deficit
+in available transmission lines to do the job. Congress should reintroduce interregional planning requirements to close this gap, while keeping in mind cost implications on important stakeholders like
+publicly owned utilities
+.
+Support for certain generation technologies continues to be strong
+Alongside essential parity measures, new permitting legislation should support emerging clean-firm technologies such as
+geothermal energy
+, which enjoys broad
+bipartisan
+support. Many of ERPA’s geothermal provisions were drawn from earlier, targeted legislation. They included reforms like dedicated lease sales for geothermal exploration and the extension of oil and gas categorical exclusions to geothermal projects. These policies remain relevant and free of partisan friction, and they deserve to be included in any new permitting package.
+NEPA needs reform
+Republicans in Congress have long prioritized changes to NEPA, but as frustrations mount over the lengthy approval timelines for projects,
+some Democrats
+are also beginning to view NEPA changes as essential. A sign of this growing bipartisan interest in Congress is the recently formed
+Build America Caucus
+, which supports NEPA reform as a means to accelerate the building of energy assets, affordable housing, and other critical infrastructure projects.
+Targeted changes to NEPA should not only address
+drawn-out legal challenges
+, but should also address the often long timelines to complete analyses and eliminate unnecessary studies to ensure that critical infrastructure is approved and built quickly.
+It’s time to finish the job
+Permitting reform is one of the few energy issues on which bipartisan agreement remains within reach. Congress has a clear opportunity to leverage this political confluence and craft durable, targeted legislation that addresses persistent roadblocks without reopening ideological fights. By focusing on high-voltage transmission parity and planning, emerging clean-firm solutions that can increase energy generation, and updates to NEPA, lawmakers can deliver a permitting package that works. With the policy groundwork already laid, it’s time to finish the job.

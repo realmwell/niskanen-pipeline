@@ -1,0 +1,47 @@
+TITLE: How HVDC transmission can keep Texas independent and resilient
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/how-hvdc-transmission-can-keep-texas-independent-and-resilient/
+WORDS: 988
+
+The U.S. electric grid’s structure is the product of both regulation and engineering constraints. It is a common misconception that the grid operates as a single network across the contiguous U.S., when in fact there are three separate grids, or “interconnects,” that operate somewhat independently from one another. While the Western and Eastern Interconnects each encompass many states, the Electric Reliability Council of Texas (ERCOT) serves only a portion of one state: Texas.
+Texas’ intrastate-only grid means that ERCOT’s duties are somewhat simpler than those of other regional grid operators, who need to contend with Federal Energy Regulatory Commission (FERC) regulation and balance the priorities of several states. This unique arrangement has shaped Texas’ energy landscape for decades, while also leaving it vulnerable to reliability failures that have proved both deadly and costly. Blackouts due to recent severe weather events have highlighted the system’s serious reliability shortcomings.
+Beyond legal and political differences, ERCOT’s separation from its neighbors reflects how the nation’s grids operate electrically. Each interconnect must carefully coordinate the timing of electricity flowing through its system, and even tiny differences in that timing make connections between grids far more complex than they might appear. Today, high-voltage direct current (HVDC) transmission technology offers a way to bridge these electrically independent grids. A closer look at how these “asynchronous” operations work shows why it matters for the future of the ERCOT grid and for America’s energy future.
+How Texas’ grid became an island
+Texas’ separation from neighboring grids has
+deep historical roots
+. In the mid-20th century, passage of the Public Utility Holding Company Act of 1935 and revisions to the Federal Power Act prompted many Texas utilities to sever interstate ties to avoid federal regulation. Although those rules were briefly relaxed during the
+Second World War
+to encourage power sharing, Texas utilities abandoned most connections afterward. ERCOT was established in 1970 to manage the reliability of what to this day
+remains a largely islanded
+grid.
+In the decades after the war, various studies proposed links between Texas and its neighbors, all of which did not materialize. The technical and institutional simplicity of the ERCOT grid became a feature of its operation and was a largely accepted tradeoff for preserving state authority over the power system. In 2021, Winter Storm Uri shattered the status quo. The scale of the crisis exposed the human and economic costs of remaining electrically islanded.
+The interconnection argument
+Winter Storm Uri brought three days of record snowfall and plunging temperature across Texas,
+causing
+widespread blackouts that led to over 200 deaths and billions of dollars in damages. Without robust interstate connections, ERCOT could not import the backup power it needed to avert these tragic outcomes. In response to the storm, Representative Greg Casar (D-TX) introduced
+legislation
+to require interconnections between ERCOT and neighboring grids, but the proposal faced strong opposition from other Texas lawmakers concerned about triggering federal oversight. The
+backlash
+underscored the need to balance interconnection with state control of the power grid. HVDC can help achieve that balance.
+Why HVDC technology can unite interconnects
+Achieving greater interconnection without sacrificing state control hinges on a technical distinction that is often overlooked. The Western, Eastern, and ERCOT grids each run on a timing of 60 cycles per second, meaning that the electricity oscillates 60 times per second as it flows. However, each interconnect’s cycle is slightly out of sync with the other two, so they are never at the exact same point at the exact same time. Such fractional differences make linking any two of the grids with traditional alternating current (AC) transmission an extremely difficult engineering task.
+What makes HVDC transmission the natural choice to link the three interconnects is its ability to operate
+asynchronously
+: HVDC lines can connect systems whose electrical timings are not perfectly aligned by acting as a buffer between grids rather than forcing them to operate in lockstep. Power is converted from AC to DC before it is transmitted, then converted back to AC at the other end. Because this process is controlled by converter stations, operators can move electricity between grids even if their electrical cycles don’t match.
+A tale of two projects: Maintaining independence for ERCOT
+Two transmission developers have sought FERC approval to connect asynchronous HVDC projects to ERCOT, but only one has been approved. The different outcomes hinged on Section 201(b) of the Federal Power Act, which establishes federal jurisdiction over interstate transmission and wholesale power sales.
+In 2014, FERC
+concluded
+that the proposed Southern Spirit HVDC line, then called Southern Cross, connecting ERCOT to the Eastern Interconnection would not trigger federal jurisdiction under 201(b). Because the two AC grids would remain asynchronous, linked only through controllable converter stations with scheduled power transfers, FERC didn’t consider ERCOT utilities to be transmitting electricity in interstate commerce, preserving their exemption from federal oversight.
+By contrast, the proposed but never constructed Tres Amigas project would have
+linked
+all three interconnects through an HVDC hub and exempt
+all
+HVDC ties to ERCOT from FERC authority. FERC
+rejected
+that request, finding that the hub would have effectively integrated ERCOT into interstate commerce by enabling multiregional power flows and market interaction, despite HVDC’s asynchronous operation. These two outcomes reveal that regulation hasn’t caught up with technology.
+Unlocking regionwide benefits
+Texas’ status as an
+energy powerhouse
+means that HVDC connections could deliver benefits both to the state and to its neighbors. More HVDC transmission would not only allow Texas to share its vast resources in times of surplus, but would also allow ERCOT to access potentially life-saving surplus generation from neighboring systems during its own emergencies.
+FERC could take the first step toward clearly outlining the technical, logistical, and design characteristics an HVDC line must have to avoid triggering Section 201(b) jurisdiction. By defining the conditions under which asynchronous HVDC links preserve ERCOT’s intrastate status, policymakers could enable greater resilience and market efficiency without reopening the long-settled question of federal control.

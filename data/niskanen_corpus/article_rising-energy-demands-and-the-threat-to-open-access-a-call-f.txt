@@ -1,0 +1,64 @@
+TITLE: Rising energy demands and the threat to open access: A call for market-based solutions
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/rising-energy-demands-and-the-threat-to-open-access-a-call-for-market-based-solutions/
+WORDS: 898
+
+America’s electric grid is facing a perfect storm: surging demand from data centers, cryptocurrency miners, and re-shored manufacturing is colliding with multi-year delays in connecting new energy projects.
+The pressure on operators and lawmakers to act is intense, but so is the need to preserve
+open access—
+the regulation that has protected energy market competition for nearly three decades by ensuring all projects compete on equal footing for scarce transmission capacity. However, the Federal Energy Regulatory Commission’s
+recent authorization
+of regional plans to green-light certain energy generation resources risks undermining this cornerstone policy.
+Speed and fairness don’t have to be at odds, and states are proving it. Their solutions embrace planning flexibility and high-tech problem solving, offering a model for the nation.
+What is open access, and how does it work?
+The Federal Energy Regulatory Commission (FERC) established open access in 1996 with
+Order 888
+, which requires utilities to provide transmission access to all generators, utility-owned and third-party alike. This prevents utilities from giving their own energy generators preferential treatment over those of another company. Developers must request to connect these new fuel sources to the grid. The utility or regional grid operator then evaluates all proposals through a uniform, non-discriminatory process called the ‘interconnection queue’ before they can be added to the system.
+Historically, this process has operated under a ‘first-come, first-served’ model, meaning that grid operators evaluate the projects in the order they apply. In an iterative improvement,
+FERC recently prescribed
+a ‘first-
+ready
+, first-served’ approach that prioritizes projects that are more advanced in development, i.e., with firm financial backing and land control. Crucially, both models are technology-neutral, allowing both utility-owned and third-party generators of all types to compete on equal footing to secure interconnection.
+However, the approval process can still
+take years
+, resulting in increased costs, project delays, and even cancellations. This has heightened the interest of regulators in improving the process.
+Current legislative fixes aren’t competition-friendly
+Significant lag times in the interconnection queues have exacerbated energy supply and demand imbalances. Many existing proposals, however, risk putting the competition on the wholesale energy market in jeopardy.
+The
+GRID Power Act
+, introduced by Senators Hoeven and Young, would result in priority access to the grid for certain generators, as would a
+companion bill
+in the House. PJM’s
+Reliability Resource Initiative
+(RRI) similarly will allow 51 projects (mainly gas generators) to skip ahead in the interconnection queue. FERC’s approval of this plan has seemingly
+opened the door
+for similar authorizations in the Midwestern and Southern grid regions, compounding the problem. While some FERC Commissioners have attempted to
+rationalize
+PJM’s approach by noting that it is a “one-time emergency measure,” others have
+asserted
+that the proposal “compromises the Commission’s open access principles.”
+Ultimately, these efforts may aim to ensure reliability, but they come at a cost to a growing number of consumers. When decision-makers give certain generators queue priority, they guarantee those projects first access to finite transmission capacity, even if the projects are not the most cost-effective or advanced in development.
+States are forging a fairer path forward
+Rather than favoring certain generators, policymakers should focus on reforms that preserve open access while speeding energy deployment. States are showing leadership on this front, and they’re leaning on demand-side flexibility and improved automation to get it done.
+A recent
+Duke University study
+found that small voluntary curtailments of just 0.25% could enable
+up to 76 GW
+of additional available energy on the grid. To put that number in context, that’s
+roughly twice
+the amount of interregional transfer capacity the North American Electric Reliability Council has claimed that our grid needs. New York’s Independent System Operator has taken notice of the opportunity and recently
+eliminated serious resource adequacy concerns
+by assuming cryptocurrency miners and other loads were inherently flexible.
+The Texas legislature has gone a step further by
+recently empowering
+its public utility commission to condition interconnection approvals on commitments to flexibility to help the Electric Reliability Council of Texas avoid shortfalls in times of extreme demand. Pacific Gas & Electric is
+piloting a similar program
+that moves flexible loads through their interconnection queue faster if they commit to reducing usage during peak demand periods.
+In the absence of federal direction, states may continue to diverge on defining which loads are flexible, and by how much. FERC, in consultation with relevant state and regional entities, should aim to define best management practices for demand-side prioritization.
+Grid operators can also use interconnection automation to dramatically speed up project approval timelines. FERC Commissioner David Rosner
+recently commended
+the Midcontinent Independent System Operator for using advanced software that has reduced the time required to complete an interconnection study from two years to just ten days.
+Continued support
+for this technology with federal grants and other financial incentives will help grid operators to broaden its use.
+Transmission is the long-term fix
+Federal agencies should help set clear rules for identifying and connecting flexible energy users to the grid and support automation to speed up interconnection queue wait times. However, these short-term solutions can only buy time. The best path forward lies in expanding long-distance transmission, which can improve the intermittency of variable sources while ensuring loads can be balanced across a wider area. Policymakers must balance immediate needs with forward-looking investments in transmission capacity to ensure that reliability doesn’t come at the cost of competition in the long term.

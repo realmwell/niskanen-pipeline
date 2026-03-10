@@ -1,0 +1,183 @@
+TITLE: The ROAD to housing: Tim Scott’s housing bill marks a bipartisan breakthrough
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/bipartisan-road-to-housing/
+WORDS: 3780
+
+More than two-thirds of Americans say they are
+“very concerned”
+about the cost of housing, and bipartisan momentum is building in Congress to act. Responding to that urgency, the Senate Banking Committee has unanimously advanced Senator Tim Scott’s (R-SC)
+ROAD to Housing Act
+(Renewing Opportunity in the American Dream to Housing Act), the most significant pro-housing supply legislation in decades. The bill seeks to confront the nation’s affordable housing crisis by reforming what Scott, Ranking Member Elizabeth Warren (D-MA), and their co-sponsors argue are decades of ineffective federal housing policies.
+This sweeping, bipartisan legislative package reflects years of research, advocacy, and coalition-building. It spans the full spectrum of housing needs under direct federal oversight—from homelessness to first-time homeownership—anchored in three core strategies:
+Incentives and technical assistance for local governments:
+The legislation uses federal grants as a “carrot or stick” mechanism to encourage cities and towns to reform their zoning codes and land-use regulations that artificially constrain housing supply.
+Federal regulatory reform:
+This includes streamlining manufactured housing rules by removing the chassis requirement, reducing NEPA environmental review delays for infill housing, and cutting Section 8 bureaucratic hurdles that discourage landlord participation.
+Financing and funding reforms:
+The bill expands access to housing and homeownership through improved small-dollar mortgage rules, higher FHA loan limits for manufactured homes and ADUs, expanded public housing authority flexibility programs, and permanent funding for the Rental Assistance Demonstration program.
+For the first time, the bill weaves together multiple provisions that have each garnered bipartisan support—now united in one coherent package.
+Incentives & technical assistance for local governments:
+Unleashing local action with federal funds
+This package creates a comprehensive pipeline to help communities move from building the capacity to reform local housing policy toward demonstrating improved housing outcomes. It offers technical assistance to help local jurisdictions identify reform opportunities, provides multiple reward pathways for those that achieve measurable housing supply increases while creating targeted consequences for those that refuse to participate. By treating housing, transportation, and community development as interdependent systems rather than separate policy domains, ROAD aligns federal incentives to reinforce—rather than undercut—each other.
+First, the
+Housing Supply Frameworks Act (HSFA)
+component provides
+federal informational resources and technical assistance
+to help communities identify and reform their zoning codes. While a valuable first step in building local capacity, previous analysis found that earlier versions of the proposal
+focused more on technical assistance and on funding planning than on incentivizing concrete action
+. Folded into this broader package, it becomes the entry point to a comprehensive, results-driven system—fully realizing its potential to deliver meaningful housing reform
+Second, this package includes two major measures rewarding local jurisdictions that show progress in addressing the housing crisis: the
+Innovation Fund
+and the
+Build More Housing Near Transit Act
+.
+The
+Innovation Fund
+is a competitive grant program that rewards eligible entities that have demonstrated objective improvement in housing supply growth. Authorized at $200 million annually (indexed to inflation) for five years, the fund is designed to scale and sustain reforms that produce real results.
+The bill gives local leaders broad flexibility in how they can deploy these grant funds. Communities may use them for traditional CDBG-eligible activities, infrastructure projects under the Local and Regional Project Assistance Program, or as matching funds for state clean water and drinking water programs. This flexibility ensures that resources can be directed where they are needed most to support new growth—whether that means upgrading a sewer line, improving a local road, or funding other community development priorities.
+Under this section, a city cannot win a grant simply by writing a good plan; it must show an increase in housing permits or completions. This creates a powerful incentive for local officials to move from talking about reform to actually implementing it. It shifts the federal role from a passive funder of process to an active partner in rewarding success—a more effective use of taxpayer dollars and a directly iterative improvement on the
+“YIMBY grant” concept
+pioneered by the Community Development Block Grant-Pathways to Removing Obstacles to Housing (CDBG-PRO Housing, or CDBG-PRO) program. CDBG-PRO’s legislative sponsors have been exploring options to evolve that program in an outcomes-based direction, and this Innovation Fund does just that.
+The legislation also lays out a clear roadmap for localities aiming to strengthen their competitiveness for these funds. The list of qualifying pro-housing initiatives is a
+catalogue of best practices
+in supply-side reform, including:
+Expanding by-right (“as-of-right”) approvals for duplexes, triplexes, and other “missing middle” housing types.
+Revising or eliminating costly off-street parking requirements.
+Updating zoning codes to allow denser development through less-restrictive lot size, setback, or height requirements.
+Streamlining permitting processes and increasing municipal capacity for code enforcement and plan review.
+Eliminating restrictions on accessory dwelling units (ADUs).
+Removing unnecessary regulations on manufactured housing.
+By tying funding to demonstrated results and offering a clear menu of proven reforms, the Innovation Fund has the potential to become a powerful catalyst for local action nationwide. It also creates near-term incentives: jurisdictions that begin reform now can access new “carrot” funding opportunities, even as the Build Now Act’s CDBG provisions introduce a parallel “stick.”
+The
+Build More Housing Near Transit Act (BMHNTA)
+component is a critical piece of policy integration that finally
+breaks down the artificial silos
+between federal transportation and housing policy. Similar to the intention of the innovation fund, transportation infrastructure investments build capacity to absorb housing growth. However, for decades, taxpayers have funded massively expensive transit projects in cities that then
+refuse to allow the housing growth
+enabled by the investments.
+The BMHNTA corrects this profound misalignment by directing the Department of Transportation to
+give a scoring boost
+in competitive grant applications to transit projects in jurisdictions that have adopted pro-housing policies (similar to those enumerated by the Innovation Fund) along the project route. It uses the powerful “carrot” of federal transit grants to reward communities that embrace transit-oriented development. For more on how this strengthens federal transit investments, see our analysis
+here
+.
+Finally, the inclusion of the bipartisan
+“Build Now Act,”
+championed by Senators John Kennedy and Elizabeth Warren, introduces an innovative, budget-neutral pilot program that smartly leverages the Community Development Block Grant (CDBG) program. We have previously applauded this bill’s
+“even-handed, common-sense approach.”
+It adds one more “carrot”: jurisdictions that perform better than the median may see a financial reward, proportional to their housing production.
+Most importantly, it concretely ties federal infrastructure and housing-related funding to housing production outcomes for the first time. It establishes a pilot program that applies a modest set of carrots and sticks to the highest-cost, most exclusionary jurisdictions—those whose policies create negative externalities for their entire regions—while leaving the existing CDBG structure unchanged for most communities.
+The bill places high-cost jurisdictions into a pool of “covered recipients” where local governments with zoning powers are ranked by how much each has
+improved
+its housing production rate compared to its own past performance. Those below the median improvement rate lose 10% of CDBG funds; the penalty funds then flow to the winners—those above the median covered recipient rate of growth improvement—in proportion to how much housing each winner has allowed to be built. Any high-cost jurisdiction growing more than 4% annually is also automatically added to the winner’s pool. If and when a jurisdiction ceases to be expensive (defined as above-U.S.-median home prices
+and
+high rents relative to other CDBG recipients) then it exits the “covered recipient” incentive pool and simply receives its ordinary CDBG allocation.
+Taken together, these incentive packages form a sophisticated, tiered strategy. The Housing Supply Frameworks Act provides technical assistance and information, but no direct incentives—its role is to highlight best practices for reducing regulatory barriers. The BMHNTA and the Innovation Fund are pure “carrots,” offering positive inducements for good behavior. The “Build Now adds a carefully targeted “stick,” complementing the carrots rather than contradicting them.
+This progression marks the maturation of federal pro-housing policy. It moves beyond encouragement alone to a more assertive posture where necessary, signaling that the federal government will reward pro-housing action while also creating consequences for the worst offenders—all without “commandeering” unrelated funds with no housing policy nexus. Ensuring that “federal dollars chase heads” provides a light-touch way to help communities manage the growing pains of expansion.
+This hybrid model reflects a growing consensus that the
+intransigence of high-cost cities
+, which drives up poverty and stunts economic growth far beyond their borders, can no longer be ignored.
+Federal regulatory reforms
+The bill’s regulatory reforms promote increased flexibility in communities across the urban-rural spectrum. To accomplish this, the bill leverages several key mechanisms, including:
+Modernizing the law defining the national HUD Code rules for manufactured homes to reform the “chassis” requirement
+NEPA “environmental” review reform
+Section 8 (housing voucher) streamlining and paperwork reduction
+HUD Code Chassis Reform:
+Factory-built housing is a growing part of the national housing discussion. Homes made under the national HUD Code rules—which governs a large share of the factory-built housing market—are
+35-73% more affordable
+to build than equivalent site-built units. However, there is still room for improvement. A key provision of the bill proposes HUD Code chassis reform, revising the congressionally established definition of a manufactured home. This change would eliminate the need for a permanent trailer chassis to be an integral part of the home, a requirement in place since 1974. Over time,
+regulatory changes
+and market forces have made HUD Code homes more like
+permanent structures
+and less like trailer-based homes.
+Permanently retaining the “trailer” chassis adds an estimated
+$5,000–$10,000
+to the cost of HUD Code homes. It also constrains design flexibility: for example, adding a second floor becomes impractical, since the extra chassis layer makes the structure heavier and complicates stairway access. Eliminating the chassis requirement will make manufactured homes
+easier to integrate
+into ordinary neighborhoods and
+expand the range of choices
+available to consumers when deciding how to build a home on land they own.
+To implement this reform, the bill requires states to certify that their laws treat chassis-free manufactured homes the same as traditional manufactured homes for financing, titling, insurance, and taxation purposes. States that fail to provide this certification would be prohibited from manufacturing, installing, or selling chassis-free manufactured homes within their borders.
+NEPA reform: Less “green tape” for HUD
+Section 208
+of the bill, the “Unlocking Housing Supply Through Streamlined and Modernized Reviews Act,” recognizes that one of the most significant barriers to affordable housing development is often procedural delay. The bill takes a sensible approach to “right-sizing” the National Environmental Policy Act (NEPA) review process for federally-assisted housing projects. This is not an attack on environmental protection; it is an alignment of America’s housing and environmental goals.
+The legislation directs the Secretary of Housing and Urban Development (HUD) to expand the list of housing-related activities that are exempt from or receive streamlined environmental reviews. These are infill activities that have minimal environmental impact and are often inherently “green”. A lengthy and expensive environmental impact statement for a 10-unit infill project makes little sense when the alternative is 10 single-family homes on septic systems an hour’s drive from job centers. This reform recognizes that the most significant environmental variable is often the location of housing, not the housing itself. By streamlining reviews for small, infill, and transit-adjacent projects, the bill uses procedural reform to achieve a substantive environmental goal: denser, more sustainable development patterns.
+Although the bill’s approach is more modest than proposals for a legislative exemption for multifamily infill NEPA reform at HUD, it is still an improvement over current law. For example, a legislative exemption for all urban infill housing, when compared to a categorical exclusion for the same, would save more staff time and face less litigation risk. But this proposal is still much better than current law.
+Slashing Red Tape, Not Standards: Section 8 Streamlining
+The ROAD Act advances a set of common-sense administrative reforms aimed at cutting the red tape that burdens the Housing Choice Voucher (HCV) program and frustrates landlords and tenants alike. Landlord reluctance to participate in the HCV program is a major barrier to its success, limiting housing choices for low-income families. By streamlining the process, the bill makes landlord participation more attractive and expands choices for the families who rely on vouchers.
+Section 405
+streamlines the program’s cumbersome inspection requirements. It allows a PHA to deem a unit as meeting standards if it has recently passed an inspection for another federal housing program, such as LIHTC or HOME, eliminating duplicative and costly inspections that delay move-ins. It also allows PHAs to pre-inspect units before a tenant has selected them, creating a ready pool of approved apartments, and authorizes the use of remote video inspections in rural areas where travel can be difficult.
+Section 505(d)
+similarly simplifies income verification, enabling a PHA to accept an income calculation that was completed for another federal program within the last 12 months—given that the family’s circumstances have not changed. This reduces paperwork for both tenants and staff, expediting the leasing process and getting families into homes faster.
+Financing and funding reforms: Expanded access to housing and home ownership, expanded flexibilities for Public Housing Authority funding & financing
+The bill’s financing and funding reforms address multiple barriers that limit access to affordable housing and homeownership. To accomplish this, the bill leverages several key mechanisms, including:
+Qualified Mortgage Rule reform to increase access to small-dollar mortgages
+Reforming HUD homebuyer and financial literacy counseling
+Increasing FHA Title I loan limits and expanding ADU eligibility
+Lifting the “Rental Assistance Demonstration” cap on Public Housing Authority conversion of units from Section 9 to Section 8
+A new “Moving to Work” cohort of public housing authorities allowed to waive rigid federal rules for public housing to test flexible local innovations in public housing policy
+Coordinating HUD grants with Opportunity Zones
+Building on the factory‑built housing reforms, the bill tackles a second barrier to entry: the lack of affordable, small‑dollar mortgages.
+Sections 401 and 402
+address the fact that current regulations can make it unprofitable for lenders to originate mortgages under $100,000, cutting off a vital source of financing for starter homes in lower-cost markets. The bill directs the Consumer Financial Protection Bureau (CFPB) to study how loan originator compensation rules affect the availability of these loans and grants the CFPB authority to issue new rules to ensure originators are fairly compensated. It also directs the CFPB to evaluate how points-and-fees caps may be penalizing smaller loans and authorizes rulemaking to adjust these thresholds.
+This rulemaking would revise Regulation Z, the “Qualified Mortgage Rule” (
+12 CFR 1026
+). Regulation Z’s loan officer compensation rules were designed to prevent steering borrowers into risky or high-cost products. However, by flattening compensation without addressing the fixed costs of mortgage origination, the rule has made small loans financially impractical to originate. The challenge now is to maintain strong consumer protections while creating a fee structure that keeps small mortgages viable.
+Finally, the bill invests in evidence-based financial
+counseling
+to raise homebuyers’ literacy, especially in rural areas that have less access to these services. Housing counselors would be evaluated based on the outcomes of their clients. Research shows that counseling steers first‑time buyers toward safer, less costly loans by helping them assess their finances realistically.
+Better-informed
+borrowers tend to
+default less
+, which in turn reduces risk for government‑backed mortgage insurers.
+Financing Manufactured Homes and ADUs: FHA Title I loan limits and ADU eligibility
+The ROAD Act also includes a suite of targeted financing reforms aimed at smaller, more affordable housing types that the conventional market often struggles to serve. The
+Property Improvement and Manufactured Housing Loan Modernization Act
+(
+Sec. 303
+) overhauls the FHA’s long-neglected Title I loan program. The bill dramatically increases loan limits that have been stagnant for years, rendering the program largely irrelevant in today’s market. The explicit inclusion of “construction of additional or accessory dwelling units” as a permissible use is a key change, finally giving homeowners a viable, federally-backed tool to finance the construction of these popular “gentle density” units. Furthermore, requiring HUD to annually index the new loan limits will ensure the program remains current and prevents it from becoming obsolete in the future.
+Flexibility and Opportunity: The New Moving to Work Cohort
+Section 504
+authorizes a new, carefully designed cohort for the
+Moving to Work (MTW) demonstration program
+, which gives high-performing public housing authorities (PHAs) flexibility from certain federal rules to test innovative, locally-designed housing strategies.
+This expansion—the Economic Opportunity and Pathways to Independence Cohort—is a cautious, evidence-based experiment. Participation is capped at 25 smaller and mid-sized PHAs (those administering fewer than 27,000 combined public housing units and vouchers). Unlike the broader MTW program, which permits
+70 waivers in 17 different categories, t
+his cohort is restricted to a pre-approved menu of 52 waivers in 14 categories.
+Notably, the list excludes some of the program’s more controversial waivers related to rent reform and work requirements, focusing instead on policies that promote self-sufficiency, such as allowing PHAs to establish savings or escrow accounts for residents and report positive rental payments to credit bureaus. Rather than authorizing new work requirements, the bill takes a bipartisan middle ground by mandating a study of existing schemes already tested under earlier MTW initiatives.
+Crucially, the legislation maintains core protections, requiring that at least 75% of families served remain very low-income and that agencies continue to assist substantially the same number of families. It also includes robust reporting requirements, directing HUD to collect and publish detailed longitudinal data on tenant outcomes and agency operations. This requirement ensures that both Congress and the public can rigorously assess the impacts of these flexibilities, creating a strong evidence base to guide future policy. In particular, this evidence could assist in factually settling longstanding debates about how to interpret and weigh indications of
+higher income gains and policy measures of self-sufficiency
+among assisted households in MTW agencies against concerns about
+ensuring Section 8 assistance continues to offer flexible housing choices and portability
+. Portability has real social value, but the credit-enhancing power of stable, long-term project-based contracts to
+multiply the impact of each MTW-enabled portable voucher conversion into three deeply affordable new project-based units has social value too
+. Allowing 25 new PHAs to adopt this flexible operating model
+and collect better data on this cohort
+will help PHAs and Congress build on the strengths and mitigate any weaknesses of past PHA cohort innovations.
+Preserving a Critical Resource: Making the Rental Assistance Demonstration Permanent
+Section 201
+makes the Rental Assistance Demonstration (RAD) program permanent—a simple change but with profound impact. RAD is the federal government’s primary tool for addressing the multi-billion-dollar capital needs backlog plaguing the nation’s aging public housing stock. The program works by letting PHAs convert agency-owned and operated public housing units to voucher-based units. This shift matters because RAD-converted units can tap
+outside financing
+—borrowing against future voucher revenue—to fund repairs and upgrades.
+By striking the program’s 2029 sunset date, the bill provides the long-term certainty that PHAs and private investors need to undertake these complex, multi-year recapitalization projects. The bill also strengthens the program by adding new requirements for annual assessments of RAD’s impact on housing preservation and tenants, and by explicitly preserving all existing tenant rights and protections post-conversion. This is a fiscally responsible way to preserve a critical affordable housing resource—leveraging private capital instead of relying solely on direct federal appropriations.
+The bill also strengthens tenant rights by explicitly preserving all existing protections and requiring HUD to annually assess and publish findings on conversion impacts—including effects on tenant displacement, private sector leveraging, and long-term affordability.
+Lifting the RAD cap would allow HUD’s existing
+Restore-Rebuild
+pathway to fulfill its potential for creating new social housing up to the statutory Faircloth Cap. Since 1998, the federal government’s “Faircloth Amendment” has capped the number of public housing units a PHA can operate at the number of units the agency operated in 1999. PHAs that are still below their statutory public-housing caps could use Restore-Rebuild to add new, publicly owned units—then immediately convert them to voucher‑eligible units under an uncapped RAD.
+This would efficiently grow the affordable housing supply—
+especially when paired with MTW waivers
+, for the authorities lucky enough to be allowed to access them—by
+up to 235,000 new “social housing” units
+.
+Opportunity Zone coordination: Harmonizing HUD programs with OZs
+Opportunity Zones
+(OZs)—state‑nominated, Treasury‑certified low‑income census tracts—offer developers federal capital gains tax relief on new structures (land excluded). ROAD would broadly instruct HUD to give OZs additional weight across its competitive grant programs.
+Early evidence suggests OZs already spur substantial housing production for an affordable public subsidy. A
+2025 study
+by the Economic Innovation Group, OZs caused a “large and immediate” increase in housing units after the final rulemaking under the act. The report estimates 312,000 new residential addresses attributable to the law in designated tracts, and the rate of new addresses grew at a faster rate than non-OZ tracts after 2023. Tax expenditures averaged roughly $26,000 per new address.
+The final bill reflects the Niskanen Center’s position on earlier, overbroad OZ coordination proposals that not every HUD grant (e.g. lead paint remediation) has relevance to OZ goals. Instead, it requires HUD to coordinate only those grants directly tied to housing construction, modification, rehabilitation, or preservation—determined by the Secretary.
+Conclusion
+The ROAD to Housing Act is the most comprehensive effort in a generation to confront the roots of America’s affordability crisis. It recognizes the interlocking barriers to housing abundance at every level and takes meaningful first steps to dismantle them. Strikingly bipartisan in both substance and process, the bill’s negotiation reflected a rare return to the Senate’s older tradition of collegial, depolarized problem solving.
+ROAD equips local reformers with a sophisticated mix of federal “carrots” and “sticks”, taking the first steps to dismantle
+“fiscal zoning” excuses for maintaining strict local growth controls
+. It fosters innovation in construction and finance to lower the cost of building new homes, while modernizing the federal housing safety net to make it more nimble, efficient, and effective.
+Its approach aims to make the American dream of homeownership more attainable for millions, while also providing targeted support for those who need it most. No single piece of legislation can solve a crisis that has been decades in the making, but the ROAD to Housing Act lays the essential groundwork. Passage will still depend on winning support from lawmakers in both chambers who have yet to engage deeply with federal housing policy. While support in committee was unanimous, the bipartisan compromises forged by Chairman Scott and Ranking Member Elizabeth Warren remain fragile. Yet this challenge is also an opportunity: a chance to build a durable, cross‑party coalition behind legislation that could prove truly landmark.

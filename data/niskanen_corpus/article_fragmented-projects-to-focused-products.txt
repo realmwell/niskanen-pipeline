@@ -1,0 +1,104 @@
+TITLE: From fragmented projects to focused products — A VA case study in capability-based budgeting
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/fragmented-projects-to-focused-products/
+WORDS: 2480
+
+In the first article of this series, I introduced
+capability-based budgeting
+: aligning funding to outcomes, not just projects. At the Department of Veterans Affairs (VA), we tested this idea against the realities of the federal budget process — rigid cycles, entrenched habits, and layers of oversight. What we learned were hard but valuable lessons on how to realign dollars around enduring capabilities and cut through the procedural bloat that holds agencies back.
+Why VA is a strong use case
+The VA offers a distinctive testing ground for budgeting reform because its IT structure is different from other agencies. In 2008, Congress moved to address the VA’s fragmented and underperforming IT systems by creating the Office of Information and Technology (OIT). This office was granted centralized authority over IT operations, paired with a separate, department-wide IT appropriation. As a result, VA’s CIO holds direct budget authority over IT resources across the entire department and the authority to implement and sustain the necessary structural changes.
+That centralized structure makes VA unique in two key ways:
+Visibility and scale.
+OIT can see the full scope of IT spending and delivery across missions, not just within a single program office.
+Opportunity for reform.
+Because IT dollars are already pooled, VA was able to pilot capability-based budgeting at scale in ways that would be far harder in agencies with distributed IT budgets.
+In short, VA’s appropriation model made it both a natural laboratory and one of the few places where capability-based budgeting could be demonstrated across multiple missions.
+How we started at VA
+When we began exploring a budget realignment focused on outcomes, VA’s IT budget was spread across hundreds of project codes with no consistent definition of what a “project” actually meant. Some codes referred to programs, others to initiatives, individual systems, or even the office that managed them. The result was a patchwork of labels that appeared precise on paper but offered no coherent picture of the department’s actual investments.
+In 2021, as the Portfolio Integration Lead in the Account Management Office, I was responsible for evaluating IT portfolio investments across the organization as part of OIT’s continued adoption of the Capital Planning and Investment Control (CPIC) framework. In that capacity, I served as OIT’s lead for the IT Investment Realignment Working Group, the team charged with delivering the new budget alignment for the FY24 cycle. That effort spanned tens of billions of dollars in IT investments across health, benefits, and enterprise infrastructure over three appropriation years — one of the largest civilian technology portfolios in government — giving me both a front-row view and a direct role in restructuring how VA planned and managed its IT resources.
+From that vantage point, I saw the challenge clearly in the Veterans Benefits Management System (VBMS). VBMS was designed to modernize and consolidate disability claims processing into a single platform, yet multiple legacy systems still carried out parts of the same workflow: verifying discharges, collecting medical records, establishing claims, issuing awards, and disbursing payments. Each had its own funding line and project code, prioritized separately.
+On paper, VBMS modernization appeared to advance because it had a dedicated appropriation. But the funding required to migrate functions off the legacy systems and decommission them was scattered across other budget lines, often displaced by newer requests. The result was uneven progress: VBMS advanced, while legacy systems limped along in parallel, consuming resources year after year just to stay operational.
+By not grouping VBMS and the legacy systems into a single capability with unified funding, the department inadvertently extended the modernization timeline. Money flowed to the new system, but not to the work required to finish the job. Instead of completing the transition, the product line had to keep paying to maintain systems it was trying to replace. In short, modernization was organized by system, not by outcome.
+Breaking that cycle required a new organizing construct. We needed a way to budget around the outcomes VA is always responsible for delivering, not the patchwork of systems or offices. Our first step was to create a list of enduring capabilities — eligibility and enrollment, claims processing, benefits delivery. We then grouped all related systems, modern and legacy alike, into these capability blocks. Instead of asking “how much for System X,” we began asking “how much for claims processing?”
+Why changing budget alignment is hard
+The VBMS case isn’t an anomaly — it reflects the deeper flaws in how the VA IT budget was structured (similar across multiple agencies). Projects were defined inconsistently — by system, program, office, or initiative — turning the budget into a catalog of acquisitions with little relationship to outcomes. This is procedural bloat in practice: rules and labels that create the illusion of control but, in reality, prevent coherent trade-offs or clear results.
+Realigning the budget to capabilities meant cutting through that bloat. And doing so ran straight into three structural barriers:
+The PPBE calendar locks you in.
+The Planning, Programming, Budgeting, and Execution (PPBE) cycle sets budgets years in advance. For example, by August 2025, the FY26 budget is already set and the FY27 request is being finalized for submission to Congress. That means any changes made today would not appear in the budget until FY28 at the earliest. Reform requires patience: at least two to three cycles before results show up on paper.
+Institutional inertia — and myths about the rules.
+The most common pushback was:
+“Congress won’t allow this; they want the current structure.”
+But the
+Clinger–Cohen Act of 1996
+, which established the Capital Planning and Investment Control (CPIC) process, never mandated project-based reporting. Its purpose was accountability for IT investments. OMB’s guidance (Circular A-11 and A-130) requires transparency, but leaves agencies latitude in how they structure and report investments. The obstacle wasn’t law — it was habit.
+Fragmented ownership.
+Every project line had an owner — a program office, a contract, or a team. Grouping them into capability blocks surfaced dependencies and turf concerns. Who “owns” the money when cloud costs, SaaS licenses, and modernization all fall under the same capability?
+These barriers reflect what Jen Pahlka has called the “
+cascade of rigidity
+” in government: overlapping rules and entrenched practices that prevent agencies from adapting even when flexibility is allowed.
+How we made the realignment real
+Once we agreed the old project-code structure wasn’t working, the next step was to demonstrate that a capability-based model could. Rather than rewriting the budget overnight, we created a bridge between the old structure and the new one, allowing stakeholders to see—clearly and concretely—what the shift would mean in practice.
+Modeling the new numbers
+We re-mapped existing projects and systems into capability buckets, illustrating how dollars scattered across dozens of lines could be consolidated into a handful of enduring capabilities. In enrollment, for example, we demonstrated how the systems supporting registration, eligibility verification, the enrollment form, the database, and employee case management could all be rolled up under “eligibility and enrollment.” To build confidence, we presented the data side by side—comparing the old project-based view directly with the proposed capability-based view.
+Running dual books
+Because the budget cycle commits funding years in advance, we had to maintain two sets of books during the transition: the current budget organized by projects, and the future budget organized by capabilities. This dual view allowed us to report accurately against today’s requirements while preparing stakeholders for tomorrow’s structure. It also gave us a way to run “what-if” scenarios. For example, when someone worried a system would disappear in the new model, we could show it was still there — just grouped into a capability with the other systems supporting the same outcome.
+Bringing business and technology together
+We didn’t do the mapping in isolation. Instead, we worked closely with program offices to validate what belonged in each capability. That meant real debates: a system used by both VBA and VHA forced us to decide whether it lived under “eligibility” or “care delivery.” By working through these questions together, business leaders and IT teams built a shared understanding of the enterprise portfolio — and a sense of joint ownership over the new structure.
+Building consensus
+In the end, the process mattered as much as the outcome. By modeling the numbers, maintaining dual books, and validating every capability with both business and IT, we turned a theoretical construct into something tangible and credible. Everyone could see how their work fit into the new alignment, and everyone agreed on what was included in each bucket. That shared ownership was what made the realignment stick.
+What we learned
+Once we grouped by capability, the value became clear:
+Total cost of ownership surfaced.
+For the first time, licensing, cloud costs, operations, modernization, and decommissioning were visible together.
+Example:
+A SaaS licensing increase once blindsided a team and delayed delivery. With capability budgeting, those costs were included from the start.
+Dependencies became visible.
+VBMS couldn’t fully replace legacy systems because migration funds were in a separate bucket. With block funding, those bottlenecks became clear — and solvable.
+Reporting got clearer.
+Instead of cryptic project codes (“System 4B, Line 019”), we could tell Congress:
+“You gave us $40M for enrollment; here’s what changed.”
+That is exactly what Clinger–Cohen’s CPIC framework envisioned: accountability for results, not process compliance.
+Flexibility enabled agility.
+Under the old system, moving more than $1M across projects in a fiscal year required Congressional reprogramming approval. That slowed work to a crawl. With block funding, product owners could make trade-offs in real time without triggering reprogramming approval rules.
+These lessons show why capability-based budgeting is not just a technical reform but a state capacity reform. It creates tighter feedback loops, reduces reliance on procedural workarounds, and builds the infrastructure for accountability.
+The feedback
+From a business perspective, the realignment was eye-opening. In the past, program leaders would see a handful of IT projects funded, a list of requests left unfunded, and assume IT wasn’t prioritizing their needs. What they couldn’t see were the hidden costs required to make a single initiative possible — the infrastructure, migrations, licensing, and operations that had to be funded alongside the visible “new project.” By showing the full picture, capability budgeting revealed why some priorities couldn’t move forward immediately and what the
+true cost
+of completing an initiative really was.
+It also altered the conversation about introducing new initiatives. Previously, new requests were layered on top of ongoing modernizations, creating the impression that they could simply be added if money became available. With the capability view, business leaders could see that piling on more initiatives only divided the pie into thinner slices — leaving every effort underfunded and extending timelines. The alignment forced a reckoning: not everything can be priority one, and spreading resources too thinly meant nothing got finished.
+For Congress and appropriators, the new structure made oversight clearer. Instead of a maze of project names and system codes, they could see how IT funds were supporting the department’s priorities and the areas Congress cared most about. It also helped answer a persistent question:
+“Where does all the IT money go?”
+There had been a perception that VA’s IT budget grew year after year without clear justification. By grouping investments into capabilities, we could show the full cost of operating at VA’s scale — not just system development, but the “utility” costs of infrastructure, operations, and security across one of the largest IT enterprises in government. That visibility reframed the growth of the budget as a reflection of the enterprise’s size and scope, rather than unchecked expansion.
+In short, the realignment helped business leaders understand trade-offs and helped Congress connect dollars to outcomes. It created a shared language for everyone to see what IT dollars were really buying.
+And the timing could not have been better. The shift to capability-based budgeting aligned directly with the new requirements under the
+Cleland–Dole Act of 2022
+, which called for stronger prioritization of VA’s growing portfolio of programs and services. By the time those requirements came into force, VA already had a framework that made prioritization clearer, more transparent, and more grounded in real trade-offs.
+Is VA the only place this could work?
+Some contend that capability-based budgeting is only feasible at the VA—that the department is too unique to serve as a model. It’s true the VA has several unusual features:
+A centralized IT appropriation.
+Unlike most civilian agencies, VA’s CIO controls a separate IT appropriation, giving OIT direct budget authority across the department. The IT dollars of other agencies are scattered across bureaus and programs.
+Scale and breadth.
+VA’s mission spans healthcare, benefits, and memorial services, making cross-cutting capabilities easier to define.
+Congressional history.
+VA was granted centralized IT authority following repeated failures, thereby creating both a mandate and political cover for change.
+A maturing product culture.
+OIT had already begun shifting toward product management, making capability-based budgeting easier to adopt.
+A defined constituency.
+Veterans form a clear customer base, making outcomes easier to tie to funding than in agencies with diffuse populations.
+These critiques are fair. But they are also why VA’s experience matters. If capability-based budgeting can work at one of the largest and most complex civilian agencies, under intense political scrutiny, it proves the model is viable elsewhere.
+And while VA’s centralized appropriation is unusual, the principle doesn’t depend on it. Agencies don’t need a new law to start. OMB’s existing guidance under Clinger–Cohen and Circular A-11 already gives flexibility in how agencies define and report investments. Capability-based budgeting can begin inside a bureau or program, by grouping related investments into a capability block and reporting outcomes at that level.
+In short, VA may have been the only place where capability-based budgeting could be piloted at scale. However, that doesn’t mean it’s the only place it can be effective.
+Conclusion
+My
+previous analysis centered
+on the
+why
+of capability-based budgeting. This article is about the
+how
+. At VA, we tested it, hit resistance, surfaced hidden dependencies, and proved it was possible.
+This is more than an internal budgeting reform. It is part of a larger fight against proceduralism. As the Niskanen Center
+argues
+, government is too often judged on compliance with process rather than delivery of outcomes. Capability-based budgeting enables a shift to clearer accountability, tighter feedback loops, and stronger digital infrastructure — the building blocks of state capacity.
+Clinger–Cohen gave agencies the mandate to manage IT investments responsibly. Cleland–Dole expanded VA’s mission and underscored the need to prioritize wisely. Capability-based budgeting is the bridge between those imperatives: the mechanism that enables agencies to deliver what Congress actually asked for, and what citizens actually need.
+VA may have been a unique testbed, but its lessons are transferable. What worked at the VA can be adapted for use in other contexts — from SSA and HHS to state governments — wherever leaders are ready to transition from fragmented projects to focused products.

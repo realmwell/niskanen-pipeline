@@ -1,0 +1,276 @@
+TITLE: Unlocking HVDC: How Congress can enable a more resilient grid
+FORMAT: article
+SOURCE: https://www.niskanencenter.org/how-congress-can-enable-a-more-resilient-grid/
+WORDS: 5040
+
+Key takeaways
+HVDC transmission has both technical and economic attributes that are appealing across the aisle.
+An HVDC macrogrid can move power efficiently over long distances: Regions experiencing cold snaps or heat waves can avoid blackouts by bringing in power from unimpacted regions.
+Our defense infrastructure is largely reliant on the civilian-managed grid, whose limitations are creating vulnerabilities that threaten national security. HVDC can help close these gaps.
+A macrogrid vision can be implemented gradually with minimal to no taxpayer funding by improving regulatory structures and leveraging existing funds.
+Key terms
+Executive summary
+The demand for reliable and affordable electricity is growing at a pace not seen in
+over four decades
+. Coupled with the impact of extreme weather, this surge in power consumption is pushing our transmission grid to the breaking point — and opening a window for innovative problem-solving. There is no question that any national solution must appeal to a broad range of policymakers. As a cost-effective, pro-market, and national security-enhancing approach to America’s transmission needs, a high voltage direct current (HVDC) grid system, often called a macrogrid, fits the bill.
+HVDC transmission lines offer significant advantages over traditional alternating current (AC) lines. They reduce energy losses and require narrower land corridors, making them ideal for moving power over long distances. As a result, they make the grid more flexible, allowing the full range of fuel sources to be deployed to meet demand surges and mitigate weather-related disruptions. A macrogrid would strengthen our existing electricity system by acting as an interregional superhighway, routing power around bottlenecks in the AC grid.
+Congress can kickstart this vision and remove barriers to interregional HVDC development by:
+Making it easier for merchant developers to connect HVDC lines to the grid.
+Compensating HVDC operators for services that improve the reliability of the overall grid.
+Making federal land available for the build-out of transmission facilities.
+Strengthening the supply chain for transmission components.
+These policy solutions will enable the construction of more standalone HVDC lines, which can later be connected into a macrogrid.
+This new era of global strategic competition will require us to use significantly more energy, but our ability to do so efficiently hinges on how much high-capacity transmission we build. Policymakers have a once-in-a-generation opportunity to change the narrative on this topic from one of division to one of problem-solving on a grand scale by putting us on the path to a macrogrid.
+Download the full PDF here
+Introduction
+The need for reliable and affordable power is surging. Severe weather events routinely batter the nation; meanwhile, near-term forecasts project dramatic increases in energy demand from new markets. Meeting these challenges will be critical to U.S. leadership in artificial intelligence and to the renewal of our domestic manufacturing base. Unfortunately, our aging transmission grid is not prepared for the task. Recently, the North American Electric Reliability Corporation
+concluded
+that 35 additional gigawatts of interregional transmission are needed to keep the lights on reliably. To put that number in context, our nation’s current interregional transfer capacity
+amounts to
+84 gigawatts.
+The most compelling way to upgrade America’s transmission infrastructure to meet these new challenges is with a
+macrogrid:
+An interconnected network of high voltage transmission lines that can move power vast distances with relatively few losses, providing power delivery at a national scale
+.
+A HVDC macrogrid, something like what is shown in Figure 1, would
+not
+replace the existing AC grid or the roles of its utilities and operators. Instead, it would unlock the full potential of our nation’s energy resources by providing an interregional transmission superhighway. Perhaps most importantly, though it is a national solution, it does not require a national plan: It can be built piece by piece, because individual HVDC lines offer benefits on their own.
+Figure 1: Example of a macrogrid
+In this paper, we will discuss the challenges facing the existing grid and the need for more interregional transmission, explain grid technology, clarify the value proposition of HVDC, and outline the policies that get us on the path to a HVDC backbone for a secure and reliable grid.
+Insufficient high-capacity transmission puts the U.S. power supply at risk
+The U.S. has vast and diverse energy resources but struggles to leverage their full potential to provide affordable and reliable power to customers. One key reason for this performance gap is that today’s grid still relies on infrastructure built decades ago, based on the constraints of outdated transmission technology. Electricity systems started small and local, then utilities began cooperating and connecting to improve service delivery. Many of those arrangements were eventually formalized with the creation of organizations that run regional grids spanning multiple states. Yet, the connections between regions remain minimal, posing risks to critical infrastructure, including military installations. Without these connections, regions struggle to meet increasing power demands, ensure the lowest possible costs, and respond to crises.
+Big power users are scrambling
+After years of very low growth, electricity demand is projected to increase dramatically, in large part due to data centers, and utilities are struggling to keep up. Large customers have displayed a high willingness to move to areas best able to guarantee reliable access to power, and in particular
+place significant value
+on locations with strong transmission links. In lieu of such guarantees, these customers are seeking reliability through various arrangements with power sources. These configurations can take many forms, but often involve co-locating facilities near existing
+1
+power plants; in other cases, customers may build or commission new power plants close to their own sites.
+2
+Co-location presents large power users with a solution to their
+number one priority
+– access to affordable and reliable electricity – and underscores the grid’s failure to keep up with growth.
+Prices are rising
+Powerlines, an advocacy group for electricity consumers, has
+highlighted
+that residential electricity prices rose
+30 percent
+from 2021 to 2024 and that
+more than one-third
+of Americans said they limited or went without essentials at least once to afford their utility bills. Long-term demand factors such as the rise of artificial intelligence and data centers, the electrification of transportation and buildings, and industrial growth, combined with supply-side challenges like gas turbine shortages, raise the disturbing prospect that electricity prices could rise even more significantly.
+Transmission lines spanning significant distances can allow a region to reduce operational costs, and therefore consumer costs. The key is to use relatively inexpensive excess power from a more distant location instead of costly local resources (such as “peaker” plants that only turn on when needed). If this substitution can occur on a longer-term basis, one or all of the connected regions may be able to reduce the number of power plants they need to build, thus reducing capital costs that are passed on to ratepayers. The experience of a utility that long stayed out of a regional grid is instructive in this regard. For years, New Orleans-based Entergy Corp. operated its own generation, transmission, and distribution as an integrated company. In December 2013, it joined a regional grid. In 2017, Entergy
+announced
+that its customers saved approximately $286 million between 2014 and 2016, largely crediting “(1) the more efficient dispatch of power plants on the transmission grid, resulting in a lower delivered cost of energy; and (2) reducing the number of power plants that the company must maintain in reserve and have ready to run if needed.”
+Regional grids are vulnerable and cannot build their way out alone
+Regions relying on one or two fuel sources can experience significant failures that impede reliability and increase costs. Notably, the same weather phenomenon can put a large percentage of plants out of service, even when they use different fuels. For example, what Germans call
+Dunkelflauten
+(meaning dark doldrums) can dramatically reduce wind speed as well as solar irradiance. Conventional generators are also
+not immune to significant outages
+: Freezing or flooding can immobilize coal piles across a region at the same time. Drought or high heat can impair fossil and nuclear plants by limiting access to cooling water, and gas pipeline or compressor outages can knock out a large number of gas plants.
+As shown in Figure 2, Energy Information Administration data
+reveals
+that 26 of the 48 contiguous states rely on a single type of energy for 50 percent or more of their electricity mix, often leading to mismatches between energy supply and demand. Utilities themselves acknowledge the problem: Alliant Energy
+observes
+that “reducing dependence on a single source enhances energy security.” High-capacity, interregional transmission would allow these states to diversify their portfolios.
+Figure 2: For 26 states, over 50% of power generated from a single fuel source
+Some policymakers are focused on bolstering the generation side of the grid to enhance reliability. But as the discussion above suggests, simply
+putting off the retirements
+of existing coal and gas-fueled plants or building localized peaker plants in place of retiring units cannot insulate the grid from extreme weather. Winter Storms Uri and Elliott exemplify two recent dramatic failures of gas-fired plants. As the Federal Energy Regulatory Commission (FERC) noted in its
+2021 Staff Report
+on Uri and its aftermath, over half of generator outages were tied to natural gas plants, with most failures occurring due to lack of weatherization and fuel delivery issues. Similarly, PJM Interconnection, the grid operator responsible for a large portion of the East Coast, experienced a failure of its ‘capacity market’ during Winter Storm Elliott. This failure resulted in
+billions of dollars
+in penalties levied on ostensibly available generators whose plants failed to perform, mainly due to weather-related operational issues, including fuel-supply problems. Notably, this failure included
+154 black start generators
+, which are responsible for restarting the grid in the event of a partial or total blackout. As Grid Strategies noted in a
+2023 report
+, PJM customers could have saved tens of millions during the storm if the region had better transmission ties to other parts of the country.
+Military readiness is at stake
+The risk of electricity scarcity is particularly pronounced for the Department of Defense,
+our nation’s largest electricity consumer
+. A 2024 Converge Strategies
+report observed that
+“over 99 percent of Department of Defense bases rely on the commercial electricity grid for power, and the majority of bases also use civilian natural gas, water, wastewater service, and telecommunications infrastructure.” During Winter Storm Uri,
+Stars and Stripes noted
+, “every major DOD installation in Texas experienced some level of disruption to electricity, water or communications service, with 12 out of the 15 bases in the state losing power,” and some installations were
+stuck
+with electric bills of 2,000 to 3,000 percent over average for the month.
+On-base power or local microgrid generation would likely not have completely protected defense installations. Reliance on microgrids in long-term scenarios does not fully insulate defense infrastructure from bulk grid failures, because as
+Converge Strategies notes
+, “military diesel generators, microgrids, and other resilience systems are generally not designed for longer duration power outages.” These microgrids often do not power other civilian utilities that bases rely on, such as sewage treatment or drinking water access. Many bases are located in remote areas with limited access to high-capacity and/or high reliability transmission, leaving few remaining options to improve resiliency.
+Modern HVDC technology offers a new value proposition for reliability and affordability
+Electric power can be transmitted using two types of systems: alternating current (AC) and direct current (DC). Both forms of power were developed around the same time in the late 19th century, and the so-called
+‘War of the Currents’
+that followed determined the makeup of the grid. Eventually, AC power came to dominate the U.S. grid due to its economic advantages, and while it still remains the primary system today, advances in HVDC technology are beginning to shift the balance.
+For much of the 20th century, AC systems were simply cheaper and easier for most applications. However, AC systems experience uneconomical power losses and system instability when transmitting power over long distances, requiring specialized equipment. As electricity systems expanded, utilities needed a better solution to move power long distances. In the 1920s, engineers in Germany invented converter stations, a technology that could connect AC and DC systems. For the first time, utilities were able to transmit large amounts of electricity over long distances using DC lines and integrate that power into the existing AC grid for customer use. However, that advantage had limited use (primarily to move hydropower from dams), because the process to convert power from DC to AC required careful management and an enormous footprint for the necessary equipment.
+This changed in
+1997
+, when Swedish engineers demonstrated the first modern HVDC system using semiconductor-based converter stations. These modern systems offer many benefits: They seamlessly integrate with the AC system, can help restart the grid after blackouts, provide stability to AC grids, and take up substantially less land area than their predecessors. The U.S. built its first such system in
+2000
+, but largely due to regulatory barriers, only five more systems have been built in the 25 years since — even as these converter stations have become the global standard for HVDC lines.
+The value proposition is simple: HVDC technology can move the U.S. towards a more affordable and reliable grid by unlocking the full potential of our existing infrastructure and our diverse energy resources.
+With the use of modern converter stations, independent HVDC lines can be built piecemeal and eventually connected to form a macrogrid. HVDC transmission, coupled with modern converter stations, uniquely meets the emerging needs of the grid.
+HVDC’s long-distance efficiency supports “win-win” power transfers
+When it comes to moving large quantities of power reliably over long distances, a macrogrid with interregional HVDC lines as its foundation is a more effective solution than the existing AC grid alone. HVDC lines have large upfront costs due to the need for expensive converter stations, but have lower capital costs per mile. The per-mile savings begin to pay for the upfront cost at a line length
+above 350 miles
+, according to a study from the Midwest Independent System Operator, summarized in Figure 3.
+Figure 3: Comparison of typical total cost per MW-mile
+This long-distance efficiency can be leveraged to the advantage of power customers in a number of ways: The regions with the highest wind speed and highest solar irradiance are often far removed from the population centers where power consumption is concentrated. Many of these resource-rich regions are not currently near high-capacity transmission lines, and those lines that do exist are often congested. Long-distance HVDC can efficiently connect resource-rich regions to population centers. It also enables the grid to take advantage of geographic diversity in both weather and power demand. For example, while one state may be calm and cloudy, a neighboring state might be sunny and windy. In more extreme cases, if one region is hit by a weather-related outage, HVDC lines can deliver power from unaffected areas. Differences in demand—for example, driven by time zones or temperature variations—can be balanced by transferring power from lower-demand regions to those with greater needs.
+HVDC can connect out-of-sync grids
+Local AC systems grew and connected over time, resulting in three main grid regions in the contiguous U.S.: the Western Interconnection, the Eastern Interconnection, and the Electric Reliability Council of Texas. It is difficult to connect them further to create a national AC grid because they are out-of-sync – the alternating current systems are quite literally alternating differently. HVDC transmission lines can connect and transfer power between out-of-sync systems, allowing these regions to connect and support each other by providing critical power in times of need or low-cost power in times of excess.
+New HVDC systems strengthen the grid
+HVDC lines with modern converter stations can provide
+enhanced
+reliability and resilience for the grid by delivering superior ancillary and capacity services compared to AC lines. “Ancillary services” refers to technology that helps stabilize the grid and help it to prevent or recover from outages. “Capacity services” ensure sufficient capacity to meet future demand by incentivizing generators to stay available to the grid. Today these services are mainly provided by power plants, but operators of HVDC transmission lines could also provide them if regulators allow it.
+HVDC pays for itself
+Several studies indicate that based on energy savings alone, HVDC would more than pay for itself. For example,
+Bloom et al.
+(2020) found interregional HVDC could yield benefit-to-cost ratios of 1.4 to 1.7. Similarly,
+Hurlbut et al.
+(2024) estimated the ratio of energy savings v. HVDC costs for 32 possible U.S. HVDC lines and found that 29 of the 32 had benefit-to-cost ratios of 1.75 or higher. The Department of Energy
+National Transmission Planning Study
+(2024) estimated that the resource-sharing effect across regions would have a 35-year net present value ranging from $190 billion to $360 billion, depending on future demand conditions and HVDC configuration. Estimates from these studies are likely quite conservative, because they (1) assume prices are based solely on production costs, when in fact during shortages prices can rise well above production costs; and (2) do not estimate the value of ancillary and capacity services. In a
+2022 study
+, Grid Strategies used actual prices during extreme weather events — prices that rose far above production costs — to estimate the value of extra interregional transmission. In the most dramatic case, during Winter Storm Uri in Texas in 2021, 1,000 MW of extra transmission would have been paid for in four days.
+HVDC merchant models offer negotiating flexibility with key stakeholders
+Nearly all AC transmission in the U.S. today is owned and operated by regulated utilities who recover costs from consumer electric bills. The public utility commissions that regulate these utilities must approve any new lines they build, including the rate of return they will earn. By contrast, most HVDC lines planned or under consideration in the U.S. today are developed by “merchants” – businesses that largely operate outside these regulatory constraints, and therefore aren’t ratepayer-funded.
+Additionally, because merchant transmission developers finance lines through market-driven private contracts, they do not face institutional oversight from public utility commissions or other organizations. Therefore, if price differences between the endpoints of the proposed line are large, a merchant developer has considerable leeway to negotiate with stakeholders. For example, if a line could be built in both an overhead or buried configuration, a public utility commission might not approve the more expensive buried line, but a merchant might be willing to finance such a line in order to avoid public objections and save time.
+Notable developer-stakeholder arrangements:
+■
+Champlain Hudson Power Express
+– The Champlain Hudson Power Express is a 339-mile buried HVDC line connecting Quebec to New York City. According to one of the line’s co-founders,
+the developers chose
+the more expensive buried line due to expected objections over an overhead line.
+■
+SOO Green
+– This 350-mile planned buried HVDC line running from central Iowa to eastern Illinois was initially planned in the mid-2000’s as an overhead transmission line with Canadian Pacific railroad’s right of way. When Canadian Pacific ultimately refused to grant the right of way for the overhead line due to possible interference with railroad operations, Soo Green
+elected
+for the more expensive buried option.
+■
+Grain Belt Express
+– In
+2014
+, the Grain Belt Express, an 800-mile proposed HVDC transmission line running from western Kansas to the Indiana border, first filed with the Missouri Public Service Commission. By July 2022, still without approval, Grain Belt’s owner, Invenergy,
+announced
+the Missouri converter station would be increased in size from 500 MW to 2,500 MW, and additionally, Invenergy would build a 40-mile HVAC connector line, the “Tiger Connector” to distribute this power. In
+October 2023
+, the Grain Belt Express received final approval from the Missouri Public Service Commission.
+HVDC uses less right of way
+As shown in Figure 4, these DC lines offer the same amount of transfer capacity as AC lines with smaller space requirements. GE Vernova Grid Solutions has
+noted
+that to transmit 6,000 MW of power over 750 miles, a 765 kV AC line would require two overhead line sets and a 500 foot right of way. In contrast, a 500 kV DC line can accomplish the same task with two overhead line sets but only needs a 330 foot right of way. Even more efficiently, a 800 kV DC line can carry the full load using just one overhead line set and a 165 foot right of way. In a large-scale nationwide buildout, this could mean a substantially lower burden on landowners.
+Long-distance HVDC aligns more with vertically integrated utilities’ interests than might be supposed
+Vertically integrated utilities – regulated electric companies that own transmission, distribution, and generation infrastructure – have long had an economic
+incentive to oppose
+long-distance transmission connections. That is because such grid interconnections bring in competing generators, expanding the supply and lowering the price of the power the utility companies produce. Stakeholders such as
+FERC
+,
+large energy buyers
+,
+consumer advocates
+, and
+academics
+have noted that these organizations have often acted to discourage long-distance transmission interconnections. However, the prospect of significant demand growth in the coming decade, coupled with increasingly glaring vulnerabilities of our current system, may be changing these vertically integrated utilities’ logic.
+Figure 4: For the same power transfer, HVDC transmission lines use less right of way
+Utilities have an opportunity to
+drastically boost profits
+by serving the coming wave of new customers in the data center and advanced manufacturing industries, but inadequate grid resources could get in the way. As noted above, more and more data centers are working around the inadequacies of the existing transmission infrastructure by simply setting up shop directly next to power plants, financing new power plants (many of which are not utility-owned), or choosing to locate in regions with the fewest roadblocks to achieving interconnection. That means utilities may not only be cut out of receiving significant generation revenues, but also the transmission and distribution dollars those customers could represent.
+Smart federal reforms can enable private investment
+On our present course, we are at risk of falling behind. New data centers and advanced manufacturers may not be able to procure power easily, foreign competitors could gain an edge, power outages from natural disasters could hit harder, and consumers may face rising energy bills as utilities turn to
+costly, localized fixes
+to make up for a failing grid.
+Build-out of long-distance HVDC transmission is a critical step toward ensuring such scenarios do not come to fruition. To help make our recommendations for congressional action on macrogrid development as effective and feasible as possible, we used several key criteria:
+Limit federal spending.
+Minimize red tape.
+Address common objections from vertically integrated utilities.
+Do not rely on carbon reduction to drive new transmission.
+Thus, we recommend advancing pro-market reforms, modernizing outdated regulations, supporting workforce development for critical manufacturing sectors, and making strategic land use decisions for grid development.
+Compensate HVDC for grid-bolstering services
+Congress can employ two solutions to enable HVDC technology to receive benefits for the reliability and resilience services such lines can provide to the bulk grid, by enabling direct payments for these services and contributing to the financing of new lines through pre-existing federal funding mechanisms:
+Although many grid operators have
+markets
+in place to provide ancillary and capacity services payments to generators and some other grid players, HVDC is
+not currently eligible
+for these payments. Allowing HVDC operators to become eligible for ancillary and capacity payments would contribute significantly toward increasing system reliability and simultaneously boost transmission buildout.
+3
+Congress should compel FERC to take up this important issue.
+Congress has already recognized the grid’s role in national security, by defining “energy resilience” in the
+National Defense Authorization Act
+(NDAA). It could go further to support the role HVDC technology plays in bolstering grid reliability by enabling the Department of Defense to serve as an “anchor tenant” on planned HVDC lines that support one or more military facilities. In addition to direct NDAA funds, Congress can also direct the Department of Defense to use existing grant programs, such as the Defense Community Infrastructure Program and Energy Resilience Conservation Investment Program, to prioritize base access to larger HVDC transmission lines. This could be done primarily by funding the buildout of smaller access lines.
+Improve the grid interconnection process
+Currently, there is
+not a standard national process
+for plugging merchant transmission into the bulk grid – a process known as “interconnection.” Even though virtually all HVDC in the U.S. is developed by merchant companies, they face different procedures for bringing that power online depending on who they must work with. For example, some grid operators (such as PJM)
+treat
+merchant transmission comparably to generators for interconnection purposes. Others, such as California’s Independent System Operator, treat them like utility transmission. Therefore, merchant transmission lines may have different interconnection processes at the line’s two endpoints. Furthermore,
+there is no national, standard pro forma agreement for generation to interconnect with merchant transmission
+, as there is for
+generation to interconnect with the investor-owned utility transmission system
+.
+4
+Congress should compel FERC to engage in rulemaking on these two important grid interconnection topics.
+Enable build-out of interregional transmission facilities on federal land
+Congress should support the use of government-controlled land for HVDC by explicitly authorizing siting of critical transmission infrastructure, including HVDC lines and converter stations. In this vein, the Department of Energy has recently released a
+Request for Information
+that suggests the agency is interested in leveraging certain limited land holdings to site data centers, transmission, and energy generation and storage facilities. We encourage use of other land holdings as well, including areas owned by the Department of Defense.
+Strengthen the supply chain for transmission components
+Components necessary for HVDC transmission are particularly prone to supply chain shortages. This is due not only to their engineering complexity, but also manufacturer anxieties over “investing in the U.S. market, in part, because of higher manufacturing costs, [and] lack of a trained engineering workforce,” according to a
+2024 white paper
+from Johns Hopkins. In fact, none of the world’s
+top seven HVDC cable manufacturers
+are headquartered in the U.S. Converters and other components that are necessary for HVDC transmission lines are also largely made abroad because domestic demand is so low,
+according to
+the Department of Energy. To compound the issue, European-based suppliers typically
+do not have bandwidth
+to fulfill cable orders outside the continent due to high demand there. Hitachi Energy alone has
+noted
+$30 billion in order backlogs.
+But DC technology is not the only victim of manufacturing logjams and shortages. Transformers of all kinds are hard to obtain quickly. On the distribution side, the
+wait time
+for products that step down voltage from transmission to end-user ranges averages two years. The situation for large power transformers is even more dire, with 80 percent of units needing to be imported and wait times averaging up to four years. These units are critical to the operation of the grid regardless of energy source.
+Congress should prioritize major and immediate investments in U.S. manufacturing capacity for power delivery products, especially HVDC components. This will require the availability of a skilled workforce in greater numbers than ever before. The Niskanen Center is
+championing legislation
+to greatly improve the availability of workers who can manufacture these critical products, in particular, by empowering veterans to become trained for these high-paying jobs.
+Conclusion
+A HVDC macrogrid could be our generation’s equivalent of Eisenhower’s visionary interstate highway system. Such an interregional power network holds the key to bolstering the U.S. position in the AI race with China, accelerating our economic growth, and ensuring the American people and their military have access to the power they need. HVDC is the right solution: It is market-driven, especially well-suited to “win-win” power transfers across regions, and endowed with technical features that will improve the controllability and resiliency of our grid. HVDC offers perhaps the most promising path to delivering affordable, reliable energy for all.
+Many thanks to our expert reviewers:
+American Council on Renewable Energy: Kevin O’Rourke and Jonathan Geldof
+Conservative Energy Network: John Szoka and Connor Marley
+Converge Strategies LLC: Jonathon Monken
+Iowa State University: Dr. James McCalley and Abhinav Venkatraman
+Key terms
+Alternating Current (AC) Electricity
+– Most commonly used type of electricity in the U.S., characterized by electrons that constantly oscillate.
+Ancillary Services
+– Supportive attributes that grid components can provide to stabilize the system and help it to recover from outages.
+Black Start
+– The complex process of restarting the grid after partial or complete shutdown, using grid assets that can self-supply energy. Black start is a type of ancillary service.
+Capacity Services
+– Market mechanisms that ensure sufficient capacity to meet future demand by incentivizing generators to stay available to the grid.
+Converter Station
+– A facility that converts DC power to AC power.
+Direct Current (DC) Electricity
+– Type of electricity that is rarely used in the U.S. today, but is common in Asia and Europe, characterized by electrons that flow in one direction.
+Macrogrid
+– An interconnected network of high voltage transmission lines that can efficiently move power vast distances with relatively few losses, providing power delivery at a national scale.
+Microgrid
+– A small, localized electricity system that can connect to the main power grid but also can operate on its own.
+Right of Way
+– Corridor that utility or transportation infrastructure passes through with consent of any relevant owner.
+Footnotes
+Such as the
+proposed co-location
+of Talen’s Susquehanna nuclear plant and an Amazon data center.
+↩︎
+Some energy consumers are increasingly contemplating new plants that would not be connected to the grid at all. For example, Google recently
+announced
+it would buy power for planned data centers to be co-located in energy parks built by Intersect Power, Exxon also recently announced its
+plans
+to build a natural-gas fired plant with carbon capture to directly serve data centers.
+↩︎
+Invenergy has
+proposed
+FERC hold a Technical Conference on mechanisms for allowing payment for grid support services to merchant HVDC transmission.
+↩︎
+Invenergy, a merchant transmission company,
+has proposed
+both a standard national process and a standard pro forma agreement for merchant transmission as part of a larger request to FERC.
+↩︎
