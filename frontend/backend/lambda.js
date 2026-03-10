@@ -233,6 +233,14 @@ export async function handler(event) {
           order: "desc",
         }),
       });
+      if (!resp.ok) {
+        const errText = await resp.text().catch(() => "Unknown error");
+        return {
+          statusCode: resp.status,
+          headers: { ...corsHeaders(origin), "Content-Type": "application/json" },
+          body: JSON.stringify({ error: `LangSmith API error (${resp.status}): ${errText.slice(0, 200)}` }),
+        };
+      }
       const data = await resp.json();
       const runs = (data.runs || data || []).map((r) => ({
         run_id: r.id,
@@ -276,6 +284,14 @@ export async function handler(event) {
       const rootResp = await fetch(`${LANGSMITH_BASE}/runs/${runId}`, {
         headers: langsmithHeaders(),
       });
+      if (!rootResp.ok) {
+        const errText = await rootResp.text().catch(() => "Unknown error");
+        return {
+          statusCode: rootResp.status,
+          headers: { ...corsHeaders(origin), "Content-Type": "application/json" },
+          body: JSON.stringify({ error: `LangSmith API error (${rootResp.status}): ${errText.slice(0, 200)}` }),
+        };
+      }
       const root = await rootResp.json();
 
       const childResp = await fetch(`${LANGSMITH_BASE}/runs/query`, {
@@ -283,6 +299,13 @@ export async function handler(event) {
         headers: langsmithHeaders(),
         body: JSON.stringify({ trace_id: runId, limit: 50 }),
       });
+      if (!childResp.ok) {
+        return {
+          statusCode: 200,
+          headers: { ...corsHeaders(origin), "Content-Type": "application/json" },
+          body: JSON.stringify({ root, children: [] }),
+        };
+      }
       const childData = await childResp.json();
       const children = (childData.runs || childData || []).map((r) => ({
         id: r.id,
@@ -410,6 +433,20 @@ export async function handler(event) {
       };
     }
     const { traceData, annotations, timeRange } = body || {};
+
+    // Validate that traceData actually contains runs before sending to Claude
+    const runs = traceData?.runs || [];
+    if (!traceData || traceData.error || runs.length === 0) {
+      return {
+        statusCode: 400,
+        headers: { ...corsHeaders(origin), "Content-Type": "application/json" },
+        body: JSON.stringify({
+          error: traceData?.error
+            ? `Cannot generate assessment: ${traceData.error}`
+            : "No pipeline runs found. Run the pipeline at least once before generating an assessment.",
+        }),
+      };
+    }
 
     const prompt = `You are an operations analyst for an AI content pipeline. Analyze the following pipeline trace data and annotations, then produce a structured assessment.
 

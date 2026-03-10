@@ -34,6 +34,7 @@ import {
   Loader2,
   Target,
   XCircle,
+  Download,
 } from "lucide-react";
 
 /* ========================================================================== */
@@ -58,6 +59,8 @@ const FORMATS = [
   { key: "congressional_one_pager", label: "One-Pager", limit: null },
   { key: "full_oped", label: "Op-Ed", limit: null },
   { key: "media_outlet_recommendations", label: "Media Recs", limit: null },
+  { key: "instagram_post", label: "Instagram", limit: null },
+  { key: "instagram_story", label: "IG Story", limit: null },
 ];
 
 function measure(text, unit) {
@@ -66,21 +69,27 @@ function measure(text, unit) {
   return text.length;
 }
 
-/* Format complex content fields (one-pager, media recs) for display */
+/* Format complex content fields (one-pager, media recs, Instagram) for display */
 function formatForDisplay(value) {
   if (!value) return "";
   if (typeof value === "string") return value;
 
-  // Congressional one-pager: {title, "The Problem": [...], "The Evidence": [...], ...}
-  if (value.title || value["The Problem"] || value["the_problem"]) {
+  // Congressional one-pager: structured JSON with the_ask, the_problem, etc.
+  if (value.the_ask || value.title || value["The Problem"] || value["the_problem"]) {
     const lines = [];
     const title = value.title || value.Title || "";
     if (title) lines.push(title, "");
 
+    // New structured format with THE ASK
+    if (value.the_ask) {
+      lines.push("THE ASK");
+      lines.push(`  ${value.the_ask}`, "");
+    }
+
     const sections = [
       ["The Problem", value["The Problem"] || value["the_problem"]],
       ["The Evidence", value["The Evidence"] || value["the_evidence"]],
-      ["The Proposal", value["The Proposal"] || value["the_proposal"] || value["Key Recommendations"] || value["key_recommendations"]],
+      ["Key Recommendations", value["The Proposal"] || value["the_proposal"] || value["Key Recommendations"] || value["key_recommendations"]],
     ];
 
     for (const [heading, items] of sections) {
@@ -92,39 +101,64 @@ function formatForDisplay(value) {
     }
 
     const bottom = value["Bottom line:"] || value["bottom_line"] || value["Bottom line"] || "";
-    if (bottom) lines.push(`Bottom line: ${bottom}`);
+    if (bottom) lines.push(`BOTTOM LINE: ${bottom}`, "");
+
+    const contact = value.contact || "";
+    if (contact) lines.push(contact);
     return lines.join("\n");
   }
 
-  // Media outlet recommendations: {PRIMARY TARGETS: [...], SECONDARY TARGETS: [...], ...}
+  // Media outlet recommendations: structured JSON with primary_targets, pitch_angles, etc.
   if (value["PRIMARY TARGETS"] || value["primary_targets"]) {
     const lines = [];
-    const primary = value["PRIMARY TARGETS"] || value["primary_targets"] || [];
-    if (primary.length) {
-      lines.push("PRIMARY TARGETS");
-      for (const item of primary) {
+
+    const formatTargets = (targets, heading) => {
+      if (!targets || !targets.length) return;
+      lines.push(heading);
+      for (const item of targets) {
         if (typeof item === "string") {
           lines.push(`  \u2022 ${item}`);
+        } else if (item.outlet) {
+          lines.push(`  \u2022 ${item.outlet}${item.section ? ` (${item.section})` : ""}`);
+          if (item.beat) lines.push(`    Beat: ${item.beat}`);
+          if (item.pitch_angle) lines.push(`    Angle: ${item.pitch_angle}`);
+          if (item.why) lines.push(`    Why: ${item.why}`);
+          if (item.rationale) lines.push(`    ${item.rationale}`);
         } else {
-          lines.push(`  \u2022 ${item.outlet || item.name}: ${item.rationale || item.reason || ""}`);
+          lines.push(`  \u2022 ${item.name || JSON.stringify(item)}`);
+        }
+      }
+      lines.push("");
+    };
+
+    formatTargets(value["PRIMARY TARGETS"] || value["primary_targets"], "PRIMARY TARGETS");
+    formatTargets(value["SECONDARY TARGETS"] || value["secondary_targets"], "SECONDARY TARGETS");
+
+    // Pitch angles
+    const pitchAngles = value["pitch_angles"] || [];
+    if (pitchAngles.length) {
+      lines.push("PITCH ANGLES");
+      for (const pa of pitchAngles) {
+        if (typeof pa === "string") {
+          lines.push(`  \u2022 ${pa}`);
+        } else {
+          lines.push(`  \u2022 ${pa.angle || pa.suggested_headline || ""}`);
+          if (pa.suggested_headline && pa.angle) lines.push(`    Headline: ${pa.suggested_headline}`);
         }
       }
       lines.push("");
     }
 
-    const secondary = value["SECONDARY TARGETS"] || value["secondary_targets"] || [];
-    if (secondary.length) {
-      lines.push("SECONDARY TARGETS");
-      for (const item of secondary) {
-        if (typeof item === "string") {
-          lines.push(`  \u2022 ${item}`);
-        } else {
-          lines.push(`  \u2022 ${item.outlet || item.name}: ${item.rationale || item.reason || ""}`);
-        }
-      }
+    // Timing hooks
+    const timingHooks = value["timing_hooks"] || value["TIMING"] || value["timing"] || [];
+    if (timingHooks) {
+      lines.push("TIMING HOOKS");
+      const arr = Array.isArray(timingHooks) ? timingHooks : [timingHooks];
+      for (const t of arr) lines.push(`  \u2022 ${t}`);
       lines.push("");
     }
 
+    // Beat reporters (legacy format)
     const beats = value["BEAT REPORTERS"] || value["beat_reporters"] || [];
     if (beats.length || typeof beats === "string") {
       lines.push("BEAT REPORTERS");
@@ -133,8 +167,65 @@ function formatForDisplay(value) {
       lines.push("");
     }
 
-    const timing = value["TIMING"] || value["timing"] || "";
-    if (timing) lines.push(`TIMING: ${timing}`);
+    // Pitch email draft
+    const pitchEmail = value["pitch_email_draft"] || "";
+    if (pitchEmail) {
+      lines.push("PITCH EMAIL DRAFT");
+      lines.push(pitchEmail);
+      lines.push("");
+    }
+
+    return lines.join("\n");
+  }
+
+  // Instagram Post: {visual_description, caption, hashtags, alt_text, cta}
+  if (value.visual_description || value.caption) {
+    const lines = [];
+    if (value.visual_description) {
+      lines.push("VISUAL CONCEPT");
+      lines.push(value.visual_description, "");
+    }
+    if (value.caption) {
+      lines.push("CAPTION");
+      lines.push(value.caption, "");
+    }
+    if (value.hashtags) {
+      lines.push("HASHTAGS");
+      const tags = Array.isArray(value.hashtags) ? value.hashtags.join("  ") : value.hashtags;
+      lines.push(tags, "");
+    }
+    if (value.alt_text) {
+      lines.push("ALT TEXT");
+      lines.push(value.alt_text, "");
+    }
+    if (value.cta) {
+      lines.push("CTA");
+      lines.push(value.cta);
+    }
+    return lines.join("\n");
+  }
+
+  // Instagram Story: {frames, poll_question, link_sticker_text}
+  if (value.frames) {
+    const lines = [];
+    lines.push("STORY SEQUENCE");
+    const frames = Array.isArray(value.frames) ? value.frames : [];
+    frames.forEach((frame, i) => {
+      const typeLabel = (frame.type || "frame").toUpperCase().replace("_", " ");
+      lines.push(`  ${i + 1}. [${typeLabel}]`);
+      if (frame.text) lines.push(`     ${frame.text}`);
+      if (frame.visual_note) lines.push(`     Visual: ${frame.visual_note}`);
+    });
+    lines.push("");
+
+    if (value.poll_question) {
+      lines.push("POLL");
+      lines.push(`  ${value.poll_question}`, "");
+    }
+    if (value.link_sticker_text) {
+      lines.push("LINK STICKER");
+      lines.push(`  ${value.link_sticker_text}`);
+    }
     return lines.join("\n");
   }
 
@@ -329,7 +420,7 @@ function DataFlowDiagram() {
     { label: "Supervisor", detail: "Validate extraction, route pipeline", color: "var(--blue)", dot: "var(--blue)" },
     { label: "Research Analyst", detail: "Thesis, evidence, implications", color: "var(--green)", dot: "var(--green)" },
     { label: "Parallel Agents", detail: "Audience + Citations + Style (concurrent)", color: "var(--amber)", dot: "var(--amber)" },
-    { label: "Content Writer", detail: "Claude Sonnet generates 7 formats", color: "var(--blue)", dot: "var(--blue)" },
+    { label: "Content Writer", detail: "Claude Sonnet generates 9 formats", color: "var(--blue)", dot: "var(--blue)" },
     { label: "Human Review", detail: "Approve, revise, or escalate", color: "var(--teal)", dot: "var(--teal)" },
   ];
 
@@ -384,7 +475,7 @@ function LandingPage({ setPage }) {
           </h1>
           <p className="hero-desc anim-fade-up d2">
             Convert policy research papers into publication-ready content packages
-            across seven formats. Six AI agents analyze, fact-check, match style, and
+            across nine formats. Six AI agents analyze, fact-check, match style, and
             write -- with human review before anything ships.
           </p>
           <div className="hero-buttons anim-fade-up d3">
@@ -420,7 +511,7 @@ function LandingPage({ setPage }) {
       {/* Metrics Row */}
       <section className="metrics-row">
         <div className="metrics-grid">
-          <MetricHighlight value="7" label="Output Formats" sublabel="Tweet to full op-ed" />
+          <MetricHighlight value="9" label="Output Formats" sublabel="Tweet to Instagram story" />
           <MetricHighlight value="6" label="AI Agents" sublabel="Parallel execution" />
           <MetricHighlight value="<$0.05" label="Per Paper" sublabel="Claude API cost" />
           <MetricHighlight value="HITL" label="Human Review" sublabel="Approve before publish" />
@@ -466,7 +557,7 @@ function LandingPage({ setPage }) {
             <FeatureCard
               icon={Pen}
               title="Content Writing"
-              description="Claude Sonnet synthesizes all agent outputs into seven publication-ready formats, respecting fact-check results and audience tone."
+              description="Claude Sonnet synthesizes all agent outputs into nine publication-ready formats, respecting fact-check results and audience tone."
               accentColor="green"
               actionLabel="Try the pipeline"
               onAction={() => setPage("pipeline")}
@@ -697,7 +788,7 @@ function AboutPage() {
             research analyst, audience mapper, citation checker, style agent, and
             content writer. Four of those agents run in parallel via LangGraph's
             fan-out/fan-in pattern. The content writer waits for all four to
-            finish before generating seven output formats.
+            finish before generating nine output formats.
           </p>
           <p style={{ marginBottom: "1rem" }}>
             Human-in-the-loop review is built in using LangGraph's interrupt()
@@ -1191,12 +1282,25 @@ function EvalsPage() {
     setAssessError(null);
     try {
       const traceResp = await fetch(`${API_BASE}/api/traces?limit=50`);
+      if (!traceResp.ok) {
+        const errData = await traceResp.json().catch(() => ({}));
+        throw new Error(errData.error || `Failed to fetch traces (${traceResp.status})`);
+      }
       const traceData = await traceResp.json();
+      // Validate that we actually got runs before sending to assess
+      const runs = traceData?.runs || [];
+      if (runs.length === 0) {
+        throw new Error("No pipeline runs found. Run the pipeline at least once before generating an assessment.");
+      }
       const resp = await fetch(`${API_BASE}/api/assess`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ traceData, timeRange: assessTimeRange }),
       });
+      if (!resp.ok) {
+        const errData = await resp.json().catch(() => ({}));
+        throw new Error(errData.error || `Assessment failed (${resp.status})`);
+      }
       const d = await resp.json();
       setAssessment(d.assessment);
     } catch (e) {
@@ -1608,6 +1712,7 @@ function PipelinePage() {
   const [feedback, setFeedback] = useState("");
   const [errors, setErrors] = useState([]);
   const [decision, setDecision] = useState("");
+  const [articleMeta, setArticleMeta] = useState(null);
 
   const handleSubmit = useCallback(
     (e) => {
@@ -1619,6 +1724,7 @@ function PipelinePage() {
       setContentPackage(null);
       setAgentData(null);
       setAgentTimings(null);
+      setArticleMeta(null);
       setDecision("");
       setFeedback("");
       runPipeline(
@@ -1633,6 +1739,7 @@ function PipelinePage() {
             style_patterns: data.style_patterns,
           });
           setAgentTimings(data.agent_timings);
+          setArticleMeta(data.article || null);
           setContentPackage(data.content);
           setCurrentStep(7);
           setStatus("review");
@@ -1663,6 +1770,49 @@ function PipelinePage() {
       setStatus("done");
     }
   }, []);
+
+  const downloadDocx = useCallback(async () => {
+    if (!contentPackage) return;
+    try {
+      const { Document, Packer, Paragraph, HeadingLevel, TextRun } = await import("docx");
+      const { saveAs } = await import("file-saver");
+
+      const title = articleMeta?.title || "Content Package";
+      const sections = [];
+
+      // Title page
+      sections.push(
+        new Paragraph({ text: title, heading: HeadingLevel.TITLE }),
+        new Paragraph({ text: "" }),
+      );
+      if (articleMeta?.author) {
+        sections.push(new Paragraph({ children: [new TextRun({ text: `Author: ${articleMeta.author}`, italics: true })] }));
+      }
+      sections.push(
+        new Paragraph({ children: [new TextRun({ text: `Generated: ${new Date().toLocaleDateString()}`, italics: true })] }),
+        new Paragraph({ text: "" }),
+      );
+
+      // Each format as a section
+      for (const fmt of FORMATS) {
+        const raw = contentPackage[fmt.key];
+        if (!raw) continue;
+        const displayText = formatForDisplay(raw);
+        sections.push(
+          new Paragraph({ text: fmt.label, heading: HeadingLevel.HEADING_1 }),
+          ...displayText.split("\n").map((line) => new Paragraph({ text: line })),
+          new Paragraph({ text: "" }),
+        );
+      }
+
+      const doc = new Document({ sections: [{ children: sections }] });
+      const blob = await Packer.toBlob(doc);
+      const safeName = title.replace(/[^a-zA-Z0-9 ]/g, "").replace(/\s+/g, "_").slice(0, 50);
+      saveAs(blob, `${safeName}_content_package.docx`);
+    } catch (err) {
+      console.error("Failed to generate .docx:", err);
+    }
+  }, [contentPackage, articleMeta]);
 
   const rawContent = contentPackage?.[activeTab] || "";
   const activeContent = formatForDisplay(rawContent);
@@ -1731,6 +1881,46 @@ function PipelinePage() {
           </div>
         )}
 
+        {/* Content Package — shown first, above agent work */}
+        {contentPackage && (
+          <div className="content-card anim-fade-up">
+            <div className="content-card-header">
+              <h3>Content Package</h3>
+              <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
+                {agentTimings?.content_writer && (
+                  <span className="agent-panel-timing">
+                    <Clock size={12} /> {(agentTimings.content_writer / 1000).toFixed(1)}s
+                  </span>
+                )}
+                <button className="btn btn-sm btn-outline" onClick={downloadDocx} title="Download as .docx">
+                  <Download size={14} /> .docx
+                </button>
+              </div>
+            </div>
+            <div className="tabs">
+              {FORMATS.map((f) => (
+                <button
+                  key={f.key}
+                  className={`tab${activeTab === f.key ? " active" : ""}`}
+                  onClick={() => setActiveTab(f.key)}
+                >
+                  {f.label}
+                </button>
+              ))}
+            </div>
+            <div className="tab-content">
+              <pre>{activeContent}</pre>
+              {count !== null && (
+                <div className={`char-count${isOver ? " over" : ""}`}>
+                  {count} {activeMeta.unit}
+                  {activeMeta.limit && ` / ${activeMeta.limit} limit`}
+                  {isOver && " -- over limit"}
+                </div>
+              )}
+            </div>
+          </div>
+        )}
+
         {/* Agent Work Panels — proof of intermediate agent outputs */}
         {agentData && (
           <div className="agent-panels anim-fade-up">
@@ -1755,41 +1945,6 @@ function PipelinePage() {
               data={agentData.style_patterns}
               timing={agentTimings?.style_analyst}
             />
-          </div>
-        )}
-
-        {/* Content */}
-        {contentPackage && (
-          <div className="content-card anim-fade-up">
-            <div className="content-card-header">
-              <h3>Content Package</h3>
-              {agentTimings?.content_writer && (
-                <span className="agent-panel-timing">
-                  <Clock size={12} /> {(agentTimings.content_writer / 1000).toFixed(1)}s
-                </span>
-              )}
-            </div>
-            <div className="tabs">
-              {FORMATS.map((f) => (
-                <button
-                  key={f.key}
-                  className={`tab${activeTab === f.key ? " active" : ""}`}
-                  onClick={() => setActiveTab(f.key)}
-                >
-                  {f.label}
-                </button>
-              ))}
-            </div>
-            <div className="tab-content">
-              <pre>{activeContent}</pre>
-              {count !== null && (
-                <div className={`char-count${isOver ? " over" : ""}`}>
-                  {count} {activeMeta.unit}
-                  {activeMeta.limit && ` / ${activeMeta.limit} limit`}
-                  {isOver && " -- over limit"}
-                </div>
-              )}
-            </div>
           </div>
         )}
 
@@ -1839,8 +1994,8 @@ function PipelinePage() {
             <FileText size={48} style={{ margin: "0 auto 1rem", opacity: 0.4 }} />
             <p style={{ fontSize: "0.9375rem", maxWidth: "28rem", margin: "0 auto" }}>
               Enter a Niskanen Center article URL above to generate a content
-              package with seven formats: tweet, LinkedIn, Bluesky, newsletter,
-              one-pager, op-ed, and media placement recommendations.
+              package with nine formats: tweet, LinkedIn, Bluesky, newsletter,
+              one-pager, op-ed, media placement recommendations, Instagram post, and Instagram story.
             </p>
           </div>
         )}

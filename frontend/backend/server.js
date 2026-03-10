@@ -140,6 +140,10 @@ app.get("/api/traces", async (req, res) => {
         order: "desc",
       }),
     });
+    if (!resp.ok) {
+      const errText = await resp.text().catch(() => "Unknown error");
+      return res.status(resp.status).json({ error: `LangSmith API error (${resp.status}): ${errText.slice(0, 200)}` });
+    }
     const data = await resp.json();
     const runs = (data.runs || data || []).map((r) => ({
       run_id: r.id,
@@ -170,6 +174,10 @@ app.get("/api/traces/:runId", async (req, res) => {
     const rootResp = await fetch(`${LANGSMITH_BASE}/runs/${req.params.runId}`, {
       headers: langsmithHeaders(),
     });
+    if (!rootResp.ok) {
+      const errText = await rootResp.text().catch(() => "Unknown error");
+      return res.status(rootResp.status).json({ error: `LangSmith API error (${rootResp.status}): ${errText.slice(0, 200)}` });
+    }
     const root = await rootResp.json();
 
     // Fetch child runs
@@ -178,6 +186,9 @@ app.get("/api/traces/:runId", async (req, res) => {
       headers: langsmithHeaders(),
       body: JSON.stringify({ trace_id: req.params.runId, limit: 50 }),
     });
+    if (!childResp.ok) {
+      return res.json({ root, children: [] });
+    }
     const childData = await childResp.json();
     const children = (childData.runs || childData || []).map((r) => ({
       id: r.id,
@@ -248,6 +259,16 @@ app.post("/api/annotate", async (req, res) => {
 // POST /api/assess — AI-generated assessment via Bedrock
 app.post("/api/assess", async (req, res) => {
   const { traceData, annotations, timeRange } = req.body;
+
+  // Validate that traceData actually contains runs before sending to Claude
+  const runs = traceData?.runs || [];
+  if (!traceData || traceData.error || runs.length === 0) {
+    return res.status(400).json({
+      error: traceData?.error
+        ? `Cannot generate assessment: ${traceData.error}`
+        : "No pipeline runs found. Run the pipeline at least once before generating an assessment.",
+    });
+  }
 
   const prompt = `You are an operations analyst for an AI content pipeline. Analyze the following pipeline trace data and annotations, then produce a structured assessment.
 

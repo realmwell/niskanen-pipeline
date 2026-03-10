@@ -7,7 +7,7 @@
  *   2. Audience Mapper   — target audiences, tone per format
  *   3. Citation Checker  — verify claims via Tavily web search
  *   4. Style Analyst     — writing patterns, rhetorical moves
- *   5. Content Writer    — 7 publication-ready formats
+ *   5. Content Writer    — 9 publication-ready formats
  *
  * Agents 2-4 run in parallel (fan-out) after the research analyst.
  * Agent 5 waits for all four intermediate outputs (fan-in).
@@ -24,7 +24,40 @@ function parseJSON(raw) {
   if (cleaned.startsWith("```")) {
     cleaned = cleaned.replace(/^```(?:json)?\n?/, "").replace(/\n?```$/, "");
   }
-  return JSON.parse(cleaned);
+  // Strip BOM and non-printable prefix characters
+  cleaned = cleaned.replace(/^[^\[{]+(?=[\[{])/, "");
+  try {
+    return JSON.parse(cleaned);
+  } catch (e1) {
+    // Fix common LLM JSON issues: unescaped control characters inside string values
+    // We need to only replace control chars inside JSON string literals, not structural ones
+    const fixed = cleaned.replace(/"(?:[^"\\]|\\.)*"/g, (match) => {
+      return match.replace(/[\x00-\x1f]/g, (ch) => {
+        if (ch === '\n') return '\\n';
+        if (ch === '\r') return '\\r';
+        if (ch === '\t') return '\\t';
+        return ' ';
+      });
+    });
+    try {
+      return JSON.parse(fixed);
+    } catch (e2) {
+      // Last resort: extract JSON object from output
+      const jsonMatch = cleaned.match(/\{[\s\S]*\}/);
+      if (jsonMatch) {
+        const extracted = jsonMatch[0].replace(/"(?:[^"\\]|\\.)*"/g, (match) => {
+          return match.replace(/[\x00-\x1f]/g, (ch) => {
+            if (ch === '\n') return '\\n';
+            if (ch === '\r') return '\\r';
+            if (ch === '\t') return '\\t';
+            return ' ';
+          });
+        });
+        return JSON.parse(extracted);
+      }
+      throw e2;
+    }
+  }
 }
 
 async function callBedrock(client, model, systemPrompt, userPrompt, maxTokens = 2048) {
@@ -291,6 +324,7 @@ Your writing voice:
 - No think-tank boilerplate: never write "in today's rapidly evolving landscape" or "it is crucial that"
 - No hashtags on social media, no emojis, no promotional adjectives like "groundbreaking" or "transformative"
 - When writing tweets, they should read like a knowledgeable person summarizing findings, not a marketing department
+- On Instagram, lead with the single most visual data point. Captions should read like a smart friend explaining the finding, not a marketing department.
 
 You do NOT inflate significance. You do NOT use phrases like "a testament to," "serves as," "highlights the importance of," or "underscores." You write like someone who assumes the reader is smart and busy.`;
 
@@ -319,36 +353,59 @@ ${JSON.stringify(style, null, 2)}
 
 ---
 
-Generate ALL SEVEN formats below. Reference actual findings and data from the research analysis. Match the tone from the audience mapping. Only cite claims the fact-checker verified. Match the writing style described in the style patterns.
+Generate ALL NINE formats below. Reference actual findings and data from the research analysis. Match the tone from the audience mapping. Only cite claims the fact-checker verified. Match the writing style described in the style patterns.
 
-Return valid JSON with exactly these keys:
+Return valid JSON with exactly these keys (generate them in this order):
 
-1. "twitter_post": Under 280 characters. Lead with the most striking finding. Reference @NiskanenCenter. No hashtags.
+1. "twitter_post": Under 280 characters. Lead with the single most striking finding or number. Reference @NiskanenCenter. No hashtags, no emojis.
 
-2. "linkedin_post": 3-5 paragraphs. Open with the problem, then findings, then proposals. Use specific numbers from the research analysis.
+2. "full_oped": 700-900 word op-ed. THIS IS THE LONGEST FORMAT — write it in full. Structure:
+   - LEDE: Open with a vivid scene, counterintuitive claim, or striking juxtaposition — not a throat-clearing summary.
+   - THESIS: State a provocative, specific position within the first 3 paragraphs. This is an argument, not a report.
+   - BODY: Build 3 distinct arguments, each anchored by evidence from the research analysis. Use transitions that advance the argument.
+   - "TO BE SURE" PARAGRAPH: Acknowledge the strongest counterargument head-on, then explain why your position still holds. This is what separates credible op-eds from advocacy pieces.
+   - KICKER: Circle back to the lede image or scene. End with a specific, actionable policy ask — not a vague call to action.
+   - After the op-ed text, add: "SUGGESTED TARGETS: [name 2-3 specific publications where this piece would fit, with reasoning]"
 
-3. "bluesky_post": Under 300 characters. Different framing from the tweet.
+3. "linkedin_post": 3-5 paragraphs. Open with the structural problem, then walk through specific findings with numbers, then close with concrete proposals. Use line breaks between paragraphs.
 
-4. "newsletter_paragraph": Under 165 words. Summarize what we published, why it matters, and where to find it.
+4. "bluesky_post": Under 300 characters. Use a different angle from the tweet — if the tweet leads with data, Bluesky should lead with the policy implication, or vice versa.
 
-5. "congressional_one_pager": Formatted briefing:
-   - Title in ALL CAPS
-   - "The Problem" section with bullet points using specific data
-   - "The Evidence" section with bullet points
-   - "The Proposal" / "Key Recommendations" section with bullet points
-   - "Bottom line:" single sentence
+5. "newsletter_paragraph": Under 165 words. Structure as: HOOK (1 sentence with the most striking fact or statistic) -> CONTEXT (1-2 sentences on why this matters now, tied to current legislative or news cycle) -> EVIDENCE (1 sentence with a specific data point from the research) -> CTA (1 sentence directing reader to the full piece, with a placeholder hyperlink like [Read the full analysis]). Model this on Brookings Brief or Atlantic Council newsletter style — dense with information, no fluff.
 
-6. "full_oped": 500-800 word op-ed. Open with a concrete observation. Build the argument using evidence from the research analysis. End with a specific policy ask.
+6. "congressional_one_pager": Return a JSON object with these keys:
+   - "title": Short descriptive title
+   - "the_ask": One sentence describing the specific legislative action (e.g., "Co-sponsor H.R. XXXX" or "Support funding for X program at Y level"). Be concrete.
+   - "the_problem": Array of 3-4 bullet strings using district-level impact framing where possible. Lead each bullet with a number or dollar amount.
+   - "the_evidence": Array of 3-4 bullet strings with verified claims from the fact-check results. Include source citations in parentheses where available.
+   - "key_recommendations": Array of 3 numbered actionable policy steps, each one sentence.
+   - "bottom_line": One sentence a staffer can repeat to their boss in an elevator.
+   - "contact": "Niskanen Center | niskanencenter.org"
 
-7. "media_outlet_recommendations": Formatted as:
-   - PRIMARY TARGETS (3 outlets with rationale tied to this paper's topic)
-   - SECONDARY TARGETS (3 outlets)
-   - BEAT REPORTERS (which beats to target)
-   - TIMING (what to align publication with)
+7. "media_outlet_recommendations": Return a JSON object with these keys:
+   - "primary_targets": Array of 3 objects, each with: "outlet" (publication name), "section" (specific section or vertical), "beat" (beat reporter's focus area), "pitch_angle" (1-sentence angle tailored to this outlet), "why" (why this outlet is a fit for this specific paper)
+   - "secondary_targets": Array of 3 objects with same structure
+   - "pitch_angles": Array of 3 objects, each with: "angle" (the story angle), "suggested_headline" (a headline an editor would actually run)
+   - "timing_hooks": Array of 2-3 strings naming specific legislative calendars, appropriations deadlines, upcoming hearings, or news pegs that create urgency
+   - "pitch_email_draft": A 3-4 sentence pitch email template that a comms staffer could send to a reporter. Include [REPORTER NAME] and [OUTLET] placeholders.
+
+8. "instagram_post": Return a JSON object with these keys:
+   - "visual_description": Describe the ideal visual — a single-stat hero graphic, a carousel concept, or a quote card. Specify layout, suggested colors/contrast, and text overlay content. Think Brookings Instagram or Urban Institute data viz style.
+   - "caption": 150-200 words. Front-load the most interesting finding in the first sentence (it gets truncated in feeds). Write like a smart friend explaining the finding, not a press release. End with a clear call to action.
+   - "hashtags": Array of 3-5 specific, relevant hashtags (policy-focused, not generic like #policy)
+   - "alt_text": Accessibility description of the proposed visual, under 125 characters
+   - "cta": What action should the viewer take? (e.g., "Link in bio for the full analysis" or "Save this for later")
+
+9. "instagram_story": Return a JSON object with these keys:
+   - "frames": Array of exactly 3 objects representing a 3-frame story sequence. Each frame has: "type" (one of "stat_callout", "context", "cta"), "text" (the text overlay for that frame), "visual_note" (brief description of background/design for that frame)
+   - "poll_question": An engaging binary poll question related to the finding (e.g., "Should Congress fund X? Yes / No")
+   - "link_sticker_text": Short text for the link sticker (e.g., "Read the research" or "Full analysis here")
+
+CRITICAL: Write ALL content in full. Never use placeholders like "[text would go here]". Every format must contain complete, publication-ready text.
 
 Return ONLY the JSON object, no markdown fencing, no explanation.`;
 
-  const raw = await callBedrock(client, model, NISKANEN_VOICE, prompt, 4096);
+  const raw = await callBedrock(client, model, NISKANEN_VOICE, prompt, 8000);
   const pkg = parseJSON(raw);
 
   const required = [
@@ -359,6 +416,8 @@ Return ONLY the JSON object, no markdown fencing, no explanation.`;
     "congressional_one_pager",
     "full_oped",
     "media_outlet_recommendations",
+    "instagram_post",
+    "instagram_story",
   ];
   for (const key of required) {
     if (!pkg[key]) throw new Error(`Content writer missing required field: ${key}`);

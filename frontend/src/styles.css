@@ -816,6 +816,12 @@ body {
 }
 .btn-outline:hover { background: var(--muted-bg); }
 
+.btn-sm {
+  padding: 4px 10px;
+  font-size: 0.78rem;
+  gap: 4px;
+}
+
 /* Status tracker */
 .status-card {
   background: var(--card-bg);
